@@ -14,5 +14,19 @@ export default defineConfig({
   },
   server: {
     port: 8080
+  },
+  build: {
+    emptyOutDir: true,
+    minify: false,
+
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          vendor: ['vue', 'vue-router', 'pinia']
+        }
+      }
+
+    }
   }
+
 });
