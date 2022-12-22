@@ -17,12 +17,17 @@ export default defineConfig({
   },
   build: {
     emptyOutDir: true,
-    minify: false,
+    minify: true,
+    outDir: 'docs',
 
     rollupOptions: {
       output: {
+        entryFileNames: 'assets/[name].js',
+        chunkFileNames: 'assets/[name].js',
+        assetFileNames: 'assets/[name].[ext]',
+
         manualChunks: {
-          vendor: ['vue', 'vue-router', 'pinia']
+          vendor: ['vue', 'vue-router', 'pinia'],
         }
       }
 
