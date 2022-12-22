@@ -4,6 +4,7 @@ import AdminView from "../views/AdminView.vue"
 import SettingsView from "../views/SettingsView.vue"
 
 import VueDocsView from "../views/other/VueDocsView.vue"
+import WordsView from "@/views/WordsView.vue";
 
 const router = createRouter({
   history: createWebHashHistory(import.meta.env.BASE_URL),
@@ -14,6 +15,13 @@ const router = createRouter({
       name: "home",
       component: HomeView,
     },
+    {
+      // will match anything starting with ` /words` and put it under `$route.params.link`
+      path: "/words/:link(.*)",
+      component: WordsView,
+      props: route => ({link: route.params.link})
+    },
+
     {
       path: "/admin",
       name: "admin",

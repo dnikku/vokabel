@@ -26,7 +26,7 @@ function parseLink(str: string): any {
 }
 
 /**
- * Converts a markdown index into an javascript array
+ * Converts a markdown index into a  javascript array
  * @param content
  */
 export function parseIndex(content: string)
@@ -36,7 +36,6 @@ export function parseIndex(content: string)
         .split(/\r?\n/) // split by newline
         .map(p => p.trim())
         .filter(p => p.length > 0) // remove empty lines
-
 
     let matchName = lines.find(p => p.startsWith("##"))
     let name = matchName ? matchName.substring(2).trim() : ""
@@ -49,13 +48,11 @@ export function parseIndex(content: string)
         .map(p => parseLink(p[0]))
         .filter(p => p != null)
 
-
     return { name, links }
-
 }
 
 /**
- * Converts a markdown vocabulary into an javascript object.
+ * Converts a markdown vocabulary into a  javascript object.
  * @param content 
  */
 export function parseVocabulary(content: string)
@@ -65,7 +62,6 @@ export function parseVocabulary(content: string)
         .split(/\r?\n/) // split by newline
         .map(p => p.trim())
         .filter(p => p.length > 0) // remove empty lines
-
 
     let matchName = lines.find(p => p.startsWith("##"))
     let name = matchName ? matchName.substring(2).trim() : ""
@@ -119,16 +115,62 @@ export const useMarkdownStore = defineStore('markdown', () => {
      */
     async function loadNode(node: WordsIndex) {
         if (node.isFetched) {
-            // console.trace(`(fetchNode ${node.link}) => ignored(already fetched)`)
+            console.debug(`(fetchNode ${node.link}) => ignored(already fetched)`)
             return
         }
         await fetchNode(node)
 
-        if (node.children) {
-            for (let child of node.children) {
-                await fetchNode(child)
+        for (let child of (node.children || [])) {
+            await fetchNode(child)
+        }
+    }
+
+    /**
+     *  find the node that mach provided link, starting from root node
+     * @param link
+     */
+    async function findNode(link: string) : Promise<WordsIndex | null>  {
+        await loadNode(root.value)
+
+        let found: WordsIndex | null = null;
+
+        function search(node: WordsIndex) {
+            if (found) return
+
+            if (node.link == link) {
+                found = node
+                return
+            }
+
+            for (let child of (node.children || [])) {
+                search(child)
             }
         }
+
+        search(root.value)
+        return found
+    }
+
+    /**
+     * get words from provided node and recursively to all children
+     * @param node
+     */
+    function getWords(node: WordsIndex): Word[] {
+        let arr: Word[] = []
+
+        function recur(node: WordsIndex) {
+            if (node.words) {
+                arr = [...arr, ...node.words]
+            }
+            console.debug(`arr:  :node '${node.link}'`, arr)
+
+            for (let child of (node.children || [])) {
+                recur(child)
+            }
+        }
+
+        recur(node)
+        return arr
     }
 
     // schedule load root async
@@ -136,5 +178,7 @@ export const useMarkdownStore = defineStore('markdown', () => {
 
     return {
         root,
+        findNode,
+        getWords
     }
 })

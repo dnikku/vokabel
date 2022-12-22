@@ -1,6 +1,6 @@
 <template>
   <div class="level-0">
-    <a href="#"> {{ node.name }} </a>
+    <router-link :to="'/words/' + node.link"> {{ node.name }}</router-link>
 
     <div class="level-0 level-1">
       <MySelf :node="child" v-for="child in node.children"/>
