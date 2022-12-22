@@ -1,6 +1,9 @@
-import { createRouter, createWebHistory } from "vue-router";
-import HomeView from "../views/HomeView.vue";
-import AboutView from "../views/AboutView.vue";
+import { createRouter, createWebHistory } from "vue-router"
+import HomeView from "../views/HomeView.vue"
+import AdminView from "../views/AdminView.vue"
+import SettingsView from "../views/SettingsView.vue"
+
+import VueDocsView from "../views/other/VueDocsView.vue"
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -11,9 +14,19 @@ const router = createRouter({
       component: HomeView,
     },
     {
-      path: "/about",
-      name: "about",
-      component: AboutView,
+      path: "/admin",
+      name: "admin",
+      component: AdminView,
+    },
+    {
+      path: "/settings",
+      name: "settings",
+      component: SettingsView,
+    },
+    {
+      path: "/vue-docs",
+      name: "vue-docs",
+      component: VueDocsView,
     },
   ],
 });

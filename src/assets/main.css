@@ -1,35 +1,52 @@
-@import './base.css';
-
 #app {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-
-  font-weight: normal;
-}
-
-a,
-.green {
-  text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
-  transition: 0.4s;
-}
-
-@media (hover: hover) {
-  a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
-  }
-}
-
-@media (min-width: 1024px) {
-  body {
     display: flex;
-    place-items: center;
-  }
+    flex-direction: column;
 
-  #app {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 0 2rem;
-  }
+    /*padding: 10px 300px;*/
+
+    background-color: #ded;
+}
+
+#my-content {
+    display: flex;
+    padding: 0.5em;
+
+    /* for debugging purpose */
+    border: 2px solid red;
+}
+
+#my-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 0.5em;
+    padding-top: 1em;
+    background-color: #deb;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    gap: 1.5em;
+
+    background-color: #deb;
+}
+
+a.menu-link {
+    color: black;
+    padding: .5em .1em;
+}
+a.menu-link:hover {
+    background-color: #ccc;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+a:hover {
+    font-weight: bold;
+    text-decoration: underline;
 }
