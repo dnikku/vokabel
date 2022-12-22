@@ -1,9 +1,9 @@
 <template>
   <div class="level-0">
-    <router-link :to="'/words/' + node.link"> {{ node.name }}</router-link>
+    <router-link :to="'/words/' + nodeTyped.link"> {{ nodeTyped.name }}</router-link>
 
     <div class="level-0 level-1">
-      <MySelf :node="child" v-for="child in node.children"/>
+      <MySelf :node="child" v-for="child in nodeTyped.children"/>
     </div>
 
   </div>
@@ -36,14 +36,14 @@ export default defineComponent( {
     node: Object
   },
 
-  setup() {
-  },
-
-  mounted() {
-    // @ts-ignore
-    let node = this.node as WordsIndex
-
-    // console.trace(`(WordsIndex mounted '${node?.link}') => done.`)
+  computed: {
+    /**
+     *  make typescript happy, :)
+     */
+    nodeTyped() : WordsIndex {
+      return this.node as WordsIndex
+    }
   }
+
 })
 </script>
