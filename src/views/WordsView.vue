@@ -1,13 +1,11 @@
 <template>
   <div class="words">
-    <span>link: {{ link }}</span>
-    <span>name: {{ name }}</span>
+    <span><a href="#" @click="openLink" :title="link" >{{ name }}</a></span>
 
     <table>
       <thead>
       <tr>
         <th>Text</th>
-        <th>IPE</th>
         <th>Translation</th>
       </tr>
       </thead>
@@ -15,7 +13,6 @@
       <tbody v-for="word of words">
         <tr>
           <td>{{ word.text }}</td>
-          <td>{{ word.phonetic }}</td>
           <td>{{ word.translation }}</td>
         </tr>
       </tbody>
@@ -58,23 +55,31 @@ export default defineComponent({
 
       findNode: markdown.findNode,
       getWords: markdown.getWords,
+      getAbsoluteUrl: markdown.getAbsoluteUrl
     }
   },
 
   async mounted() {
-    console.debug(`(words :link '${this.link}') => ...`)
-
     try {
       let node = await this.findNode(this.link as string)
-      if (node == null) return
-      console.debug(`(words-0 :link '${this.link}') => `, node)
+      this.name = node?.name || "N/A"
 
-      this.name = node.name || "N/A"
-      this.words = this.getWords(node)
-
-      console.debug(`(words :link '${this.link}') => `, this.words)
+      if (node != null) {
+        this.words = this.getWords(node)
+      }
     } catch (err) {
       console.error(`(findNode '${this.link}) => failed(${err})'`)
+    }
+  },
+
+  methods: {
+    openLink() {
+      let url = this.getAbsoluteUrl(this.link as string)
+
+      // see: https://stackoverflow.com/questions/4907843/open-a-url-in-a-new-tab-and-not-a-new-window
+
+      // @ts-ignore
+      window.open(url, '_blank').focus()
     }
   }
 
