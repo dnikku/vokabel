@@ -15,10 +15,8 @@ import HelloWorld from "./components/others/HelloWorld.vue";
   </div>
 
   <div id="my-footer">
-    <span id="my-copywrite">&copy; 2022 - present dnikku</span>
-
-    <a href="https://github.com/dnikku/vokabel" title="Source code">GitHub</a>
-
-    <RouterLink to="/vue-docs">Vue Docs</RouterLink>
+    <span id="my-copywrite">&copy; 2022 - present
+      <a href="https://github.com/dnikku/vokabel" title="Source code">dnikku</a>
+    </span>
   </div>
 </template>
