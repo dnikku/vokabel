@@ -77,37 +77,85 @@ export function parseVocabulary(content: string)
 }
 
 
+const baseUrl = "https://raw.githubusercontent.com/dnikku/vokabel/main/data"
+
+async function fetchNode(node: WordsIndex, fetchText: (url: string) => Promise<string>) {
+    if (node.isIndex) {
+        let text = await fetchText(`${baseUrl}/${node.link}`)
+        let index = parseIndex(text)
+        node.name = index.name
+        node.isFetched = true
+
+        let dirPath = node.link.replace("/index.md", "")
+        node.children = index.links
+            .map(p => ({
+                ...p,
+                link: `${dirPath}/${p.link}`,
+                isIndex: p.link.endsWith("/index.md"),
+                isFetched: false
+            }))
+    } else {
+        let text = await fetchText(`${baseUrl}/${node.link}`)
+        let index = parseVocabulary(text)
+
+        node.name = index.name ? index.name : node.name
+        node.words = index.words
+        node.isFetched = true
+    }
+}
+
+/**
+ * get words from provided node and recursively to all children
+ * @param node
+ */
+function getWords(node: WordsIndex): Word[] {
+    let arr: Word[] = []
+
+    function recur(node: WordsIndex) {
+        if (node.words) {
+            arr = [...arr, ...node.words]
+        }
+        console.debug(`arr:  :node '${node.link}'`, arr)
+
+        for (let child of (node.children || [])) {
+            recur(child)
+        }
+    }
+
+    recur(node)
+    return arr
+}
+
+/**
+ *  find the node that mach provided link, starting from start node
+ *  @param start
+ * @param link
+ */
+function findNode(start: WordsIndex, link: string) : WordsIndex | null  {
+    let found: WordsIndex | null = null;
+
+    function search(node: WordsIndex) {
+        if (found) return
+
+        if (node.link == link) {
+            found = node
+            return
+        }
+
+        for (let child of (node.children || [])) {
+            search(child)
+        }
+    }
+
+    search(start)
+    return found
+}
+
+
 export const useMarkdownStore = defineStore('markdown', () => {
     const fetcher = useFetchStore()
 
-    const baseUrl = "https://raw.githubusercontent.com/dnikku/vokabel/main/data"
-
     const root = ref({ name: "", link: "07/index.md", isIndex: true, isFetched: false })
-
-    async function fetchNode(node: WordsIndex) {
-        if (node.isIndex) {
-            let text = await fetcher.fetchText(`${baseUrl}/${node.link}`)
-            let index = parseIndex(text)
-            node.name = index.name
-            node.isFetched = true
-            
-            let dirPath = node.link.replace("/index.md", "")
-            node.children = index.links
-                .map(p => ({
-                    ...p,
-                    link: `${dirPath}/${p.link}`,
-                    isIndex: p.link.endsWith("/index.md"),
-                    isFetched: false
-                }))
-        } else {
-            let text = await fetcher.fetchText(`${baseUrl}/${node.link}`)
-            let index = parseVocabulary(text)
-
-            node.name = index.name ? index.name : node.name
-            node.words = index.words
-            node.isFetched = true
-        }
-    }
 
     /**
      * loads recursive all not fetched nodes.
@@ -118,67 +166,22 @@ export const useMarkdownStore = defineStore('markdown', () => {
             console.debug(`(fetchNode ${node.link}) => ignored(already fetched)`)
             return
         }
-        await fetchNode(node)
+        await fetchNode(node, fetcher.fetchText)
 
         for (let child of (node.children || [])) {
-            await fetchNode(child)
+            await loadNode(child)
         }
     }
 
-    /**
-     *  find the node that mach provided link, starting from root node
-     * @param link
-     */
-    async function findNode(link: string) : Promise<WordsIndex | null>  {
+    async function getRoot() : Promise<WordsIndex> {
         await loadNode(root.value)
-
-        let found: WordsIndex | null = null;
-
-        function search(node: WordsIndex) {
-            if (found) return
-
-            if (node.link == link) {
-                found = node
-                return
-            }
-
-            for (let child of (node.children || [])) {
-                search(child)
-            }
-        }
-
-        search(root.value)
-        return found
+        return root.value
     }
-
-    /**
-     * get words from provided node and recursively to all children
-     * @param node
-     */
-    function getWords(node: WordsIndex): Word[] {
-        let arr: Word[] = []
-
-        function recur(node: WordsIndex) {
-            if (node.words) {
-                arr = [...arr, ...node.words]
-            }
-            console.debug(`arr:  :node '${node.link}'`, arr)
-
-            for (let child of (node.children || [])) {
-                recur(child)
-            }
-        }
-
-        recur(node)
-        return arr
-    }
-
-    // schedule load root async
-    loadNode(root.value).then()
 
     return {
         root,
-        findNode,
+        getRoot,
+        findNode: async (link: string)=>  findNode(await getRoot(), link),
         getWords
     }
 })
