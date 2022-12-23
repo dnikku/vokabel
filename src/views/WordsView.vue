@@ -1,6 +1,9 @@
 <template>
   <div class="words">
-    <span><a href="#" @click="openLink" :title="link" >{{ name }}</a></span>
+    <div class="name">
+      <h3>{{ name }}</h3>
+      <a href="#" @click="openLink" :title="link"> open </a>
+    </div>
 
     <table>
       <thead>
@@ -12,8 +15,14 @@
 
       <tbody v-for="word of words">
         <tr>
-          <td>{{ word.text }}</td>
+          <td class="text">
+            {{ word.text }}
+            <span v-if="word.phonetic">[{{ word.phonetic }}]</span>
+          </td>
           <td>{{ word.translation }}</td>
+        </tr>
+        <tr v-if="word.sentence">
+          <td colspan="2">{{ word.sentence }}</td>
         </tr>
       </tbody>
 
@@ -26,6 +35,18 @@
   display: flex;
   flex-direction: column;
 }
+
+.name {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+}
+
 </style>
 
 <script lang="ts">
