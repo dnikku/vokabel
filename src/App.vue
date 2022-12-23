@@ -5,13 +5,23 @@ import HelloWorld from "./components/others/HelloWorld.vue";
 
 <template>
   <div class="menu">
-    <RouterLink class="menu-link" to="/">VOKABEL</RouterLink>
-    <RouterLink class="menu-link" to="/admin">Admin</RouterLink>
-    <RouterLink class="menu-link" to="/settings">@you</RouterLink>
+    <router-link class="menu-link" to="/">VOKABEL</router-link>
+    <router-link class="menu-link" to="/admin">Admin</router-link>
+    <router-link class="menu-link" to="/settings">@you</router-link>
   </div>
 
   <div id="my-content">
-    <RouterView />
+    <!-- see: https://stackoverflow.com/questions/70465526/unable-to-mark-vue-setup-function-as-async -->
+    <router-view v-slot="{ Component }">
+      <suspense timeout="0">
+        <template #default>
+          <component :is="Component"></component>
+        </template>
+        <template #fallback>
+          <div>Loading...</div>
+        </template>
+      </suspense>
+    </router-view>
   </div>
 
   <div id="my-footer">

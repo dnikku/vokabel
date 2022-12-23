@@ -21,12 +21,9 @@ import {storeToRefs} from "pinia";
 export default {
   components: {WordsIndex},
 
-  setup() {
+  async setup() {
     const markdown = useMarkdownStore()
-    const {root} = storeToRefs(markdown)
-
-    // simulate async root loading
-    markdown.getRoot().then()
+    let root = await markdown.getRoot()
 
     return {root}
   }
