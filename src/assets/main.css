@@ -11,8 +11,8 @@
     display: flex;
     padding: 0.5em;
 
-    /* for debugging purpose */
-    border: 2px solid red;
+    /* for debugging purpose
+    border: 2px solid red; */
 }
 
 #my-footer {
@@ -49,4 +49,22 @@ a {
 a:hover {
     font-weight: bold;
     text-decoration: underline;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table, tr {
+    border: 1px solid #aee;
+}
+td, th {
+    padding: 0.5em;
+}
+th {
+    text-align: left;
+}
+tbody:nth-child(even) {
+    background-color: #eed;
 }

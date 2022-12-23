@@ -79,6 +79,12 @@ export function parseVocabulary(content: string)
 
 const baseUrl = "https://raw.githubusercontent.com/dnikku/vokabel/main/data"
 
+const baseUrlReadable = "https://github.com/dnikku/vokabel/blob/main/data/"
+
+function getAbsoluteUrl(url: string) {
+    return `${baseUrlReadable}/${url}`
+}
+
 async function fetchNode(node: WordsIndex, fetchText: (url: string) => Promise<string>) {
     if (node.isIndex) {
         let text = await fetchText(`${baseUrl}/${node.link}`)
@@ -182,6 +188,7 @@ export const useMarkdownStore = defineStore('markdown', () => {
         root,
         getRoot,
         findNode: async (link: string)=>  findNode(await getRoot(), link),
-        getWords
+        getWords,
+        getAbsoluteUrl
     }
 })
