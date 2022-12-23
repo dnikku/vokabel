@@ -26,7 +26,7 @@ export const useFetchStore = defineStore('fetch', () => {
             }
 
             let content = await response.text()
-            console.debug(`(fetchContent ${url}) => \n${content}`)
+            //console.debug(`(fetchContent ${url}) => \n${content}`)
             return content
         } finally {
             fetching.value = false

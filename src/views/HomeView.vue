@@ -1,9 +1,6 @@
 <template>
   <div class="home">
     <WordsIndex :node="root"/>
-
-    <div>{{ root }}</div>
-
   </div>
 </template>
 
@@ -17,10 +14,9 @@
 </style>
 
 <script lang="ts">
-import {storeToRefs} from "pinia"
-
 import {useMarkdownStore} from "@/stores/markdown"
 import WordsIndex from "@/components/WordsIndex.vue"
+import {storeToRefs} from "pinia";
 
 export default {
   components: {WordsIndex},
@@ -28,6 +24,9 @@ export default {
   setup() {
     const markdown = useMarkdownStore()
     const {root} = storeToRefs(markdown)
+
+    // simulate async root loading
+    markdown.getRoot().then()
 
     return {root}
   }
