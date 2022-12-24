@@ -20,7 +20,7 @@ export const useFetchStore = defineStore('fetch', () => {
             let stubContent = tryStubUrl(url)
             if (stubContent) return stubContent
 
-            let response = await fetch(url)
+            let response = await fetch(url, {cache: "no-store"})
             if (response.status != 200) {
                 throw new Error(`Fetch ${url} failed (http ${response.status})`);
             }
