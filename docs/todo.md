@@ -11,3 +11,5 @@
 1. VOK-09: Add quiz, randomize words, save learned words (or diff strategies)
 1. VOK-10: Make UI responsive (Mobile vs Desktop/Tablet)
 1. ~~VOK-11:~~ disable caching on fetch 
+1. VOK-12: interpret `<br/>`, `*` on text rendering
+1. VOK-13: extract table (csv) from image ... see https://pyimagesearch.com/2022/02/28/multi-column-table-ocr/
