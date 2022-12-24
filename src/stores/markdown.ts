@@ -4,9 +4,10 @@ import { useFetchStore } from "./fetch"
 
 export type Word = {
     text: string
-    phonetic: string
-    translation: string
-    sentence: string
+    text_tr: string
+    ipa: string
+    phrase: string
+    phrase_tr: string
 }
 
 export type WordsIndex = {
@@ -71,7 +72,12 @@ export function parseVocabulary(content: string)
         .slice(2) // skip header and separator
         .map(p => p.split("|").map(p => p.trim()).slice(1))
         .filter(p => p.length > 0 && p[0].length > 0)
-        .map(p => ({ text: p[0], phonetic: p[1], translation: p[2], sentence: p[3] }))
+        .map(p => ({
+            text: p[0],
+            text_tr: p.length > 1 ? p[1] : "",
+            ipa: p.length > 2 ? p[2] : "",
+            phrase: p.length > 3 ? p[3] : "",
+            phrase_tr: p.length > 4 ? p[4] : "" }))
 
     return { name, words }
 }

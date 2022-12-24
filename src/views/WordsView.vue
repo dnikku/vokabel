@@ -17,12 +17,15 @@
         <tr>
           <td class="text">
             {{ word.text }}
-            <span v-if="word.phonetic">[{{ word.phonetic }}]</span>
+            <span v-if="word.ipa">[{{ word.ipa }}]</span>
           </td>
-          <td>{{ word.translation }}</td>
+          <td>{{ word.text_tr }}</td>
         </tr>
-        <tr v-if="word.sentence">
-          <td colspan="2">{{ word.sentence }}</td>
+        <tr v-if="word.phrase">
+          <td colspan="2">{{ word.phrase }}</td>
+        </tr>
+        <tr v-if="word.phrase_tr">
+          <td colspan="2">{{ word.phrase_tr }}</td>
         </tr>
       </tbody>
 

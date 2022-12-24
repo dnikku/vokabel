@@ -77,10 +77,10 @@ describe("parseVocabulary", () => {
         let content = `
   ## Ch 04 - Erdkunde
 
-  | Text       | Phonetic | Translation | Sentence |
-  |------------|----------|-------------|----------|
-  | time zone  |          | Zeitzone    |          |
-  | local time |          | Ortszeit    |          |
+  | EN         | DE       | IPA    | EN - Phrase | DE -Phrase |
+  |------------|----------|--------|-------------|------------|
+  | time zone  | Zeitzone |  taim  | Time zone?  | Zeitzone?  |
+  | local time | Ortszeit |        |             |            |
   `
 
         // Act
@@ -88,10 +88,19 @@ describe("parseVocabulary", () => {
 
         // Assert
         let expected = {
-            name: "Ch 04 - Erdkunde", words: [
-                {text: "time zone", phonetic: "", translation: "Zeitzone", sentence: ""},
-                {text: "local time", phonetic: "", translation: "Ortszeit", sentence: ""}
-            ]
+            name: "Ch 04 - Erdkunde", words: [{
+                text: "time zone",
+                text_tr: "Zeitzone",
+                ipa: "taim",
+                phrase: "Time zone?",
+                phrase_tr: "Zeitzone?"
+            }, {
+                text: "local time",
+                text_tr: "Ortszeit",
+                ipa: "",
+                phrase: "",
+                phrase_tr: ""
+            }]
         }
         expect(actual).toEqual(expected)
     })
@@ -146,40 +155,38 @@ describe("get root node", () => {
 
         fetcher.stubUrl(/.*\/07\/en\/words\.md/, `
     ## English
-    | EN     | IPA  | DE      | Sentence             |
-    |--------|------|---------|----------------------|
-    | offer  | 'ofe | Angebot | That's nice *offer*. |
-    | sword  |      | Schwert |                      |
+    | EN     | DE      | IPA  | EN - Phrase          | DE - Phrase |
+    |--------|---------|------|----------------------|-------------|
+    | offer  | Angebot | 'ofe | That's nice *offer*. |             |
+    | sword  | Schwert |      |                      |             |
     `)
 
         // Act
-        let root = await markdown.getRoot()
+        let actual = await markdown.getRoot()
 
         // Assert
-        let actual = {
-            name: root.name,
-            link: root.link,
-            children: root.children?.map(p => ({
-                name: p.name,
-                link: p.link,
-                words: p.words?.map(p => ({
-                    text: p.text,
-                    translation: p.translation
-                }))}))
-        }
-
         let expected = {
             name: "7. Klasse",
             link: "07/index.md",
+            isFetched: true,
+            isIndex: true,
             children: [{
                 name: "English",
                 link: "07/en/words.md",
+                isFetched: true,
+                isIndex: false,
                 words: [{
                     text: "offer",
-                    translation: "Angebot"
+                    text_tr: "Angebot",
+                    ipa: "'ofe",
+                    phrase: "That's nice *offer*.",
+                    phrase_tr: ""
                 }, {
                     text: "sword",
-                    translation: "Schwert"
+                    text_tr: "Schwert",
+                    ipa: "",
+                    phrase: "",
+                    phrase_tr: ""
                 }]
             }]
         }

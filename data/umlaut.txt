@@ -6,9 +6,8 @@ Char 	Unicode
 ß 		\u00df
 
 ------------------------------
-These accents are:
-L'accent aigu (é)
-L'accent grave (à, è, ù)
-L'accent circonflexe or "chapeau" (â, ê, î, ô, û)
-La cédille (ç)
-Le tréma (ë, ï, ü)
+ç, Ç – la cédille (the cedilla)
+é – l'accent aigu (the acute accent)
+â, ê, î, ô, û – l'accent circonflexe (the circumflex)
+à, è, ì, ò, ù – l'accent grave (the grave accent)
+ë, ï, ü – le tréma (the trema)
