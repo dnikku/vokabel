@@ -6,3 +6,7 @@
 1. ~~VOV-04:~~ Use suspense/async setup (see: https://stackoverflow.com/questions/70465526/unable-to-mark-vue-setup-function-as-async)
 1. ~~VOK-05:~~ Make table view visible (css table)
 1. ~~VOK-06:~~ Reorg markdown files, more generic
+1. VOK-07: Add css/vue animations
+1. VOK-08: Save changes in LocalStorage, see pinia examples
+1. VOK-09: Add quiz, randomize words, save learned words (or diff strategies)
+1. VOK-10: Make UI responsive (Mobile vs Desktop/Tablet)
