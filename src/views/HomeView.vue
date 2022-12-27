@@ -10,6 +10,8 @@
   border: 2px solid blue;
    */
 
+  width: 100%;
+
 }
 </style>
 

@@ -2,7 +2,9 @@
   <div class="words">
     <div class="name">
       <h3>{{ name }}</h3>
-      <a href="#" @click="openLink" :title="link"> open </a>
+      <a href="#" @click="openLink" :title="link">
+        <font-icon icon="fa-brands fa-markdown" size="2x" />
+      </a>
     </div>
 
     <table>
@@ -62,6 +64,7 @@ import {defineComponent, ref} from "vue"
 import {useMarkdownStore} from "@/stores/markdown"
 import type {Word} from "@/stores/markdown"
 import DecorateText from "@/components/DecorateText.vue";
+
 
 export default defineComponent({
   components: {

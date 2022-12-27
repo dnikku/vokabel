@@ -1,6 +1,14 @@
 <template>
   <div class="level-0">
-    <router-link :to="'/words/' + nodeTyped.link"> {{ nodeTyped.name }}</router-link>
+    <div class="line">
+      <router-link :to="'/words/' + nodeTyped.link">
+        <font-icon icon="fa-solid fa-graduation-cap" />
+        {{ nodeTyped.name }}
+      </router-link>
+      <router-link :to="'/words/' + nodeTyped.link">
+        <font-icon icon="fa-solid fa-list" />
+      </router-link>
+    </div>
 
     <div class="level-0 level-1">
       <MySelf :node="child" v-for="child in nodeTyped.children"/>
@@ -20,6 +28,13 @@
   padding-left: 1em;
 }
 
+.line {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 1em;
+}
+
 </style>
 
 <!--
@@ -28,9 +43,11 @@
 <script lang="ts">
 import {defineComponent} from 'vue'
 import type {WordsIndex} from "@/stores/markdown"
+import {FontIcon} from "@/assets/FontIcons";
 
 export default defineComponent( {
   name: "MySelf",
+  components: {FontIcon},
 
   props: {
     node: Object
