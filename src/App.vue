@@ -1,13 +1,8 @@
-<script setup lang="ts">
-import { RouterLink, RouterView } from "vue-router";
-import HelloWorld from "./components/others/HelloWorld.vue";
-</script>
-
 <template>
   <div class="menu">
-    <router-link class="menu-link" to="/">VOKABEL</router-link>
-    <router-link class="menu-link" to="/admin">Admin</router-link>
-    <router-link class="menu-link" to="/settings">@you</router-link>
+    <router-link class="menu-link" to="/"><font-icon icon="fa-solid fa-house" /> VOKABEL</router-link>
+    <router-link class="menu-link" to="/admin"><font-icon icon="fa-solid fa-gear" /> Admin</router-link>
+    <router-link class="menu-link" to="/settings"><font-icon icon="fa-solid fa-user" /> me</router-link>
   </div>
 
   <div id="my-content">
@@ -25,8 +20,16 @@ import HelloWorld from "./components/others/HelloWorld.vue";
   </div>
 
   <div id="my-footer">
-    <span id="my-copywrite">&copy; 2022 - present
-      <a href="https://github.com/dnikku/vokabel" title="Source code">dnikku</a>
+    <span id="my-copywrite">&copy; 2022 - present dnikku
+      <a href="https://github.com/dnikku/vokabel" title="Source code">
+        <font-icon icon="fa-brands fa-github" />
+      </a>
     </span>
   </div>
 </template>
+
+
+<script setup lang="ts">
+import { RouterLink, RouterView } from "vue-router";
+</script>
+
