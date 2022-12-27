@@ -82,6 +82,60 @@ export function parseVocabulary(content: string)
     return { name, words }
 }
 
+/**
+ * Split the text in an array of commands like:
+ *  ` {br: true}, {bold: true, text: 'one'}, {text: 'three'}`
+ */
+export function chopText(content: string): Array<{bold?: boolean, br?: boolean, text?: string}> {
+    var result = []
+
+    let arr = content
+        .split(/<br\s*\/>/)
+        .map(p => p.trim())
+        .filter(p => p.length > 0)
+
+    function addChop(str: string, bold: boolean) {
+        str = str.trim()
+        if (str.length > 0) {
+            if (bold) {
+                result.push({bold: true, text: str})
+            } else {
+                result.push({text: str})
+            }
+        }
+    }
+
+    for (const line of arr) {
+        if (result.length > 0) {
+            result.push({br: true})
+        }
+
+        let index = 0
+        while (index < line.length) {
+            let first = line.indexOf('*', index)
+            if (first == -1) break;
+
+            let second = line.indexOf('*', first + 1)
+            if (second == -1) second = line.length;
+
+            if (index < first - 1) {
+                addChop(line.substring(index, first - 1), false)
+            }
+
+            addChop(line.substring(first + 1, second), true)
+
+            index = second + 1
+        }
+
+        if (index < line.length) {
+            addChop(line.substring(index, line.length), false)
+        }
+    }
+
+    console.debug("result", result)
+    return result
+}
+
 
 const baseUrl = "https://raw.githubusercontent.com/dnikku/vokabel/main/data"
 

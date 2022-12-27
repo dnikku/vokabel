@@ -1,6 +1,6 @@
 import {describe, it, expect, beforeEach} from "vitest"
 import {setActivePinia, createPinia} from 'pinia'
-import {parseIndex, parseVocabulary, useMarkdownStore} from "./markdown"
+import {chopText, parseIndex, parseVocabulary, useMarkdownStore} from "./markdown"
 import {useFetchStore} from "@/stores/fetch";
 
 describe("parseIndex", () => {
@@ -103,6 +103,49 @@ describe("parseVocabulary", () => {
             }]
         }
         expect(actual).toEqual(expected)
+    })
+
+})
+
+describe("chop text", () => {
+    it("empty text => empty text", () => {
+        // Act
+        var actual = chopText("")
+
+        // Assert
+        expect(actual).toEqual([])
+    })
+
+    it("<br/> or <br /> splits", () => {
+        // Act
+        var actual = chopText("one<br/> two <br /> three")
+
+        // Assert
+        expect(actual).toEqual([{text: "one"}, {br: true}, {text: "two"}, {br: true}, {text: "three"}])
+    })
+
+    it("<br/> at begin or end is ignored", () => {
+        // Act
+        var actual = chopText("<br/>two<br />")
+
+        // Assert
+        expect(actual).toEqual([{text: "two"}])
+    })
+
+    it("two consecutive * marks a bold text", () => {
+        // Act
+        var actual = chopText("one *two 2* three")
+
+        // Assert
+        expect(actual).toEqual([{text: "one"}, {bold: true, text: "two 2"}, {text: "three"}])
+    })
+
+    it("missing * marks a bold text", () => {
+        // Act
+        var actual = chopText("one *two* *three")
+
+        // Assert
+        expect(actual).toEqual([{text: "one"}, {bold: true, text: "two"}, {bold: true, text: "three"}])
     })
 
 })
