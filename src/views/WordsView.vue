@@ -16,16 +16,16 @@
       <tbody v-for="word of words">
         <tr>
           <td class="text">
-            {{ word.text }}
+            <decorate-text :value="word.text" />
             <span v-if="word.ipa">[{{ word.ipa }}]</span>
           </td>
-          <td>{{ word.text_tr }}</td>
+          <td><decorate-text :value="word.text_tr" /></td>
         </tr>
         <tr v-if="word.phrase">
-          <td colspan="2">{{ word.phrase }}</td>
+          <td colspan="2"><decorate-text :value="word.phrase" /></td>
         </tr>
         <tr v-if="word.phrase_tr">
-          <td colspan="2">{{ word.phrase_tr }}</td>
+          <td colspan="2"><decorate-text :value="word.phrase_tr" /></td>
         </tr>
       </tbody>
 
@@ -61,8 +61,13 @@ import {defineComponent, ref} from "vue"
 
 import {useMarkdownStore} from "@/stores/markdown"
 import type {Word} from "@/stores/markdown"
+import DecorateText from "@/components/DecorateText.vue";
 
 export default defineComponent({
+  components: {
+    DecorateText: DecorateText
+  },
+
   props: {
     link: String
   },
