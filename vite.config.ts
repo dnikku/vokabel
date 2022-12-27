@@ -15,8 +15,9 @@ export default defineConfig({
   server: {
     port: 8080
   },
+
   build: {
-    emptyOutDir: true,
+    emptyOutDir: false,
     minify: true,
     outDir: 'docs',
 
