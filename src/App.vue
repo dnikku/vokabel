@@ -1,8 +1,8 @@
 <template>
   <div class="menu">
-    <router-link class="menu-link" to="/">VOKABEL</router-link>
-    <router-link class="menu-link" to="/admin">Admin</router-link>
-    <router-link class="menu-link" to="/settings">@you</router-link>
+    <router-link class="menu-link" to="/"><font-icon icon="fa-solid fa-house" /> VOKABEL</router-link>
+    <router-link class="menu-link" to="/admin"><font-icon icon="fa-solid fa-gear" /> Admin</router-link>
+    <router-link class="menu-link" to="/settings"><font-icon icon="fa-solid fa-user" /> me</router-link>
   </div>
 
   <div id="my-content">
