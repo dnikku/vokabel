@@ -1,9 +1,9 @@
 import {defineStore} from "pinia"
-import {ref} from "vue"
+import { useStorage } from '@vueuse/core'
 
 
 export const useSettingsStore = defineStore('settings', () => {
-    const states = ref({} as any)
+    const states = useStorage('settings', {} as any)
 
     function toggleShowResolution() {
         if (states.value.resolution != null) {
