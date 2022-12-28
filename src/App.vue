@@ -1,11 +1,13 @@
 <template>
-  <div class="menu">
-    <router-link class="menu-link" to="/"><font-icon icon="fa-solid fa-house" /> VOKABEL</router-link>
-    <router-link class="menu-link" to="/admin"><font-icon icon="fa-solid fa-gear" /> Admin</router-link>
-    <router-link class="menu-link" to="/settings"><font-icon icon="fa-solid fa-user" /> me</router-link>
+  <div id="my-header">
+    <div class="menu">
+      <router-link class="menu-link" to="/"><font-icon icon="fa-solid fa-house" /> VOKABEL</router-link>
+      <router-link class="menu-link" to="/admin"><font-icon icon="fa-solid fa-gear" /> Admin</router-link>
+      <router-link class="menu-link" to="/settings"><font-icon icon="fa-solid fa-user" /> me</router-link>
+    </div>
   </div>
 
-  <div id="my-content">
+  <div id="my-body">
     <!-- see: https://stackoverflow.com/questions/70465526/unable-to-mark-vue-setup-function-as-async -->
     <router-view v-slot="{ Component }">
       <suspense timeout="0">

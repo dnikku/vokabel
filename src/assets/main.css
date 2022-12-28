@@ -7,13 +7,20 @@
     background-color: #ded;
 }
 
-#my-content {
+#my-body {
     display: flex;
-    padding: 0.5em;
+    padding: 1em 0.5em 0.5em 0.5em;
 
     /* for debugging purpose
     border: 2px solid red; */
 }
+
+.content {
+    /* for debugging purpose
+    border: 1px solid blue;*/
+}
+
+
 
 #my-footer {
     display: flex;
@@ -24,22 +31,22 @@
     background-color: #deb;
 }
 
-.menu {
-    display: flex;
-    flex-direction: row;
-    gap: 1.5em;
+#my-header {
 
     background-color: #deb;
 }
 
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0.2em;
+}
+
+
 a.menu-link {
     color: black;
-    padding: .5em .1em;
-}
-a.menu-link:hover {
-    background-color: #ccc;
-    font-weight: normal;
-    text-decoration: none;
+    padding: .5em .5em;
 }
 
 a {
@@ -67,4 +74,26 @@ th {
 }
 tbody:nth-child(even) {
     background-color: #eed;
+}
+
+
+@media (max-width: 799px) {
+    .content {
+        width: 100%;
+    }
+}
+@media (min-width: 800px) and (max-width: 1023px) {
+    .content {
+        width: 800px;
+    }
+}
+@media (min-width: 1024px) {
+    .content {
+        width: 800px;
+        padding-left: 40px;
+    }
+    .menu {
+        width: 800px;
+        padding-left: 40px;
+    }
 }

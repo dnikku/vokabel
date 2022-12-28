@@ -1,19 +1,9 @@
 <template>
-  <div class="home">
+  <div class="content">
     <WordsIndex :node="root"/>
   </div>
 </template>
 
-<style>
-.home {
-  /* for debugging purpose
-  border: 2px solid blue;
-   */
-
-  width: 100%;
-
-}
-</style>
 
 <script lang="ts">
 import {useMarkdownStore} from "@/stores/markdown"

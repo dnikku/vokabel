@@ -1,37 +1,46 @@
 <template>
-  <div class="words">
-    <div class="name">
-      <h3>{{ name }}</h3>
-      <a href="#" @click="openLink" :title="link">
-        <font-icon icon="fa-brands fa-markdown" size="2x" />
-      </a>
-    </div>
+  <div class="content">
 
-    <table>
-      <thead>
-      <tr>
-        <th>Text</th>
-        <th>Translation</th>
-      </tr>
-      </thead>
+    <div class="words">
+      <div class="name">
+        <h3>{{ name }}</h3>
+        <a href="#" @click="openLink" :title="link">
+          <font-icon icon="fa-brands fa-markdown" size="2x"/>
+        </a>
+      </div>
 
-      <tbody v-for="word of words">
+      <table>
+        <thead>
+        <tr>
+          <th>Text</th>
+          <th>Translation</th>
+        </tr>
+        </thead>
+
+        <tbody v-for="word of words">
         <tr>
           <td class="text">
-            <decorate-text :value="word.text" />
+            <decorate-text :value="word.text"/>
             <span v-if="word.ipa">[{{ word.ipa }}]</span>
           </td>
-          <td><decorate-text :value="word.text_tr" /></td>
+          <td>
+            <decorate-text :value="word.text_tr"/>
+          </td>
         </tr>
         <tr v-if="word.phrase">
-          <td colspan="2"><decorate-text :value="word.phrase" /></td>
+          <td colspan="2">
+            <decorate-text :value="word.phrase"/>
+          </td>
         </tr>
         <tr v-if="word.phrase_tr">
-          <td colspan="2"><decorate-text :value="word.phrase_tr" /></td>
+          <td colspan="2">
+            <decorate-text :value="word.phrase_tr"/>
+          </td>
         </tr>
-      </tbody>
+        </tbody>
 
-    </table>
+      </table>
+    </div>
   </div>
 </template>
 
