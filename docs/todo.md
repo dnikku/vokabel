@@ -7,7 +7,7 @@
 1. ~~VOK-05:~~ Make table view visible (css table)
 1. ~~VOK-06:~~ Reorg markdown files, more generic
 1. VOK-07: Add css/vue animations
-1. VOK-08: Save changes in LocalStorage, see pinia examples
+1. ~~VOK-08:~~ Save changes in LocalStorage, see pinia examples
 1. VOK-09: Add quiz, randomize words, save learned words (or diff strategies)
 1. ~~VOK-10:~~ Make UI responsive (Mobile vs Desktop/Tablet)
 1. ~~VOK-11:~~ disable caching on fetch 
