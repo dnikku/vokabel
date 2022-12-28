@@ -13,3 +13,4 @@
 1. ~~VOK-11:~~ disable caching on fetch 
 1. ~~VOK-12:~~ interpret `<br/>`, `*` on text rendering
 1. VOK-13: extract table (csv) from image ... see https://pyimagesearch.com/2022/02/28/multi-column-table-ocr/
+1. VOK-14: re-analyze vendor.js size, why @fontawesome/vue-fontawesome is so big?
