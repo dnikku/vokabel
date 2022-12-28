@@ -22,16 +22,34 @@
   </div>
 
   <div id="my-footer">
-    <span id="my-copywrite">&copy; 2022 - present dnikku
-      <a href="https://github.com/dnikku/vokabel" title="Source code">
-        <font-icon icon="fa-brands fa-github" />
-      </a>
-    </span>
+    <span id="my-copywrite">&copy; 2022 - present dnikku</span>
+    <a href="https://github.com/dnikku/vokabel" title="Source code">
+      <font-icon icon="fa-brands fa-github" />
+    </a>
+    <span v-if="resolution">{{ resolution }}</span>
   </div>
 </template>
 
 
-<script setup lang="ts">
-import { RouterLink, RouterView } from "vue-router";
+<script lang="ts">
+import { RouterLink, RouterView } from "vue-router"
+import {useSettingsStore} from "@/stores/settings";
+
+export default {
+  setup() {
+    const settingsStore = useSettingsStore()
+
+    return {
+      settingsStore
+    }
+  },
+
+  computed: {
+    resolution() {
+      return this.settingsStore.states.resolution
+    }
+  }
+}
+
 </script>
 
