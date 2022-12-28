@@ -28,8 +28,11 @@ export default defineConfig({
         assetFileNames: 'assets/[name].[ext]',
 
         manualChunks: {
-          vendor: ['vue', 'vue-router', 'pinia'],
-        }
+          vendor: [
+            'vue', 'vue-router', 'pinia',
+            '@fortawesome/vue-fontawesome',
+            '@vueuse/core', '@vueuse/shared', '@vueuse/metadata'
+          ]}
       }
 
     }

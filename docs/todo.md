@@ -7,9 +7,10 @@
 1. ~~VOK-05:~~ Make table view visible (css table)
 1. ~~VOK-06:~~ Reorg markdown files, more generic
 1. VOK-07: Add css/vue animations
-1. VOK-08: Save changes in LocalStorage, see pinia examples
+1. ~~VOK-08:~~ Save changes in LocalStorage, see pinia examples
 1. VOK-09: Add quiz, randomize words, save learned words (or diff strategies)
 1. ~~VOK-10:~~ Make UI responsive (Mobile vs Desktop/Tablet)
 1. ~~VOK-11:~~ disable caching on fetch 
 1. ~~VOK-12:~~ interpret `<br/>`, `*` on text rendering
 1. VOK-13: extract table (csv) from image ... see https://pyimagesearch.com/2022/02/28/multi-column-table-ocr/
+1. VOK-14: re-analyze vendor.js size, why @fontawesome/vue-fontawesome is so big?
