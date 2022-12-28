@@ -31,6 +31,7 @@ export default defineConfig({
           vendor: [
             'vue', 'vue-router', 'pinia',
             '@fortawesome/vue-fontawesome',
+            '@vueuse/core', '@vueuse/shared', '@vueuse/metadata'
           ]}
       }
 
