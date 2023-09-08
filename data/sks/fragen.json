@@ -22,52 +22,92 @@
         {
           "nr": 1,
           "text_de": "Worauf müssen Sie als Schiffsführer vor Reiseantritt hinsichtlich der Seekarten und Seebücher achten?",
-          "answer_de": "Auf Vollständigkeit der Unterlagen und deren Berichtigung auf den neuesten Stand."
+          "answer_de": "Auf Vollständigkeit der Unterlagen und deren Berichtigung auf den neuesten Stand.",
+          "text_ro": "La ce trebuie să fii atent, în calitate de căpitan de navă, când vine vorba de hărți și cărți nautice înainte de a-ți începe călătoria?",
+          "answer_ro": "Asigurați-vă că documentele sunt complete și corectate la zi.",
+          "text_en": "What do you as a ship's captain have to pay attention to when it comes to nautical charts and nautical books before you start your journey?",
+          "answer_en": "Make sure the documents are complete and corrected up to date."
         },
         {
           "nr": 2,
           "text_de": "Warum muss in der GPS-Navigation das jeweilige Kartendatum unbedingt berücksichtigt werden?",
-          "answer_de": "Weil sich das von GPS verwendete Bezugssystem WGS 84 (World Geodetic System 1984) von anderen verwendeten Bezugssystemen (Kartendatum) unterscheiden kann."
+          "answer_de": "Weil sich das von GPS verwendete Bezugssystem WGS84 (World Geodetic System 1984) von anderen verwendeten Bezugssystemen (Kartendatum) unterscheiden kann.",
+          "text_ro": "De ce trebuie luată în considerare data hărții respective în navigația GPS?",
+          "answer_ro": "Deoarece sistemul de referință WGS84 (World Geodetic System 1984) utilizat de GPS poate diferi de alte sisteme de referință (datum de hartă) utilizate.",
+          "text_en": "Why does the respective map date have to be taken into account in GPS navigation?",
+          "answer_en": "Because the WGS84 (World Geodetic System 1984) reference system used by GPS may differ from other reference systems (map datum) used."
         },
         {
           "nr": 3,
-          "text_de": "Welche Differenzen können zwischen WGS 84 und anderen Bezugssystemen auftreten?",
-          "answer_de": "Die Differenzen von φ und  λ liegen im Allgemeinen in der Größenordnung von 0,1 kbl bis 1 kbl, also etwa von 20 bis 200 m. Es können größere Unterschiede auftreten."
+          "text_de": "Welche Differenzen können zwischen WGS84 und anderen Bezugssystemen auftreten?",
+          "answer_de": "Die Differenzen von φ und λ liegen im Allgemeinen in der Größenordnung von 0,1 kbl bis 1 kbl, also etwa von 20 bis 200 m. Es können größere Unterschiede auftreten.",
+          "text_ro": "Ce diferențe pot apărea între WGS84 și alte sisteme de referință?",
+          "answer_ro": "Diferențele dintre φ și λ sunt în general de ordinul 0,1 kbl până la 1 kbl, adică aproximativ 20 până la 200 m. Pot apărea diferențe mai mari.",
+          "text_en": "What differences can occur between WGS84 and other reference systems?",
+          "answer_en": "The differences between φ and λ are generally in the order of 0.1 kbl to 1 kbl, i.e. approximately 20 to 200 m. Larger differences can occur."
         },
         {
           "nr": 4,
           "text_de": "Wo finden Sie in der Seekarte Angaben über das benutzte Bezugssystem und ggf. entsprechende Korrekturhinweise?",
-          "answer_de": "Am Kartenrand unter dem Titel."
+          "answer_de": "Am Kartenrand unter dem Titel.",
+          "text_ro": "Unde pe harta nautică puteți găsi informații despre sistemul de referință utilizat și, dacă este necesar, instrucțiuni de corectare corespunzătoare?",
+          "answer_ro": "Pe marginea cărții de sub titlu.",
+          "text_en": "Where on the nautical chart can you find information about the reference system used and, if necessary, corresponding correction instructions?",
+          "answer_en": "On the edge of the card under the title."
         },
         {
           "nr": 5,
           "text_de": "Wie lautet ggf. der Korrekturhinweis bezüglich GPS in der Seekarte, wenn das benutzte Kartendatum (z.B. ED 50) und WGS 84 nicht übereinstimmen?",
-          "answer_de": "Durch Satellitennavigation (z.B. GPS) erhaltene Positionen im WGS 84 sind 0,... Minuten nordwärts/südwärts und 0,... Minuten westwärts/ostwärts zu verlegen, um mit dieser Karte übereinzustimmen."
+          "answer_de": "Durch Satellitennavigation (z.B. GPS) erhaltene Positionen im WGS 84 sind 0,... Minuten nordwärts/südwärts und 0,... Minuten westwärts/ostwärts zu verlegen, um mit dieser Karte übereinzustimmen.",
+          "text_ro": "Dacă este necesar, care este nota de corecție privind GPS-ul din harta nautică dacă datele hărții utilizate (de ex. ED 50) și WGS84 nu se potrivesc?",
+          "answer_ro": "Pozițiile din WGS 84 obținute prin navigație prin satelit (de exemplu, GPS) ar trebui să fie compensate cu 0,... minute nord/sud și 0,... minute vest/est pentru a fi de acord cu această hartă.",
+          "text_en": "If necessary, what is the correction note regarding GPS in the nautical chart if the chart data used (e.g. ED 50) and WGS 84 do not match?",
+          "answer_en": "Positions in WGS 84 obtained by satellite navigation (e.g. GPS) should be offset 0,... minutes north/south and 0,... minutes west/east to agree with this map."
         },
         {
           "nr": 6,
           "text_de": "Woran erkennen Sie, bis wann eine deutsche Seekarte „amtlich“ berichtigt ist?",
-          "answer_de": "Am Berichtigungsstempel des BSH oder einer amtlichen Seekartenberichtungsstelle."
+          "answer_de": "Am Berichtigungsstempel des BSH oder einer amtlichen Seekartenberichtungsstelle.",
+          "text_ro": "De unde știi când o hartă nautică germană este corectată „oficial”?",
+          "answer_ro": "Pe ștampila de corectare a BSH sau a unui birou oficial de corectare a hărților nautice.",
+          "text_en": "How do you know when a German nautical chart is “officially” corrected?",
+          "answer_en": "On the correction stamp of the BSH or an official nautical chart correction office."
         },
         {
           "nr": 7,
           "text_de": "Woran erkennen Sie, bis wann eine britische Seekarte „amtlich“ berichtigt ist?",
-          "answer_de": "Am Berichtigungsstempel auf der Rückseite der Seekarte."
+          "answer_de": "Am Berichtigungsstempel auf der Rückseite der Seekarte.",
+          "text_ro": "De unde știi când o hartă nautică britanică este corectată „oficial”?",
+          "answer_ro": "Pe ștampila de corectare de pe spatele hărții nautice.",
+          "text_en": "How do you know when a British nautical chart is “officially” corrected?",
+          "answer_en": "On the correction stamp on the back of the nautical chart."
         },
         {
           "nr": 8,
           "text_de": "Was bedeutet der Stempel auf der britischen Seekarte: Corrected up to N.T.M. 3595 1998?",
-          "answer_de": "Seekarte ist berichtigt bis zur Mitteilung Nr. 3595 der Admiralty Notices to Mariners (N.T.M.) in 1998."
+          "answer_de": "Seekarte ist berichtigt bis zur Mitteilung Nr. 3595 der Admiralty Notices to Mariners (N.T.M.) in 1998.",
+          "text_ro": "De unde știi când o hartă nautică britanică este corectată „oficial”?",
+          "answer_ro": "Harta nautică este corectată până la Avizul Nr. 3595 din Avizele Amiralității către Marinari (N.T.M.) din 1998.",
+          "text_en": "How do you know when a British nautical chart is “officially” corrected?",
+          "answer_en": "Nautical chart is corrected up to Notice No. 3595 of the Admiralty Notices to Mariners (N.T.M.) in 1998."
         },
         {
           "nr": 9,
           "text_de": "Welche Angaben enthalten die Nachrichten für Seefahrer (NfS)?",
-          "answer_de": "In den NfS werden für die sichere Schiffsführung wichtige Maßnahmen, Ereignisse und Veränderungen auf den Seeschifffahrtsstraßen, auf der Hohen See sowie in den Hoheitsgewässern anderer Staaten im europäischen und angrenzenden Bereich bekannt gegeben."
+          "answer_de": "In den NfS werden für die sichere Schiffsführung wichtige Maßnahmen, Ereignisse und Veränderungen auf den Seeschifffahrtsstraßen, auf der Hohen See sowie in den Hoheitsgewässern anderer Staaten im europäischen und angrenzenden Bereich bekannt gegeben.",
+          "text_ro": "Ce informații conține News for Seafarers (NfS)?",
+          "answer_ro": "NfS anunță măsuri, evenimente și modificări care sunt importante pentru navigarea în siguranță a navelor pe căile maritime, pe marea liberă și în apele teritoriale ale altor state din Europa și zonele învecinate.",
+          "text_en": "What information does the News for Seafarers (NfS) contain?",
+          "answer_en": "The NfS announces important measures, events and changes for the safe navigation of ships on the shipping lanes, on the high seas and in the territorial waters of other states in Europe and neighboring areas."
         },
         {
           "nr": 10,
           "text_de": "In welcher Sprache werden die Nachrichten für Seefahrer (NfS) verfasst?",
-          "answer_de": "Die Angaben erfolgen in deutscher und in englischer Sprache."
+          "answer_de": "Die Angaben erfolgen in deutscher und in englischer Sprache.",
+          "text_ro": "În ce limbă sunt scrise Știrile pentru navigatori (NfS)?",
+          "answer_ro": "Informațiile sunt furnizate în germană și engleză.",
+          "text_en": "In which language are the News for Seafarers (NfS) written?",
+          "answer_en": "The information is provided in German and English."
         },
         {
           "nr": 11,
