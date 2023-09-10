@@ -1,9 +1,10 @@
 import {createRouter, createWebHashHistory} from "vue-router"
-import HomeView from "../views/HomeView.vue"
-import SettingsView from "../views/SettingsView.vue"
 
-import VueDocsView from "../views/other/VueDocsView.vue"
+import VokabelView from "@/views/VokabelView.vue";
 import WordsView from "@/views/WordsView.vue";
+
+import SettingsView from "@/views/SettingsView.vue"
+import VueDocsView from "@/views/other/VueDocsView.vue"
 
 const router = createRouter({
   history: createWebHashHistory(import.meta.env.BASE_URL),
@@ -12,7 +13,7 @@ const router = createRouter({
     {
       path: "/",
       name: "home",
-      component: HomeView,
+      component: VokabelView,
     },
     {
       // will match anything starting with ` /words` and put it under `$route.params.link`
