@@ -16,8 +16,11 @@
         <question-def :value="q"/>
       </div>
     </div>
-    <paginate :items="selectedTopic.questions" :page-size="settings.pageSize"
-              v-model="selectedPage"/>
+    <div class="header">
+      <paginate :items="selectedTopic.questions" :page-size="settings.pageSize"
+                v-model="selectedPage"/>
+      <checkbox v-model="showAllAnswers" label="Show Answer" style="width: 122px" />
+    </div>
 
     <div class="actions">
       <a :href="thema.questionsUrl" target="_blank">
@@ -50,7 +53,7 @@
 
 
 <script setup lang="ts">
-import {computed, reactive, ref} from "vue";
+import {computed, reactive, ref, toRef} from "vue";
 import {useQuestionnaireStore} from "@/stores/questionnaire"
 import {useSettingsStore} from "@/stores/settings"
 
@@ -65,8 +68,10 @@ const questionnaire = useQuestionnaireStore()
 const thema = questionnaire.root
 await questionnaire.loadThema(thema)
 
-const selectedTopic = ref(thema.topics[0])
 const selectedPage = ref(1)
+
+// FIXME: ??
+const selectedTopic = toRef(thema.topics[0])
 
 
 let unique = 0;
@@ -92,7 +97,7 @@ const showAllAnswers = computed({
 
 async function copyToClipboard() {
   try {
-    await questionnaire.copyToClipboard(viewQuestions.value.map(p => p.question))
+    await questionnaire.copyToClipboard(selectedTopic.value, viewQuestions.value.map(p => p.question))
   } catch (err) {
     alert("Failed to copy." + err)
   }
@@ -100,7 +105,7 @@ async function copyToClipboard() {
 
 async function mergeFromClipboard() {
   try {
-    await questionnaire.mergeFromClipboard(viewQuestions.value.map(p => p.question))
+    await questionnaire.mergeFromClipboard(selectedTopic.value)
   } catch (err) {
     alert("Failed to copy." + err)
   }
