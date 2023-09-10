@@ -4,12 +4,12 @@
 
     /*padding: 10px 300px;*/
 
-    background-color: #ded;
+    background-color: #dec;
 }
 
 #my-body {
     display: flex;
-    padding: 1em 0.5em 0.5em 0.5em;
+    padding: 0em 0.5em 0.5em 0.5em;
 
     /* for debugging purpose
     border: 2px solid red; */
@@ -21,19 +21,16 @@
 }
 
 
-
 #my-footer {
     display: flex;
     flex-direction: row;
     justify-content: center;
     gap: 0.5em;
     padding-top: 1em;
-    background-color: #deb;
 }
 
 #my-header {
 
-    background-color: #deb;
 }
 
 .menu {
@@ -53,6 +50,7 @@ a {
     text-decoration: none;
     color: blue;
 }
+
 a:hover {
     font-weight: bold;
     text-decoration: underline;
@@ -63,37 +61,84 @@ table {
     width: 100%;
     border-collapse: collapse;
 }
+
 table, tr {
     border: 1px solid #aee;
 }
+
 td, th {
     padding: 0.5em;
 }
+
 th {
     text-align: left;
 }
+
 tbody:nth-child(even) {
     background-color: #eed;
 }
 
 
-@media (max-width: 799px) {
+.pages {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 16px;
+    padding-top: 8px;
+}
+
+.pages button {
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pages button.is-active {
+    color: black;
+    font-weight: bolder;
+    pointer-events: none;
+    background: transparent;
+}
+
+.dropdown {
+    padding: 2px;
+}
+
+
+@media (max-width: 669px) {
     .content {
         width: 100%;
     }
 }
-@media (min-width: 800px) and (max-width: 1023px) {
-    .content {
-        width: 800px;
-    }
-}
 @media (min-width: 1024px) {
     .content {
-        width: 800px;
-        padding-left: 40px;
+        width: 96%;
+        padding-left: 2%;
+        padding-right: 2%;
     }
     .menu {
-        width: 800px;
-        padding-left: 40px;
+        width: 96%;
+        padding-left: 2%;
+        padding-right: 2%;
     }
 }
+
+.q-questions {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+
+.q-question {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #edeedc;
+}
+
+.q-question:nth-child(odd) {
+    background-color: #deeedc;
+    border-top: 1px solid #aee;
+    border-bottom: 1px solid #aee;
+}
+

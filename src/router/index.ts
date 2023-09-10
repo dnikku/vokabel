@@ -1,19 +1,23 @@
 import {createRouter, createWebHashHistory} from "vue-router"
-import HomeView from "../views/HomeView.vue"
-import AdminView from "../views/AdminView.vue"
 import SettingsView from "../views/SettingsView.vue"
 
 import VueDocsView from "../views/other/VueDocsView.vue"
 import WordsView from "@/views/WordsView.vue";
+import QuestionnaireView from "@/views/QuestionnaireView.vue";
+import QuestionnaireTrainerView from "@/views/QuestionnaireTrainerView.vue";
+import VokabelView from "@/views/VokabelView.vue";
+
+const titleSymbol = Symbol("title")
 
 const router = createRouter({
   history: createWebHashHistory(import.meta.env.BASE_URL),
 
   routes: [
     {
-      path: "/",
-      name: "home",
-      component: HomeView,
+      path: "/vokabel",
+      name: "vokabel",
+      component: VokabelView,
+      meta: {title: "Ana's Vakabel"}
     },
     {
       // will match anything starting with ` /words` and put it under `$route.params.link`
@@ -23,10 +27,18 @@ const router = createRouter({
     },
 
     {
-      path: "/admin",
-      name: "admin",
-      component: AdminView,
+      path: "/sks-fragen",
+      name: "sks-fragen",
+      component: QuestionnaireView,
+      meta: {title: "Nicu's SKS"}
     },
+    {
+      path: "/sks-trainer",
+      name: "sks-trainer",
+      component: QuestionnaireTrainerView,
+      meta: {title: "Nicu's SKS"}
+    },
+
     {
       path: "/settings",
       name: "settings",
@@ -37,7 +49,19 @@ const router = createRouter({
       name: "vue-docs",
       component: VueDocsView,
     },
+
+    {
+      path: "/:pathMatch(.*)",
+      redirect: "/sks-fragen"
+    }
   ],
 });
+
+// inspired from: https://mokkapps.de/vue-tips/dynamically-change-page-title
+router.beforeEach((to, from) => {
+  if (to.meta["title"] != null) {
+    document.title = (to.meta["title"] as string)
+  }
+})
 
 export default router;
