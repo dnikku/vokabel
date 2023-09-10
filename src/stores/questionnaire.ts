@@ -18,7 +18,7 @@ export type Question = {
 }
 
 export type Topic = {
-    nr: number
+    id: number
     name: string
 
     questions: Question[]
@@ -55,7 +55,7 @@ export const useQuestionnaireStore = defineStore('questionaire', () => {
         const data = await fetcher.fetchJson(thema.questionsUrl)
 
         thema.topics = data.topics.map((p: any) => ({
-            nr: p.id,
+            id: p.id,
             name: `${p.name} (${p.questions.length})`,
             questions: p.questions.map((p1: any) => ({
                 nr: p1.nr,

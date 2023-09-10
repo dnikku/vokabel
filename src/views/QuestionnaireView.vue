@@ -8,7 +8,8 @@
     <paginate :total-items="selectedTopic.questions.length" :page-size="pageSize"
               :page="selectedPage" @page-changed="changePage"/>
     <div class="q-questions">
-      <div class="q-question" v-for="question in viewQuestions">
+      <div class="q-question" v-for="question in viewQuestions"
+           :key="`q-${selectedTopic.id}-${question.nr}`">
         <question-def :value="question"/>
       </div>
     </div>
