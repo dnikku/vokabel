@@ -1,22 +1,19 @@
 import {defineStore} from "pinia"
-import { useStorage } from '@vueuse/core'
+import {useStorage} from '@vueuse/core'
+import {computed} from "vue";
 
 
 export const useSettingsStore = defineStore('settings', () => {
-    const states = useStorage('settings', {} as any)
+    const showResolution = useStorage("show-resolution", false)
+    const pageSize = useStorage("page-size", 10)
 
-    function toggleShowResolution() {
-        if (states.value.resolution != null) {
-            delete states.value.resolution
-        } else {
-            states.value.resolution =`(W x H: ${window.innerWidth}x${window.innerHeight})`
-        }
-
-    }
+    const resolution = computed(() =>
+        showResolution.value ? `(W x H: ${window.innerWidth}x${window.innerHeight})` : ""
+    )
 
     return {
-        states,
-
-        toggleShowResolution
+        pageSize: pageSize,
+        showResolution,
+        resolution
     }
 })
