@@ -3,10 +3,13 @@
     {
       "nr": 1,
       "text_de": " ",
-      "text_image": "",
-      "text_image2": "",
+      "text_images": [
+        ""
+      ],
       "answer_de": " ",
-      "answer_image": "",
+      "answer_images": [
+        ""
+      ],
       "text_ro": " ",
       "answer_ro": " ",
       "text_en": " ",
@@ -759,20 +762,26 @@
         {
           "nr": 21,
           "text_de": "Sie sehen ein Fahrzeug mit folgender Lichterführung:\n1. Worum handelt es sich?\n2. Welches Schallsignal müsste dieses Fahrzeug bei unsichtigem Wetter geben?",
-          "text_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-21-gif.gif?__blob=normal&v=2",
+          "text_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-21-gif.gif?__blob=normal&v=2"
+          ],
           "answer_de": "1. Treibnetzfischer (Fahrzeug, das nicht trawlt) in Fahrt oder vor Anker mit ausgebrachtem Fanggerät, das waagrecht weiter als 150 m ins Wasser reicht. (Das untere weiße Licht kann auch das Hecklicht sein).\n2. Schallsignal - . . (lang-kurz-kurz) mindestens alle 2 Minuten."
         },
         {
           "nr": 22,
           "text_de": "Sie sehen nachts auf See 2 rote Lichter senkrecht übereinander. Worum handelt es sich?",
-          "text_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-22-gif.gif?__blob=normal&v=2",
+          "text_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-22-gif.gif?__blob=normal&v=2"
+          ],
           "answer_de": "Um ein manövrierunfähiges Fahrzeug in Fahrt ohne Fahrt durchs Wasser."
         },
         {
           "nr": 23,
           "text_de": "Die Lichteranordnung eines Fahrzeugs ändert sich plötzlich von ... in ...\nWas schließen Sie daraus?",
-          "text_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-22-gif.gif?__blob=normal&v=2",
-          "text_image2": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-23-gif.gif?__blob=normal&v=2",
+          "text_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-22-gif.gif?__blob=normal&v=2",
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-23-gif.gif?__blob=normal&v=2"
+          ],
           "answer_de": "Ein manövrierunfähiges Fahrzeug in Fahrt ohne Fahrt durchs Wasser (FdW) hat FdW aufgenommen, da man jetzt auch das Bb.-Seitenlicht sieht."
         },
         {
@@ -903,7 +912,9 @@
         {
           "nr": 49,
           "text_de": "Auf einer Motoryacht A erkennt man nachts etwa 2 Strich an Bb. folgende Lichter des Fahrzeugs B, die rasch näher kommen.\nDie Kompasspeilung zum Fahrzeug B ändert sich dabei nur geringfügig.\n1. Worum handelt es sich bei Fahrzeug B?\n2. Wer muss ausweichen?\n3. Was muss Fahrzeug A tun?",
-          "text_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-49-gif.gif?__blob=normal&v=2",
+          "text_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-49-gif.gif?__blob=normal&v=2"
+          ],
           "answer_de": "1. B ist ein Maschinenfahrzeug von weniger als 50 m Länge in Fahrt, dessen Stb.-Seite man sieht.\n2. B muss ausweichen, weil es die Motoryacht A an seiner Stb.-Seite hat.\n3. Die Motoryacht A muss Kurs und Geschwindigkeit beibehalten."
         },
         {
@@ -914,7 +925,9 @@
         {
           "nr": 51,
           "text_de": "Auf einer Motoryacht A sieht man nachts etwa querab an Stb. ein einzelnes weißes Licht in (nahezu) stehender Kompasspeilung. Näher kommend erkennt man unterhalb des weißen Lichtes und etwas rechts davon ein rotes Licht (Fahrzeug B).\n1. Worum handelt es sich?\n2. Was müssen jeweils beide Fahrzeuge tun? (Begründung!)",
-          "text_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-51-gif.gif?__blob=normal&v=2",
+          "text_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-51-gif.gif?__blob=normal&v=2"
+          ],
           "answer_de": "1. Topplicht und später Bb.-Seitenlicht eines Maschinenfahrzeuges B von weniger als 50 m Länge in Fahrt.\n2. A muss ausweichen, weil es B an seiner Stb.-Seite hat. A muss das Signal „ein kurzer Ton“ geben.\n3. B muss Kurs und Geschwindigkeit beibehalten."
         },
         {
@@ -1045,13 +1058,17 @@
         {
           "nr": 77,
           "text_de": "Sie sehen auf der Elbe bei Nacht ein Fahrzeug mit der nachfolgenden Lichterführung. Um was für ein Fahrzeug handelt es sich? Was bedeuten die beiden roten und die beiden grünen Lichter senkrecht übereinander?",
-          "text_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-77-gif.gif?__blob=normal&v=2",
+          "text_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-77-gif.gif?__blob=normal&v=2"
+          ],
           "answer_de": "Manövrierbehindertes Fahrzeug, Länge wahrscheinlich 50 m oder mehr, von vorn mit Fahrt durchs Wasser, das Unterwasserarbeiten ausführt (z.B. baggert).\nPassierseite an Stb. (zwei grüne Rundumlichter übereinander), Passierbehinderung an Bb.-Seite (zwei rote Rundumlichter übereinander)."
         },
         {
           "nr": 78,
           "text_de": "Sie sehen auf der Elbe bei Tage ein Fahrzeug mit den nachfolgenden schwarzen Signalkörpern, dessen Bugwelle man klar erkennen kann. Um was für ein Fahrzeug handelt es sich? Was bedeuten die beiden schwarzen Bälle und die beiden schwarzen Rhomben senkrecht übereinander?",
-          "text_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-78-gif.gif?__blob=normal&v=2",
+          "text_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-78-gif.gif?__blob=normal&v=2"
+          ],
           "answer_de": "Entgegenkommendes manövrierbehindertes Fahrzeug von vorn, mit Fahrt durchs Wasser, das Unterwasserarbeiten ausführt (z.B. baggert). Passierseite an Bb. des Baggers (zwei schwarze Rhomben übereinander), Passierbehinderung an Stb.-Seite des Baggers (zwei schwarze Bälle übereinander)."
         },
         {
@@ -1072,7 +1089,9 @@
         {
           "nr": 82,
           "text_de": "Während einer Revierfahrt erkennen Sie ein Signal an Land, jeweils schwarze Signalkörper:\n1. Was bedeutet dieses Signal?\n2. Welches Signal wird stattdessen nachts gezeigt?",
-          "text_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Signal-82-gif.gif?__blob=normal&v=2",
+          "text_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Signal-82-gif.gif?__blob=normal&v=2"
+          ],
           "answer_de": "1. Außergewöhnliche Schifffahrtsbehinderung.\n2. Nachts: Rundumlichter rot-rot-grün senkrecht übereinander."
         },
         {
@@ -1385,13 +1404,17 @@
         {
           "nr": 33,
           "text_de": "Welche Windrichtungen erwarten Sie an den Punkten 1, 2, 3, 4, 5 eines Tiefdruckgebiets auf der Nordhalbkugel.",
-          "text_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Wetterkunde/Abbildung-33-gif.gif?__blob=normal&v=2",
+          "text_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Wetterkunde/Abbildung-33-gif.gif?__blob=normal&v=2"
+          ],
           "answer_de": "1. Nordost.\n2. Süd.\n3. Südwest\n4. Nordwest.\n5. Umlaufender Wind"
         },
         {
           "nr": 34,
           "text_de": "Um welche Arten von Fronten handelt es sich in der Abbildung, die mit 1, 2 und 3 bezeichnet sind?",
-          "text_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Wetterkunde/Abbildung-34-gif.gif?__blob=normal&v=2",
+          "text_image": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Wetterkunde/Abbildung-34-gif.gif?__blob=normal&v=2"
+          ],
           "answer_de": "1. Okklusionsfront (Tiefausläufer)\n2. Warmfront\n3. Kaltfront"
         },
         {
@@ -1940,8 +1963,10 @@
           "nr": 41,
           "text_de": "Erklären Sie mit Hilfe eines Vektorparallelogramms aus „wahrem Wind (wW)“, „Fahrtwind (Fw)“ und „scheinbarem Wind (sW)“, warum beim Einfallen einer Bö (Windzunahme) der „scheinbare Wind“ raumt. Welcher Vorteil ergibt sich dadurch beim Kreuzen?\n(Zeichnung!)",
           "answer_de": "(oben) Verhältnisse vor Einfall der Bö\n(unten) Verhältnisse bei Einfall der Bö: Der „scheinbare Wind“ fällt etwas achterlichter ein, er „raumt“, und das Segelboot kann etwas höher an den „wahren Wind“ gehen.",
-          "answer_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Zeichnung-41-vor-Einfall-der-Boe-gif.gif?__blob=normal&v=1",
-          "answer_image2": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Zeichnung-41-bei-Einfall-der-Boe-gif.gif?__blob=normal&v=1"
+          "answer_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Zeichnung-41-vor-Einfall-der-Boe-gif.gif?__blob=normal&v=1",
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Zeichnung-41-bei-Einfall-der-Boe-gif.gif?__blob=normal&v=1"
+          ]
         },
         {
           "nr": 42,
@@ -2126,16 +2151,24 @@
         {
           "nr": 78,
           "text_de": "Wie sind längsseits liegende Fahrzeuge festzumachen? Ergänzen Sie die Skizze und benennen Sie die Leinen.",
-          "text_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Zeichnung-78-01-gif.gif?__blob=normal&v=1",
+          "text_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Zeichnung-78-01-gif.gif?__blob=normal&v=1"
+          ],
           "answer_de": "1. Achterleine,\n2. Achterspring,\n3. Vorspring,\n4. Vorleine.",
-          "answer_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Zeichnung-78-02-gif.gif?__blob=normal&v=1"
+          "answer_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Zeichnung-78-02-gif.gif?__blob=normal&v=1"
+          ]
         },
         {
           "nr": 79,
           "text_de": "Wie können Sie mit Hilfe von zwei Fendern und einem Fenderbrett Ihr Boot festmachen, wenn die Pier mit vorspringenden Pfählen versehen ist? Ergänzen Sie die Skizze mit Leinen.",
-          "text_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Zeichnung-79-01-gif.gif?__blob=normal&v=1",
+          "text_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Zeichnung-79-01-gif.gif?__blob=normal&v=1"
+          ],
           "answer_de": "(siehe Build)",
-          "answer_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Zeichnung-79-02-gif.gif?__blob=normal&v=1"
+          "answer_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Zeichnung-79-02-gif.gif?__blob=normal&v=1"
+          ]
         },
         {
           "nr": 80,
@@ -2260,8 +2293,13 @@
         {
           "nr": 104,
           "text_de": "Mit welchem Manöver können Sie bei Starkwind das Halsen vermeiden (Name)?\nVervollständigen Sie die Skizze durch Einzeichnen der Kurslinie und geben Sie die erforderlichen Manöver an.",
-          "text_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Zeichnung-104-01-gif.gif?__blob=normal&v=1",
-          "answer_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Zeichnung-104-02-gif.gif?__blob=normal&v=1"
+          "text_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Zeichnung-104-01-gif.gif?__blob=normal&v=1"
+          ],
+          "answer_de": "(siehe Bild)c",
+          "answer_image": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Zeichnung-104-02-gif.gif?__blob=normal&v=1"
+          ]
         },
         {
           "nr": 105,
@@ -2883,16 +2921,24 @@
         {
           "nr": 64,
           "text_de": "Wie sind längsseits liegende Fahrzeuge festzumachen? Ergänzen Sie die Skizze und benennen Sie die Leinen.",
-          "text_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-II/Zeichnung-64-01-gif.gif?__blob=normal&v=2",
+          "text_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-II/Zeichnung-64-01-gif.gif?__blob=normal&v=2"
+          ],
           "answer_de": "1. Achterleine,\n2. Achterspring,\n3. Vorspring,\n4. Vorleine.",
-          "anwer_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-II/Zeichnung-64-02-gif.gif?__blob=normal&v=2"
+          "anwer_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-II/Zeichnung-64-02-gif.gif?__blob=normal&v=2"
+          ]
         },
         {
           "nr": 65,
           "text_de": "Wie können Sie mit Hilfe von zwei Fendern und einem Fenderbrett Ihr Boot festmachen, wenn die Pier mit vorspringenden Pfählen versehen ist? Ergänzen Sie die Skizze mit Leinen.",
-          "text_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-II/Zeichnung-65-01-gif.gif?__blob=normal&v=2",
+          "text_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-II/Zeichnung-65-01-gif.gif?__blob=normal&v=2"
+          ],
           "answer_de": "(siehe Bild)",
-          "answer_image": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-II/Zeichnung-65-02-gif.gif?__blob=normal&v=2"
+          "answer_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-II/Zeichnung-65-02-gif.gif?__blob=normal&v=2"
+          ]
         },
         {
           "nr": 66,
@@ -3298,6 +3344,120 @@
           "nr": 146,
           "text_de": "Wie können Sie die Wahrscheinlichkeit erhöhen, im Radar von anderen Fahrzeugen gesehen zu werden?",
           "answer_de": "Durch einen möglichst hoch und fest angebrachten passiven Radarreflektor bzw. besser noch durch einen „aktiven“ Radarreflektor."
+        }
+      ]
+    },
+    {
+      "name": "X: Abkürzungen",
+      "id": 20,
+      "questions": [
+        {
+          "nr": 1,
+          "text_de": "SBF",
+          "answer_de": "Sportbootführerschein",
+          "text_ro": " ",
+          "answer_ro": " ",
+          "text_en": " ",
+          "answer_en": " "
+        },
+        {
+          "nr": 2,
+          "text_de": "SBF Geltungsbereich",
+          "answer_de": "Auf den Binnenschifffahrtsstraßen ist der Sportbootführerschein vorgeschrieben für Fahrzeuge unter 20 Meter Länge (ohne Ruder und Bugspriet) mit einer größeren Nutzleistung als 11,03 kW (15 PS) bei Verbrennungsmotoren bzw. 7,5 kW (10,20 PS) bei Elektromotoren (maßgeblich ist die Betriebsart S1 (Dauerbetrieb) nach DIN EN 60034-1: Ausgabe Februar 2011). In Berlin und Brandenburg ist er auf bestimmten Binnenschifffahrtsstraßen auch vorgeschrieben für Sportboote unter Segel. ",
+          "text_ro": " ",
+          "answer_ro": " ",
+          "text_en": " ",
+          "answer_en": " "
+        },
+        {
+          "nr": 3,
+          "text_de": "SKS",
+          "answer_de": "Sportküstenschifferschein",
+          "answer_en": "Sport coastal boating license"
+        },
+        {
+          "nr": 4,
+          "text_de": "SKS Geltungsbereich",
+          "answer_de": "Der Sportküstenschifferschein (SKS) ist der amtliche Führerschein zum Führen von Yachten mit Antriebsmaschine und unter Segel in Küstengewässern (alle Meere bis 12 Seemeilen Abstand von der Festlandküste). Er ist vorgeschrieben zum Führen von gewerbsmäßig genutzten Sportbooten in den Küstengewässern.",
+          "text_ro": " ",
+          "answer_ro": " ",
+          "text_en": " ",
+          "answer_en": " "
+        },
+        {
+          "nr": 5,
+          "text_de": "BSF",
+          "answer_de": "Bundesamt für Seeschifffahrt und Hydrographie",
+          "answer_en": ""
+        },
+        {
+          "nr": 6,
+          "text_de": "NsF",
+          "answer_de": "Nachrichten für Seefahrer",
+          "answer_en": ""
+        },
+        {
+          "nr": 7,
+          "text_de": "sm",
+          "answer_de": "1Seemeile (sm) = 1852m"
+        },
+        {
+          "nr": 8,
+          "text_de": "kbl",
+          "answer_de": "1 Kabellänge (kbl) = 185,2m"
+        },
+        {
+          "nr": 9,
+          "text_de": "kn",
+          "answer_de": "1 Knot (kn) = 1sm/Stunde"
+        },
+        {
+          "nr": 10,
+          "text_de": "Geografische Koordinaten",
+          "answer_de": "φ (Phi) - geografische Breite, LAT(latitude), Äquator ist der grostes Breitenkreis\nλ (Lambda) - geographische Länge, LONG(longitude), Nullmeridian"
+        },
+        {
+          "nr": 11,
+          "text_de": "rv, MgK, SP, MgP",
+          "answer_de": "Magnetkompasskurs, Rechtvorausrichtung, Seitenpeilung, Makgentkompasspeilung"
+        },
+        {
+          "nr": 12,
+          "text_de": "MgN",
+          "answer_de": "Magnetkompass-Nord"
+        }
+      ]
+    },
+    {
+      "name": "XI: Wortschatz",
+      "id": 21,
+      "questions": [
+        {
+          "nr": 1,
+          "text_de": "SSS",
+          "answer_de": "Sportseeschifferschein",
+          "text_ro": " ",
+          "answer_ro": " ",
+          "text_en": " ",
+          "answer_en": " "
+        },
+        {
+          "nr": 2,
+          "text_de": "SHS",
+          "answer_de": "Sporthochseeschifferschein",
+          "text_ro": " ",
+          "answer_ro": " ",
+          "text_en": " ",
+          "answer_en": " "
+        },
+        {
+          "nr": 3,
+          "text_de": "SHS Geltungsbereich",
+          "answer_de": "Der Sporthochseeschifferschein ist der amtliche Führerschein zum Führen von Yachten mit Motor und unter Segel in der weltweiten Fahrt (alle Meere). Er ist vorgeschrieben zum Führen von gewerbsmäßig genutzten Sportbooten in der weltweiten Fahrt. ",
+          "text_ro": " ",
+          "answer_ro": " ",
+          "text_en": " ",
+          "answer_en": " "
         }
       ]
     }
