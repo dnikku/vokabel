@@ -33,6 +33,25 @@ export const useFetchStore = defineStore('fetch', () => {
         }
     }
 
+    async function fetchJson(url: string) {
+        fetching.value = true
+        try {
+            let stubContent = tryStubUrl(url)
+            if (stubContent) return stubContent
+
+            let response = await fetch(url, {cache: "no-store"})
+            if (response.status != 200) {
+                throw new Error(`Fetch ${url} failed (http ${response.status})`);
+            }
+
+            let content = await response.json()
+            //console.debug(`(fetchContent ${url}) => \n${content}`)
+            return content
+        } finally {
+            fetching.value = false
+        }
+    }
+
     function stubUrl(matchUrl: RegExp, content: string) {
         stub.value = [
             ...(stub.value || []),
@@ -56,6 +75,7 @@ export const useFetchStore = defineStore('fetch', () => {
     return {
         fetching,
         fetchText,
+        fetchJson,
         stubUrl
     }
 })
