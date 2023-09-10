@@ -1,48 +1,31 @@
 <template>
   <div class="about">
-    <h3>TODO: Settings</h3>
+    <h3>Settings</h3>
 
     <div>
-      <checkbox v-model="showResolution"
-                label="Show Resolution"
-                id="toggleShowResolution"
-      />
-      &nbsp; &nbsp;
-      <span v-show="showResolution">{{ states.resolution }}</span>
+      <checkbox v-model="showResolution" label="Show Resolution"/>
+      <span v-show="showResolution">{{ resolution }}</span>
     </div>
 
+    <div>
+      Page Size: <dropdown v-model="pageSize" :options="pageSizes" ></dropdown>
+      TT: {{pageSize}}
+
+    </div>
   </div>
 </template>
 
 
-<script lang="ts">
+<script setup lang="ts">
+import {ref} from "vue";
 import Checkbox from "@/components/Checkbox.vue"
+import Dropdown from "@/components/Dropdown.vue";
 import {useSettingsStore} from "@/stores/settings"
 
-export default {
-  components: {
-    Checkbox
-  },
+const {showResolution, resolution} = useSettingsStore()
 
-  setup() {
-    const settings = useSettingsStore()
+const pageSizes = ref([5, 10, 20])
+const pageSize = ref(10)
 
-    return {
-      states : settings.states,
-      toggleShowResolution: settings.toggleShowResolution
-    }
-  },
 
-  computed: {
-    showResolution: {
-      get() : boolean {
-        return this.states.resolution != null
-      },
-      set(newVal: boolean) {
-        this.toggleShowResolution()
-      }
-    }
-
-  }
-}
 </script>

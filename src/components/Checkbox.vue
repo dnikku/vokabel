@@ -1,38 +1,28 @@
 <template>
-  <input type="checkbox"
-         :checked="modelValue"
-         @input="(event) => $emit('update:modelValue', (event.target as any)?.value)"
-         :id="id"
-         class="hidden"
-  />
-  <label :for="id">
-    <font-icon v-show="modelValue" icon="fa-regular fa-square-check" />
-    <font-icon v-show="!modelValue" icon="fa-regular fa-square" />
-    {{ label }}
-  </label>
+  <span>
+    <input :id="'checkbox-' + $.uid" type="checkbox" v-model="checked" :disabled="disabled"/>
+    <label :for="'checkbox-' + $.uid">{{ label }}</label>
+  </span>
 </template>
 
-<style scoped>
-.hidden {
-  display: none;
-}
-</style>
+<script setup lang="ts">
+import {computed} from "vue";
 
+const props = defineProps<{
+  modelValue: boolean,
+  label?: string,
+  disabled?: boolean
+}>()
 
-<script lang="ts">
-// https://dev.to/maxwelladapoe/creating-a-custom-checkbox-component-in-vue-3-a-better-approach-2jjd
+const emit = defineEmits(["update:modelValue"])
 
-export default {
-  props: {
-    modelValue: Boolean,
-    label: String,
-    id: String
+const checked = computed({
+  get() {
+    return props.modelValue
   },
-  emits: ['update:modelValue'],
-
-  methods: {
-
+  set(value) {
+    emit("update:modelValue", value)
   }
+})
 
-}
 </script>
