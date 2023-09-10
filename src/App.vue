@@ -1,10 +1,22 @@
 <template>
   <div id="my-header">
     <div class="menu">
+      <router-link class="menu-link" to="/sks-fragen">
+        <font-icon icon="fa-solid fa-ship"/>
+        SKS FRAGEN
+      </router-link>
+      <!--
       <router-link class="menu-link" to="/vokabel">
         <font-icon icon="fa-solid fa-house"/>
         VOKABEL
       </router-link>
+      -->
+
+      <router-link class="menu-link" to="/sks-trainer">
+        <font-icon icon="fa-solid fa-compass"/>
+        SKS TRAINER
+      </router-link>
+
       <router-link class="menu-link" to="/settings">
         <font-icon icon="fa-solid fa-gear"/>
       </router-link>
