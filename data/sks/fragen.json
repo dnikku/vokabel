@@ -1,13 +1,90 @@
 {
-  "template:": {
-    "text_ro": " ",
-    "answer_ro": " ",
-    "text_en": " ",
-    "answer_en": " "
-  },
+  "template:": [
+    {
+      "nr": 1,
+      "text_de": " ",
+      "answer_de": " ",
+      "text_ro": " ",
+      "answer_ro": " ",
+      "text_en": " ",
+      "answer_en": " "
+    }
+  ],
   "topics": [
     {
-      "id": 941,
+      "id": 1,
+      "name": "Abkürzungen",
+      "questions": [
+        {
+          "nr": 1,
+          "text_de": "SBF",
+          "answer_de": "Sportbootführerschein",
+          "text_ro": " ",
+          "answer_ro": " ",
+          "text_en": " ",
+          "answer_en": " "
+        },
+        {
+          "nr": 1,
+          "text_de": "SBF Geltungsbereich",
+          "answer_de": "Auf den Binnenschifffahrtsstraßen ist der Sportbootführerschein vorgeschrieben für Fahrzeuge unter 20 Meter Länge (ohne Ruder und Bugspriet) mit einer größeren Nutzleistung als 11,03 kW (15 PS) bei Verbrennungsmotoren bzw. 7,5 kW (10,20 PS) bei Elektromotoren (maßgeblich ist die Betriebsart S1 (Dauerbetrieb) nach DIN EN 60034-1: Ausgabe Februar 2011). In Berlin und Brandenburg ist er auf bestimmten Binnenschifffahrtsstraßen auch vorgeschrieben für Sportboote unter Segel. ",
+          "text_ro": " ",
+          "answer_ro": " ",
+          "text_en": " ",
+          "answer_en": " "
+        },
+        {
+          "nr": 1,
+          "text_de": "SKS",
+          "answer_de": "Sportküstenschifferschein",
+          "answer_en": "Sport coastal boating license"
+        },
+        {
+          "nr": 1,
+          "text_de": "SKS Geltungsbereich",
+          "answer_de": "Der Sportküstenschifferschein (SKS) ist der amtliche Führerschein zum Führen von Yachten mit Antriebsmaschine und unter Segel in Küstengewässern (alle Meere bis 12 Seemeilen Abstand von der Festlandküste). Er ist vorgeschrieben zum Führen von gewerbsmäßig genutzten Sportbooten in den Küstengewässern.",
+          "text_ro": " ",
+          "answer_ro": " ",
+          "text_en": " ",
+          "answer_en": " "
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Others",
+      "questions": [
+        {
+          "nr": 1,
+          "text_de": "SSS",
+          "answer_de": "Sportseeschifferschein",
+          "text_ro": " ",
+          "answer_ro": " ",
+          "text_en": " ",
+          "answer_en": " "
+        },
+        {
+          "nr": 1,
+          "text_de": "SHS",
+          "answer_de": "Sporthochseeschifferschein",
+          "text_ro": " ",
+          "answer_ro": " ",
+          "text_en": " ",
+          "answer_en": " "
+        },
+        {
+          "nr": 1,
+          "text_de": "SHS Geltungsbereich",
+          "answer_de": "Der Sporthochseeschifferschein ist der amtliche Führerschein zum Führen von Yachten mit Motor und unter Segel in der weltweiten Fahrt (alle Meere). Er ist vorgeschrieben zum Führen von gewerbsmäßig genutzten Sportbooten in der weltweiten Fahrt. ",
+          "text_ro": " ",
+          "answer_ro": " ",
+          "text_en": " ",
+          "answer_en": " "
+        }
+      ]
+    },
+    {
+      "id": 10,
       "name": "Navigation",
       "questions": [
         {
@@ -643,7 +720,7 @@
       ]
     },
     {
-      "id": 1060,
+      "id": 11,
       "name": "Schifffahrtsrecht",
       "questions": [
         {
@@ -1199,7 +1276,7 @@
       ]
     },
     {
-      "id": 1171,
+      "id": 12,
       "name": "Wetterkunde",
       "questions": [
         {
@@ -1705,7 +1782,7 @@
       ]
     },
     {
-      "id": 1272,
+      "id": 13,
       "name": "Seemannschaft I",
       "questions": [
         {
@@ -2526,7 +2603,7 @@
       ]
     },
     {
-      "id": 1436,
+      "id": 14,
       "name": "Seemannschaft II",
       "questions": [
         {
