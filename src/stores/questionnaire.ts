@@ -72,8 +72,8 @@ export const useQuestionnaireStore = defineStore('questionaire', () => {
             }))
         }))
 
+        console.debug(`(fetchNode ${thema.questionsUrl}) => `, thema)
         thema.isFetched = true
-        console.log(thema)
     }
 
     async function copyToClipboard(questions: Array<Question>) {
