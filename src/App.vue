@@ -1,9 +1,13 @@
 <template>
   <div id="my-header">
     <div class="menu">
-      <router-link class="menu-link" to="/"><font-icon icon="fa-solid fa-house" /> VOKABEL</router-link>
-      <router-link class="menu-link" to="/admin"><font-icon icon="fa-solid fa-gear" /> Admin</router-link>
-      <router-link class="menu-link" to="/settings"><font-icon icon="fa-solid fa-user" /> me</router-link>
+      <router-link class="menu-link" to="/vokabel">
+        <font-icon icon="fa-solid fa-house"/>
+        VOKABEL
+      </router-link>
+      <router-link class="menu-link" to="/settings">
+        <font-icon icon="fa-solid fa-gear"/>
+      </router-link>
     </div>
   </div>
 
@@ -24,32 +28,27 @@
   <div id="my-footer">
     <span id="my-copywrite">&copy; 2022 - present dnikku</span>
     <a href="https://github.com/dnikku/vokabel" title="Source code">
-      <font-icon icon="fa-brands fa-github" />
+      <font-icon icon="fa-brands fa-github"/>
     </a>
     <span v-if="resolution">{{ resolution }}</span>
   </div>
 </template>
 
+<style scoped>
+.router-link-active {
+  font-weight: bolder;
+}
+</style>
 
-<script lang="ts">
-import { RouterLink, RouterView } from "vue-router"
+
+<script setup lang="ts">
+import {RouterLink, RouterView} from "vue-router"
 import {useSettingsStore} from "@/stores/settings";
 
-export default {
-  setup() {
-    const settingsStore = useSettingsStore()
 
-    return {
-      settingsStore
-    }
-  },
-
-  computed: {
-    resolution() {
-      return this.settingsStore.states.resolution
-    }
-  }
-}
+const {resolution} = useSettingsStore()
 
 </script>
 
+<script setup lang="ts">
+</script>
