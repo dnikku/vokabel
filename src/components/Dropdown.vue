@@ -21,12 +21,12 @@ const emit = defineEmits(["update:modelValue"])
 const selected = computed({
   get() {
     let value = getOptionValue(props.modelValue)
-    console.log("dropdown: get", value)
+    // console.log("dropdown: get", value)
     return value
   },
   set(value) {
     const option = props.options.find(p => getOptionValue(p) == value)
-    console.log("dropdown: option", option)
+    // console.log("dropdown: option", option)
     emit("update:modelValue", option)
   }
 })
