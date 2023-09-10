@@ -15,3 +15,5 @@
 1. VOK-13: extract table (csv) from image ... see https://pyimagesearch.com/2022/02/28/multi-column-table-ocr/
 1. VOK-14: re-analyze vendor.js size, why @fontawesome/vue-fontawesome is so big?
 1. ~~VOK-15:~~ add SKS Fragen ... see: https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Fragenkatalog-SKS.pdf?__blob=publicationFile&v=3
+1. VOK-16: draft Questionnair nav, view
+1. VOK-17: migrate to router 4.x, check why?
