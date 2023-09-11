@@ -1,6 +1,7 @@
 <template>
   <div class="question">{{ value.nr }}:
     <multiline :text="value.text_de"/>
+    <multi-image :images="value.text_images"/>
   </div>
   <div class="question-actions">
     <checkbox label="Show Answer" v-model="showAnswer"/>
@@ -16,6 +17,7 @@
 
   <div class="answer" v-show="showAnswer">
     <multiline :text="value.answer_de"/>
+    <multi-image :images="value.answer_images"/>
   </div>
   <div class="answer en" v-show="showAnswer && hintEN">
     <multiline :text="value.answer_en"/>
@@ -75,6 +77,7 @@ import {ref} from "vue";
 import Checkbox from "@/components/Checkbox.vue";
 import type {Question} from "@/stores/questionnaire";
 import Multiline from "@/components/Multiline.vue";
+import MultiImage from "@/components/MultiImage.vue";
 
 const props = defineProps<{
   value: Question

@@ -9,6 +9,8 @@ export type Question = {
 
     text_de: string
     answer_de: string
+    text_images?: Array<string>
+    answer_images?: Array<string>
 
     text_ro?: string
     answer_ro?: string
@@ -63,6 +65,9 @@ export const useQuestionnaireStore = defineStore('questionaire', () => {
 
                 text_de: p1.text_de,
                 answer_de: p1.answer_de,
+
+                text_images: p1.text_images,
+                answer_images: p1.answer_images,
 
                 text_ro: p1.text_ro,
                 answer_ro: p1.answer_ro,
