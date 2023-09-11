@@ -18,5 +18,5 @@
 1. ~~VOK-16:~~ draft Questionnaire nav, view
 1. VOK-17: migrate to router 4.x, check why?
 1. VOK-18: add paste translate
-1. VOK-19: render questions with image, \n
+1. ~~VOK-19~~: render questions with image, \n
 1. VOK-20: simple trainer view

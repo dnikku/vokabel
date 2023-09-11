@@ -9,6 +9,8 @@ export type Question = {
 
     text_de: string
     answer_de: string
+    text_images?: Array<string>
+    answer_images?: Array<string>
 
     text_ro?: string
     answer_ro?: string
@@ -18,7 +20,7 @@ export type Question = {
 }
 
 export type Topic = {
-    nr: number
+    id: number
     name: string
 
     questions: Question[]
@@ -55,7 +57,7 @@ export const useQuestionnaireStore = defineStore('questionaire', () => {
         const data = await fetcher.fetchJson(thema.questionsUrl)
 
         thema.topics = data.topics.map((p: any) => ({
-            nr: p.id,
+            id: p.id,
             name: `${p.name} (${p.questions.length})`,
             questions: p.questions.map((p1: any) => ({
                 nr: p1.nr,
@@ -63,6 +65,9 @@ export const useQuestionnaireStore = defineStore('questionaire', () => {
 
                 text_de: p1.text_de,
                 answer_de: p1.answer_de,
+
+                text_images: p1.text_images,
+                answer_images: p1.answer_images,
 
                 text_ro: p1.text_ro,
                 answer_ro: p1.answer_ro,
@@ -72,8 +77,8 @@ export const useQuestionnaireStore = defineStore('questionaire', () => {
             }))
         }))
 
+        console.debug(`(fetchNode ${thema.questionsUrl}) => `, thema)
         thema.isFetched = true
-        console.log(thema)
     }
 
     async function copyToClipboard(questions: Array<Question>) {
