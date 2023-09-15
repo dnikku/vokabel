@@ -5,16 +5,16 @@
               :options="thema.topics" option-value="name" option-label="name">
     </dropdown>
 
-    <paginate :total-items="selectedTopic.questions.length" :page-size="pageSize"
-              :page="selectedPage" @page-changed="changePage"/>
+    <paginate :items="selectedTopic.questions" :page-size="settings.pageSize"
+              v-model="selectedPage"/>
     <div class="q-questions">
       <div class="q-question" v-for="question in viewQuestions"
            :key="`q-${selectedTopic.id}-${question.nr}`">
         <question-def :value="question"/>
       </div>
     </div>
-    <paginate :total-items="selectedTopic.questions.length" :page-size="pageSize"
-              :page="selectedPage" @page-changed="changePage"/>
+    <paginate :items="selectedTopic.questions" :page-size="settings.pageSize"
+              v-model="selectedPage"/>
 
     <div class="actions">
       <a :href="thema.questionsUrl" target="_blank">
@@ -41,32 +41,32 @@
 
 
 <script setup lang="ts">
-import {ref} from "vue";
+import {computed, ref} from "vue";
 import {useQuestionnaireStore} from "@/stores/questionnaire"
 import type {Question} from "@/stores/questionnaire";
 import QuestionDef from "@/components/QuestionDef.vue"
 import Paginate from "@/components/Paginate.vue";
 import Dropdown from "@/components/Dropdown.vue";
+import {useSettingsStore} from "@/stores/settings";
 
-
+const settings = useSettingsStore()
 const questionnaire = useQuestionnaireStore()
 
 const thema = questionnaire.root
 await questionnaire.loadThema(thema)
 
-const pageSize = ref(10);
-
 const selectedTopic = ref(thema.topics[0])
-const viewQuestions = ref([] as Array<Question>)
 const selectedPage = ref(1)
 
-function changePage(page: number) {
-  selectedPage.value = page
-  viewQuestions.value = selectedTopic.value.questions.slice(
-      (page - 1) * pageSize.value, page * pageSize.value
-  )
-  console.log(`changePage(${page}, ${pageSize.value}).`)
-}
+let unique = 0;
+const viewQuestions = computed(() => {
+  unique += 1
+  // console.log(`${unique} <${selectedTopic.value.name}> changePage(${selectedPage.value}, ${pageSize.value}).`)
+  return selectedTopic.value.questions.slice(
+      (selectedPage.value - 1) * settings.pageSize,
+      selectedPage.value * settings.pageSize)
+})
+
 
 async function copyToClipboard() {
   try {
