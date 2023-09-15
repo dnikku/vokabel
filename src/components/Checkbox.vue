@@ -1,11 +1,15 @@
 <template>
   <span>
-    <input :id="'checkbox-' + $.uid" type="checkbox" v-model="checked" :disabled="disabled"/>
-    <label :for="'checkbox-' + $.uid">{{ label }}</label>
+    <label class="form-control">
+      <input type="checkbox" v-model="checked" :disabled="disabled"/>
+      {{ label }}
+    </label>
   </span>
 </template>
 
 <script setup lang="ts">
+// for more styling see: https://moderncss.dev/pure-css-custom-checkbox-style/
+
 import {computed} from "vue";
 
 const props = defineProps<{

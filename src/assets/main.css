@@ -78,6 +78,13 @@ tbody:nth-child(even) {
     background-color: #eed;
 }
 
+.form-control {
+    line-height: 1.1;
+
+    display: grid;
+    grid-template-columns: 1em auto;
+    gap: 0.5em;
+}
 
 .pages {
     display: flex;
