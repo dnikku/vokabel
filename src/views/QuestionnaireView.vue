@@ -5,16 +5,22 @@
               :options="thema.topics" option-value="name" option-label="name">
     </dropdown>
 
-    <paginate :total-items="selectedTopic.questions.length" :page-size="pageSize"
-              :page="selectedPage" @page-changed="changePage"/>
+    <div class="header">
+      <paginate :items="selectedTopic.questions" :page-size="settings.pageSize"
+                v-model="selectedPage"/>
+      <checkbox v-model="showAllAnswers" label="Show Answer" style="width: 122px"/>
+    </div>
     <div class="q-questions">
-      <div class="q-question" v-for="question in viewQuestions"
-           :key="`q-${selectedTopic.id}-${question.nr}`">
-        <question-def :value="question"/>
+      <div class="q-question" v-for="q in viewQuestions"
+           :key="`q-${selectedTopic.id}-${q.question.nr}`">
+        <question-def :value="q"/>
       </div>
     </div>
-    <paginate :total-items="selectedTopic.questions.length" :page-size="pageSize"
-              :page="selectedPage" @page-changed="changePage"/>
+    <div class="header">
+      <paginate :items="selectedTopic.questions" :page-size="settings.pageSize"
+                v-model="selectedPage"/>
+      <checkbox v-model="showAllAnswers" label="Show Answer" style="width: 122px"/>
+    </div>
 
     <div class="actions">
       <a :href="thema.questionsUrl" target="_blank">
@@ -22,8 +28,12 @@
         goto json
       </a>
 
-      <button @click="copyToClipboard()">Copy</button>
-      <button @click="mergeFromClipboard()">Paste and Merge</button>
+      <template v-if="settings.showCopyPaste">
+        <button @click="copyToClipboard()">Copy</button>
+        <button @click="mergeFromClipboard()">Paste and Merge</button>
+
+        <button @click="downloadNow()">Download Now</button>
+      </template>
     </div>
 
   </div>
@@ -37,40 +47,61 @@
   gap: 16px;
   padding-top: 4px;
 }
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
 </style>
 
 
 <script setup lang="ts">
-import {ref} from "vue";
+import {computed, reactive, ref, toRef} from "vue";
 import {useQuestionnaireStore} from "@/stores/questionnaire"
-import type {Question} from "@/stores/questionnaire";
+import {useSettingsStore} from "@/stores/settings"
+
 import QuestionDef from "@/components/QuestionDef.vue"
-import Paginate from "@/components/Paginate.vue";
-import Dropdown from "@/components/Dropdown.vue";
+import Paginate from "@/components/Paginate.vue"
+import Dropdown from "@/components/Dropdown.vue"
+import Checkbox from "@/components/Checkbox.vue"
 
-
+const settings = useSettingsStore()
 const questionnaire = useQuestionnaireStore()
 
 const thema = questionnaire.root
 await questionnaire.loadThema(thema)
 
-const pageSize = ref(10);
-
-const selectedTopic = ref(thema.topics[0])
-const viewQuestions = ref([] as Array<Question>)
 const selectedPage = ref(1)
 
-function changePage(page: number) {
-  selectedPage.value = page
-  viewQuestions.value = selectedTopic.value.questions.slice(
-      (page - 1) * pageSize.value, page * pageSize.value
-  )
-  console.log(`changePage(${page}, ${pageSize.value}).`)
-}
+// FIXME: ??
+const selectedTopic = toRef(thema.topics[0])
+
+
+let unique = 0;
+const viewQuestions = computed(() => {
+  unique += 1
+  // console.log(`${unique} <${selectedTopic.value.name}> changePage(${selectedPage.value}, ${pageSize.value}).`)
+  const arr = selectedTopic.value.questions.slice(
+      (selectedPage.value - 1) * settings.pageSize,
+      selectedPage.value * settings.pageSize)
+
+  return arr.map(p => (reactive({question: {...p}, showAnswer: false})))
+})
+
+const showAllAnswers = computed({
+  get() {
+    return viewQuestions.value.every(p => p.showAnswer)
+  },
+  set(value) {
+    console.info(`show-all: ${value}`)
+    viewQuestions.value.forEach(p => p.showAnswer = value)
+  }
+})
 
 async function copyToClipboard() {
   try {
-    await questionnaire.copyToClipboard(viewQuestions.value)
+    await questionnaire.copyToClipboard(selectedTopic.value, viewQuestions.value.map(p => p.question))
   } catch (err) {
     alert("Failed to copy." + err)
   }
@@ -78,11 +109,14 @@ async function copyToClipboard() {
 
 async function mergeFromClipboard() {
   try {
-    await questionnaire.mergeFromClipboard(viewQuestions.value)
+    await questionnaire.mergeFromClipboard(selectedTopic.value)
   } catch (err) {
     alert("Failed to copy." + err)
   }
 }
 
+async function downloadNow() {
+  await questionnaire.downloadThema()
+}
 
 </script>

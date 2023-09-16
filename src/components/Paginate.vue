@@ -4,8 +4,7 @@
         type="button"
         :class="[ 'button--link button--large',
                     { 'is-active': page == selectedPage }]"
-        v-for="page in pages"
-        :key="page"
+        v-for="page in pages" :key="page"
         @click='selectedPage = page'
     >
       {{ page }}
@@ -18,29 +17,29 @@
 <script setup lang="ts">
 import {computed} from 'vue';
 
+
 const props = defineProps<{
-  page: number,
-  totalItems: number,
+  modelValue: number,
+  items: Array<Object>,
   pageSize: number,
 }>()
 
-const emit = defineEmits(['pageChanged'])
+const emit = defineEmits(['update:modelValue'])
 
 const selectedPage = computed({
   get() {
-    return props.page
+    return props.modelValue
   },
   set(value) {
-    emit('pageChanged', value)
+    emit("update:modelValue", value)
   }
 })
 
 const pageCount = computed(() =>
-    Math.ceil(props.totalItems / props.pageSize)
+    Math.ceil(props.items.length / props.pageSize)
 )
 
 const pages = computed(() => {
-  emit('pageChanged', props.page)
   return Array.from({length: pageCount.value}, (_, i) => i + 1);
 })
 

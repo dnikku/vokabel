@@ -42,7 +42,7 @@
     <a href="https://github.com/dnikku/vokabel" title="Source code">
       <font-icon icon="fa-brands fa-github"/>
     </a>
-    <span v-if="resolution">{{ resolution }}</span>
+    <span v-if="settings.resolution">{{ settings.resolution }}</span>
   </div>
 </template>
 
@@ -55,10 +55,10 @@
 
 <script setup lang="ts">
 import {RouterLink, RouterView} from "vue-router"
-import {useSettingsStore} from "@/stores/settings";
+import {useSettingsStore} from "@/stores/settings"
 
 
-const {resolution} = useSettingsStore()
+const settings = useSettingsStore()
 
 </script>
 
