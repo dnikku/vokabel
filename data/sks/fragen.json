@@ -5859,109 +5859,145 @@
           "nr": 1,
           "text_de": "SBF",
           "answer_de": "Sportbootführerschein",
-          "text_ro": " ",
-          "answer_ro": " ",
-          "text_en": " ",
-          "answer_en": " "
+          "text_ro": "SBF",
+          "answer_ro": "Permis barca sportiva",
+          "text_en": "SBF",
+          "answer_en": "Sports boat license"
         },
         {
           "nr": 2,
           "text_de": "SBF Geltungsbereich",
           "answer_de": "Auf den Binnenschifffahrtsstraßen ist der Sportbootführerschein vorgeschrieben für Fahrzeuge unter 20 Meter Länge (ohne Ruder und Bugspriet) mit einer größeren Nutzleistung als 11,03 kW (15 PS) bei Verbrennungsmotoren bzw. 7,5 kW (10,20 PS) bei Elektromotoren (maßgeblich ist die Betriebsart S1 (Dauerbetrieb) nach DIN EN 60034-1: Ausgabe Februar 2011). In Berlin und Brandenburg ist er auf bestimmten Binnenschifffahrtsstraßen auch vorgeschrieben für Sportboote unter Segel. ",
-          "text_ro": " ",
-          "answer_ro": " ",
-          "text_en": " ",
-          "answer_en": " "
+          "text_ro": "Domeniul de aplicare SBF",
+          "answer_ro": "Pe căile navigabile interioare, permisul de ambarcațiune de agrement este necesar pentru vehiculele cu lungimea mai mică de 20 de metri (fără cârmă și bompres) cu o putere utilă mai mare de 11,03 kW (15 CP) pentru motoarele cu ardere sau 7,5 kW (10,20 CP) pentru motoarele electrice. (Modul de funcționare relevant este S1 (funcționare continuă) conform DIN EN 60034-1: ediția februarie 2011). În Berlin și Brandenburg, este obligatoriu și pentru ambarcațiunile de agrement care navighează pe anumite căi navigabile interioare.",
+          "text_en": "SBF scope",
+          "answer_en": "On inland waterways, the recreational boat license is required for vehicles less than 20 meters long (without rudder and bowsprit) with a greater useful power than 11.03 kW (15 HP) for combustion engines or 7.5 kW (10.20 HP) for electric motors (The relevant operating mode is S1 (continuous operation) according to DIN EN 60034-1: February 2011 edition). In Berlin and Brandenburg it is also mandatory for recreational boats under sail on certain inland waterways."
         },
         {
           "nr": 3,
           "text_de": "SKS",
           "answer_de": "Sportküstenschifferschein",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
+          "text_ro": "SKS",
+          "answer_ro": "Licență de barcă de coastă sportivă",
+          "text_en": "SKS",
           "answer_en": "Sport coastal boating license"
         },
         {
           "nr": 4,
           "text_de": "SKS Geltungsbereich",
           "answer_de": "Der Sportküstenschifferschein (SKS) ist der amtliche Führerschein zum Führen von Yachten mit Antriebsmaschine und unter Segel in Küstengewässern (alle Meere bis 12 Seemeilen Abstand von der Festlandküste). Er ist vorgeschrieben zum Führen von gewerbsmäßig genutzten Sportbooten in den Küstengewässern.",
-          "text_ro": " ",
-          "answer_ro": " ",
-          "text_en": " ",
-          "answer_en": " "
+          "text_ro": "Domeniul SKS",
+          "answer_ro": "Licența Sport Coastal Boating License (SKS) este permisul de conducere oficial pentru conducerea iahturilor cu motoare de propulsie și navigate în apele de coastă (toate mările până la 12 mile marine de coasta continentală). Este obligatoriu pentru conducerea ambarcațiunilor de agrement utilizate comercial în apele de coastă.",
+          "text_en": "SKS scope",
+          "answer_en": "The Sport Coastal Boating License (SKS) is the official driving license for driving yachts with propulsion engines and under sail in coastal waters (all seas up to 12 nautical miles from the mainland coast). It is mandatory for driving commercially used pleasure craft in coastal waters."
         },
         {
           "nr": 5,
           "text_de": "BSF",
           "answer_de": "Bundesamt für Seeschifffahrt und Hydrographie",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "BSF",
+          "answer_ro": "Agenția Federală Maritimă și Hidrografică a Germaniei",
+          "text_en": "BSF",
+          "answer_en": "Federal Maritime and Hydrographic Agency of Germany"
         },
         {
           "nr": 6,
           "text_de": "NsF",
           "answer_de": "Nachrichten für Seefahrer",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "NSF",
+          "answer_ro": "Noutăți pentru marinari",
+          "text_en": "NSF",
+          "answer_en": "News for sailors"
         },
         {
           "nr": 7,
           "text_de": "sm",
           "answer_de": "1Seemeile (sm) = 1852m",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "sm",
+          "answer_ro": "1 milă marine (nm) = 1852m",
+          "text_en": "sm",
+          "answer_en": "1 nautical mile (nm) = 1852m"
         },
         {
           "nr": 8,
           "text_de": "kbl",
           "answer_de": "1 Kabellänge (kbl) = 185,2m",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "cbl",
+          "answer_ro": "1 lungime cablu (kbl) = 185,2 m",
+          "text_en": "cbl",
+          "answer_en": "1 cable length (kbl) = 185.2m"
         },
         {
           "nr": 9,
           "text_de": "kn",
           "answer_de": "1 Knot (kn) = 1sm/Stunde",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "kn",
+          "answer_ro": "1 nod (kn) = 1nm/oră",
+          "text_en": "kn",
+          "answer_en": "1 knot (kn) = 1nm/hour"
         },
         {
           "nr": 10,
           "text_de": "Geografische Koordinaten",
           "answer_de": "φ (Phi) - geografische Breite, LAT(latitude), Äquator ist der grostes Breitenkreis\nλ (Lambda) - geographische Länge, LONG(longitude), Nullmeridian",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Coordonate geografice",
+          "answer_ro": "φ (Phi) - latitudine geografică, LAT(latitudine), ecuatorul este cea mai mare paralelă\nλ (lambda) - longitudine geografică, LONG (longitudine), meridian principal",
+          "text_en": "Geographic coordinates",
+          "answer_en": "φ (Phi) - geographical latitude, LAT(latitude), equator is the greatest parallel\nλ (lambda) - geographical longitude, LONG(longitude), prime meridian"
         },
         {
           "nr": 11,
-          "text_de": "rv, MgK, SP, MgP",
-          "answer_de": "Magnetkompasskurs, Rechtvorausrichtung, Seitenpeilung, Makgentkompasspeilung",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_de": "rv, rwP, MgK, SP, MgP",
+          "answer_de": "Rechtvorausrichtung, rechtweisende Peilung, Magnetkompasskurs, Seitenpeilung, Makgentkompasspeilung",
+          "text_ro": "rv, rwP, MgK, SP, MgP",
+          "answer_ro": "Aliniere spre dreapta, direcție spre dreapta, direcție busolă magnetică, direcționare de vânt, direcție busolă magnetică",
+          "text_en": "rv, rwP, MgK, SP, MgP",
+          "answer_en": "Rightward alignment, rightward bearing, magnetic compass heading, windage bearing, magnetic compass bearing"
         },
         {
           "nr": 12,
           "text_de": "MgN",
           "answer_de": "Magnetkompass-Nord",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "MgN",
+          "answer_ro": "Busola magnetică la nord",
+          "text_en": "MgN",
+          "answer_en": "Magnetic compass north"
+        },
+        {
+          "nr": 13,
+          "text_de": "Abl",
+          "answer_de": "Ablenkung",
+          "text_ro": "JO",
+          "answer_ro": "Deviere",
+          "text_en": "OJ",
+          "answer_en": "Diversion"
+        },
+        {
+          "nr": 14,
+          "text_de": "Msw",
+          "answer_de": "Missweisung",
+          "text_ro": "Msw",
+          "answer_ro": "Denaturare",
+          "text_en": "Msw",
+          "answer_en": "Misrepresentation"
+        },
+        {
+          "nr": 15,
+          "text_de": "KN, KT, WT, H",
+          "answer_de": "Kartennull, Kartentiefe, Wassertiefe, Höhe der Gezeit",
+          "text_ro": "KN, KT, WT, H",
+          "answer_ro": "Harta zero, adâncimea hărții, adâncimea apei, înălțimea mareei",
+          "text_en": "KN, KT, WT, H",
+          "answer_en": "Map zero, map depth, water depth, tide height"
+        },
+        {
+          "nr": 16,
+          "text_de": "KVR",
+          "answer_de": "Kollisionsverhütungsregeln",
+          "text_ro": "KVR",
+          "answer_ro": "Reguli de prevenire a coliziunilor",
+          "text_en": "KVR",
+          "answer_en": "Collision prevention rules"
         }
       ]
     },
@@ -5974,28 +6010,116 @@
           "nr": 1,
           "text_de": "SSS",
           "answer_de": "Sportseeschifferschein",
-          "text_ro": " ",
-          "answer_ro": " ",
-          "text_en": " ",
-          "answer_en": " "
+          "text_ro": "SSS",
+          "answer_ro": "Licență de navigație sportivă",
+          "text_en": "SSS",
+          "answer_en": "Sports boating license"
         },
         {
           "nr": 2,
           "text_de": "SHS",
           "answer_de": "Sporthochseeschifferschein",
-          "text_ro": " ",
-          "answer_ro": " ",
-          "text_en": " ",
-          "answer_en": " "
+          "text_ro": "SHS",
+          "answer_ro": "Licență de navigație oceanică sportivă",
+          "text_en": "SHS",
+          "answer_en": "Sports ocean navigation license"
         },
         {
           "nr": 3,
           "text_de": "SHS Geltungsbereich",
           "answer_de": "Der Sporthochseeschifferschein ist der amtliche Führerschein zum Führen von Yachten mit Motor und unter Segel in der weltweiten Fahrt (alle Meere). Er ist vorgeschrieben zum Führen von gewerbsmäßig genutzten Sportbooten in der weltweiten Fahrt. ",
-          "text_ro": " ",
-          "answer_ro": " ",
-          "text_en": " ",
-          "answer_en": " "
+          "text_ro": "Domeniul SHS",
+          "answer_ro": "Permisul de navigație sportivă offshore este permisul de conducere oficial pentru conducerea iahturilor cu motoare și navigate în călătorii în întreaga lume (toate mările). Este obligatoriu pentru conducerea ambarcațiunilor de agrement utilizate comercial în călătorii în întreaga lume.",
+          "text_en": "SHS scope",
+          "answer_en": "The sport offshore boating license is the official driving license for driving yachts with motors and under sail on worldwide trips (all seas). It is mandatory for driving commercially used pleasure boats on worldwide trips."
+        },
+        {
+          "nr": 4,
+          "text_de": "Bezugsystem, Bezugsorten",
+          "answer_de": "",
+          "text_ro": "Sistem de referință, locații de referință",
+          "text_en": "Reference system, reference locations",
+          "answer_en": ""
+        },
+        {
+          "nr": 5,
+          "text_de": "Ermittlung",
+          "answer_de": "",
+          "text_ro": "Ancheta",
+          "text_en": "Investigation",
+          "answer_en": ""
+        },
+        {
+          "nr": 6,
+          "text_de": "Krimm",
+          "answer_de": "",
+          "text_ro": "Krimm",
+          "text_en": "Krimm",
+          "answer_en": ""
+        },
+        {
+          "nr": 7,
+          "text_de": "Berichtigung",
+          "answer_de": "",
+          "text_ro": "Corectare",
+          "text_en": "Correction",
+          "answer_en": ""
+        },
+        {
+          "nr": 8,
+          "text_de": "Berichtigungsverfahren",
+          "answer_de": "",
+          "text_ro": "Procedura de rectificare",
+          "text_en": "Rectification procedure",
+          "answer_en": ""
+        },
+        {
+          "nr": 9,
+          "text_de": "Besteckversetzung",
+          "answer_de": "",
+          "text_ro": "Deplasarea tacâmurilor",
+          "text_en": "Cutlery displacement",
+          "answer_en": ""
+        },
+        {
+          "nr": 10,
+          "text_de": "Peilungen",
+          "answer_de": "",
+          "text_ro": "Rulmenți",
+          "text_en": "Bearings",
+          "answer_en": ""
+        },
+        {
+          "nr": 11,
+          "text_de": "Wasserstandsschwankungen",
+          "answer_de": "",
+          "text_ro": "Fluctuațiile nivelului apei",
+          "text_en": "Water level fluctuations",
+          "answer_en": ""
+        },
+        {
+          "nr": 12,
+          "text_de": "Missweisung",
+          "answer_de": "",
+          "text_ro": "direcție greșită",
+          "text_en": "misdirection",
+          "answer_en": ""
+        },
+        {
+          "nr": 13,
+          "text_de": "Lotung",
+          "answer_de": "",
+          "text_ro": "Sună",
+          "text_en": "Sounding",
+          "answer_en": ""
+        },
+        {
+          "nr": 14,
+          "text_de": "Gezeit, Springzeit, Nippzeit",
+          "answer_de": "",
+          "text_ro": "Marea, timpul săriturii, timpul neapului",
+          "text_en": "Tide, jumping time, neap time",
+          "answer_en": ""
         }
       ]
     }
