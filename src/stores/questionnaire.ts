@@ -115,11 +115,11 @@ export const useQuestionnaireStore = defineStore('questionaire', () => {
                 text_images: p1.text_images,
                 answer_images: p1.answer_images,
 
-                text_ro: p1.text_ro || null,
-                answer_ro: p1.answer_ro || null,
+                text_ro: p1.text_ro || "",
+                answer_ro: p1.answer_ro || "",
 
-                text_en: p1.text_en || null,
-                answer_en: p1.answer_en || null,
+                text_en: p1.text_en || "",
+                answer_en: p1.answer_en || "",
             }))
         }))
 
