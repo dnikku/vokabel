@@ -162,12 +162,50 @@ export const useQuestionnaireStore = defineStore('questionaire', () => {
         }
     }
 
+    async function downloadThema() {
+        let data = {
+            "template:": [
+                {
+                    "nr": 1,
+                    "text_de": " ",
+                    "text_images": [
+                        ""
+                    ],
+                    "answer_de": " ",
+                    "answer_images": [
+                        ""
+                    ],
+                    "text_ro": " ",
+                    "answer_ro": " ",
+                    "text_en": " ",
+                    "answer_en": " "
+                }],
+            "topics": root.value.topics
+        }
+
+        function download(data: string, type: string, name: string) {
+            let blob = new Blob([data], {type});
+            let url = window.URL.createObjectURL(blob);
+
+            let link = document.createElement("a");
+            link.download = name;
+            link.href = url;
+            link.click();
+
+            window.URL.revokeObjectURL(url);
+        }
+
+        let dataJson = JSON.stringify(data, null, 2)
+        download(dataJson, "application/json", "fragen.json")
+    }
+
 
     return {
         root,
         loadThema,
         copyToClipboard,
-        mergeFromClipboard
+        mergeFromClipboard,
+        downloadThema
     }
 })
 

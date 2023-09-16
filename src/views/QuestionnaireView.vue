@@ -30,6 +30,8 @@
 
       <button @click="copyToClipboard()">Copy</button>
       <button @click="mergeFromClipboard()">Paste and Merge</button>
+
+      <button @click="downloadNow()">Download Now</button>
     </div>
 
   </div>
@@ -111,5 +113,8 @@ async function mergeFromClipboard() {
   }
 }
 
+async function downloadNow() {
+  await questionnaire.downloadThema()
+}
 
 </script>
