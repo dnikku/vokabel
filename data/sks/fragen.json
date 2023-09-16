@@ -4529,568 +4529,568 @@
           "nr": 1,
           "text_de": "Welche Bootsbau-Werkstoffe finden im Sportbootbau für den Rumpf überwiegend Verwendung?",
           "answer_de": "1. GFK = glasfaserverstärkter Kunststoff,\n2. Stahl,\n3. Aluminium,\n4. wasserfest verleimtes Sperrholz,\n5. Massivholz.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce materiale de construcție a bărcilor sunt utilizate în mod predominant pentru carenă în construcția de ambarcațiuni sportive?",
+          "answer_ro": "1. GRP = plastic armat cu fibră de sticlă,\n2. oțel,\n3. aluminiu,\n4. placaj lipit impermeabil,\n5. Lemn masiv.",
+          "text_en": "Which boat building materials are predominantly used for the hull in sports boat construction?",
+          "answer_en": "1. GRP = glass fiber reinforced plastic,\n2. steel,\n3. aluminum,\n4. waterproof glued plywood,\n5. Solid wood."
         },
         {
           "nr": 2,
           "text_de": "Was versteht man unter einem Gleiter (schnelle Schiffe) und welche Fahreigenschaften hat solch ein Motorboot?",
           "answer_de": "Schnelle Schiffe, deren Gewicht überwiegend von Auftriebskomponenten getragen wird (flasche und breite Konstruktion) und die auf glattem Wasser bei höherer Geschwindigkeit in Gleitfahrt kommen. Bei Seegang können die Boote hart aufschlagen, sodass die Konstruktionen stark beansprucht werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce se înțelege prin planor (nave rapide) și ce caracteristici de conducere are o astfel de barcă cu motor?",
+          "answer_ro": "Nave rapide a căror greutate este susținută predominant de componente de flotabilitate (construcție plană și largă) și care pot aluneca cu viteze mai mari pe apă lină. În mare agitată, bărcile pot lovi puternic, punând multă presiune asupra structurilor.",
+          "text_en": "What is meant by a glider (fast ships) and what driving characteristics does such a motorboat have?",
+          "answer_en": "Fast ships whose weight is supported predominantly by buoyancy components (flat and wide construction) and which can glide at higher speeds on smooth water. In rough seas, the boats can hit hard, putting a lot of strain on the structures."
         },
         {
           "nr": 3,
           "text_de": "Was versteht man unter einem „Verdränger“ und welche Fahreigenschaften hat solch ein Motorboot?",
           "answer_de": "Konventionelle Schiffe - unabhängig vom Tiefgang -, deren Gewicht ausschließlich vom hydrostatischen Auftrieb getragen wird und deren Geschwindigkeit dementsprechend beschränkt ist (Rumpfgeschwindigkeit).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce se înțelege prin „deplasator” și ce caracteristici de conducere are o astfel de barcă cu motor?",
+          "answer_ro": "Nave convenționale - indiferent de pescaj - a căror greutate este susținută exclusiv de flotabilitatea hidrostatică și a căror viteză este limitată corespunzător (viteza carenei).",
+          "text_en": "What is meant by a “displacer” and what driving characteristics does such a motorboat have?",
+          "answer_en": "Conventional ships - regardless of draft - whose weight is supported exclusively by hydrostatic buoyancy and whose speed is limited accordingly (hull speed)."
         },
         {
           "nr": 4,
           "text_de": "Was versteht man unter einem „Halbgleiter“ und welche Fahreigenschaften hat solch ein Motorboot?",
           "answer_de": "Halbgleiter sind Motorboote mit geringem Tiefgang, sehr hoher Formstabilität und schneller Fahrweise bei starker Motorisierung.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce se înțelege prin „semiplanor” și ce caracteristici de conducere are o astfel de barcă cu motor?",
+          "answer_ro": "Semiplanoarele sunt bărci cu motor cu pescaj redus, stabilitate dimensională foarte mare și navigare rapidă cu motoare puternice.",
+          "text_en": "What is meant by a “semi-glider” and what driving characteristics does such a motorboat have?",
+          "answer_en": "Semi-gliders are motorboats with a shallow draft, very high dimensional stability and fast sailing with powerful engines."
         },
         {
           "nr": 5,
           "text_de": "Was versteht man im Bootsbau unter Gelcoat?",
           "answer_de": "Die äußere Schutzschicht eines Bauteils aus glasfaserverstärktem Kunststoff.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce se înțelege prin gelcoat în construcția de bărci?",
+          "answer_ro": "Stratul exterior de protecție al unei componente din plastic armat cu fibră de sticlă.",
+          "text_en": "What is meant by gelcoat in boat building?",
+          "answer_en": "The outer protective layer of a component made of glass fiber reinforced plastic."
         },
         {
           "nr": 6,
           "text_de": "Was versteht man beim GFK-Bootsbau unter Sandwichverfahren (GFK = glasfaserverstärkter Kunststoff)?",
           "answer_de": "Zwischen zwei GFK-Schichten wird eine Zwischenlage zur Versteifung einlaminiert, z. B. aus Balsaholz.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce se înțelege prin proces sandwich (GRP = plastic armat cu fibră de sticlă) în construcția de bărci GRP?",
+          "answer_ro": "Un strat intermediar este laminat între două straturi de GRP în scopuri de rigidizare, de ex. B. din lemn de balsa.",
+          "text_en": "What is meant by sandwich process (GRP = glass fiber reinforced plastic) in GRP boat building?",
+          "answer_en": "An intermediate layer is laminated between two GRP layers for stiffening purposes, e.g. B. made of balsa wood."
         },
         {
           "nr": 7,
           "text_de": "Welchen Vorteil hat die Sandwichbauweise gegenüber der Massivbauweise bei GFK-Yachten (GFK = glasfaserverstärkter Kunststoff)?",
           "answer_de": "Große Steifheit, Verwindungsfestigkeit, geringes Gewicht, gute Isolierung.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce avantaj are construcția tip sandwich față de construcția solidă a iahturilor GRP (GRP = plastic armat cu fibră de sticlă)?",
+          "answer_ro": "Rigiditate mare, rezistență la torsiune, greutate redusă, izolare bună.",
+          "text_en": "What advantage does the sandwich construction have over the solid construction of GRP yachts (GRP = glass fiber reinforced plastic)?",
+          "answer_en": "Great rigidity, torsion resistance, light weight, good insulation."
         },
         {
           "nr": 8,
           "text_de": "Beschreiben Sie die Vor- und Nachteile von Stahl als Baumaterial für Yachten.",
           "answer_de": "Vorteile: zuverlässiges, problemloses Baumaterial mit sehr hoher Festigkeit und langer Lebensdauer.\nNachteile: hohes Gewicht, Rostanfälligkeit.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Descrieți avantajele și dezavantajele oțelului ca material de construcție pentru iahturi.",
+          "answer_ro": "Avantaje: material de construcție fiabil, fără probleme, cu rezistență foarte mare și o durată de viață lungă.\nDezavantaje: greutate mare, susceptibilitate la rugină.",
+          "text_en": "Describe the advantages and disadvantages of steel as a construction material for yachts.",
+          "answer_en": "Advantages: reliable, problem-free building material with very high strength and a long service life.\nDisadvantages: high weight, susceptibility to rust."
         },
         {
           "nr": 9,
           "text_de": "Was bedeutet der Begriff „Kategorie“ im Zusammenhang mit dem CE-Zeichen für Wassersportfahrzeuge?",
           "answer_de": "Mit der Kategorie legt der Hersteller fest, in welchem Fahrgebiet, bis zu welcher Windstärke und bis zu welcher charakteristischen Wellenhöhe das Fahrzeug sicher betrieben werden kann.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce înseamnă termenul „categorie” în legătură cu marcajul CE pentru vehiculele pentru sporturi nautice?",
+          "answer_ro": "Cu categoria, producătorul precizează în ce zonă de conducere, până la ce putere vântului și până la ce înălțime caracteristică a valului poate fi condus vehiculul în siguranță.",
+          "text_en": "What does the term “category” mean in connection with the CE mark for water sports vehicles?",
+          "answer_en": "With the category, the manufacturer specifies in which driving area, up to which wind strength and up to which characteristic wave height the vehicle can be operated safely."
         },
         {
           "nr": 10,
           "text_de": "Welche Kategorien können in Zusammenhang mit dem CE-Zeichen für Wassersportfahrzeuge vergeben werden?",
           "answer_de": "1. A Hochsee,\n2. B Außerhalb von Küstengewässern,\n3. C Küstennahe Gewässer,\n4. D Geschützte Gewässer.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce categorii pot fi acordate în legătură cu marcajul CE pentru vehiculele pentru sporturi nautice?",
+          "answer_ro": "1. O mare înaltă,\n2. B În afara apelor de coastă,\n3. C Apele de coastă,\n4. D Apele protejate.",
+          "text_en": "Which categories can be awarded in connection with the CE mark for water sports vehicles?",
+          "answer_en": "1. A high seas,\n2. B Outside coastal waters,\n3. C Coastal waters,\n4. D Protected waters."
         },
         {
           "nr": 11,
           "text_de": "Was bedeutet die im Zusammenhang mit dem CE-Zeichen für Wassersportfahrzeuge angegebene Kategorie „B Außerhalb von Küstengewässern“?",
           "answer_de": "Das Fahrzeug ist ausgelegt für Fahrten außerhalb von Küstengewässern, in denen Windstärken bis einschließlich 8 Bft und signifikante Wellenhöhen bis einschließlich 4 m auftreten können.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce înseamnă categoria „B În afara apelor de coastă” în legătură cu marcajul CE pentru vehiculele pentru sporturi nautice?",
+          "answer_ro": "Vehiculul este proiectat pentru călătorii în afara apelor de coastă, unde pot apărea vânturi de până la 8 Bft inclusiv și înălțimi semnificative ale valurilor de până la 4 m inclusiv.",
+          "text_en": "What does the “B Outside coastal waters” category mean in connection with the CE mark for water sports vehicles?",
+          "answer_en": "The vehicle is designed for travel outside coastal waters where winds of up to and including 8 Bft and significant wave heights of up to and including 4 m can occur."
         },
         {
           "nr": 12,
           "text_de": "Beschreiben Sie den Aufbau einer Radsteuerung mit Seilzügen.",
           "answer_de": "Das Rad dreht ein Zahnrad, über das eine Kette in der Steuersäule nach unten verläuft. Die Kette ist mit den Steuerseilen verbunden, welche über Umlenkrollen zum Ruderquadranten führen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Descrieți structura unui sistem de control al roților cu tragere de cablu.",
+          "answer_ro": "Roata rotește o treaptă de viteză peste care trece un lanț în coloana de control. Lanțul este conectat la cablurile de comandă, care duc în cadranul cârmei prin scripete.",
+          "text_en": "Describe the structure of a wheel control system with cable pulls.",
+          "answer_en": "The wheel turns a gear over which a chain runs down in the control column. The chain is connected to the control cables, which lead to the rudder quadrant via pulleys."
         },
         {
           "nr": 13,
           "text_de": "Wozu dient der Lenzkorb am Ansaugstutzen einer Lenzpumpe und wie erhalten Sie seine Funktionsfähigkeit?",
           "answer_de": "Der Lenzkorb verhindert Verunreinigungen und Verstopfungen der Lenzpumpe. Er muss regelmäßig überprüft und gereinigt werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este scopul coșului de santină de pe orificiul de admisie al unei pompe de santină și cum îi mențineți funcționalitatea?",
+          "answer_ro": "Coșul de santină previne contaminarea și blocajele în pompa de santină. Trebuie verificat și curățat în mod regulat.",
+          "text_en": "What is the purpose of the bilge basket on the intake port of a bilge pump and how do you maintain its functionality?",
+          "answer_en": "The bilge basket prevents contamination and blockages in the bilge pump. It needs to be checked and cleaned regularly."
         },
         {
           "nr": 14,
           "text_de": "Welche Lenzvorrichtungen und -möglichkeiten sollten auf jeder seegehenden Yacht vorhanden sein?",
           "answer_de": "Zwei voneinander unabhängige Bilgepumpen, von denen eine über Deck bedienbar ist, sowie 2 Pützen mit Leinen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce dispozitive și facilități de santină ar trebui să fie disponibile pe fiecare iaht maritim?",
+          "answer_ro": "Două pompe de santină independente, dintre care una poate fi acționată deasupra punții, precum și 2 bălți cu linii.",
+          "text_en": "What bilge devices and facilities should be available on every seagoing yacht?",
+          "answer_en": "Two independent bilge pumps, one of which can be operated above deck, as well as 2 puddles with lines."
         },
         {
           "nr": 15,
           "text_de": "Warum sollten Sie mehr als einen Anker an Bord haben, möglichst unterschiedlicher Art?",
           "answer_de": "1. Als Ersatz bei Verlust,\n2. zum Verwarpen oder Verkatten,\n3. um unterschiedliche Ankergründe berücksichtigen zu können,\n4. um bei schwerem Wetter oder in Tidengewässern vor 2 Ankern liegen zu können.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce ar trebui să aveți mai mult de o ancoră la bord, de preferință de diferite tipuri?",
+          "answer_ro": "1. Ca înlocuitor în caz de pierdere,\n2. pentru deformare sau catering,\n3. pentru a putea lua în considerare diferite motive de ancorare,\n4. să poată sta la 2 ancore pe vreme grea sau în apele de maree.",
+          "text_en": "Why should you have more than one anchor on board, preferably of different types?",
+          "answer_en": "1. As a replacement in case of loss,\n2. for warping or catenating,\n3. in order to be able to take different anchoring reasons into account,\n4. to be able to lie at 2 anchors in heavy weather or in tidal waters."
         },
         {
           "nr": 16,
           "text_de": "Wie viele Fender und Festmacherleinen sollten Sie mindestens an Bord haben?",
           "answer_de": "4 Festmacherleinen und 4 Fender",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este numărul minim de apărătoare și linii de acostare pe care ar trebui să le aveți la bord?",
+          "answer_ro": "4 linii de acostare și 4 aripi",
+          "text_en": "What is the minimum number of fenders and mooring lines you should have on board?",
+          "answer_en": "4 mooring lines and 4 fenders"
         },
         {
           "nr": 17,
           "text_de": "Was sollte auf jeder Motoryacht außer Festmacherleinen an Tauwerk vorhanden sein?",
           "answer_de": "Reservetauwerk, Wurfleine, Schlepptrosse und Ankerleine.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce frânghii ar trebui să fie pe fiecare iaht cu motor, în afară de liniile de acostare?",
+          "answer_ro": "frânghie de rezervă, frânghie de aruncare, frânghie de remorcare și linie de ancoră.",
+          "text_en": "What ropes should be on every motor yacht other than mooring lines?",
+          "answer_en": "Reserve rope, throwing line, towing rope and anchor line."
         },
         {
           "nr": 18,
           "text_de": "In welchen Publikationen finden Sie amtliche Informationen über die Ausrüstung und Sicherheit von Sportbooten, die auch bei der Beurteilung von Sportbootunfällen herangezogen werden?",
           "answer_de": "1. „Sicherheit im See- und Küstenbereich, Sorgfaltsregeln für Wassersportler“, herausgegeben vom BSH.\n2. „Sicherheit auf dem Wasser, Leitfaden für Wassersportler“, herausgegeben vom Bundesministerium für Verkehr, Bau und Stadtentwicklung.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "În ce publicații puteți găsi informații oficiale despre echipamentul și siguranța ambarcațiunilor de agrement care sunt utilizate și la evaluarea accidentelor de ambarcațiuni de agrement?",
+          "answer_ro": "1. „Securitate în zonele maritime și de coastă, reguli de îngrijire pentru pasionații de sporturi nautice”, publicat de BSH.\n2. „Siguranța pe apă, linii directoare pentru pasionații de sporturi nautice”, publicat de Ministerul Federal al Transporturilor, Construcțiilor și Dezvoltării Urbane.",
+          "text_en": "In which publications can you find official information about the equipment and safety of recreational craft that is also used when assessing recreational craft accidents?",
+          "answer_en": "1. “Security in the sea and coastal areas, rules of care for water sports enthusiasts”, published by the BSH.\n2. “Safety on the water, guidelines for water sports enthusiasts”, published by the Federal Ministry of Transport, Building and Urban Development."
         },
         {
           "nr": 19,
           "text_de": "Warum müssen auf Yachten zusätzlich zu elektrisch oder motorgetriebenen Lenzpumpen auch Handlenzpumpen vorhanden sein?",
           "answer_de": "Weil sie auch bei Strom- und Motorausfall betätigt werden können.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce iahturile trebuie să aibă pompe de santină manuale în plus față de pompele de santină electrice sau cu motor?",
+          "answer_ro": "Deoarece pot fi acționate și în cazul unei defecțiuni de alimentare sau a motorului.",
+          "text_en": "Why do yachts have to have manual bilge pumps in addition to electric or motor-driven bilge pumps?",
+          "answer_en": "Because they can also be operated in the event of a power or motor failure."
         },
         {
           "nr": 20,
           "text_de": "Warum ist Flüssiggas (Propan, Butan) auf einer Yacht besonders gefährlich?",
           "answer_de": "Es ist schwerer als Luft, sinkt nach unten und bildet mit Luft ein explosives Gemisch; es kann sich im Schiffsinneren (z.B. in der Bilge) sammeln.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce este gazul lichid (propan, butan) deosebit de periculos pe un iaht?",
+          "answer_ro": "Este mai greu decât aerul, se scufundă în jos și formează un amestec exploziv cu aerul; se poate colecta în interiorul navei (de exemplu, în santină).",
+          "text_en": "Why is liquid gas (propane, butane) particularly dangerous on a yacht?",
+          "answer_en": "It is heavier than air, sinks downwards and forms an explosive mixture with air; it can collect inside the ship (e.g. in the bilge)."
         },
         {
           "nr": 21,
           "text_de": "Welche 4 Bedienelemente besitzt ein mit Handpumpe betriebenes Bord-WC auf einer Yacht?",
           "answer_de": "1. Seeventil und Spülwasserschlauch (Seewasser),\n2. Handpumpe für Toilettenspülung,\n3. Hebel zur Unterbrechung der Seewasserzufuhr (Handpumpe dient dann nur noch zum Abpumpen),\n4. Abwasserschlauch (via Fäkalientank) zum Seeventil.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce 4 comenzi are o toaletă de la bord acționată cu pompă manuală pe un iaht?",
+          "answer_ro": "1. Robinet de mare și furtun de apă de spălare (apă de mare),\n2. Pompă manuală pentru spălarea toaletei,\n3. Pârghie pentru a întrerupe alimentarea cu apă de mare (pompa manuală este folosită doar pentru pompare),\n4. Furtun de apă uzată (prin rezervorul de depozitare a deșeurilor) la robinet.",
+          "text_en": "What 4 controls does a hand pump-operated on-board toilet on a yacht have?",
+          "answer_en": "1. Seacock and flushing water hose (sea water),\n2. Hand pump for toilet flushing,\n3. Lever to interrupt the sea water supply (hand pump is then only used for pumping out),\n4. Wastewater hose (via waste holding tank) to seacock."
         },
         {
           "nr": 22,
           "text_de": "Beschreiben Sie in 5 Schritten die Bedienung eines Bord-WC auf einer Yacht.",
           "answer_de": "1. Seeventil für Seewasserspülung öffnen,\n2. Handpumpe betätigen, sodass das Becken gespült wird und gleichzeitig die Fäkalien abfließen - ausgiebig spülen,\n3. Seewasserzufuhr unterbrechen (Hebel umlegen),\n4. Becken mit Handpumpe leer pumpen,\n5. Seeventile für Zu- und Abfluss schließen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Descrieți funcționarea unei toalete de la bord pe un iaht în 5 pași.",
+          "answer_ro": "1. Deschideți supapa de mare pentru spălarea cu apă de mare,\n2. Acționați pompa manuală astfel încât bazinul să fie spălat și fecalele să se scurgă în același timp - clătiți bine,\n3. Întrerupeți alimentarea cu apă de mare (rotiți maneta),\n4. Pompați piscina goală cu o pompă manuală,\n5. Închideți ventilele pentru intrare și ieșire.",
+          "text_en": "Describe the operation of an on-board toilet on a yacht in 5 steps.",
+          "answer_en": "1. Open sea valve for sea water flushing,\n2. Operate the hand pump so that the basin is flushed and the faeces drain out at the same time - rinse thoroughly,\n3. Interrupt the sea water supply (turn the lever),\n4. Pump the pool empty with a hand pump,\n5. Close seacocks for inflow and outflow."
         },
         {
           "nr": 23,
           "text_de": "Was versteht man unter der „Stabilität“ eines Schiffes?",
           "answer_de": "Unter Stabilität eines Schiffes versteht man seine Eigenschaft, in aufrechter Lage zu schwimmen und sich aus einer Krängung wieder aufzurichten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce se înțelege prin „stabilitatea” unei nave?",
+          "answer_ro": "Stabilitatea unei nave se referă la capacitatea sa de a înota în poziție verticală și de a se redresa de pe călcâi.",
+          "text_en": "What is meant by the “stability” of a ship?",
+          "answer_en": "The stability of a ship refers to its ability to swim in an upright position and to right itself from a heel."
         },
         {
           "nr": 24,
           "text_de": "Wovon häng die Stabilität eines Schiffes in ruhigem Wasser ab? Nennen Sie Beispiele für äußere Momente, welche die Stabilität beanspruchen.",
           "answer_de": "Die Stabilität eines Schiffes hängt ab von:\n1. seiner Geometrie (Form),\n2. der Gewichtsverteilung im Schiff (Ausrüstung, Crew, Ballast).\nBeispiele für eine Beanspruchung der Stabilität sind krängende Momente durch Seitenwind, Trossenzug oder Drehkreisfahrt bei schnellen Motoryachten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce depinde stabilitatea unei nave în ape calme? Dați exemple de momente externe care pun o presiune asupra stabilității.",
+          "answer_ro": "Stabilitatea unei nave depinde de:\n1. geometria (forma),\n2. distribuția greutății în navă (echipament, echipaj, balast).\nExemple de stres asupra stabilității includ momentele de înclinare cauzate de vânturi transversale, trageri de cablu sau cercurile de viraj pe iahturile rapide cu motor.",
+          "text_en": "What does the stability of a ship in calm water depend on? Give examples of external moments that place a strain on stability.",
+          "answer_en": "The stability of a ship depends on:\n1. its geometry (shape),\n2. the weight distribution in the ship (equipment, crew, ballast).\nExamples of stress on stability include heeling moments caused by crosswinds, cable pulls or turning circles on fast motor yachts."
         },
         {
           "nr": 25,
           "text_de": "Wovon hängt eine in ruhigem Wasser vorhandene Stabilität zusätzlich in schwerem Wetter ab?",
           "answer_de": "Die Stabilität in schwerem Wetter hängt zusätzlich von Wind und Seegang, besonders von brechenden Wellen ab.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce depinde și stabilitatea în apă calmă pe vreme grea?",
+          "answer_ro": "Stabilitatea pe vreme grea depinde și de condițiile vântului și ale mării, în special ale valurilor care se sparg.",
+          "text_en": "What does stability in calm water also depend on in heavy weather?",
+          "answer_en": "Stability in heavy weather also depends on wind and sea conditions, especially breaking waves."
         },
         {
           "nr": 26,
           "text_de": "Was versteht man unter\n1. Formschwerpunkt (F)?\n2. Massenschwerpunkt (Gewichtsschwerpunkt, G)?\nWelche Kräfte wirken in den beiden Punkten?",
           "answer_de": "1. Im Formschwerpunkt F kann man sich die Masse des vom Schiff verdrängten Wassers vereinigt denken. In F wirkt die Auftriebskraft senkrecht zur Wasseroberfläche nach oben.\n2. Im Massenschwerpunkt G kann man sich die Masse des Schiffes einschließlich Ausrüstung und Besatzung vereinigt denken. In G wirkt die Gewichtskraft senkrecht zur Wasseroberfläche nach unten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce vrei să spui prin\n1. Centrul de greutate (F)?\n2. Centrul de masă (centrul de greutate, G)?\nCe forțe lucrează în cele două puncte?",
+          "answer_ro": "1. Masa de apă deplasată de navă poate fi considerată ca fiind concentrată în centrul de greutate F. În F forța de flotabilitate acționează în sus perpendicular pe suprafața apei.\n2. În centrul de masă G vă puteți imagina masa navei, inclusiv echipamentul și echipajul combinate. În G greutatea acționează în jos perpendicular pe suprafața apei.",
+          "text_en": "What do you mean by\n1. Center of gravity (F)?\n2. Center of mass (center of weight, G)?\nWhat forces are at work at the two points?",
+          "answer_en": "1. The mass of the water displaced by the ship can be thought of as being concentrated in the center of gravity F. In F the buoyancy force acts upwards perpendicular to the water surface.\n2. At the center of mass G you can imagine the mass of the ship including equipment and crew combined. In G the weight acts downwards perpendicular to the water surface."
         },
         {
           "nr": 27,
           "text_de": "Was geschieht bei einer Neigung des Schiffes, z.B. durch seitlichen Winddruck, solange sich die Lage des Massenschwerpunktes (Gewichtsschwerpunktes) nicht verändert?\n(Begründung!)",
           "answer_de": "Der Formschwerpunkt F wandert zur geneigten Seite aus, weil dort ein größerer Teil des Bootskörpers unter Wasser gelangt. Die Wirklinie der Auftriebskraft bekommt dadurch einen seitlichen Abstand zur Wirklinie der Gewichtskraft. Es entsteht ein Kräftepaar, der seitliche Abstand zwischen den Wirklinien ist der Hebelarm. Es entsteht ein aufrichtendes Moment, welches gleich dem Produkt aus Gewichtskraft und Hebelarm ist.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce se întâmplă dacă nava se înclină, de exemplu din cauza presiunii laterale a vântului, atâta timp cât poziția centrului de masă (centrul de greutate) nu se modifică?\n(Motiv!)",
+          "answer_ro": "Centrul de greutate F se deplasează pe partea înclinată deoarece o parte mai mare a carenei bărcii ajunge acolo sub apă. Aceasta conferă liniei de acțiune a forței de flotabilitate o distanță laterală față de linia de acțiune a forței de greutate. Se creează o pereche de forțe; distanța laterală dintre liniile de acțiune este brațul de pârghie. Se creează un moment de redresare, care este egal cu produsul dintre forța greutății și brațul de pârghie.",
+          "text_en": "What happens if the ship tilts, e.g. due to side wind pressure, as long as the position of the center of mass (center of weight) does not change?\n(Reason!)",
+          "answer_en": "The center of gravity F moves to the inclined side because a larger part of the boat's hull ends up under water there. This gives the line of action of the buoyancy force a lateral distance from the line of action of the weight force. A pair of forces is created; the lateral distance between the lines of action is the lever arm. A righting moment is created, which is equal to the product of the weight force and the lever arm."
         },
         {
           "nr": 28,
           "text_de": "Was verstehen Sie unter „Trimm“?",
           "answer_de": "Der Trimm ist der Unterschied zwischen dem vorderen und dem achteren Tiefgang.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce vrei să spui prin „tuns”?",
+          "answer_ro": "Trim este diferența dintre pescajul înainte și înapoi.",
+          "text_en": "What do you mean by “trim”?",
+          "answer_en": "Trim is the difference between the forward and aft draft."
         },
         {
           "nr": 29,
           "text_de": "Nennen Sie mögliche Trimmlagen einer Motoryacht.",
           "answer_de": "Ist der vordere Tiefgang größer als der achtere, ergibt dies einen vorlichen Trimm. Ist der achtere Tiefgang größer als der vordere, ergibt dies einen achterlichen Trimm. Sind beide gleich, liegt eine Yacht auf ebenem Kiel.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Numiți pozițiile posibile de trim ale unui iaht cu motor.",
+          "answer_ro": "Dacă pescajul înainte este mai mare decât pescajul înapoi, aceasta are ca rezultat un trim înainte. Dacă pescajul la pupa este mai mare decât pescajul înainte, aceasta are ca rezultat un trim la pupa. Dacă ambele sunt la fel, un iaht se află pe o chilă uniformă.",
+          "text_en": "Name possible trim positions of a motor yacht.",
+          "answer_en": "If the forward draft is greater than the aft draft, this results in forward trim. If the aft draft is greater than the forward draft, this results in an aft trim. If both are the same, a yacht lies on an even keel."
         },
         {
           "nr": 30,
           "text_de": "Was verstehen Sie unter „Rumpfgeschwindigkeit“ und wovon ist sie abhängig?",
           "answer_de": "Rumpfgeschwindigkeit ist die rechnerische Höchstfahrt eines Verdrängers. Sie ist abhängig von der Wasserlinienlänge.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce înțelegeți prin „viteza carenei” și de ce depinde aceasta?",
+          "answer_ro": "Viteza carenei este viteza maximă calculată a unei nave cu deplasare. Depinde de lungimea liniei de plutire.",
+          "text_en": "What do you understand by “hull speed” and what does it depend on?",
+          "answer_en": "Hull speed is the calculated maximum speed of a displacement vessel. It depends on the waterline length."
         },
         {
           "nr": 31,
           "text_de": "Erklären Sie die wesentlichen Vorteile des Dieselmotors gegenüber dem Benzinmotor.",
           "answer_de": "1. Der zum Betrieb erforderliche Kraftstoff (Diesel) ist weniger feuergefährlich als der für einen Benzinmotor.\n2. Er hat einen geringeren Kraftstoffverbrauch.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Explicați principalele avantaje ale motorului diesel față de motorul pe benzină.",
+          "answer_ro": "1. Combustibilul necesar pentru funcționare (diesel) este mai puțin inflamabil decât cel necesar pentru un motor pe benzină.\n2. Are un consum mai mic de combustibil.",
+          "text_en": "Explain the main advantages of the diesel engine over the petrol engine.",
+          "answer_en": "1. The fuel required for operation (diesel) is less flammable than that required for a gasoline engine.\n2. It has lower fuel consumption."
         },
         {
           "nr": 32,
           "text_de": "Erklären Sie die wesentlichen Nachteile des Benzinmotors gegenüber dem Dieselmotor.",
           "answer_de": "1. Das Benzin-Luft-Gemisch birgt Explosions- und Brandgefahr im Schiff\n2. Die Zündanlage kann störempfindlich gegen Feuchtigkeit und Nässe sein.\n3. Der Motor hat einen höheren Kraftstoffverbrauch als der Dieselmotor.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Explicați principalele dezavantaje ale motorului pe benzină în comparație cu motorul diesel.",
+          "answer_ro": "1. Amestecul benzină-aer prezintă risc de explozie și incendiu în navă\n2. Sistemul de aprindere poate fi sensibil la umiditate și umiditate.\n3. Motorul are un consum de combustibil mai mare decât motorul diesel.",
+          "text_en": "Explain the main disadvantages of the petrol engine compared to the diesel engine.",
+          "answer_en": "1. The gasoline-air mixture poses a risk of explosion and fire in the ship\n2. The ignition system can be sensitive to moisture and moisture.\n3. The engine has higher fuel consumption than the diesel engine."
         },
         {
           "nr": 33,
           "text_de": "Wozu dient das Wendegetriebe eines Motors?",
           "answer_de": "1. Zum Ein- und Auskuppeln des Propellers,\n2. zum Umsteuern des Propellers auf Rückwärtsfahrt,\n3. zur Drehzahluntersetzung.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este scopul treptei de marșarier a unui motor?",
+          "answer_ro": "1. Pentru a cupla și decupla elicea,\n2. pentru a schimba elicea în mers invers,\n3. pentru reducerea vitezei.",
+          "text_en": "What is the purpose of an engine's reversing gear?",
+          "answer_en": "1. To engage and disengage the propeller,\n2. to change the propeller to reverse travel,\n3. for speed reduction."
         },
         {
           "nr": 34,
           "text_de": "Wodurch unterscheiden sich Einhebel- und Zweihebelschaltung?",
           "answer_de": "1. Bei Einhebelschaltung werden Gas und Getriebe gleichzeitig bedient.\n2. Bei Zweihebelschaltung werden Gas und Getriebe mit 2 Hebeln getrennt bedient.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este diferența dintre schimbarea cu o singură manetă și cea cu două manete?",
+          "answer_ro": "1. Cu schimbarea cu o singură manetă, accelerația și cutia de viteze sunt acționate în același timp.\n2. Cu schimbarea cu două manete, accelerația și cutia de viteze sunt acționate separat cu două manete.",
+          "text_en": "What is the difference between single-lever and two-lever shifting?",
+          "answer_en": "1. With single-lever shifting, the throttle and gearbox are operated at the same time.\n2. With two-lever shifting, the throttle and gearbox are operated separately with two levers."
         },
         {
           "nr": 35,
           "text_de": "Erklären Sie die Grundstruktur des Zweikreis-Kühlsystems bei der Motorkühlung.",
           "answer_de": "Das Zweikreis-Kühlsystem besteht aus einem geschlossenen inneren Süßwasserkreislauf mit eigenem Kühlwassertank und einem offenen Seewasserkreislauf. Beide Kreisläufe sind in einem thermostatgeregelten Wärmetauscher wärmetechnisch miteinander verbunden. Der innere Süßwasserkreislauf durchfließt den Motor.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Explicați structura de bază a sistemului de răcire cu dublu circuit în răcirea motorului.",
+          "answer_ro": "Sistemul de răcire cu dublu circuit constă dintr-un circuit intern închis de apă dulce, cu propriul rezervor de apă de răcire și un circuit deschis de apă de mare. Ambele circuite sunt conectate termic unul la altul într-un schimbător de căldură controlat de termostat. Circuitul intern de apă dulce curge prin motor.",
+          "text_en": "Explain the basic structure of the dual-circuit cooling system in engine cooling.",
+          "answer_en": "The dual-circuit cooling system consists of a closed internal freshwater circuit with its own cooling water tank and an open seawater circuit. Both circuits are thermally connected to one another in a thermostat-controlled heat exchanger. The internal freshwater circuit flows through the engine."
         },
         {
           "nr": 36,
           "text_de": "Welchen Vorteil hat die Zweikreis-Kühlung gegenüber der Einkreis-Kühlung?",
           "answer_de": "Im Zweikreis-Kühlsystem wird im inneren geschlossenen Kühlwasserkreislauf Süßwasser gefahren. Dem geschlossenen Kühlwassersystem können Zusätze (z.B. Frostschutzmittel) zugegeben werden. Ablagerungen durch Fremdwasser werden verhindert.\nDurch eine thermostatische Regelung des Wärmeaustauschers zwischen innerem und äußerem Kreislauf erreicht der Motor schneller seine Betriebstemperatur, diese wird auch konstant gehalten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce avantaj are răcirea cu circuit dublu față de răcirea cu un singur circuit?",
+          "answer_ro": "În sistemul de răcire cu dublu circuit, apa proaspătă este utilizată în circuitul interior închis de apă de răcire. La sistemul închis de apă de răcire pot fi adăugați aditivi (de exemplu, antigel). Depunerile cauzate de apa străină sunt prevenite.\nPrin reglarea termostatică a schimbătorului de căldură dintre circuitul interior și exterior, motorul atinge temperatura de funcționare mai repede și aceasta este, de asemenea, menținută constantă.",
+          "text_en": "What advantage does dual-circuit cooling have over single-circuit cooling?",
+          "answer_en": "In the dual-circuit cooling system, fresh water is used in the inner, closed cooling water circuit. Additives (e.g. antifreeze) can be added to the closed cooling water system. Deposits caused by extraneous water are prevented.\nBy thermostatically regulating the heat exchanger between the inner and outer circuit, the engine reaches its operating temperature more quickly and this is also kept constant."
         },
         {
           "nr": 37,
           "text_de": "Was sollte nach dem Anlassen der Maschine kontrolliert werden?",
           "answer_de": "1. Kühlwasserdurchlauf,\n2. Öldruck und Ladung,\n3. Motorengeräusche und\n4. Auspuffgase.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce trebuie verificat după pornirea mașinii?",
+          "answer_ro": "1. debitul de apă de răcire,\n2. Presiunea și încărcarea uleiului,\n3. Zgomotul motorului și\n4. Gaze de evacuare.",
+          "text_en": "What should be checked after starting the machine?",
+          "answer_en": "1. cooling water flow,\n2. Oil pressure and charge,\n3. Engine noise and\n4. Exhaust gases."
         },
         {
           "nr": 38,
           "text_de": "Was können erste Störungsanzeichen im Motorbetrieb sein?",
           "answer_de": "Ungewöhnliche und fremde Motorengeräusche, Vibrationen, Verfärbung der Abgase, Aufleuchten der Ladekontrolle bzw. Öldruckkontrolle und die entsprechenden akustischen Warnungen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care pot fi primele semne de probleme în funcționarea motorului?",
+          "answer_ro": "Zgomote neobișnuite și ciudate ale motorului, vibrații, decolorarea gazelor de eșapament, aprinderea controlului de încărcare sau a presiunii uleiului și avertismentele acustice corespunzătoare.",
+          "text_en": "What can be the first signs of trouble in engine operation?",
+          "answer_en": "Unusual and strange engine noises, vibrations, discoloration of the exhaust gases, lighting of the charge control or oil pressure control and the corresponding acoustic warnings."
         },
         {
           "nr": 39,
           "text_de": "Der Dieselmotor Ihres Bootes startet nicht. Welche Teile der Kraftstoffanlage sollten überprüft werden?",
           "answer_de": "1. Kraftstofffüllung,\n2. Kraftstoffabsperrhahn,\n3. Kraftstoffschläuche,\n4. Kraftstofffilter,\n5. Kraftstoffpumpe.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Motorul diesel al bărcii tale nu pornește. Ce părți ale sistemului de combustibil ar trebui verificate?",
+          "answer_ro": "1. umplere cu combustibil,\n2. robinet combustibil,\n3. furtunuri de combustibil,\n4. filtru de combustibil,\n5. Pompa de combustibil.",
+          "text_en": "Your boat's diesel engine won't start. Which parts of the fuel system should be checked?",
+          "answer_en": "1. fuel filling,\n2. fuel stopcock,\n3. fuel hoses,\n4. fuel filter,\n5. Fuel pump."
         },
         {
           "nr": 40,
           "text_de": "Der Benzinmotor Ihres Bootes startet nicht. Welche Teile der Kraftstoffanlage sollten überprüft werden?",
           "answer_de": "1. Kraftstofffüllung,\n2. Kraftstoffabsperrhahn,\n3. Kraftstoffschläuche,\n4. Kraftstofffilter,\n5. Kraftstoffpumpe,\n6. Vergaser.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Motorul pe benzină al bărcii tale nu pornește. Ce părți ale sistemului de combustibil ar trebui verificate?",
+          "answer_ro": "1. umplere cu combustibil,\n2. robinet combustibil,\n3. furtunuri de combustibil,\n4. filtru de combustibil,\n5. pompa de combustibil,\n6. Carburator.",
+          "text_en": "Your boat's gasoline engine won't start. Which parts of the fuel system should be checked?",
+          "answer_en": "1. fuel filling,\n2. fuel stopcock,\n3. fuel hoses,\n4. fuel filter,\n5. fuel pump,\n6. Carburetor."
         },
         {
           "nr": 41,
           "text_de": "Welche Ursachen können zu einer Anzeige eines zu geringen Öldrucks führen?",
           "answer_de": "1. Ein verstopftes Ölsieb (Ölwanne),\n2. ein zu geringer Ölstand,\n3. ein verstopfter Ölfilter,\n4. eine defekte Ölpumpe,\n5. ein defektes Öldruckventil,\n6. ein defektes Anzeigegerät.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce cauze pot duce la afișarea presiunii prea scăzute a uleiului?",
+          "answer_ro": "1. O sită de ulei înfundată (tavă de ulei),\n2. un nivel de ulei prea scăzut,\n3. un filtru de ulei înfundat,\n4. o pompă de ulei defectă,\n5. o supapă de presiune a uleiului defectă,\n6. un dispozitiv de afișare defect.",
+          "text_en": "What causes can lead to a display of too low oil pressure?",
+          "answer_en": "1. A clogged oil strainer (oil pan),\n2. an oil level that is too low,\n3. a clogged oil filter,\n4. a defective oil pump,\n5. a defective oil pressure valve,\n6. a defective display device."
         },
         {
           "nr": 42,
           "text_de": "Welche Ursachen kann das Aufleuchten der Warnlampe der Batterie-Ladekontrolle während des Betriebes zur Folge haben?",
           "answer_de": "1. Kabelverbindungen sind unterbrochen (oxidiert, lose oder gebrochen).\n2. Der Keilriemen zum Antrieb der Lichtmaschine ist defekt und es erfolgt keine Stromerzeugung.\n3. Der Regler oder die Lichtmaschine können defekt sein.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care ar putea fi cauza aprinderii lămpii de control al încărcării bateriei în timpul funcționării?",
+          "answer_ro": "1. Conexiunile cablurilor sunt rupte (oxidate, slăbite sau rupte).\n2. Cureaua trapezoidale care antrenează alternatorul este defectă și nu se generează energie.\n3. Regulatorul sau alternatorul pot fi defecte.",
+          "text_en": "What could be the cause of the battery charge control warning lamp lighting up during operation?",
+          "answer_en": "1. Cable connections are broken (oxidized, loose or broken).\n2. The V-belt that drives the alternator is defective and no power is being generated.\n3. The regulator or alternator may be defective."
         },
         {
           "nr": 43,
           "text_de": "Welche Fehlerursachen kann eine schwarze Färbung der Auspuffgase haben?",
           "answer_de": "Unvollständige Verbrennung durch:\n1. kalten Motor,\n2. verschmutzte Luftfilter,\n3. schlechte Kraftstoffqualität,\n4. verstellte Einspritzpumpe,\n5. Überlastung des Motors.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce cauze de eroare poate avea o colorare neagră a gazelor de eșapament?",
+          "answer_ro": "Combustie incompletă din cauza:\n1. motor rece,\n2. filtre de aer murdare,\n3. calitate slabă a combustibilului,\n4. pompa de injectie reglata,\n5. Suprasarcina motorului.",
+          "text_en": "What causes of error can a black coloring of the exhaust gases have?",
+          "answer_en": "Incomplete combustion due to:\n1. cold engine,\n2. dirty air filters,\n3. poor fuel quality,\n4. adjusted injection pump,\n5. Motor overload."
         },
         {
           "nr": 44,
           "text_de": "Welche Fehlerursachen kann eine weiße Färbung der Auspuffgase haben?",
           "answer_de": "Verdampfung von Wasser durch z.B.\n1. Kondensat im Auspuffsystem bei noch kaltem Motor,\n2. gerissenen Zylinderkopf,\n3. defekte Zylinderkopfdichtung.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce cauze de eroare poate avea o colorare albă a gazelor de eșapament?",
+          "answer_ro": "Evaporarea apei de ex.\n1. Condens în sistemul de evacuare când motorul este încă rece,\n2. chiulasa crapata,\n3. garnitura chiulasa defecta.",
+          "text_en": "What causes of error can a white coloring of the exhaust gases have?",
+          "answer_en": "Evaporation of water by e.g.\n1. Condensate in the exhaust system when the engine is still cold,\n2. cracked cylinder head,\n3. defective cylinder head gasket."
         },
         {
           "nr": 45,
           "text_de": "Welche Vorsichtsmaßnahmen müssen beim Tanken und Umfüllen von Brennstoffen getroffen werden?",
           "answer_de": "1. Maschine abstellen.\n2. Offenes Feuer löschen (Rauchen einstellen).\n3. Keine elektrischen Schalter betätigen.\n4. Alle Öffnungen schließen.\n5. Tragbare Tanks möglichst außerhalb des Bootes befüllen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce măsuri de precauție trebuie luate la realimentarea și transferul combustibilului?",
+          "answer_ro": "1. Opriți mașina.\n2. Stingeti focul deschis (nu mai fumati).\n3. Nu acţionaţi niciun întrerupător electric.\n4. Închideți toate deschiderile.\n5. Dacă este posibil, umpleți rezervoarele portabile departe de barcă.",
+          "text_en": "What precautions must be taken when refueling and transferring fuel?",
+          "answer_en": "1. Turn off the machine.\n2. Extinguish open fire (stop smoking).\n3. Do not operate any electrical switches.\n4. Close all openings.\n5. If possible, fill portable tanks away from the boat."
         },
         {
           "nr": 46,
           "text_de": "Welche Maßnahmen sind vor dem Anlassen eines Dieselmotors zu treffen?",
           "answer_de": "1. Hauptstromschalter einschalten.\n2. Kraftstoff- und Kühlwasserventile öffnen.\n3. Getriebe auf „neutral“ stellen.\n4. Kühlwasser prüfen (Zweikreis-Kühlsystem).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce măsuri ar trebui luate înainte de a porni un motor diesel?",
+          "answer_ro": "1. Porniți întrerupătorul principal de alimentare.\n2. Deschideți supapele de combustibil și de apă de răcire.\n3. Setați transmisia la „neutru”.\n4. Verificați apa de răcire (sistem de răcire cu dublu circuit).",
+          "text_en": "What measures should be taken before starting a diesel engine?",
+          "answer_en": "1. Turn on the main power switch.\n2. Open fuel and cooling water valves.\n3. Set the transmission to “neutral”.\n4. Check cooling water (dual-circuit cooling system)."
         },
         {
           "nr": 47,
           "text_de": "Welche Maßnahmen sind vor dem Anlassen eines Benzinmotors zu treffen?",
           "answer_de": "1. Hauptstromschalter einschalten.\n2. Motorraum mit Bilge entlüften.\n3. Kraftstoff- und Kühlwasserventile öffnen.\n4. Getriebe auf „neutral“ stellen.\n5. Kühlwasser prüfen (Zweikreis-Kühlsystem).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce măsuri ar trebui luate înainte de a porni un motor pe benzină?",
+          "answer_ro": "1. Porniți întrerupătorul principal de alimentare.\n2. Aerisiți compartimentul motorului cu santina.\n3. Deschideți supapele de combustibil și de apă de răcire.\n4. Setați transmisia la „neutru”.\n5. Verificați apa de răcire (sistem de răcire cu dublu circuit).",
+          "text_en": "What measures should be taken before starting a gasoline engine?",
+          "answer_en": "1. Turn on the main power switch.\n2. Bleed engine compartment with bilge.\n3. Open fuel and cooling water valves.\n4. Set the transmission to “neutral”.\n5. Check cooling water (dual-circuit cooling system)."
         },
         {
           "nr": 48,
           "text_de": "Wie kontrollieren Sie den ordnungsgemäßen Betrieb des Motors?",
           "answer_de": "Kontrolle der Anzeigegeräte auf:\n1. Öldruck und Öltemperatur,\n2. Kühlwassertemperatur,\n3. Motordrehzahl und\n4. Batterieladung.\nAußerdem auf Motorgeräusche, Vibrationen und Farbe der Auspuffgase achten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum verificați funcționarea corectă a motorului?",
+          "answer_ro": "Verificarea dispozitivelor de afișare pentru:\n1. Presiunea uleiului și temperatura uleiului,\n2. temperatura apei de răcire,\n3. Turația motorului și\n4. Încărcarea bateriei.\nDe asemenea, acordați atenție zgomotului motorului, vibrațiilor și culorii gazelor de eșapament.",
+          "text_en": "How do you check the proper operation of the engine?",
+          "answer_en": "Checking the display devices for:\n1. Oil pressure and oil temperature,\n2. cooling water temperature,\n3. Engine speed and\n4. Battery charging.\nAlso pay attention to engine noise, vibrations and the color of the exhaust gases."
         },
         {
           "nr": 49,
           "text_de": "Welche Maßnahmen treffen Sie nach dem Abstellen des Motors?",
           "answer_de": "1. Kraftstoffventil schließen.\n2. Hauptschalter (Batterie) ausschalten.\n3. Seeventile schließen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce acțiuni întreprindeți după oprirea motorului?",
+          "answer_ro": "1. Închideți robinetul de combustibil.\n2. Opriți întrerupătorul principal (bateria).\n3. Închideți valcile de mare.",
+          "text_en": "What actions do you take after stopping the engine?",
+          "answer_en": "1. Close fuel valve.\n2. Switch off the main switch (battery).\n3. Close seacocks."
         },
         {
           "nr": 50,
           "text_de": "Während Sie unter Maschine laufen, steigt plötzlich die Kühlwassertemperatur stark an. Ihre Yacht ist mit einem Saildrive-Antrieb ausgestattet.\n1. Welche typische Ursache hat der Temperaturanstieg, wenn eine technische Störung unwahrscheinlich ist?\n2. Wie können Sie die Störung einfach beheben?",
           "answer_de": "1. Fremdkörper (Folienstücke, Plastiktüten, Pflanzenteile o.Ä.) haben den Kühlwassereinlass verstopft.\n2. Mehrmals abwechseld vor- und zurückfahren, sodass sich die Fremdkörper vom Kühlwassereinlass lösen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "În timpul rulării sub motor, temperatura apei de răcire crește brusc brusc. Iahtul dumneavoastră este echipat cu un drive drive.\n1. Care este cauza tipică a creșterii temperaturii dacă o defecțiune tehnică este puțin probabilă?\n2. Cum puteți rezolva cu ușurință problema?",
+          "answer_ro": "1. Corpurile străine (bucăți de folie, pungi de plastic, părți de plante etc.) au blocat intrarea apei de răcire.\n2. Deplasați-vă alternativ înainte și înapoi de mai multe ori, astfel încât obiectele străine să se desprindă din orificiul de admisie a apei de răcire.",
+          "text_en": "While running under the engine, the cooling water temperature suddenly rises sharply. Your yacht is equipped with a saildrive drive.\n1. What is the typical cause of the temperature increase if a technical fault is unlikely?\n2. How can you easily fix the problem?",
+          "answer_en": "1. Foreign bodies (pieces of foil, plastic bags, plant parts, etc.) have blocked the cooling water inlet.\n2. Move back and forth alternately several times so that the foreign objects come loose from the cooling water inlet."
         },
         {
           "nr": 51,
           "text_de": "Welche Fehlerursachen kann eine blaue Färbung der Auspuffgase haben?",
           "answer_de": "Zweitaktmotor: zu fettes Benzin-Öl-Gemisch. Es ist zu viel Schmieröl im Gemisch.\nViertaktmotor: zu viel Schmieröl, Ölabstreifringe bzw. Kolbenringe defekt.\nIn beiden Fällen verbrennt/verdampt Schmieröl.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce cauze de eroare poate avea o colorare albastră a gazelor de eșapament?",
+          "answer_ro": "Motor în doi timpi: amestec benzină-ulei prea bogat. Există prea mult ulei lubrifiant în amestec.\nMotor în patru timpi: prea mult ulei de lubrifiere, inele de răzuire a uleiului sau segmente de piston defecte.\nÎn ambele cazuri, uleiul lubrifiant arde/se evaporă.",
+          "text_en": "What causes of error can a blue coloring of the exhaust gases have?",
+          "answer_en": "Two-stroke engine: petrol-oil mixture too rich. There is too much lubricating oil in the mixture.\nFour-stroke engine: too much lubricating oil, oil scraper rings or piston rings defective.\nIn both cases, lubricating oil burns/evaporates."
         },
         {
           "nr": 52,
           "text_de": "Erklären Sie die Arbeitsweise in Bezug auf die Zündung beim Ottomotor und Dieselmotor.",
           "answer_de": "Beim Ottomotor wird das zündfähige Benzin-Luft-Gemisch im Vergaser durch Einspritzung erzeugt und mit Fremdzündung durch die Zündkerze gezündet.\nBeim Dieselmotor wird die angesaugte Luft hoch verdichtet und so erwärmt, dass der eingespritzte Dieselkraftstoff sich durch Eigenzündung in dieser komprimierten Luft entzündet.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Explicați cum funcționează aprinderea la motoarele pe benzină și la motoarele diesel.",
+          "answer_ro": "La un motor pe benzină, amestecul aprins benzină-aer este generat în carburator prin injecție și aprins cu aprindere prin scânteie de bujie.\nÎntr-un motor diesel, aerul aspirat este foarte comprimat și încălzit, astfel încât motorina injectată se aprinde prin autoaprindere în acest aer comprimat.",
+          "text_en": "Explain how ignition works in gasoline engines and diesel engines.",
+          "answer_en": "In a gasoline engine, the ignitable gasoline-air mixture is generated in the carburettor by injection and ignited with spark ignition by the spark plug.\nIn a diesel engine, the air sucked in is highly compressed and heated so that the injected diesel fuel ignites through self-ignition in this compressed air."
         },
         {
           "nr": 53,
           "text_de": "Weshalb sollte dringend vermieden werden, dass beim Dieselmotor der Kraftstofftank leer gefahren wird?",
           "answer_de": "In die Einspritzpumpe/Kraftstoffleitung würde Luft gelangen. Startversuche nach dem Tanken wären erfolglos. Vor dem Tanken müssten die Leitung und die Einspritzpumpe entlüftet werden. Ablagerungen sowie Kondenswasserbildung durch Temperaturschwankungen können entstehen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce ar trebui să evitați urgent golirea rezervorului de combustibil al unui motor diesel?",
+          "answer_ro": "Aerul ar intra în pompa de injecție/conducta de combustibil. Încercările de pornire după realimentare ar fi fără succes. Inainte de realimentare, conducta si pompa de injectie ar trebui sa fie evacuate. Depunerile și condensul pot apărea din cauza fluctuațiilor de temperatură.",
+          "text_en": "Why should you urgently avoid emptying the fuel tank of a diesel engine?",
+          "answer_en": "Air would get into the injection pump/fuel line. Attempts to start after refueling would be unsuccessful. Before refueling, the line and the injection pump would have to be bled. Deposits and condensation can occur due to temperature fluctuations."
         },
         {
           "nr": 54,
           "text_de": "Während der Fahrt lässt plötzlich die Motordrehzahl abrupt nach und der Motor geht beim Zurücklegen des Gashebels gänzlich aus. Was kann die Ursache sein?",
           "answer_de": "Es ist möglicherweise ein schwimmender Fremdkörper (Leine, Trosse, Plane, Persenning o.Ä.) in den Propeller geraten und behindert bzw. blockiert ihn.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "În timpul conducerii, turația motorului scade brusc și motorul se oprește complet atunci când maneta de accelerație este deplasată înapoi. Care poate fi cauza?",
+          "answer_ro": "Este posibil să fi intrat în elice și să o obstrucționeze sau să o blocheze.",
+          "text_en": "While driving, the engine speed suddenly drops and the engine stops completely when the throttle lever is moved back. What can be the cause?",
+          "answer_en": "A floating foreign body (line, hawser, tarpaulin, tarpaulin, etc.) may have gotten into the propeller and is obstructing or blocking it."
         },
         {
           "nr": 55,
           "text_de": "In welchen Bereichen werden an Bord Batterien eingesetzt?",
           "answer_de": "Zum Starten und für das Bordnetz.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "În ce zone se folosesc bateriile la bord?",
+          "answer_ro": "Pentru pornire și pentru sistemul electric de bord.",
+          "text_en": "In which areas are batteries used on board?",
+          "answer_en": "For starting and for the on-board electrical system."
         },
         {
           "nr": 56,
           "text_de": "Was ist beim Laden von Batterien dringend zu beachten?",
           "answer_de": "Die Batteriekästen bzw. -räume müssen ausreichend be- und entlüftet sein.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce ar trebui să fiți atenți când încărcați bateriile?",
+          "answer_ro": "Cutiile sau încăperile bateriilor trebuie să fie ventilate corespunzător.",
+          "text_en": "What should you pay attention to when charging batteries?",
+          "answer_en": "The battery boxes or rooms must be adequately ventilated."
         },
         {
           "nr": 57,
           "text_de": "1. Was bedeutet die Angabe einer Batteriekapazität „2 x 60 Ah“? (Begründung!)\n2. Welche Nettokapazität steht in dem Fall zu Verfügung? (Begründung!)",
           "answer_de": "1. Es handelt sich um 2 Batterien (Akkus) mit jeweis 60 Amperestunden, insgesamt also 120 Ah Nennkapazität.\n2. Dem entspricht eine Nettokapazität von etwa 72 Ah, da ein Akku kaum über 80 % seiner Nennkapazität geladen werden kann.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Ce înseamnă specificația capacității bateriei „2 x 60 Ah”? (Motiv!)\n2. Ce capacitate netă este disponibilă în acest caz? (Motiv!)",
+          "answer_ro": "1. Există 2 baterii (baterii reîncărcabile) fiecare cu 60 amperi oră, deci o capacitate nominală totală de 120 Ah.\n2. Aceasta corespunde unei capacități nete de aproximativ 72 Ah, deoarece o baterie cu greu poate fi încărcată peste 80% din capacitatea sa nominală.",
+          "text_en": "1. What does the specification of a battery capacity “2 x 60 Ah” mean? (Reason!)\n2. What net capacity is available in this case? (Reason!)",
+          "answer_en": "1. There are 2 batteries (rechargeable batteries) each with 60 amp hours, so a total of 120 Ah nominal capacity.\n2. This corresponds to a net capacity of around 72 Ah, as a battery can hardly be charged above 80% of its nominal capacity."
         },
         {
           "nr": 58,
           "text_de": "Geben Sie die benötigte Strommenge (in Amperestunden) an, um bei einer 12-Volt-Anlage zwei Verbraucher mit je 24 Watt 10 Stunden betreiben zu können (mit Angabe der Berechnung)!",
           "answer_de": "Benötigte Strommenge je Verbraucher:\n24 : 12 = 2 Ampere mal Anzahl der Verbraucher mal Stunden ergibt:\n2 x 2 A x 10 h = 40 Ah.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Introduceți cantitatea de energie electrică necesară (în amperi-ore) pentru a putea funcționa doi consumatori cu câte 24 de wați fiecare timp de 10 ore într-un sistem de 12 volți (inclusiv calculul)!",
+          "answer_ro": "Cantitatea de energie electrică necesară per consumator:\n24: 12 = 2 amperi ori numărul de consumatori ori ore oferă:\n2 x 2 A x 10 h = 40 Ah.",
+          "text_en": "Enter the amount of electricity required (in ampere-hours) in order to be able to operate two consumers with 24 watts each for 10 hours in a 12-volt system (including the calculation)!",
+          "answer_en": "Amount of electricity required per consumer:\n24: 12 = 2 amps times number of consumers times hours gives:\n2 x 2 A x 10 h = 40 Ah."
         },
         {
           "nr": 59,
           "text_de": "Was könnte zu möglichen Motorschäden bis hin zum Kolbenfresser führen?",
           "answer_de": "- Zu wenig Kühlwasser, Dampfblasen im Kühlwasserschauglas,\n- Kühlwassertemperatur zu hoch,\n- zu niedriger oder stetig fallender Öldruck,\n- zu wenig oder nicht geeignetes Öl,\n- fallende Drehzahl, zitternde Nadel im Drehzahlmesser, klopfende Motorgeräusche.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce ar putea duce la o posibilă deteriorare a motorului sau chiar la griparea pistonului?",
+          "answer_ro": "- Prea puțină apă de răcire, bule de abur în vizorul apei de răcire,\n- Temperatura apei de răcire prea ridicată,\n- presiunea uleiului prea scăzută sau în scădere constantă,\n- ulei prea puțin sau nepotrivit,\n- viteza de scadere, scuturarea acului in turometru, zgomote de baterie ale motorului.",
+          "text_en": "What could lead to possible engine damage or even piston seizure?",
+          "answer_en": "- Too little cooling water, steam bubbles in the cooling water sight glass,\n- Cooling water temperature too high,\n- oil pressure that is too low or constantly falling,\n- too little or unsuitable oil,\n- falling speed, shaking needle in the tachometer, knocking engine noises."
         },
         {
           "nr": 60,
           "text_de": "Wie muss Tauwerk beschaffen sein, das für Festmacherleinen, Anker- und Schlepptrossen verwendet wird?",
           "answer_de": "Es muss bruchfest und elastisch sein.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce trebuie să fie proiectate frânghiile utilizate pentru liniile de acostare, cablurile de ancorare și de remorcare?",
+          "answer_ro": "Trebuie să fie rezistent la rupere și elastic.",
+          "text_en": "What must ropes used for mooring lines, anchor and tow ropes be designed?",
+          "answer_en": "It must be break-resistant and elastic."
         },
         {
           "nr": 61,
           "text_de": "Wodurch können Sie verhindern, dass Festmacherleinen durch Schamfilen in Klüsen oder an Kanten an der Pier beschädigt werden?",
           "answer_de": "Durch einen gegen Verrutschen gesicherten Plastikschlauch, der über den Festmacher an der Scheuerstelle gezogen wird, hilfsweise mit Tuchstreifen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum puteți preveni deteriorarea liniilor de acostare de agățați în găuri sau pe marginile digului?",
+          "answer_ro": "Folosind un tub de plastic asigurat împotriva alunecării, care este tras peste linia de ancorare în punctul de frecare, sau alternativ cu benzi de pânză.",
+          "text_en": "How can you prevent mooring lines from being damaged by snags in hawseholes or on edges on the pier?",
+          "answer_en": "Using a plastic tube secured against slipping, which is pulled over the mooring line at the chafing point, or alternatively with strips of cloth."
         },
         {
           "nr": 62,
           "text_de": "Was müssen Sie hinsichtlich der Festigkeit bedenken, wenn Sie Leinen zusammenknoten?",
           "answer_de": "Beim Knoten können Festigkeitsverluste bis zu 50 % auftreten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce trebuie să luați în considerare în ceea ce privește rezistența atunci când înnodați liniile?",
+          "answer_ro": "Pierderea rezistenței de până la 50% poate apărea la legarea unui nod.",
+          "text_en": "What do you need to consider regarding strength when knotting lines?",
+          "answer_en": "Loss of strength of up to 50% can occur when tying a knot."
         },
         {
           "nr": 63,
           "text_de": "Wodurch können Sie verhindern, dass bei Tauwerk aus unterschiedlichen Innen- und Außenmaterial die Seele in den Mantel rutscht?",
           "answer_de": "Durch einen genähten Takling.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum puteți împiedica miezul frânghiilor din diferite materiale interioare și exterioare să alunece în manta?",
+          "answer_ro": "Printr-un tackle cusut.",
+          "text_en": "How can you prevent the core of ropes made of different inner and outer materials from slipping into the sheath?",
+          "answer_en": "Through a sewn tackle."
         },
         {
           "nr": 64,
@@ -5099,10 +5099,10 @@
           "text_images": [
             "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-II/Zeichnung-64-01-gif.gif?__blob=normal&v=2"
           ],
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum ar trebui să fie ancorate navele aflate alături? Completați schița și denumiți liniile.",
+          "answer_ro": "1. linia pupa,\n2. arc de la pupa,\n3. Proiecție,\n4. Linie de plumb.",
+          "text_en": "How should vessels lying alongside be moored? Complete the sketch and name the lines.",
+          "answer_en": "1. aft line,\n2. aft spring,\n3. Projection,\n4. Lead line."
         },
         {
           "nr": 65,
@@ -5114,739 +5114,739 @@
           "answer_images": [
             "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-II/Zeichnung-65-02-gif.gif?__blob=normal&v=2"
           ],
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum folosiți două aripi și o placă de apărare pentru a vă ancora barca dacă digului are piloni proeminenti? Completați schița cu lenjerie.",
+          "answer_ro": "(vezi imaginea)",
+          "text_en": "How do you use two fenders and a fender board to moor your boat if the pier has projecting pilings? Complete the sketch with linen.",
+          "answer_en": "(see image)"
         },
         {
           "nr": 66,
           "text_de": "Was ist beim Reinigen eines mit Antifouling behandelten Unterwasserschiffes zu beachten?",
           "answer_de": "Umweltschutzbestimmungen beachten, d.h. das Schiff nur auf einem entsprechend ausgerüsteten Reinigungsplatz abspritzen und Wasser und Schmutz auffangen, also nicht in die Kanalisation leiten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce ar trebui să acordați atenție atunci când curățați o carenă subacvatică care a fost tratată cu antifouling?",
+          "answer_ro": "Respectați reglementările de protecție a mediului, adică aruncați nava doar într-o zonă de curățare echipată corespunzător și colectați apa și murdăria, adică nu o turnați în sistemul de canalizare.",
+          "text_en": "What should you pay attention to when cleaning an underwater hull that has been treated with antifouling?",
+          "answer_en": "Observe environmental protection regulations, i.e. only hose down the ship in an appropriately equipped cleaning area and collect water and dirt, i.e. do not pour it into the sewage system."
         },
         {
           "nr": 67,
           "text_de": "Ein funktionsfähiges elektrisches Gerät arbeitet an Bord nicht. Nennen Sie häufige Ursachen und was kann zur Behebung getan werden?",
           "answer_de": "1. Schlechte Kontakte und Korrosion.\n2. Kontakte fest anziehen, korrodierte Stellen mit feinstem Schleifpapier säubern, Kontaktspray verwenden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Un dispozitiv electric funcțional nu funcționează la bord. Enumerați cauzele comune și ce se poate face pentru a le rezolva?",
+          "answer_ro": "1. Contacte slabe și coroziune.\n2. Strângeți ferm contactele, curățați zonele corodate cu cea mai fină hârtie abrazivă, utilizați spray de contact.",
+          "text_en": "A functional electrical device is not working on board. List common causes and what can be done to resolve them?",
+          "answer_en": "1. Poor contacts and corrosion.\n2. Tighten contacts firmly, clean corroded areas with the finest sandpaper, use contact spray."
         },
         {
           "nr": 68,
           "text_de": "Warum müssen Schäden im Gelcoat unverzüglich beseitigt werden?",
           "answer_de": "Das Laminat unter der Gelcoatschicht nimmt Wasser auf und wird dadurch geschädigt.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce trebuie reparată imediat deteriorarea gelcoat-ului?",
+          "answer_ro": "Laminatul de sub stratul de gelcoat absoarbe apa si este astfel deteriorat.",
+          "text_en": "Why does damage to the gelcoat have to be repaired immediately?",
+          "answer_en": "The laminate under the gelcoat layer absorbs water and is thereby damaged."
         },
         {
           "nr": 69,
           "text_de": "Welche Daten sollten an Bord mindestens im Logbuch dokumentiert werden?",
           "answer_de": "1. Namen und Funktionen der Crewmitglieder,\n2. Beginn und Ende einer Fahrt und\n3. in angemessenen Zeitabständen: Position, Kurs, Geschwindigkeit, Strömung, Wetter, Luftdruck.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce date ar trebui documentate cel puțin în jurnalul de bord de la bord?",
+          "answer_ro": "1. Numele și funcțiile membrilor echipajului,\n2. Începutul și sfârșitul unei călătorii și\n3. la intervale adecvate: pozitie, curs, viteza, curent, vreme, presiunea aerului.",
+          "text_en": "What data should be documented at least in the logbook on board?",
+          "answer_en": "1. Names and functions of the crew members,\n2. Start and end of a trip and\n3. at appropriate intervals: position, course, speed, current, weather, air pressure."
         },
         {
           "nr": 70,
           "text_de": "Welche Sicherheitsmaßnahmen müssen auch bei ruhigem Wetter bei Nachtfahrten beachtet werden?",
           "answer_de": "1. Bei jeder Tätigkeit an Deck Rettungswesten und Sicherheitsgurt tragen.\n2. Nur mit am Schiff eingepickter Sicherheitsleine über Deck gehen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce măsuri de siguranță trebuie respectate atunci când conduceți noaptea, chiar și pe vreme calmă?",
+          "answer_ro": "1. Purtați veste de salvare și centură de siguranță ori de câte ori lucrați pe punte.\n2. Mergeți pe punte doar cu linia de siguranță atașată de navă.",
+          "text_en": "What safety measures must be observed when driving at night, even in calm weather?",
+          "answer_en": "1. Wear life jackets and a safety belt whenever you work on deck.\n2. Only walk across the deck with the safety line attached to the ship."
         },
         {
           "nr": 71,
           "text_de": "Was verstehen Sie unter „Radeffekt“ des Schiffspropellers (Schraube)?",
           "answer_de": "„Radeffekt“ ist die seitliche Versetzung des Hecks durch die drehende Schraube.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce înțelegeți prin „efectul de roată” al elicei navei (șurub)?",
+          "answer_ro": "„Efectul roată” este deplasarea laterală a cozii cauzată de șurubul rotativ.",
+          "text_en": "What do you mean by “wheel effect” of the ship’s propeller (screw)?",
+          "answer_en": "“Wheel effect” is the lateral displacement of the tail caused by the rotating screw."
         },
         {
           "nr": 72,
           "text_de": "Mit welchen 4 Angaben werden Propeller auf Yachten beschrieben?",
           "answer_de": "Anzahl der Flügel, Größe ihrer Fläche, Durchmesser und Steigung.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce 4 detalii sunt folosite pentru a descrie elicele de pe iahturi?",
+          "answer_ro": "Numărul de aripi, dimensiunea suprafeței lor, diametrul și pasul.",
+          "text_en": "What 4 details are used to describe propellers on yachts?",
+          "answer_en": "Number of wings, size of their area, diameter and pitch."
         },
         {
           "nr": 73,
           "text_de": "Wie wirkt der rechts- bzw. linksdrehende Propeller auf das Schiffsheck bei Rückwärtsfahrt?",
           "answer_de": "Ein rechtsdrehender Propeller versetzt das Heck bei Rückwärtsfahrt nach Backbord, ein linksdrehender nach Steuerbord.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum afectează elicea care se întoarce la dreapta sau la stânga pupa navei atunci când călătorește înapoi?",
+          "answer_ro": "O elice cu mâna dreaptă mută pupa spre babord la mers înapoi, una pentru stânga la tribord.",
+          "text_en": "How does the right or left turning propeller affect the stern of the ship when traveling backwards?",
+          "answer_en": "A right-handed propeller moves the stern to port when reversing, a left-handed one to starboard."
         },
         {
           "nr": 74,
           "text_de": "1. Wie drehen bei einem Zweischrauber in der Regel die Propeller?\n2. Welchen manövriertechnischen Vorteil haben Yachten mit 2 Propellern?",
           "answer_de": "1. Gegenläufig.\n2. Mit 2 Propellern kann man nahezu auf der Stelle drehen, indem man einen Propeller vorwärts und einen Propeller rückwärts arbeiten lässt. Die Manövrierfähigkeit wird dadurch verbessert.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Cum se rotesc de obicei elicele pe un avion cu două șuruburi?\n2. Ce avantaj de manevră au iahturile cu 2 elice?",
+          "answer_ro": "1. Opus.\n2. Cu 2 elice vă puteți întoarce aproape pe loc, având o elice să lucreze înainte și o elice să lucreze înapoi. Acest lucru îmbunătățește manevrabilitatea.",
+          "text_en": "1. How do the propellers usually turn on a two-screw plane?\n2. What maneuvering advantage do yachts with 2 propellers have?",
+          "answer_en": "1. Opposite.\n2. With 2 propellers you can turn almost in place by having one propeller work forward and one propeller work backwards. This improves maneuverability."
         },
         {
           "nr": 75,
           "text_de": "Warum gibt es bei einem Zweischrauben-Schiff (in der Regel) keinen Radeffekt?",
           "answer_de": "Die Drehrichtungen der Schrauben sind gegenläufig. So heben sich die jeweiligen Radeffekte gegenseitig auf.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce nu există (de obicei) niciun efect de roată pe o navă cu două șuruburi?",
+          "answer_ro": "Sensurile de rotație ale șuruburilor sunt opuse. Efectele respective ale roții se anulează reciproc.",
+          "text_en": "Why is there (usually) no wheel effect on a two-screw ship?",
+          "answer_en": "The directions of rotation of the screws are opposite. The respective wheel effects cancel each other out."
         },
         {
           "nr": 76,
           "text_de": "Was ist ein Bugstrahlruder und wozu dient es?",
           "answer_de": "Eine im Bug einer Yacht befindliche Röhre mit einem Propeller, mit dem ein Querschub und damit ein drehen des Buges bei geringen Vorausgeschwindigkeiten erreicht werden kann.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce este un propulsor de prova și la ce se folosește?",
+          "answer_ro": "Tub situat în prova unui iaht cu elice cu ajutorul căruia se poate realiza o împingere transversală și astfel învârtirea probei la viteze mici înainte.",
+          "text_en": "What is a bow thruster and what is it used for?",
+          "answer_en": "A tube located in the bow of a yacht with a propeller with which a transverse thrust and thus turning of the bow can be achieved at low forward speeds."
         },
         {
           "nr": 77,
           "text_de": "Wann sollte aus Gründen der Sicherheit auf Motoryachten der Außenfahrstand besetzt werden?",
           "answer_de": "1. Bei verminderter Sicht zum Wahrnehmen der Schallsignale.\n2. Bei Manövern in engen Gewässern zur besseren Rundumsicht.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Când ar trebui să fie ocupată poziția de control exterior pe iahturile cu motor din motive de siguranță?",
+          "answer_ro": "1. Cu vizibilitate redusă pentru a percepe semnalele sonore.\n2. Când manevrezi în ape înguste, pentru o vizibilitate mai bună de jur împrejur.",
+          "text_en": "When should the outside control position on motor yachts be manned for safety reasons?",
+          "answer_en": "1. With reduced visibility to perceive the sound signals.\n2. When maneuvering in narrow waters for better all-round visibility."
         },
         {
           "nr": 78,
           "text_de": "Warum empfiehlt sich beim Schleppen die Verwendung einer Hahnepot und wo sollte sie belegt werden?",
           "answer_de": "1. Eine Hahnepot verteilt die Zugkräfte auf mehrere Belegpunkte für die Schleppleine an der Durchführung an Bug und auf den beiden Bootsseiten.\n2. Zum Belegen eignen sich zumeist kräftigere Klampen für die Vorspring auf den Bootsseiten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce se recomandă utilizarea unui cockpit la remorcare și unde ar trebui să fie folosit?",
+          "answer_ro": "1. Un cockpot distribuie forțele de tragere în mai multe puncte de ancorare pentru linia de remorcare la trecerea de la prova și pe ambele părți ale bărcii.\n2. Clemele mai puternice sunt de obicei potrivite pentru proeminențele de pe părțile laterale ale bărcii.",
+          "text_en": "Why is it recommended to use a cockpit when towing and where should it be used?",
+          "answer_en": "1. A cockpot distributes the pulling forces to several anchor points for the towing line at the bow lead-through and on both sides of the boat.\n2. Stronger cleats are usually suitable for the projections on the sides of the boat."
         },
         {
           "nr": 79,
           "text_de": "Sie wollen in eine Box einlaufen. Wie bereiten Sie die Achterleinen vor und machen sie fest?",
           "answer_de": "Achterleinen mit Auge versehen. Möglichst frühzeitig über die Pfähle legen, bei seitlichem Wind zuerst über den Luvpfahl.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Doriți să introduceți o casetă. Cum pregătiți și atașați liniile de la pupa?",
+          "answer_ro": "Linii din spate prevăzute cu ochi. Așezați-vă deasupra stâlpilor cât mai devreme posibil; dacă există vânt lateral, mai întâi peste stâlpul de vânt.",
+          "text_en": "You want to enter a box. How do you prepare and attach the aft lines?",
+          "answer_en": "Aft lines provided with eyes. Lay over the poles as early as possible; if there is a side wind, first over the windward pole."
         },
         {
           "nr": 80,
           "text_de": "Welche Vorbereitung haben Sie für ein Anlegemanöver zu treffen?",
           "answer_de": "1. Crew für Manöver einteilen.\n2. Leinen und Fender bereitlegen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce pregătire trebuie să faci pentru o manevră de acostare?",
+          "answer_ro": "1. Alocați echipaj pentru manevre.\n2. Pregătiți liniile și aripile.",
+          "text_en": "What preparation do you have to make for a mooring maneuver?",
+          "answer_en": "1. Assign crew for maneuvers.\n2. Get lines and fenders ready."
         },
         {
           "nr": 81,
           "text_de": "Beschreiben Sie das Fahrmanöver mit einem Zweischrauben-Schiff bei einer Drehung auf engem Raum über Steuerbord.",
           "answer_de": "Ruder hart Steuerbord, Steuerbordmaschine rückwärts, Backbordmaschine voraus.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Descrieți manevra unei nave cu două șuruburi care se întoarce într-un spațiu restrâns deasupra tribordului.",
+          "answer_ro": "Tribord dur, motor tribord înapoi, motor babord înainte.",
+          "text_en": "Describe the maneuver of a two-screw ship turning in a tight space over starboard.",
+          "answer_en": "Rudder hard starboard, starboard engine backwards, port engine forward."
         },
         {
           "nr": 82,
           "text_de": "Bei welchen Manövern können Sie ein Bugstrahlruder sinnvoll einsetzen?",
           "answer_de": "1. Beim An- und Ablegen.\n2. Beim Drehen auf engem Raum.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "În ce manevre poți folosi util un propulsor de prova?",
+          "answer_ro": "1. La îmbrăcare și decolare.\n2. La întoarcerea în spații înguste.",
+          "text_en": "In which maneuvers can you use a bow thruster usefully?",
+          "answer_en": "1. When putting on and taking off.\n2. When turning in tight spaces."
         },
         {
           "nr": 83,
           "text_de": "Sie liegen längsseits mit der Steuerbordseite an einer Pier. Beschreiben Sie ein Ablegemanöver unter gleichzeitigem Einsatz von Bugstrahlruder und Maschine.",
           "answer_de": "1. Hebel für Bugstrahlruder nach Backbord legen, sodass der Bug von der Pier weggedrückt wird (nach Backbord schwenkt) und gleichzeitig\n2. Ruderlage deutlich nach Steuerbord und langsame Fahrt voraus, sodass das Heck nach Backbord ausschwenkt.\nSo wird das Schiff fast parallel von der Pier abgedrückt.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Sunteți întins alături de partea tribord a unui dig. Descrieți o manevră de aruncare folosind propulsorul de prova și motorul în același timp.",
+          "answer_ro": "1. Mutați pârghia propulsorului de prova în babord, astfel încât prova să fie împinsă departe de dig (pivote în babord) și în același timp\n2. Poziționați cârma clar la tribord și conduceți încet înainte, astfel încât pupa să se balanseze spre babord.\nNava este împinsă de pe dig aproape paralel.",
+          "text_en": "You are lying alongside with the starboard side of a pier. Describe a casting off maneuver using the bow thruster and engine at the same time.",
+          "answer_en": "1. Move the bow thruster lever to port so that the bow is pushed away from the pier (pivots to port) and at the same time\n2. Rudder position clearly to starboard and drive slowly ahead so that the stern swings out to port.\nThe ship is pushed off the pier almost parallel."
         },
         {
           "nr": 84,
           "text_de": "Warum kann das Anlaufen eines Hafens bei auflandigem Starkwind bzw. schwerem Wetter gefährlich werden?",
           "answer_de": "Gefahr durch Grundseen bzw. Kreuzseen. Möglichkeit von Querstromwirbeln.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce poate fi periculoasă apelarea într-un port când există vânt puternic pe uscat sau vreme grea?",
+          "answer_ro": "Pericol de lacurile de la sol sau lacuri transversale. Posibilitatea de vortexuri încrucișate.",
+          "text_en": "Why can calling into a port be dangerous when there is strong onshore wind or heavy weather?",
+          "answer_en": "Danger from ground lakes or cross lakes. Possibility of cross-flow vortices."
         },
         {
           "nr": 85,
           "text_de": "Sie werden in Küstennähe von einem Sturm überrascht. Wie verhalten Sie sich mit einer Motoryacht?",
           "answer_de": "1. Möglichst rasch versuchen, Hafen oder Landschutz anzulaufen.\n2. Ggf. Motoryacht mit langsamer Fahrt gegen die See halten.\n3. Sicherheitsmaßnahmen für die Besatzung treffen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Sunteți surprins de o furtună lângă coastă. Cum te comporți cu un iaht cu motor?",
+          "answer_ro": "1. Încercați să ajungeți la protecția portului sau a terenului cât mai repede posibil.\n2. Dacă este necesar, mențineți iahtul cu motor în mișcare lent pe mare.\n3. Luați măsuri de siguranță pentru echipaj.",
+          "text_en": "You are surprised by a storm near the coast. How do you behave with a motor yacht?",
+          "answer_en": "1. Try to get to port or land protection as quickly as possible.\n2. If necessary, keep the motor yacht moving slowly against the sea.\n3. Take safety measures for the crew."
         },
         {
           "nr": 86,
           "text_de": "Worauf müssen Sie achten, wenn Sie in Tidengewässern längsseits einer Pier festgemacht haben?",
           "answer_de": "1. Die Wassertiefe muss auch bei Niedrigwasser ausreichen oder sicheres Aufsetzen muss gewährleistet sein.\n2. Die Leinen müssen für den Tidenstieg oder -fall ausreichend lang sein. Bei größerem Tidenhub darf das Fahrzeug keinesfalls unbeaufsichtigt bleiben.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce ar trebui să acordați atenție când sunteți ancorat lângă un dig în apele de maree?",
+          "answer_ro": "1. Adâncimea apei trebuie să fie suficientă chiar și la maree scăzută sau trebuie garantată aterizarea sigură.\n2. Liniile trebuie să fie suficient de lungi pentru creșterea sau scăderea valului. În timpul mareelor ​​înalte, vehiculul nu trebuie în niciun caz lăsat nesupravegheat.",
+          "text_en": "What should you pay attention to when moored alongside a pier in tidal waters?",
+          "answer_en": "1. The water depth must be sufficient even at low tide or safe landing must be guaranteed.\n2. The lines must be long enough for the rise or fall of the tide. During high tides, the vehicle must under no circumstances be left unattended."
         },
         {
           "nr": 87,
           "text_de": "Sie fahren bei frischem Wind und mitlaufendem Strom (Wind gegen Strom) nach Luv. Welche Auswirkungen hat ein gegen den Wind setzender Strom auf den Seegang?",
           "answer_de": "Durch den Strom entsteht eine kurze, steile und kabbelige See.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Vă îndreptați spre vânt cu un vânt proaspăt și curentul care rulează (vânt împotriva curentului). Ce efecte are asupra stării mării un curent care se mișcă împotriva vântului?",
+          "answer_ro": "Curentul creează o mare scurtă, abruptă și agitată.",
+          "text_en": "You are heading to windward with a fresh wind and the current running (wind against current). What effects does a current moving against the wind have on the sea state?",
+          "answer_en": "The current creates a short, steep and choppy sea."
         },
         {
           "nr": 88,
           "text_de": "Wie wirkt sich mitlaufender Strom auf die Fahrt eines Fahrzeuges und die Loganzeige aus?",
           "answer_de": "1. Der Strom erhöht die Fahrt über Grund.\n2. Das Log zeigt dies nicht an.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum afectează curentul de rulare mișcarea unui vehicul și afișajul jurnalului?",
+          "answer_ro": "1. Curentul crește călătoria pe sol.\n2. Jurnalul nu arată acest lucru.",
+          "text_en": "How does running current affect the movement of a vehicle and the log display?",
+          "answer_en": "1. The current increases travel over ground.\n2. The log does not show this."
         },
         {
           "nr": 89,
           "text_de": "Welcher Kurswinkel ist bei schwerer See am besten geeignet das Aufschlagen des Bootes zu verringern?",
           "answer_de": "Ein Kurswinkel von 20° bis 25° bezogen auf die Seegangsrichtung ist am besten geeignet hartes Aufschlagen zu verringern.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce unghi de cursă este cel mai potrivit pentru a reduce impactul ambarcațiunii în marea grea?",
+          "answer_ro": "Un unghi de îndreptare de 20° până la 25° față de direcția mării este cel mai potrivit pentru a reduce impacturile dure.",
+          "text_en": "What course angle is best suited to reduce the boat's impact in heavy seas?",
+          "answer_en": "A heading angle of 20° to 25° relative to the direction of the sea is best suited to reduce hard impacts."
         },
         {
           "nr": 90,
           "text_de": "Welche Hilfsmittel können Sie einsetzen, um einen Überbordgefallenen an Deck zu bekommen?",
           "answer_de": "Bewegliche (und gesicherte) Badeleiter, beschwerte Trittschlinge, Rettungstalje, Bergegurt.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce instrumente poți folosi pentru a aduce pe cineva care a căzut peste bord pe punte?",
+          "answer_ro": "Scară de baie mobilă (și securizată), sling cu treaptă ponderată, dispozitiv de salvare, ham de recuperare.",
+          "text_en": "What tools can you use to get someone who has fallen overboard on deck?",
+          "answer_en": "Movable (and secured) bathing ladder, weighted step sling, rescue tackle, recovery harness."
         },
         {
           "nr": 91,
           "text_de": "Welche Sofortmaßnahmen sind einzuleiten, wenn jemand über Bord gefallen ist?",
           "answer_de": "1. Ruf: „Mensch über Bord!“,\n2. Rettungsmittel zuwerfen,\n3. Ausguck halten, Mann im Auge behalten,\n4. Maschine starten,\n5. „Mensch-über-Bord-Manöver“ einleiten,\n6. Notmeldung abgeben,\n7. ggf. Markierungsblitzboje werfen,\n8. ggf. MOB-Taste eines satellitengestützten Navigationsgerätes drücken,\n9. Bergung durchführen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce măsuri imediate ar trebui luate dacă cineva a căzut peste bord?",
+          "answer_ro": "1. Strigă: „Om peste bord!”\n2. aruncați echipamentul de salvare,\n3. Fii atent, fii cu ochii pe om,\n4. Porniți mașina,\n5. Inițiați „manevre de om peste bord”,\n6. Trimiteți un raport de urgență,\n7. Dacă este necesar, aruncați o geamandură de marcare,\n8. Dacă este necesar, apăsați butonul MOB de pe un dispozitiv de navigare prin satelit,\n9. Efectuați salvarea.",
+          "text_en": "What immediate measures should be taken if someone has fallen overboard?",
+          "answer_en": "1. Shout: “Man overboard!”\n2. throw rescue equipment,\n3. Keep lookout, keep an eye on man,\n4. Start the machine,\n5. Initiate “man overboard maneuvers”,\n6. Submit an emergency report,\n7. If necessary, throw a marker flash buoy,\n8. If necessary, press the MOB button on a satellite-based navigation device,\n9. Perform rescue."
         },
         {
           "nr": 92,
           "text_de": "Welche Maßnahmen können gegen das Überbordfallen getroffen werden?",
           "answer_de": "1. Sicherheitsgurte anlegen und einpicken.\n2. Anbringen von Strecktau oder Laufleinen von Bug zum Heck.\n3. Crew auf Befestigungspunkte (Einpickpunkte für Karabinerhaken) hinweisen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce măsuri pot fi luate pentru a preveni căderea peste bord?",
+          "answer_ro": "1. Fixați-vă centurile de siguranță și faceți check-in.\n2. Atașarea frânghiilor întinse sau a liniilor de alergare de la prova la pupa.\n3. Informați echipajul despre punctele de atașare (punctele de alegere pentru carabiniere).",
+          "text_en": "What measures can be taken to prevent falling overboard?",
+          "answer_en": "1. Fasten your seatbelts and check in.\n2. Attaching stretch ropes or running lines from bow to stern.\n3. Inform crew about attachment points (picking points for carabiners)."
         },
         {
           "nr": 93,
           "text_de": "Nennen Sie die grundsätzlichen Schritte und ihre Ziele zur Rettung einer über Bord gegangenen Person.",
           "answer_de": "1. Maschine starten,\n2. Suche, Herstellung eines Sichtkontaktes zur über Bord gegangenen Person,\n3. „Mensch-über-Bord-Manöver“, Annäherung an die im Wasser treibende Person und Herstellung einer ersten Leinenverbindung,\n4. Bergung, sicheres und schnelles Anbordnehmen der Person,\n5. Erste Hilfe, Betreuung,\n6. ggf. Notalarm abgeben.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Enumerați pașii de bază și obiectivele acestora pentru salvarea unei persoane care a căzut peste bord.",
+          "answer_ro": "1. porniți mașina,\n2. Căutați, stabiliți contact vizual cu persoana care a căzut peste bord,\n3. „Manevra omului peste bord”, abordarea persoanei care plutește în apă și realizarea unei conexiuni inițiale de linie,\n4. Salvarea, îmbarcarea în siguranță și rapidă a persoanei,\n5. Primul ajutor, îngrijire,\n6. Dacă este necesar, lansați o alarmă de urgență.",
+          "text_en": "List the basic steps and their objectives for rescuing a person who has fallen overboard.",
+          "answer_en": "1. start machine,\n2. Search, establish visual contact with the person who has fallen overboard,\n3. “Man overboard maneuver”, approaching the person floating in the water and making an initial line connection,\n4. Rescue, safe and quick boarding of the person,\n5. First aid, care,\n6. If necessary, issue an emergency alarm."
         },
         {
           "nr": 94,
           "text_de": "Mit welchen Hilfsmitteln können Sie den Bezugspunkt (internationaler Begriff: Datum) für die Suche nach einem Überbordgefallenen sichern?",
           "answer_de": "1. Markierungsblitzboje,\n2. MOB-Taste eines satellitengestützten Navigationsgerätes (z.B. GPS).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce instrumente puteți folosi pentru a asigura punctul de referință (termen internațional: data) atunci când căutați pe cineva care a căzut peste bord?",
+          "answer_ro": "1. geamandură de marcare,\n2. Butonul MOB al unui dispozitiv de navigare prin satelit (de exemplu, GPS).",
+          "text_en": "What tools can you use to secure the reference point (international term: date) when searching for someone who has fallen overboard?",
+          "answer_en": "1. marker flash buoy,\n2. MOB button of a satellite-based navigation device (e.g. GPS)."
         },
         {
           "nr": 95,
           "text_de": "Was gehört u.a. zur Sicherheitsausrüstung z.B. einer 10-m-Yacht?\nNennen Sie mindestens 6 Ausrüstungsgegenstände.",
           "answer_de": "1. Lenzpumpen und Pützen,\n2. Lecksicherungsmaterial,\n3. Feuerlöscher,\n4. Werkzeug und Ersatzteile,\n5. Seenotsignalmittel,\n6. Handlampen,\n7. Funkeinrichtung,\n8 Anker,\n9. Erste-Hilfe-Ausrüstung,\n10. Radarreflektor und\n11. Rettungsmittel.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce este inclus în echipamentul de siguranță al unui iaht de 10 m, de exemplu?\nNumiți cel puțin 6 echipamente.",
+          "answer_ro": "1. pompe de santină și bălți,\n2. Material de protecție împotriva scurgerilor,\n3. extinctor,\n4. Scule și piese de schimb,\n5. semnale de primejdie,\n6. lămpi de mână,\n7. echipamente radio,\n8 ancore,\n9. trusa de prim ajutor,\n10. Reflector radar și\n11. Echipamente de salvare.",
+          "text_en": "What is included in the safety equipment of a 10 m yacht, for example?\nName at least 6 pieces of equipment.",
+          "answer_en": "1. bilge pumps and puddles,\n2. Leak protection material,\n3. fire extinguisher,\n4. Tools and spare parts,\n5. distress signals,\n6. hand lamps,\n7. radio equipment,\n8 anchors,\n9. first aid kit,\n10. Radar reflector and\n11. Lifesaving equipment."
         },
         {
           "nr": 96,
           "text_de": "Was gehört zur Sicherheitsausrüstung der Besatzung in der Küstenfahrt?",
           "answer_de": "1. Rettungsweste und Sicherheitsgurt (Lifebelt) für jedes Besatzungsmitglied,\n2. Rettungsfloß (Rettungsinsel),\n3. Rettungskragen mit Tag- und Nachtsignal und\n4. Erste-Hilfe-Ausrüstung mit Anleitung.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este echipamentul de siguranță al echipajului pentru navigația de coastă?",
+          "answer_ro": "1. Vesta de salvare și centura de siguranță (centura de salvare) pentru fiecare membru al echipajului,\n2. plută de salvare (plută de salvare),\n3. Guler de salvare cu semnal zi si noapte si\n4. Trusa de prim ajutor cu instructiuni.",
+          "text_en": "What is the crew's safety equipment for coastal navigation?",
+          "answer_en": "1. Life jacket and safety belt (life belt) for each crew member,\n2. life raft (life raft),\n3. Rescue collar with day and night signal and\n4. First aid kit with instructions."
         },
         {
           "nr": 97,
           "text_de": "Wie erhalten Sie Kenntnis über das nächste Wartungsdatum eines Rettungsfloßes?",
           "answer_de": "Die runde, auf der Insel klebende farbige Serviceplakette oder das bei der letzten Wartung mitgelieferte Zertifikat geben Auskunft über den nächsten Wartungstermin.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De unde știi următoarea dată de întreținere a unei plute de salvare?",
+          "answer_ro": "Autocolantul de service rotund colorat lipit de insulă sau certificatul inclus cu ultima întreținere oferă informații despre următoarea dată de întreținere.",
+          "text_en": "How do you know the next maintenance date of a liferaft?",
+          "answer_en": "The round colored service sticker stuck to the island or the certificate included with the last maintenance provides information about the next maintenance date."
         },
         {
           "nr": 98,
           "text_de": "Worauf müssen Sie bei Ihren Automatikrettungswesten hinsichtlich der Funktionssicherheit achten?",
           "answer_de": "Auf regelmäßige Wartung. Wartungsfälligkeit erkennbar an der farbigen Serviceplakette.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce trebuie să fii atent în ceea ce privește siguranța funcțională cu vestele de salvare automate?",
+          "answer_ro": "La întreținere regulată. Data scadenței pentru întreținere poate fi identificată prin autocolantul colorat de service.",
+          "text_en": "What do you have to pay attention to in terms of functional safety with your automatic life jackets?",
+          "answer_en": "On regular maintenance. Maintenance due date can be identified by the colored service sticker."
         },
         {
           "nr": 99,
           "text_de": "Was ist auf Deck einer Yacht ein Strecktau (auch Laufleine genannt) und wozu dient es?",
           "answer_de": "Ein neben der Fußreling verlaufender Dreht, Gurt oder eine starke Leine zwischen Cockpit und Vorschiff straff gespannt zum Einpicken der Sicherheitsleine (Lifebelts).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce este o frânghie întinsă (numită și linie de alergare) pe puntea unui iaht și pentru ce este folosită?",
+          "answer_ro": "Un pivot, o centură sau o linie puternică care curge lângă șina pentru picioare este întinsă strâns între cockpit și puntea din față, astfel încât firul de siguranță (centurile de salvare) să poată fi ridicate.",
+          "text_en": "What is a stretch rope (also called a running line) on the deck of a yacht and what is it used for?",
+          "answer_en": "A swivel, belt or a strong line running next to the foot rail is stretched tightly between the cockpit and the foredeck so that the safety line (life belts) can be picked up."
         },
         {
           "nr": 100,
           "text_de": "Welche Seenotsignalmittel sollten Sie an Bord haben? Nennen Sie mindestens 6 Beispiele.",
           "answer_de": "1. Handfackeln, rot,\n2. Handraketen, rot,\n3. Rauchfackeln oder Rauchtopf, orange,\n4. Signalpistole mit Munition,\n5. Seewasserfärber,\n6. Signalflaggen N und C,\n7. Signallampe,\n8. Seenotfunkboje.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce semnale de primejdie ar trebui să aveți la bord? Dați cel puțin 6 exemple.",
+          "answer_ro": "1. torțe de mână, roșii,\n2. Rachete de mână, roșii,\n3. torțe de fum sau oală de fum, portocale,\n4. Pistol de semnalizare cu muniție,\n5. vopsitor cu apă de mare,\n6. Indicatoarele de semnal N și C,\n7. Lampă de semnalizare,\n8. Geamandura radio de avarie.",
+          "text_en": "Which distress signals should you have on board? Give at least 6 examples.",
+          "answer_en": "1. hand torches, red,\n2. Hand rockets, red,\n3. Smoke torches or smoke pot, orange,\n4. Signal pistol with ammunition,\n5. sea water dyer,\n6. Signal flags N and C,\n7. Signal lamp,\n8. Distress radio buoy."
         },
         {
           "nr": 101,
           "text_de": "Welche Feuerlöscheinrichtungen sollten an Bord sein?",
           "answer_de": "1. Feuerlöscher (ABC-Pulverlöscher und eventuell CO2-Löscher),\n2. Pütz zum Löschen von Bränden fester Stoffe,\n3. Feuerlöschdecke,\n4. Löschdurchlass für geschlossene Motorräume, der das Löschen von Bränden mit CO2-Löschern ohne Sauerstoffzutritt ermöglicht.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce echipament de stingere a incendiilor ar trebui să fie la bord?",
+          "answer_ro": "1. Extinctor (stingător cu pulbere ABC și eventual stingător cu CO2),\n2. Pütz pentru stingerea incendiilor care implică substanțe solide,\n3. pătură de foc,\n4. Pasaj de stingere pentru compartimentele motor închise, care permite stingerea incendiilor cu stingătoare cu CO2 fără acces la oxigen.",
+          "text_en": "What fire extinguishing equipment should be on board?",
+          "answer_en": "1. Fire extinguisher (ABC powder extinguisher and possibly CO2 extinguisher),\n2. Pütz for extinguishing fires involving solid substances,\n3. fire blanket,\n4. Extinguishing passage for closed engine compartments, which enables fires to be extinguished with CO2 extinguishers without access to oxygen."
         },
         {
           "nr": 102,
           "text_de": "Welche Feuerlöscharten sind für Sportboote geeignet?\nWie und wo sind sie an Bord unterzubringen?",
           "answer_de": "1. Der ABC-Pulverlöscher, für geschlossene Motorräume der CO2-Löscher.\n2. Der Feuerlöscher muss gebrauchsfertig und leicht erreichbar sein, CO2-Löscher nicht im Schiffsinneren unterbringen (Erstickungsgefahr bei Leckage).\n3. Er soll in der Nähe der Maschinenräume, der Kombüse sowie der Koch- oder Heizstelle montiert sein.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce tipuri de stingere a incendiilor sunt potrivite pentru ambarcațiunile de agrement?\nCum și unde ar trebui să fie cazați la bord?",
+          "answer_ro": "1. Extinctorul cu pulbere ABC, stingătorul cu CO2 pentru compartimentele motor închise.\n2. Extinctorul trebuie să fie gata de utilizare și ușor accesibil.Nu depozitați stingătoarele cu CO2 în interiorul navei (pericol de sufocare în cazul unei scurgeri).\n3. Ar trebui să fie montat în apropierea camerelor mașinilor, a bucătăriei și a zonei de gătit sau de încălzire.",
+          "text_en": "Which types of fire extinguishing are suitable for recreational boats?\nHow and where should they be accommodated on board?",
+          "answer_en": "1. The ABC powder extinguisher, the CO2 extinguisher for closed engine compartments.\n2. The fire extinguisher must be ready for use and easily accessible. Do not store CO2 extinguishers inside the ship (danger of suffocation in the event of a leak).\n3. It should be mounted near the engine rooms, the galley and the cooking or heating area."
         },
         {
           "nr": 103,
           "text_de": "Wie wird die ständige Funktionssicherheit eines Feuerlöschers sichergestellt?",
           "answer_de": "1. Durch Einhaltung des vorgeschriebenen Prüftermins, ersichtlich aus der Prüfplakette.\n2. Der Feuerlöscher muss vor Feuchtigkeit und Korrosion geschützt werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum este asigurată fiabilitatea funcțională constantă a unui stingător de incendiu?",
+          "answer_ro": "1. Prin respectarea datei de testare prescrise, care poate fi văzută pe autocolantul de testare.\n2. Extinctorul trebuie protejat de umiditate și coroziune.",
+          "text_en": "How is the constant functional reliability of a fire extinguisher ensured?",
+          "answer_en": "1. By adhering to the prescribed test date, which can be seen on the test sticker.\n2. The fire extinguisher must be protected from moisture and corrosion."
         },
         {
           "nr": 104,
           "text_de": "Wie wird ein Brand an Bord wirksam bekämpft?",
           "answer_de": "1. Alle Öffnungen schließen,\n2. Brennstoffzufuhr (Hauptschalter) unterbrechen,\n3. Feuerlöscher erst am Brandherd betätigen,\n4. Feuer von unten und von vorn bekämpfen,\n5. Löschdecke einsetzen,\n6. Flüssigkeitsbrände nicht mit Wasser bekämpfen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum se stinge eficient un incendiu de la bord?",
+          "answer_ro": "1. Închideți toate deschiderile,\n2. Întrerupeți alimentarea cu combustibil (întrerupător principal),\n3. Folosiți stingătorul numai la sursa incendiului,\n4. Combate focul de jos și din față,\n5. Introduceți pătura de foc,\n6. Nu combateți incendiile lichide cu apă.",
+          "text_en": "How is a fire on board effectively fought?",
+          "answer_en": "1. Close all openings,\n2. Interrupt fuel supply (main switch),\n3. Only use the fire extinguisher at the source of the fire,\n4. Fight fire from below and from the front,\n5. Insert fire blanket,\n6. Do not fight liquid fires with water."
         },
         {
           "nr": 105,
           "text_de": "Was ist vor Reisebeginn beim Seeklarmachen zu überprüfen und zu beachten? Nennen Sie mindestens 6 Beispiele.",
           "answer_de": "1. Seetüchtigkeit der Yacht,\n2. Treibstoffvorrat,\n3. Navigationsunterlagen,\n4. Sicherheitseinweisung der Besatzung,\n5. Rettungsmittel,\n6. Seenotsignale,\n7. Trinkwasser- und Proviantvorräte,\n8. Funktionsfähigkeit des Motors,\n9. Funktionsfähigkeit der elektrischen Navigationsgeräte,\n10. Lenzeinrichtungen,\n11. Feuerlöscher,\n12. Boots- und Personalpapiere.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce ar trebui verificat și luat în considerare atunci când vă pregătiți pentru mare înainte de începerea călătoriei? Dați cel puțin 6 exemple.",
+          "answer_ro": "1. starea de navigabilitate a iahtului,\n2. alimentare cu combustibil,\n3. documente de navigație,\n4. Briefing privind siguranța echipajului,\n5. echipament de salvare,\n6. semnale de primejdie,\n7. Apa potabilă și provizii,\n8. funcționalitatea motorului,\n9. Functionalitatea aparatelor electrice de navigatie,\n10. instalații de santină,\n11. extinctor,\n12. Ambarcațiune și documente personale.",
+          "text_en": "What should be checked and taken into account when preparing for sea before the start of the journey? Give at least 6 examples.",
+          "answer_en": "1. seaworthiness of the yacht,\n2. fuel supply,\n3. navigation documents,\n4. Crew safety briefing,\n5. rescue equipment,\n6. distress signals,\n7. Drinking water and provisions,\n8. functionality of the engine,\n9. Functionality of the electrical navigation devices,\n10. bilge facilities,\n11. fire extinguisher,\n12. Boat and personal papers."
         },
         {
           "nr": 106,
           "text_de": "Was gehört zur Sicherheitseinweisung der gesamten Besatzung vor Reisebeginn? Nennen Sie mindestes 6 Beispiele.",
           "answer_de": "Einweisung in Gebrauch und Bedienung\n1. der Rettungswesten und Sicherheitsgurte,\n2. des Rettungsfloßes,\n3. der Signalmittel,\n4. der Lenzpumpen,\n5. der Seeventile und des Bord-WC,\n6. der Kocheinrichtung,\n7. der Feuerlöscher,\n8. der Motoranlage,\n9. der Elektroanlage,\n10. des Rundfunkgerätes und der UKW-Seefunkanlage,\n11. Verhalten bei „Mensch-über-Bord“,\n12. Erkennen der Seekrankheit und entsprechendes Verhalten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce este inclus în briefing-ul de siguranță pentru întregul echipaj înainte de începerea călătoriei? Dați cel puțin 6 exemple.",
+          "answer_ro": "Instrucțiuni de utilizare și utilizare\n1. veste de salvare și centuri de siguranță,\n2. pluta de salvare,\n3. mijloacele de semnalizare,\n4. pompele de santină,\n5. supapele de mare și toaleta de la bord,\n6. instalația de gătit,\n7. extinctorul,\n8. sistemul motor,\n9. sistemul electric,\n10. radioul și sistemul radio maritim VHF;\n11. Comportament în cazul unei persoane peste bord\n12. Recunoașteți răul de mare și comportați-vă în consecință.",
+          "text_en": "What is included in the safety briefing for the entire crew before the start of the journey? Give at least 6 examples.",
+          "answer_en": "Instruction in use and operation\n1. life jackets and seat belts,\n2. the life raft,\n3. the signaling means,\n4. the bilge pumps,\n5. the sea valves and the on-board toilet,\n6. the cooking facility,\n7. the fire extinguisher,\n8. the engine system,\n9. the electrical system,\n10. the radio and the VHF marine radio system,\n11. Behavior in the event of a person overboard\n12. Recognize seasickness and behave accordingly."
         },
         {
           "nr": 107,
           "text_de": "In welche technischen Einrichtungen/Ausrüstungen muss der Schiffsführer die Besatzung vor Reiseantritt unbedingt einweisen? Nennen Sie mindestens 6 Beispiele.",
           "answer_de": "1. Ankergeschirr,\n2. Lenzeinrichtung,\n3. Feuerlöscheinrichtungen,\n4. Motoranlage,\n5. Seeventile,\n6. UKW-Seefunkanlage,\n7. MOB-Taste vom satellitengestützten Navigationsgerät (z.B. GPS),\n8. Seenotsignalmittel,\n9. Notrudereinrichtung.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cu ce ​​facilități/echipamente tehnice trebuie căpitanul navei să instruiască echipajul înainte de începerea călătoriei? Dați cel puțin 6 exemple.",
+          "answer_ro": "1. dispozitiv de ancorare,\n2. dispozitiv de santină,\n3. echipamente de stingere a incendiilor,\n4. sistem motor,\n5. supape de mare,\n6. Sistem radio marin VHF,\n7. Butonul MOB de la dispozitivul de navigare prin satelit (de exemplu, GPS),\n8. semnale de primejdie,\n9. Dispozitiv de direcție de urgență.",
+          "text_en": "What technical facilities/equipment must the ship's master instruct the crew on before the start of the journey? Give at least 6 examples.",
+          "answer_en": "1. anchor tackle,\n2. bilge device,\n3. fire extinguishing equipment,\n4. engine system,\n5. sea valves,\n6. VHF marine radio system,\n7. MOB button from the satellite-based navigation device (e.g. GPS),\n8. distress signals,\n9. Emergency steering device."
         },
         {
           "nr": 108,
           "text_de": "Welche Sicherheitsmaßnahmen sind vor jedem Auslaufen durchzuführen?\nNennen Sie mindestens 6 Beispiele.",
           "answer_de": "1. Wetterbericht einholen,\n2. Kontrolle der Sicherheitsausrüstung,\n3. Kontrolle von Motor und Schaltung,\n4. Kontrolle der nautischen Geräte,\n5. Kontrolle der Bilge,\n6. Überprüfen des Wasser- und Kraftstoffvorrats,\n7. Kontrolle der Schall- und Lichtsignaleinrichtung,\n8. Kontrolle der Navigationslichter,\n9. Bereitlegen der aktuellen Seekarten und nautischen Veröffentlichtungen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce măsuri de siguranță trebuie luate înainte de fiecare plecare?\nDați cel puțin 6 exemple.",
+          "answer_ro": "1. obțineți un raport meteo,\n2. Verificarea echipamentului de siguranță,\n3. Verificarea motorului și a circuitului,\n4. Controlul echipamentelor nautice,\n5. verificarea santinei,\n6. Verificarea nivelurilor de apă și combustibil,\n7. Verificarea echipamentelor de semnalizare sonoră și luminoasă,\n8. Controlul luminilor de navigație,\n9. Furnizați hărți nautice actuale și publicații nautice.",
+          "text_en": "What safety measures must be taken before each departure?\nGive at least 6 examples.",
+          "answer_en": "1. get a weather report,\n2. Checking safety equipment,\n3. Checking the engine and circuit,\n4. Control of nautical equipment,\n5. checking the bilge,\n6. Checking water and fuel levels,\n7. Checking the sound and light signaling equipment,\n8. Control of navigation lights,\n9. Provide current nautical charts and nautical publications."
         },
         {
           "nr": 109,
           "text_de": "Warum sollten alle Crewmitglieder Lage und Funktion sämtlicher Pumpen und Ventile kennen?",
           "answer_de": "Damit im Bedarfsfall sie jeder bedienen kann.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce ar trebui să cunoască toți membrii echipajului locația și funcția tuturor pompelor și supapelor?",
+          "answer_ro": "Pentru ca toată lumea să-l poată folosi dacă este necesar.",
+          "text_en": "Why should all crew members know the location and function of all pumps and valves?",
+          "answer_en": "So that everyone can use it if necessary."
         },
         {
           "nr": 110,
           "text_de": "Warum sollte die Crew in die Funktion des Bord-WC eingewiesen werden?",
           "answer_de": "Weil durch unsachgemäße Bedienung Wasser ins Bootsinnere gelangen kann.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce ar trebui instruit echipajul cu privire la funcția toaletei de la bord?",
+          "answer_ro": "Deoarece operarea necorespunzătoare poate duce la pătrunderea apei în barcă.",
+          "text_en": "Why should the crew be instructed in the function of the on-board toilet?",
+          "answer_en": "Because improper operation can cause water to get inside the boat."
         },
         {
           "nr": 111,
           "text_de": "Warum sollte die Crew vor Reisebeginn in die Funktion des Ankergeschirrs und die Durchführung eines Ankermanövers eingewiesen werden?",
           "answer_de": "Damit jeder den Anker sicher ausbringen und einholen kann.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce ar trebui instruit echipajul cu privire la funcția dispozitivului de ancorare și cum să efectueze o manevră de ancorare înainte de începerea călătoriei?",
+          "answer_ro": "Pentru ca toată lumea să poată coborî în siguranță și să recupereze ancora.",
+          "text_en": "Why should the crew be instructed in the function of the anchor gear and how to carry out an anchor maneuver before the start of the journey?",
+          "answer_en": "So that everyone can safely lower and retrieve the anchor."
         },
         {
           "nr": 112,
           "text_de": "Wie verhalten Sie sich, wenn Ihr Schiff leckgeschlagen ist?",
           "answer_de": "1. Meldung abgeben.\n2. Je nach Erfordernissen Fahrt aus dem Schiff nehmen.\n3. Lenzpumpen betätigen, Lecksuche, Leck mit Bordmitteln abdichten.\n4. Küste bzw. flaches Wasser ansteuern.\n5. Fahrzeug so trimmen, dass Leckstelle aus dem Wasser kommt bzw. möglichst wenig unter Wasser ist.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum te comporți dacă nava ta are o scurgere?",
+          "answer_ro": "1. Trimiteți raportul.\n2. În funcție de cerințele dvs., ieșiți din navă.\n3. Operați pompele de santină, căutați scurgeri și etanșați scurgerea folosind echipamentul de bord.\n4. Îndreptați-vă spre coastă sau ape puțin adânci.\n5. Tăiați vehiculul astfel încât scurgerea să iasă din apă sau să fie cât mai puțin sub apă.",
+          "text_en": "How do you behave if your ship has a leak?",
+          "answer_en": "1. Submit report.\n2. Depending on your requirements, get out of the ship.\n3. Operate the bilge pumps, search for leaks, and seal the leak using on-board equipment.\n4. Head for the coast or shallow water.\n5. Trim the vehicle so that the leak comes out of the water or is as little under water as possible."
         },
         {
           "nr": 113,
           "text_de": "Was tun Sie, wenn Ihr Schiff leckgeschlagen ist und das Wasser im Schiff trotz aller Maßnahmen weiter steigt?",
           "answer_de": "1. Notzeichen geben, Funkmeldung abgeben, ggf. Radartransponder einschalten.\n2. Verlassen des Bootes vorbereiten, Rettungswesten anlegen, Rettungsfloß klarmachen.\n3. Wenn möglich, ruhiges Flachwasser anlaufen und Schiff auf Grund setzen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce faci dacă nava ta are o scurgere și apa din navă continuă să crească în ciuda tuturor măsurilor?",
+          "answer_ro": "1. Dați un semnal de urgență, trimiteți un mesaj radio și, dacă este necesar, porniți transponderul radar.\n2. Pregătiți-vă să părăsiți barca, puneți veste de salvare, curățați pluta de salvare.\n3. Dacă este posibil, îndreptați-vă către ape calme, puțin adânci și soluționați nava.",
+          "text_en": "What do you do if your ship has a leak and the water in the ship continues to rise despite all measures?",
+          "answer_en": "1. Give an emergency signal, send a radio message, and if necessary switch on the radar transponder.\n2. Prepare to leave the boat, put on life jackets, clear the life raft.\n3. If possible, head for calm, shallow water and ground the ship."
         },
         {
           "nr": 114,
           "text_de": "Welche Folgen können Grundberührungen und harte Stöße, z.B. bei Anlegemanövern oder Kollisionen mit treibenden Gegenständen, haben?",
           "answer_de": "1. Eine Beschädigung der Bordwand kann eintreten.\n2. Es kann Sinkgefahr entstehen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce consecințe pot avea impamântarea și impacturile puternice, de exemplu în timpul manevrelor de acostare sau al ciocnirilor cu obiecte plutitoare?",
+          "answer_ro": "1. Pot apărea deteriorarea peretelui lateral.\n2. Poate exista riscul de scufundare.",
+          "text_en": "What consequences can groundings and hard impacts have, e.g. during mooring maneuvers or collisions with floating objects?",
+          "answer_en": "1. Damage to the side wall can occur.\n2. There may be a risk of sinking."
         },
         {
           "nr": 115,
           "text_de": "Welche grundsätzliche Verhaltensweise sollte beachtet und welche Maßnahmen sollten ergriffen werden, wenn Ihr Schiff in Seenot kommt?",
           "answer_de": "1. Ruhe bewahren und überlegt handeln.\n2. Notalarm abgeben, ggf. Radartransponder einschalten.\n3. Rettungsfloß klarmachen.\n4. Rettungsweste und Sicherheitsgurt anlegen.\n5. So lange wie möglich an Bord bleiben.\n6. Wärmende Kleidung anziehen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce comportament de bază ar trebui respectat și ce măsuri ar trebui luate dacă nava dumneavoastră este în pericol?",
+          "answer_ro": "1. Păstrați-vă calmul și acționați cu atenție.\n2. Sunați o alarmă de urgență, porniți transponderul radar dacă este necesar.\n3. Curățați pluta de salvare.\n4. Puneți o vestă de salvare și centura de siguranță.\n5. Rămâneți la bord cât mai mult posibil.\n6. Îmbrăcați-vă îmbrăcămintea caldă.",
+          "text_en": "What basic behavior should be observed and what measures should be taken if your ship is in distress?",
+          "answer_en": "1. Keep calm and act carefully.\n2. Sound an emergency alarm, switch on the radar transponder if necessary.\n3. Clear the life raft.\n4. Put on a life jacket and seat belt.\n5. Stay on board as long as possible.\n6. Put on warm clothing."
         },
         {
           "nr": 116,
           "text_de": "Welche Maßnahmen treffen Sie, bevor Sie von Ihrem Fahrzeug in ein Rettungsfloß übersteigen?",
           "answer_de": "1. Rettungsweste und Sicherheitsgurt anlegen.\n2. Wärmende Kleidung anziehen.\n3. Nach Möglichkeit vorher reichlich warme Flüssigkeit trinken.\n4. Soweit noch nicht geschehen, Proviant, Wasser, Seenotsignalmittel und ggf. Seenotfunkbake, Radartransponder und UKW-Handsprechfunkgeräte in das Rettungsfloß bringen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce acțiuni întreprindeți înainte de a vă transfera din vehicul într-o plută de salvare?",
+          "answer_ro": "1. Puneți o vestă de salvare și centura de siguranță.\n2. Îmbrăcați-vă îmbrăcămintea caldă.\n3. Dacă este posibil, bea mult lichid cald în prealabil.\n4. Dacă nu ați făcut deja acest lucru, aduceți provizii, apă, semnale de primejdie și, dacă este necesar, balize radio de avarie, transpondere radar și radiouri portabile VHF în pluta de salvare.",
+          "text_en": "What actions do you take before transferring from your vehicle into a life raft?",
+          "answer_en": "1. Put on a life jacket and seat belt.\n2. Put on warm clothing.\n3. If possible, drink plenty of warm liquid beforehand.\n4. If you have not already done so, bring provisions, water, distress signals and, if necessary, distress radio beacons, radar transponders and VHF handheld radios into the liferaft."
         },
         {
           "nr": 117,
           "text_de": "Warum sollte ein sinkendes Schiff im Notfall so spät wie möglich verlassen werden?",
           "answer_de": "1. Die Überlebensmöglichkeiten sind auf dem Schiff größer.\n2. Ein Schiff ist besser zu orten.\n3. Einstieg in das Rettungsfloß und Aufenthalt können sehr schwierig sein.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce ar trebui abandonată o navă care se scufundă cât mai târziu posibil în caz de urgență?",
+          "answer_ro": "1. Șansele de supraviețuire sunt mai mari pe navă.\n2. O navă este mai ușor de localizat.\n3. A intra în pluta de salvare și a rămâne acolo poate fi foarte dificil.",
+          "text_en": "Why should a sinking ship be abandoned as late as possible in an emergency?",
+          "answer_en": "1. The chances of survival are greater on the ship.\n2. A ship is easier to locate.\n3. Getting into the liferaft and staying there can be very difficult."
         },
         {
           "nr": 118,
           "text_de": "Erklären Sie die Handhabung der Hubschrauberrettungsschlinge im Einsatz!",
           "answer_de": "1. Bei offener Rettungsschlinge: zuerst den Karabinerhaken einpicken.\n2. Mit dem Kopf und beiden Armen in die Rettungsschlinge einsteigen.\n3. Die arme müssen nach unten gedrückt werden und die Hände sind zu schließen.\n4. Das Windenseil muss frei hängen, es darf nicht an Bord befestigt werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Explicați cum să utilizați praștia de salvare a elicopterului în acțiune!",
+          "answer_ro": "1. Dacă chinga de salvare este deschisă: mai întâi ridicați cârligul carabinierului.\n2. Intră în praștia de salvare cu capul și ambele brațe.\n3. Brațele trebuie apăsate în jos, iar mâinile trebuie închise.\n4. Coarda troliului trebuie să atârne liber și nu trebuie să fie atașată de placă.",
+          "text_en": "Explain how to use the helicopter rescue sling in action!",
+          "answer_en": "1. If the rescue sling is open: first pick up the carabiner hook.\n2. Get into the rescue sling with your head and both arms.\n3. The arms must be pressed down and the hands must be closed.\n4. The winch rope must hang freely and must not be attached to the board."
         },
         {
           "nr": 119,
           "text_de": "Wann dürfen Notzeichen gegeben werden?",
           "answer_de": "Nach Feststellung des Notfalles auf Anordnung des Schiffsführers; bei unmittelbarer Gefahr für das Schiff oder die Besatzung, die ohne fremde Hilfe nicht überwunden werden kann.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Când pot fi date semnale de primejdie?",
+          "answer_ro": "După ce starea de urgență a fost stabilită, la ordinul căpitanului; în cazul unui pericol iminent pentru navă sau echipaj care nu poate fi depășit fără ajutor extern.",
+          "text_en": "When may distress signals be given?",
+          "answer_en": "After the emergency has been determined, on the orders of the skipper; in the event of imminent danger to the ship or crew that cannot be overcome without outside help."
         },
         {
           "nr": 120,
           "text_de": "Wann darf ein UKW-Sprechfunkgerät auch ohne entsprechenden Befähigungsnachweis benutzt werden?",
           "answer_de": "In Notfällen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Când poate fi utilizat un dispozitiv radio VHF chiar și fără dovada corespunzătoare de calificare?",
+          "answer_ro": "În caz de urgență.",
+          "text_en": "When can a VHF radio device be used even without appropriate proof of qualification?",
+          "answer_en": "In case of emergency."
         },
         {
           "nr": 121,
           "text_de": "Worauf ist zu achten, wenn Crewmitglieder seekrank sind?",
           "answer_de": "1. Aufenthalt im Cockpit beaufsichtigen und Crewmitglieder gegen Überbordfallen sichern,\n2. Flüssigkeitsverlust ausgleichen (Wasser),\n3. Crewmitglied anhalten, zur Küste oder zum Horizont zu schauen,\n4. mit Arbeiten beschäftigen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce ar trebui să fiți atenți dacă membrii echipajului au rău de mare?",
+          "answer_ro": "1. Supravegheați șederea în cockpit și asigurați membrii echipajului împotriva căderii peste bord,\n2. Compensați pierderea de lichid (apă),\n3. Rugați un membru al echipajului să privească spre coastă sau spre orizont,\n4. ocupat cu munca.",
+          "text_en": "What should you pay attention to if crew members are seasick?",
+          "answer_en": "1. Supervise stay in the cockpit and secure crew members against falling overboard,\n2. Compensate fluid loss (water),\n3. Have a crew member look toward the coast or horizon,\n4. busy with work."
         },
         {
           "nr": 122,
           "text_de": "Wozu dient ein Reitgewicht (Gleitgewicht, Ankergewicht) beim Ankern?",
           "answer_de": "Es soll die Ankertrosse auf den Grund ziehen, damit der Anker nicht durch einen zu steilen Winkel aus dem Grund gebrochen wird. Es wirkt ruckdämpfend.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este scopul unei greutăți de călărie (greutate de alunecare, greutate de ancorare) la ancorare?",
+          "answer_ro": "Scopul este de a trage cablul de ancorare în jos, astfel încât ancora să nu fie ruptă de jos din cauza unui unghi prea abrupt. Are un efect de absorbție a șocurilor.",
+          "text_en": "What is the purpose of a riding weight (gliding weight, anchor weight) when anchoring?",
+          "answer_en": "The aim is to pull the anchor cable to the bottom so that the anchor is not broken from the bottom due to an angle that is too steep. It has a shock-absorbing effect."
         },
         {
           "nr": 123,
           "text_de": "Warum sollte beim Verwenden einer Ankertrosse ein Kettenvorlauf benutzt werden?",
           "answer_de": "Damit der Zug auf den Anker nicht zu steil wird.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce ar trebui folosit un conducător de lanț când se folosește un cablu de ancorare?",
+          "answer_ro": "Pentru ca tracțiunea de ancoră să nu devină prea abruptă.",
+          "text_en": "Why should a chain leader be used when using an anchor cable?",
+          "answer_en": "So that the pull on the anchor does not become too steep."
         },
         {
           "nr": 124,
           "text_de": "Welcher Ankergrund ist für die üblichen Leichtgewichtsanker\n1. gut geeignet?\n2. mäßig geeignet?\n3. ungeeignet?",
           "answer_de": "1. Sand, Schlick, weicher Ton und Lehm,\n2. harter Ton und Lehm,\n3. steinige, verkrautete und stark schlammige Böden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care bază de ancorare este pentru ancorele ușoare obișnuite?\n1. bine potrivit?\n2. moderat potrivit?\n3. nepotrivit?",
+          "answer_ro": "1. nisip, nămol, argilă moale și lut,\n2. argilă tare și lut,\n3. soluri pietroase, buruienoase și foarte noroioase.",
+          "text_en": "Which anchor base is for the usual lightweight anchors?\n1. well suited?\n2. moderately suitable?\n3. unsuitable?",
+          "answer_en": "1. sand, silt, soft clay and loam,\n2. hard clay and loam,\n3. stony, weedy and very muddy soils."
         },
         {
           "nr": 125,
           "text_de": "Was müssen Sie bei der Auswahl eines Ankerplatzes beachten?",
           "answer_de": "1. Der Ankerplatz sollte Schutz vor Wind und Wellen bieten.\n2. Auf ausreichenden Platz zum Schwojen achten.\n3. Mögliche Winddrehungen einplanen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce trebuie să țineți cont atunci când alegeți un ancoraj?",
+          "answer_ro": "1. Ancorajul trebuie să ofere protecție împotriva vântului și a valurilor.\n2. Asigurați-vă că există suficient spațiu pentru balansare.\n3. Planificați posibilele schimbări ale vântului.",
+          "text_en": "What do you need to consider when choosing an anchorage?",
+          "answer_en": "1. The anchorage should provide protection from wind and waves.\n2. Make sure there is enough space for swinging.\n3. Plan for possible wind changes."
         },
         {
           "nr": 126,
           "text_de": "Welchen Ankergrund sollten Sie nach Möglichkeit meiden?",
           "answer_de": "Steinige, verkrautete und stark schlammige Böden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce teren de ancorare ar trebui să evitați dacă este posibil?",
+          "answer_ro": "Pământuri pietroase, buruieni și foarte noroioase.",
+          "text_en": "Which anchorage ground should you avoid if possible?",
+          "answer_en": "Stony, weedy and very muddy soils."
         },
         {
           "nr": 127,
           "text_de": "Wie können Sie die Haltekraft eines Ankers erhöhen, wenn Sie auf engem Raum (z.B. zwischen zwei Stegen) nicht die erforderliche Kettenlänge stecken können?",
           "answer_de": "Mit einem Reitgewicht, um so den Anker besser am Boden zu halten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum puteți crește puterea de reținere a ancorei dacă nu puteți încadra lungimea necesară a lanțului într-un spațiu strâns (de exemplu, între două brațe)?",
+          "answer_ro": "Cu o greutate de calare pentru a tine ancora mai bine pe sol.",
+          "text_en": "How can you increase the holding power of an anchor if you cannot fit the required length of chain in a tight space (e.g. between two stays)?",
+          "answer_en": "With a riding weight to keep the anchor better on the ground."
         },
         {
           "nr": 128,
           "text_de": "Sie ankern in einer Bucht. Wie können Sie bei zunehmendem Wind die Haltekraft Ihres Ankers verbessern?",
           "answer_de": "1. Mehr Trosse oder Kette stecken,\n2. Reitgewicht verwenden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ancorezi într-un golf. Cum poți îmbunătăți puterea de reținere a ancorei pe măsură ce vântul crește?",
+          "answer_ro": "1. Pune mai multă frânghie sau lanț,\n2. Folosiți greutatea de călătorie.",
+          "text_en": "You anchor in a bay. How can you improve the holding power of your anchor as the wind increases?",
+          "answer_en": "1. Put more rope or chain,\n2. Use riding weight."
         },
         {
           "nr": 129,
           "text_de": "Sie wollen auf verkrautetem Grund ankern. Ihnen steht ein Leichtgewichtsanker und ein Stockanker zur Verfügung. Welchen Benutzen Sie und warum?",
           "answer_de": "Den Stockanker, weil er sich insbesondere auch aufgrund seines höheren Gewichtes besser eingräbt.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Vrei să ancorezi pe pământ plin de buruieni. O ancoră ușoară și o ancoră stoc sunt disponibile pentru dvs. Pe care o folosești și de ce?",
+          "answer_ro": "Ancora stocului pentru ca sapa mai bine, mai ales datorita greutatii sale mai mari.",
+          "text_en": "You want to anchor on weedy ground. A lightweight anchor and a stock anchor are available to you. Which one do you use and why?",
+          "answer_en": "The stock anchor because it digs in better, especially due to its higher weight."
         },
         {
           "nr": 130,
           "text_de": "Wozu dient eine Ankerboje?",
           "answer_de": "1. Sie zeigt die Lage des Ankers an.\n2. Mit der Trippleine kann das Bergen eines unklaren Ankers unterstützt werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Pentru ce este folosită o geamandura de ancora?",
+          "answer_ro": "1. Arată poziția ancorei.\n2. Linia de deplasare poate fi folosită pentru a ajuta la recuperarea unei ancore neclare.",
+          "text_en": "What is an anchor buoy used for?",
+          "answer_en": "1. It shows the position of the anchor.\n2. The trip line can be used to help recover an unclear anchor."
         },
         {
           "nr": 131,
           "text_de": "Wie erkennen Sie, ob der Anker hält?",
           "answer_de": "1. Vibration von Kette oder Trosse prüfen,\n2. Einrucken des Ankers prüfen,\n3. durch wiederholte Peilungen und ggf. Schätzungen des Abstands zu anderen Schiffen oder zu Landmarken,\n4. falls GPS vorhanden ist, die Ankeralarmfunktion einschalten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De unde știi dacă ancora ține?",
+          "answer_ro": "1. Verificați vibrația lanțului sau a legănului,\n2. Verificați cuplarea ancorei,\n3. prin direcționări repetate și, dacă este necesar, estimări ale distanței până la alte nave sau la repere;\n4. Dacă GPS-ul este disponibil, activați funcția de alarmă de ancorare.",
+          "text_en": "How do you know if the anchor is holding?",
+          "answer_en": "1. Check vibration of chain or hawser,\n2. Check anchor engagement,\n3. through repeated bearings and, if necessary, estimates of the distance to other ships or to landmarks,\n4. If GPS is available, turn on the anchor alarm function."
         },
         {
           "nr": 132,
           "text_de": "Welche Ankerarten finden überwiegend auf Sportbooten Verwendung? Nennen Sie 3.",
           "answer_de": "1. Patentanker,\n2. Stockanker (einklappbarer Stock),\n3. Draggen (klappbare Flunken),\n4. Pflugscharanker.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce tipuri de ancore sunt utilizate în principal pe bărci de agrement? Nume 3.",
+          "answer_ro": "1. ancora de brevet,\n2. stick ancora (bascul pliabil),\n3. Draggen (folii pliante),\n4. Ancora plugului.",
+          "text_en": "Which types of anchor are mainly used on pleasure boats? Name 3.",
+          "answer_en": "1. patent anchor,\n2. stick anchor (folding stick),\n3. Draggen (folding flukes),\n4. Plowshare anchor."
         },
         {
           "nr": 133,
           "text_de": "Nennen Sie 3 Ankertypen, die vom Germanischen Lloyd als Anker mit hoher Haltekraft anerkannt sind.",
           "answer_de": "Bruce-Anker, CQR-Anker, Danforth-Anker, D'Hone-Anker.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Numiți 3 tipuri de ancore care sunt recunoscute de Germanischer Lloyd ca ancore cu putere mare de prindere.",
+          "answer_ro": "Ancoră Bruce, ancora CQR, ancora Danforth, ancora D'Hone.",
+          "text_en": "Name 3 types of anchors that are recognized by Germanischer Lloyd as anchors with high holding power.",
+          "answer_en": "Bruce anchor, CQR anchor, Danforth anchor, D'Hone anchor."
         },
         {
           "nr": 134,
           "text_de": "1. Welches sind die Vorteile einer Ankerkette gegenüber einer Ankerleine?\n2. Wie kombiniert man auf Yachten häufig die Systeme?",
           "answer_de": "1. Die Kette unterstützt das Eingraben, verkleinert den Schwojeraum, wirkt ruckdämpfend, kann nicht an Steinen durchscheuern und erhöht die Haltekraft des Ankers.\n2. Es wird zwischen Anker und Leine ein Kettenvorlauf von 3 bis 5 m gefahren.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Care sunt avantajele unui lanț de ancoră față de o linie de ancorare?\n2. Cum combinați adesea sistemele pe iahturi?",
+          "answer_ro": "1. Lanțul susține săparea, reduce spațiul de balansare, are un efect de absorbție a șocurilor, nu poate freca pietrele și crește puterea de prindere a ancorei.\n2. Se face un avans de lanț de 3 până la 5 m între ancoră și linie.",
+          "text_en": "1. What are the advantages of an anchor chain over an anchor line?\n2. How do you often combine systems on yachts?",
+          "answer_en": "1. The chain supports digging, reduces the swing space, has a shock-absorbing effect, cannot rub through stones and increases the anchor's holding power.\n2. A chain advance of 3 to 5 m is made between the anchor and the line."
         },
         {
           "nr": 135,
           "text_de": "1. Warum soll eine Ankerleine nicht an den Anker geknotet werden?\n2. Warum muss die Ankerkette mit einem Taustropp am Schiff bzw. im Kettenkasten befestigt werden?",
           "answer_de": "1. Knoten reduzieren die Bruchlast einer leine um bis zu 50 %.\n2. Damit die Kette im Notfall schnell gekappt werden kann.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. De ce nu ar trebui legată o linie de ancoră de ancoră?\n2. De ce trebuie atașat lanțul ancorei de navă sau în dulapul de lanț cu o frânghie de rouă?",
+          "answer_ro": "1. Nodurile reduc sarcina de rupere a unei linii cu până la 50%.\n2. Pentru ca lanțul să poată fi tăiat rapid în caz de urgență.",
+          "text_en": "1. Why should an anchor line not be tied to the anchor?\n2. Why does the anchor chain have to be attached to the ship or in the chain locker with a dew rope?",
+          "answer_en": "1. Knots reduce the breaking load of a line by up to 50%.\n2. So that the chain can be quickly cut in an emergency."
         },
         {
           "nr": 136,
           "text_de": "Sie wollen in einer Bucht ankern, in der das (ausreichend tiefe) Wasser unterschiedliche Färbungen zeigt. Wo wählen Sie den Ankerplatz? (Begründung!)",
           "answer_de": "Ich ankere auf hellem Wasser. Begründung: Der Grund ist hier sandig, der Anker hält gut. Dunkler Grund weist auf Bewuchs hin, wo der Anker schlecht hält.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Vrei să ancorați într-un golf în care apa (suficient de adâncă) prezintă culori diferite. Unde alegi ancorajul? (Motiv!)",
+          "answer_ro": "Ancorez pe apa limpede. Motiv: Aici pământul este nisipos, ancora ține bine. Terenul întunecat indică creșterea în care ancora se ține prost.",
+          "text_en": "You want to anchor in a bay where the (sufficiently deep) water shows different colors. Where do you choose the anchorage? (Reason!)",
+          "answer_en": "I anchor on clear water. Reason: The ground here is sandy, the anchor holds well. Dark ground indicates growth where the anchor is holding poorly."
         },
         {
           "nr": 137,
           "text_de": "Warum darf der Anker nicht zusammen mit seiner Leine am Ankerplatz über Bord geworfen werden?",
           "answer_de": "Die Leine könnte mit dem Anker vertörnen und dadurch das Eingraben des Ankers verhindern. Der Anker würde dann nicht halten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce nu se permite ancora și linia ei să fie aruncate peste bord la ancoraj?",
+          "answer_ro": "Linia s-ar putea încurca cu ancora și, prin urmare, poate împiedica ancora să se îngroape. Atunci ancora nu s-ar ține.",
+          "text_en": "Why is the anchor and its line not allowed to be thrown overboard at the anchorage?",
+          "answer_en": "The line could become entangled with the anchor and thereby prevent the anchor from burying itself. The anchor would then not hold."
         },
         {
           "nr": 138,
           "text_de": "Beschreiben Sie die Vorbereitung eines Ankermanövers.",
           "answer_de": "- Auswählen eines geeigneten Ankerplatzes anhand der Seekarte bzw. des Seehandbuches (Meeresgrund/Wassertiefe geeignet?),\n- Ermitteln der Wind- und/oder Stromrichtung und -stärke,\n- Klarmachen des Ankergeschirrs und des Ankersignals,\n- mit langsamster Fahrt - Kurs gegen Strom bzw. Wind - den Ankerplatz ansteuern.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Descrieți pregătirea pentru o manevră de ancorare.",
+          "answer_ro": "- Selectarea unui ancoraj adecvat folosind harta nautică sau manualul nautic (fondul mării/adâncimea apei potrivite?),\n- Determinarea direcției și forței vântului și/sau curentului,\n- curățarea ancorelor și a semnalului de ancorare,\n- la cea mai mica viteza - indreptarea impotriva curentului sau vantului - indreptati-va catre ancorare.",
+          "text_en": "Describe the preparation for an anchoring maneuver.",
+          "answer_en": "- Selecting a suitable anchorage using the nautical chart or nautical manual (seabed/water depth suitable?),\n- Determining the wind and/or current direction and strength,\n- clearing the anchor gear and the anchor signal,\n- at the slowest speed - heading against the current or wind - head for the anchorage."
         },
         {
           "nr": 139,
           "text_de": "Beschreiben Sie wichtige Elemente eines Ankermanövers.",
           "answer_de": "- Geeigneten Ankerplatz festlegen/planen,\n- Ansteuerung planen (in der Regel gegen Wind und/oder Strom),\n- bei langsamer Fahrt rückwärts über Grund Anker fallen lassen,\n- Kette/Leine in Abhängigkeit vom Wetter/Strom auf das 3- bzw. 5-fache der Wassertiefe stecken,\n- Ankerball/Ankerlicht setzen,\n- Ankerposition feststellen, dokumentieren und ansreichend kontrollieren.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Descrieți elementele importante ale unei manevre de ancorare.",
+          "answer_ro": "- Determinați/planificați o ancorare adecvată,\n- Planificarea controlului (de obicei împotriva vântului și/sau a electricității),\n- aruncați ancora atunci când călătoriți încet înapoi pe pământ,\n- În funcție de vreme/curent, setați lanțul/linia la de 3 sau 5 ori adâncimea apei,\n- setați bilă de ancorare/lumină de ancorare,\n- Determinați poziția ancorei, documentați-o și verificați-o cu atenție.",
+          "text_en": "Describe important elements of an anchoring maneuver.",
+          "answer_en": "- Determine/plan a suitable anchorage,\n- Plan control (usually against wind and/or electricity),\n- drop anchor when traveling slowly backwards over the ground,\n- Depending on the weather/current, set the chain/line to 3 or 5 times the water depth,\n- set anchor ball/anchor light,\n- Determine the anchor position, document it and check it carefully."
         },
         {
           "nr": 140,
           "text_de": "Was müssen Sie bedenken, wenn ein großes Schiff auf Ihr Sportboot zukommt?",
           "answer_de": "1. Andere Manövrierfähigkeit (größere Drehkreise, längere Stoppstrecken),\n2. u.U. eingeschränkte Sicht des anderen Fahrzeugs, insbesondere nach voraus,\n3. Möglichkeit des Übersehenwerdens, weil man sich im Radarschatten befindet,\n4. Beeinträchtigung durch Bugwellen des großen Schiffes.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce trebuie să iei în considerare când o navă mare se apropie de barca ta de agrement?",
+          "answer_ro": "1. Altă manevrabilitate (cercuri de viraj mai mari, distanțe de oprire mai mari),\n2. posibilă vizibilitate limitată a celuilalt vehicul, în special în față,\n3. Posibilitatea de a fi trecut cu vederea pentru că ești în umbra radarului,\n4. Deteriorarea cauzată de valurile de prova provenite de la nava mare.",
+          "text_en": "What do you have to consider when a large ship approaches your pleasure boat?",
+          "answer_en": "1. Other maneuverability (larger turning circles, longer stopping distances),\n2. possibly limited visibility of the other vehicle, especially ahead,\n3. Possibility of being overlooked because you are in the shadow of the radar,\n4. Impairment caused by bow waves from the large ship."
         },
         {
           "nr": 141,
           "text_de": "Warum sollten Sie nicht zu dicht hinter dem Heck eines vorbeifahrenden Schiffes durchfahren?",
           "answer_de": "Sog und Hecksee können das eigene Boot erheblich gefährden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce să nu treci prea aproape de pupa unei nave care trece?",
+          "answer_ro": "Marea subtoar și pupa pot prezenta un risc semnificativ pentru propria dvs. ambarcațiune.",
+          "text_en": "Why shouldn't you pass too close to the stern of a passing ship?",
+          "answer_en": "Undertow and stern sea can pose a significant risk to your own boat."
         },
         {
           "nr": 142,
           "text_de": "Was müssen Sie beim Passieren eines großen Schiffes bei dessen Kursänderungen, z.B. in einem kurvenreichen Fahrwasser, beachten?",
           "answer_de": "Bei einer Kursänderung schwenkt das Heck deutlich in die entgegengesetzte Richtung aus, also nach Backbord bei einer Kursänderung nach Steuerbord und umgekehrt.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce trebuie să fiți atenți când treceți pe lângă o navă mare când schimbați cursul, de exemplu, într-un fairway sinuos?",
+          "answer_ro": "La schimbarea cursei, pupa se balansează clar în direcția opusă, adică spre babord, când se schimbă cursul spre tribord și invers.",
+          "text_en": "What do you have to pay attention to when passing a large ship when changing course, e.g. in a winding fairway?",
+          "answer_en": "When changing course, the stern swings clearly in the opposite direction, i.e. to port, when changing course to starboard and vice versa."
         },
         {
           "nr": 143,
           "text_de": "Mit welchen Stoppstrecken und Stoppzeiten müssen Sie bei großen Schiffen in voller Fahrt rechnen und wovon hängen sie ab?",
           "answer_de": "Abhängig von Schiffstyp und -größe, Beladungszustand und Ausgangsgeschwindigkeit ist mit der 8- bis 12-fachen Schiffslänge und bis zu 8 bis 12 Minuten Dauer (z.B. ein 300 m langes Containerschiff voll abgeladen mit 24 kn: Stoppstrecke ca. 2 sm, Stoppzeit ca. 12 Minuten) zu rechnen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce distanțe de oprire și timpi de oprire trebuie să vă așteptați pentru navele mari la viteză maximă și de ce depind acestea?",
+          "answer_ro": "În funcție de tipul și dimensiunea navei, starea de încărcare și viteza inițială, lungimea navei este de 8 până la 12 ori și durata este de până la 8 până la 12 minute (de exemplu, o navă container lungă de 300 m complet descărcată la 24 de ore). kn: distanță de oprire aproximativ 2 nm, timp de oprire aproximativ 12 minute).",
+          "text_en": "What stopping distances and stopping times do you have to expect for large ships at full speed and what do they depend on?",
+          "answer_en": "Depending on the type and size of the ship, loading condition and initial speed, the length of the ship is 8 to 12 times and the duration is up to 8 to 12 minutes (e.g. a 300 m long container ship fully unloaded at 24 kn: stopping distance approx. 2 nm, stopping time approx. 12 minutes)."
         },
         {
           "nr": 144,
           "text_de": "Wie reagiert ein großes Schiff, wenn bei ca. 20 kn Fahrt ein Ausweichmanöver durch Hartruderlage eingeleitet wird?\nNach welcher Distanz verlässt es in etwa die alte Kurslinie?",
           "answer_de": "Der Steven bewegt sich in Richtung der Hartruderlage, das Heck schlägt relativ weit zur entgegengesetzten Richtung aus. Das Schiff verlässt mit seinem Heck erst nach mehreren Schiffslängen seine bisherige Kurslinie, bewegt sich also zunächst in der alten Kursrichtung fort. Diese Strecke kann bei 300 m langen Containerschiffen 1,5 bis 2,5 Schiffslängen, d.h. ca. 500 bis 600 m betragen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum reacționează o navă mare dacă o manevră evazivă este inițiată de cârma dură la o viteză de aproximativ 20 kn?\nDupă ce distanță părăsește aproximativ vechea linie de curs?",
+          "answer_ro": "Pupa se deplasează în direcția poziției cârmei dure, pupa se deviază relativ mult în direcția opusă. Pupa navei părăsește linia de curs anterioară numai după mai multe lungimi de navă, așa că inițial se mișcă în vechea direcție de curs. Pentru navele de containere lungi de 300 m, această distanță poate fi de 1,5 până la 2,5 lungimi de nave, adică aproximativ 500 până la 600 m.",
+          "text_en": "How does a large ship react if an evasive maneuver is initiated by hard rudder at a speed of approx. 20 kn?\nAfter what distance does it approximately leave the old course line?",
+          "answer_en": "The stern moves in the direction of the hard rudder position, the stern deflects relatively far in the opposite direction. The ship's stern only leaves its previous course line after several ship lengths, so it initially moves in the old course direction. For 300 m long container ships, this distance can be 1.5 to 2.5 ship lengths, i.e. approx. 500 to 600 m."
         },
         {
           "nr": 145,
           "text_de": "Auf vielen großen Schiffen ist die Sicht nach vorne eingeschränkt. Welchen Abstand vor einem Schiff müssen Sie als nicht einsehbar mindestens berücksichtigen?",
           "answer_de": "Sichtbeschränkung nach voraus maximal 2 Schiffslängen oder 500 m.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Pe multe nave mari, vizibilitatea înainte este limitată. Care este distanța minimă în fața unei nave de care trebuie să ții cont pentru a evita vizibilitatea?",
+          "answer_ro": "Vizibilitatea în față este limitată la maximum 2 lungimi de nave sau 500 m.",
+          "text_en": "On many large ships, forward visibility is limited. What is the minimum distance in front of a ship that you must take into account to avoid visibility?",
+          "answer_en": "Visibility ahead is limited to a maximum of 2 ship lengths or 500 m."
         },
         {
           "nr": 146,
           "text_de": "Wie können Sie die Wahrscheinlichkeit erhöhen, im Radar von anderen Fahrzeugen gesehen zu werden?",
           "answer_de": "Durch einen möglichst hoch und fest angebrachten passiven Radarreflektor bzw. besser noch durch einen „aktiven“ Radarreflektor.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum puteți crește șansele de a fi văzut pe radar de alte vehicule?",
+          "answer_ro": "Prin plasarea unui reflector radar pasiv cât mai sus și ferm posibil sau, mai bine, prin utilizarea unui reflector radar „activ”.",
+          "text_en": "How can you increase the chances of being seen on radar by other vehicles?",
+          "answer_en": "By placing a passive radar reflector as high and firmly as possible or, better yet, by using an “active” radar reflector."
         }
       ]
     },
