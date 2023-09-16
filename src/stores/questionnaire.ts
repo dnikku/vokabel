@@ -25,6 +25,7 @@ export type WrappedQuestion = {
 export type Topic = {
     id: number
     name: string
+    elwis_url?: string
 
     questions: Question[]
 }
@@ -101,8 +102,10 @@ export const useQuestionnaireStore = defineStore('questionaire', () => {
         const data = await fetcher.fetchJson(thema.questionsUrl)
 
         thema.topics = data.topics.map((p: any) => ({
+            // name: `${p.name} (${p.questions.length})`,
+            name: `${p.name}`,
             id: p.id,
-            name: `${p.name}-${p.id} (${p.questions.length})`,
+            elwis_url: p.elwis_url || null,
             questions: p.questions.map((p1: any) => ({
                 nr: p1.nr,
 
@@ -112,11 +115,11 @@ export const useQuestionnaireStore = defineStore('questionaire', () => {
                 text_images: p1.text_images,
                 answer_images: p1.answer_images,
 
-                text_ro: p1.text_ro,
-                answer_ro: p1.answer_ro,
+                text_ro: p1.text_ro || null,
+                answer_ro: p1.answer_ro || null,
 
-                text_en: p1.text_en,
-                answer_en: p1.answer_en,
+                text_en: p1.text_en || null,
+                answer_en: p1.answer_en || null,
             }))
         }))
 
