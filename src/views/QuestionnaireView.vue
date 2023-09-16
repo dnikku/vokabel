@@ -8,7 +8,7 @@
     <div class="header">
       <paginate :items="selectedTopic.questions" :page-size="settings.pageSize"
                 v-model="selectedPage"/>
-      <checkbox v-model="showAllAnswers" label="Show Answer" style="width: 122px" />
+      <checkbox v-model="showAllAnswers" label="Show Answer" style="width: 122px"/>
     </div>
     <div class="q-questions">
       <div class="q-question" v-for="q in viewQuestions"
@@ -19,7 +19,7 @@
     <div class="header">
       <paginate :items="selectedTopic.questions" :page-size="settings.pageSize"
                 v-model="selectedPage"/>
-      <checkbox v-model="showAllAnswers" label="Show Answer" style="width: 122px" />
+      <checkbox v-model="showAllAnswers" label="Show Answer" style="width: 122px"/>
     </div>
 
     <div class="actions">
