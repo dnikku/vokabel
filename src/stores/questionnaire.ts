@@ -129,7 +129,9 @@ export const useQuestionnaireStore = defineStore('questionaire', () => {
 
     async function copyToClipboard(topic: Topic, questions: Array<Question>) {
         let str = `Fragen (${topic.id}):`
-        for (let it of questions) {
+        for (let it of questions.filter(p =>
+            p.text_ro?.trim() == "" || p.answer_ro?.trim() == ""
+            || p.text_en?.trim() == "" || p.answer_en?.trim() == "")) {
             if (str != "") str += "\n\n"
             str += `${it.nr}: ${it.text_de}\n_:${it.answer_de}`
         }
