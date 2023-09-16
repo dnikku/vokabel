@@ -28,10 +28,12 @@
         goto json
       </a>
 
-      <button @click="copyToClipboard()">Copy</button>
-      <button @click="mergeFromClipboard()">Paste and Merge</button>
+      <template v-if="settings.showCopyPaste">
+        <button @click="copyToClipboard()">Copy</button>
+        <button @click="mergeFromClipboard()">Paste and Merge</button>
 
-      <button @click="downloadNow()">Download Now</button>
+        <button @click="downloadNow()">Download Now</button>
+      </template>
     </div>
 
   </div>

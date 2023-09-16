@@ -13,6 +13,10 @@
         <checkbox v-model="settings.showResolution" label="Show Resolution"/>
       </div>
 
+      <div>
+        <checkbox v-model="settings.showCopyPaste" label="Show Copy/Paste"/>
+      </div>
+
       <span v-show="settings.showResolution">
         {{ settings.resolution }}
       </span>

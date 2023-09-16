@@ -12,9 +12,12 @@ export const useSettingsStore = defineStore('settings', () => {
         return showResolution.value ? `(W x H: ${window.innerWidth}x${window.innerHeight})` : ""
     })
 
+    const showCopyPaste = useLocalStorage("settings:show-copy-paste", false)
+
     return {
-        pageSize: pageSize,
+        pageSize,
         showResolution,
-        resolution
+        resolution,
+        showCopyPaste,
     }
 })
