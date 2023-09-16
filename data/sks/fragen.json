@@ -2117,289 +2117,289 @@
           "nr": 1,
           "text_de": "Was ist Wind und wie entsteht er?",
           "answer_de": "Wind ist bewegte Luft. Die Bewegung entsteht durch die Druckunterschiede zwischen Hoch- und Tiefdruckgebieten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce este vântul și cum este creat?",
+          "answer_ro": "Vântul mișcă aerul. Mișcarea este cauzată de diferențele de presiune dintre zonele de înaltă și joasă presiune.",
+          "text_en": "What is wind and how is it created?",
+          "answer_en": "Wind is moving air. The movement is caused by the pressure differences between high and low pressure areas."
         },
         {
           "nr": 2,
           "text_de": "Was ist der Taupunkt?",
           "answer_de": "Der Taupunkt ist die Temperatur, auf die Luft abgekühlt werden muss, damit sie mit Feuchtigkeit gesättigt ist. Es setzt Kondensation (Taubildung) ein.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este punctul de rouă?",
+          "answer_ro": "Punctul de rouă este temperatura la care aerul trebuie răcit pentru a deveni saturat cu umiditate. Se instalează condensarea (formarea de rouă).",
+          "text_en": "What is the dew point?",
+          "answer_en": "The dew point is the temperature to which air must be cooled to become saturated with moisture. Condensation (dew formation) sets in."
         },
         {
           "nr": 3,
           "text_de": "In welcher Größe wird in der Schifffahrt die Luftfeuchtigkeit allgemein angegeben?",
           "answer_de": "Relative Feuchtigkeit in Prozent.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este nivelul general de umiditate utilizat în transport maritim?",
+          "answer_ro": "Umiditatea relativă în procente.",
+          "text_en": "What is the general humidity level used in shipping?",
+          "answer_en": "Relative humidity in percent."
         },
         {
           "nr": 4,
           "text_de": "Nennen Sie mindestens 6 Parameter, aus denen sich eine Wetterbeobachtung an Bord zusammensetzt.",
           "answer_de": "Windrichtung, Windstärke, Luftdruck, aktuelles Wetter, Bedeckungsgrad, Wolken, Seegang, Strom, Temperatur und ggf. Luftfeuchte.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Numiți cel puțin 6 parametri care alcătuiesc o observație meteorologică la bord.",
+          "answer_ro": "Direcția vântului, puterea vântului, presiunea aerului, vremea curentă, gradul de acoperire, nori, starea mării, curent, temperatură și, dacă este cazul, umiditate.",
+          "text_en": "Name at least 6 parameters that make up an onboard weather observation.",
+          "answer_en": "Wind direction, wind strength, air pressure, current weather, degree of coverage, clouds, sea state, current, temperature and, if applicable, humidity."
         },
         {
           "nr": 5,
           "text_de": "1. In welcher Maßeinheit wird die Windstärke angegeben?\n2. In welchen Maßeinheiten wird die Windgeschwindigkeit angegeben?",
           "answer_de": "1. Nach der Beaufortskala (Bft).\n2. In kn, m/s und km/h.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Ce unitate de măsură este folosită pentru a măsura viteza vântului?\n2. În ce unități este dată viteza vântului?",
+          "answer_ro": "1. Conform scalei Beaufort (Bft).\n2. În kn, m/s și km/h.",
+          "text_en": "1. What unit of measurement is used to measure wind speed?\n2. In what units is wind speed given?",
+          "answer_en": "1. According to the Beaufort scale (Bft).\n2. In kn, m/s and km/h."
         },
         {
           "nr": 6,
           "text_de": "1. Wie heißen die Linien gleichen Luftdrucks?\n2. In welcher Maßeinheit wird der Luftdruck angegeben?",
           "answer_de": "1. Isobaren.\n2. Hektopascal (hPa) oder vereinzelt auch noch Millibar (mb, teilweise auch mbar).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Cum se numesc liniile de presiune egală a aerului?\n2. În ce unitate de măsură este dată presiunea aerului?",
+          "answer_ro": "1. Isobare.\n2. Hectopascal (hPa) sau ocazional și milibari (mb, uneori și mbar).",
+          "text_en": "1. What are the lines of equal air pressure called?\n2. In what unit of measurement is air pressure given?",
+          "answer_en": "1. Isobars.\n2. Hectopascal (hPa) or occasionally also millibars (mb, sometimes also mbar)."
         },
         {
           "nr": 7,
           "text_de": "Welche Gefahren kann ein Gewitter mit sich bringen?",
           "answer_de": "1. Böen bis Orkanstärke,\n2. plötzliche Winddrehungen,\n3. Regen- oder Hagelschauer mit zum Teil starker Sichtminderung,\n4. Blitzschlag.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce pericole poate aduce o furtună?",
+          "answer_ro": "1. Rafale până la forța uraganului,\n2. schimbări bruște în vânt,\n3. Averse de ploaie sau grindină cu vizibilitate redusă uneori severă,\n4. Fulger.",
+          "text_en": "What dangers can a thunderstorm bring?",
+          "answer_en": "1. Gusts up to hurricane force,\n2. sudden shifts in the wind,\n3. Rain or hail showers with sometimes severe reduced visibility,\n4. Lightning strike."
         },
         {
           "nr": 8,
           "text_de": "Wann entstehen besonders starke Gewitter?",
           "answer_de": "Besonders zum Ende einer hochsommerlichen Schönwetterperiode im Zusammenhang mit Kaltfronten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Când apar furtuni deosebit de puternice?",
+          "answer_ro": "Mai ales la sfarsitul unei perioade de mijloc de vara de vreme buna asociata cu fronturile reci.",
+          "text_en": "When do particularly strong thunderstorms occur?",
+          "answer_en": "Especially at the end of a mid-summer period of good weather associated with cold fronts."
         },
         {
           "nr": 9,
           "text_de": "Welche Skala wird verwendet für die Angabe der Windrichtung in Seewetterberichten bei\n1. den Vorhersagen und Aussichten,\n2. den Stationsmeldungen?",
           "answer_de": "1. Die 8-teilige mit Auflösung in 45°-Stufen.\n2. Die 16-teilige mit Auflösung in 22,5°-Stufen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce scară este folosită pentru a indica direcția vântului în rapoartele meteorologice maritime?\n1. previziunile și perspectivele,\n2. rapoartele postului?",
+          "answer_ro": "1. Cea din 8 părți cu rezoluție în pași de 45°.\n2. Cele 16 părți cu rezoluție în pași de 22,5°.",
+          "text_en": "Which scale is used to indicate wind direction in marine weather reports?\n1. the forecasts and prospects,\n2. the station reports?",
+          "answer_en": "1. The 8-part one with resolution in 45° steps.\n2. The 16-part with resolution in 22.5° steps."
         },
         {
           "nr": 10,
           "text_de": "Ab welcher Windstärke werden Orkanwarnungen ausgegeben?",
           "answer_de": "AB Windstärke 10 Bft, erfahrungsgemäß mit Böen über Bft 12.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce putere vântului sunt emise avertismentele de uragan?",
+          "answer_ro": "Forța vântului AB 10 Bft, experiența arată cu rafale peste Bft 12.",
+          "text_en": "At what wind strength are hurricane warnings issued?",
+          "answer_en": "AB wind force 10 Bft, experience shows with gusts over Bft 12."
         },
         {
           "nr": 11,
           "text_de": "1. Welche Skala wird für die Schätzung der Windstärke verwendet?\n2. Was erstehen Sie unter mäßigem Wind, was unter Starkwind?",
           "answer_de": "1. Die 12-teilige Beaufortskala.\n2. Mäßiger Wind bedeutet Stärke 4 der Beaufortskala, Starkwind 6 und 7 Beaufort.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Ce scară este folosită pentru a estima puterea vântului?\n2. Ce experimentezi la vânturi moderate și ce la vânturi puternice?",
+          "answer_ro": "1. Scara Beaufort din 12 părți.\n2. Vântul moderat înseamnă forța 4 pe scara Beaufort, vântul puternic înseamnă 6 și 7 Beaufort.",
+          "text_en": "1. What scale is used to estimate wind strength?\n2. What do you experience in moderate winds and what in strong winds?",
+          "answer_en": "1. The 12-part Beaufort scale.\n2. Moderate wind means force 4 on the Beaufort scale, strong wind means 6 and 7 Beaufort."
         },
         {
           "nr": 12,
           "text_de": "Welche amtlichen Veröffentlichungen enthalten Sendezeiten und Frequenzen für Seewetterberichte\n1. für Europa,\n2. Europa und weltweit?",
           "answer_de": "1. Das „Handbuch Nautischer Funkdienst“ und der „Jachtfunkdienst“.\n2. Die „Admiralty List of Radio Signals“.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce publicații oficiale conțin orele și frecvențele de difuzare pentru rapoartele meteorologice maritime\n1. pentru Europa,\n2. Europa și în întreaga lume?",
+          "answer_ro": "1. „Manualul de service radio nautic” și „Serviciul radio de iaht”.\n2. „Lista Amiralității de semnale radio”.",
+          "text_en": "Which official publications contain broadcast times and frequencies for maritime weather reports\n1. for Europe,\n2. Europe and worldwide?",
+          "answer_en": "1. The “Nautical Radio Service Manual” and the “Yacht Radio Service”.\n2. The “Admiralty List of Radio Signals”."
         },
         {
           "nr": 13,
           "text_de": "Nennen Sie 6 Möglichkeiten, um Wetterinformationen an Bord zu erhalten.",
           "answer_de": "Hörfunksender (UKW, KW, MW, LW), Küstenfunkstellen, Verkehrszentralen, NAVTEX, SafetyNet (Satcom), Online-Dienste (z.B. SEEWIS-Online des Deutschen Wetterdienstes, T-Online), RTTY (Funkfernschreiben), Faksimile (Wetterfax), Faxpolling (z.B. SEEWIS-Fax des Deutschen Wetterdienstes), Telefonabruf, Törnberatung.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "enumerați 6 moduri de a obține informații despre vreme la bord.",
+          "answer_ro": "Emițătoare radio (VHF, HF, MW, LW), posturi de radio de coastă, centre de trafic, NAVTEX, SafetyNet (Satcom), servicii online (de exemplu SEEWIS-Online de la Serviciul Meteorologic German, T-Online), RTTY (telex radio) ), fax (fax meteo), sondaj prin fax (de exemplu, fax SEEWIS de la Serviciul meteo german), apeluri telefonice, sfaturi de călătorie.",
+          "text_en": "List 6 ways to get weather information on board.",
+          "answer_en": "Radio transmitters (VHF, HF, MW, LW), coastal radio stations, traffic centers, NAVTEX, SafetyNet (Satcom), online services (e.g. SEEWIS-Online from the German Weather Service, T-Online), RTTY (radio telex), facsimile (weather fax) , fax polling (e.g. SEEWIS fax from the German Weather Service), telephone calls, trip advice."
         },
         {
           "nr": 14,
           "text_de": "Welche Bedeutung für die Wetterentwicklung hat ein Halo um die Sonne und ein Hof um den Mond?",
           "answer_de": "Wolkenaufzug, meist Cirrostratus. Ggf. Niederschlag und Wetterverschlechterung.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce semnificație are pentru dezvoltarea vremii un halou în jurul soarelui și un halou în jurul lunii?",
+          "answer_ro": "Formarea norilor, mai ales cirostrat. Posibil precipitații și înrăutățirea condițiilor meteo.",
+          "text_en": "What significance for weather development does a halo around the sun and a halo around the moon have?",
+          "answer_en": "Cloud formation, mostly cirrostratus. Possibly precipitation and worsening weather conditions."
         },
         {
           "nr": 15,
           "text_de": "Bei welchen Wolkenformen müssen Sie mit erhöhter Böigkeit rechnen?",
           "answer_de": "Bei Haufenwolken, besonders beim Cumulonimbus (Schauer- und Gewitterwolke).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce tipuri de nori ar trebui să vă așteptați la o rafală crescută?",
+          "answer_ro": "Cu nori aglomerați, în special cu cumulonimbus (ploi și nori tuneti).",
+          "text_en": "Which types of clouds should you expect increased gustiness?",
+          "answer_en": "With cluster clouds, especially with cumulonimbus (shower and thunderclouds)."
         },
         {
           "nr": 16,
           "text_de": "1. Welche Formen von Wolken gibt es?\n2. Nennen Sie 6 der 10 Haupttypen!",
           "answer_de": "1. Es gibt Haufenwolken und Schichtwolken.\n2. Cirrus, Cirrostratus, Cirrocumulus, Altostratus, Altocumulus, Nimbostratus, Stratocumulus, Stratus, Cumulus, Cumulonimbus.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Ce forme de nori există?\n2. Numiți 6 dintre cele 10 tipuri principale!",
+          "answer_ro": "1. Există nori în cluster și nori stratificati.\n2. Cirrus, cirrostratus, cirrocumulus, altostratus, altocumulus, nimbostratus, stratocumulus, stratus, cumulus, cumulonimbus.",
+          "text_en": "1. What forms of clouds are there?\n2. Name 6 of the 10 main types!",
+          "answer_en": "1. There are cluster clouds and layer clouds.\n2. Cirrus, cirrostratus, cirrocumulus, altostratus, altocumulus, nimbostratus, stratocumulus, stratus, cumulus, cumulonimbus."
         },
         {
           "nr": 17,
           "text_de": "1. Welche Höhen unterscheidet man bei Wolken?\n2. Welche Höhen haben sie etwa in den gemäßigten Breiten?",
           "answer_de": "1. Tiefe, mittelhohe und hohe Wolken.\n2. Tiefe Wolken zwischen 0 und 2 km, mittelhohe Wolken zwischen 2 und 7 km und hohe Wolken zwischen 7 und 13 km.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Ce înălțimi se disting între nori?\n2. Ce înălțimi au în latitudinile temperate?",
+          "answer_ro": "1. Nori joase, medii și înalte.\n2. Nori joasă între 0 și 2 km, nori medii între 2 și 7 km și nori înalți între 7 și 13 km.",
+          "text_en": "1. What heights are distinguished among clouds?\n2. What heights do they have in temperate latitudes?",
+          "answer_en": "1. Low, medium and high clouds.\n2. Low clouds between 0 and 2 km, medium clouds between 2 and 7 km and high clouds between 7 and 13 km."
         },
         {
           "nr": 18,
           "text_de": "Woraus bestehen hohe Wolken?",
           "answer_de": "Aus kleinen Eiskristallen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Din ce sunt alcătuiți norii înalți?",
+          "answer_ro": "Făcut din mici cristale de gheață.",
+          "text_en": "What are high clouds made of?",
+          "answer_en": "Made of small ice crystals."
         },
         {
           "nr": 19,
           "text_de": "Woran erkennt man bei Wolkenbildung eine kräftige Gewitterentwicklung?",
           "answer_de": "Am Cumulonimbus, wenn er in großer Höhe einen ambossförmigen Schirm hat.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum recunoașteți o furtună puternică când se formează nori?",
+          "answer_ro": "Pe cumulonimbus cand are o umbrela in forma de nicovala la mare altitudine.",
+          "text_en": "How do you recognize a strong thunderstorm development when clouds form?",
+          "answer_en": "On the cumulonimbus when it has an anvil-shaped umbrella at high altitude."
         },
         {
           "nr": 20,
           "text_de": "Welche Wolken kündigen oft schon vormittags kräftige Wärmegewitter an?",
           "answer_de": "Altocumulus castellanus (mittelhohe türmchenartige Haufenwolken).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care nori anunță adesea furtuni puternice și calde dimineața?",
+          "answer_ro": "Altocumulus castellanus (nori aglomerați ca un turn mediu-înalt).",
+          "text_en": "Which clouds often herald strong warm thunderstorms in the morning?",
+          "answer_en": "Altocumulus castellanus (medium-high tower-like cluster clouds)."
         },
         {
           "nr": 21,
           "text_de": "Wie verhält sich der Wind in Bodennähe auf der Nordhalbkugel zwischen Hoch- und Tiefdruckgebieten?",
           "answer_de": "Er weht rechtsherum aus dem Hochdruckzentrum heraus und linksherum in den Tiefdruckkern hinein.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum se comportă vântul în apropierea solului în emisfera nordică, între zonele de înaltă și joasă presiune?",
+          "answer_ro": "Sufla la dreapta din centrul de înaltă presiune și la stânga în miezul de joasă presiune.",
+          "text_en": "How does the wind behave near the ground in the Northern Hemisphere between high and low pressure areas?",
+          "answer_en": "It blows to the right out of the high pressure center and to the left into the low pressure core."
         },
         {
           "nr": 22,
           "text_de": "1. Was ist eine Front?\n2. Welche Fronten unterscheidet man im Allgemeinen?",
           "answer_de": "1. Front ist die vordere Grenze einer Luftmasse in Bewegungsrichtung.\n2. Warm-, Kalt- und Okklusionsfronten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Ce este un front?\n2. Ce fronturi se disting în general?",
+          "answer_ro": "1. Frontul este limita frontală a unei mase de aer în direcția de mișcare.\n2. Fronturi calde, reci și de ocluzie.",
+          "text_en": "1. What is a front?\n2. What fronts are generally distinguished?",
+          "answer_en": "1. Front is the front boundary of an air mass in the direction of movement.\n2. Warm, cold and occlusion fronts."
         },
         {
           "nr": 23,
           "text_de": "Wie verhält sich typischerweise der Luftdruck\n1. vor,\n2. während und\n3. nach dem Durchzug einer Kaltfront?",
           "answer_de": "1. Der Luftdruck ist gleichbleibend oder fällt nur wenig.\n2. Während des Durchgangs der Front erreicht der Luftdruck seinen tiefsten Wert.\n3. Der Luftdruck steigt wieder deutlich an.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum se comportă de obicei presiunea aerului?\n1. inainte,\n2. în timpul şi\n3. după ce trece un front rece?",
+          "answer_ro": "1. Presiunea aerului este constantă sau scade doar ușor.\n2. În timpul trecerii frontului, presiunea aerului atinge cea mai mică valoare.\n3. Presiunea aerului crește din nou semnificativ.",
+          "text_en": "How does the air pressure typically behave?\n1. before,\n2. during and\n3. after a cold front passes through?",
+          "answer_en": "1. The air pressure is constant or falls only slightly.\n2. During the passage of the front, the air pressure reaches its lowest value.\n3. The air pressure increases significantly again."
         },
         {
           "nr": 24,
           "text_de": "Was lässt sich aus der Darstellung der Isobaren in einer Wetterkarte erkennen?",
           "answer_de": "Windrichtung und Druckgefälle; je enger sie liegen, desto größer ist das Druckgefälle und desto stärker ist der Wind.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce se vede din reprezentarea izobarelor pe o hartă a vremii?",
+          "answer_ro": "direcția vântului și gradientul de presiune; cu cât sunt mai aproape, cu atât gradientul de presiune este mai mare și vântul este mai puternic.",
+          "text_en": "What can be seen from the representation of isobars on a weather map?",
+          "answer_en": "wind direction and pressure gradient; the closer they are, the greater the pressure gradient and the stronger the wind."
         },
         {
           "nr": 25,
           "text_de": "Warum weht der Wind nicht parallel zu den Isobaren? (Begründung)",
           "answer_de": "Durch die Bodenreibung ist der Wind rückgedreht (gegen den Uhrzeigersinn).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce nu suflă vântul paralel cu izobarele? (Motiv)",
+          "answer_ro": "Din cauza frecării solului, vântul este întors înapoi (în sens invers acelor de ceasornic).",
+          "text_en": "Why doesn't the wind blow parallel to the isobars? (Reason)",
+          "answer_en": "Due to the ground friction, the wind is turned backwards (counterclockwise)."
         },
         {
           "nr": 26,
           "text_de": "1. Wie weht der Wind über See in Bodennähe um ein Tiefdruckgebiet?\n2. Mit wie viel Grad Änderung in der Windrichtung müssen Sie etwa rechnen?",
           "answer_de": "1. Der Wind weht nicht parallel zu den Isobaren, er ist rückgedreht und weht in das Tief hinein.\n2. Ein bis zwei Strich bzw. ca. 10° bis 20°.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Cum suflă vântul peste mare în apropierea solului în jurul unei zone de joasă presiune?\n2. La câte grade de schimbare a direcției vântului ar trebui să vă așteptați?",
+          "answer_ro": "1. Vântul nu suflă paralel cu izobarele, este inversat și suflă în jos.\n2. Una sau două linii sau aproximativ 10° până la 20°.",
+          "text_en": "1. How does the wind blow over sea near the ground around a low pressure area?\n2. How many degrees of change in wind direction should you expect?",
+          "answer_en": "1. The wind does not blow parallel to the isobars, it is reversed and blows into the low.\n2. One to two lines or approx. 10° to 20°."
         },
         {
           "nr": 27,
           "text_de": "1. Wie weht der Wind über See in Bodennähe um ein Hochdruckgebiet?\n2. Mit wie viel Grad Änderung in der Windrichtung müssen Sie etwa rechnen?",
           "answer_de": "1. Der Wind weht nicht parallel zu den Isobaren, er ist rückgedreht und weht aus dem Hoch hinaus.\n2. Ein bis zwei Strich bzw. 10° bis 20°.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Cum suflă vântul peste mare în apropierea solului în jurul unei zone de înaltă presiune?\n2. La câte grade de schimbare a direcției vântului ar trebui să vă așteptați?",
+          "answer_ro": "1. Vântul nu suflă paralel cu izobarele, este inversat și suflă din înălțime.\n2. Una sau două linii sau 10° până la 20°.",
+          "text_en": "1. How does the wind blow over sea near the ground around a high pressure area?\n2. How many degrees of change in wind direction should you expect?",
+          "answer_en": "1. The wind does not blow parallel to the isobars, it is reversed and blows out of the high.\n2. One to two lines or 10° to 20°."
         },
         {
           "nr": 28,
           "text_de": "Welche Verlagerungsgeschwindigkeiten haben Tiefdruckgebiete:\n1. schnelle,\n2. mittlere,\n3. langsame?",
           "answer_de": "1. Schnelle: 30 bis 50 kn.\n2. Mittlere: 15 bis 30 kn.\n3. Langsame: bis 15 kn.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care sunt vitezele de deplasare ale zonelor de joasă presiune:\n1. Rapid,\n2. mediu,\n3. lent?",
+          "answer_ro": "1. Viteza: 30 - 50 kn.\n2. Mediu: 15 până la 30 kn.\n3. Lentă: până la 15 kn.",
+          "text_en": "What are the displacement velocities of low pressure areas:\n1. Fast,\n2. medium,\n3. slow?",
+          "answer_en": "1. Speed: 30 to 50 kn.\n2. Medium: 15 to 30 kn.\n3. Slow: up to 15 kn."
         },
         {
           "nr": 29,
           "text_de": "Wie entstehen Tiefdruckgebiete?",
           "answer_de": "Durch das Aufeinandertreffen von kalten Luftmassen aus hohen Breiten und subtropischen warmen Luftmassen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum se formează zonele de joasă presiune?",
+          "answer_ro": "Datorita ciocnirii maselor de aer rece de la latitudini mari si a maselor de aer cald subtropical.",
+          "text_en": "How do low pressure areas form?",
+          "answer_en": "Due to the collision of cold air masses from high latitudes and subtropical warm air masses."
         },
         {
           "nr": 30,
           "text_de": "Welche Windverhältnisse herrschen in der Nähe des Zentrums eines Hochdruckgebiets?",
           "answer_de": "Meist schwache umlaufende Winde.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce condiții de vânt predomină în apropierea centrului unei zone de înaltă presiune?",
+          "answer_ro": "Vânturi circulante în mare parte slabe.",
+          "text_en": "What wind conditions prevail near the center of a high pressure area?",
+          "answer_en": "Mostly weak circulating winds."
         },
         {
           "nr": 31,
           "text_de": "In welchem Abstand werden Isobaren international dargestellt oder gezeichnet?",
           "answer_de": "Im Abstand von 5 hPa oder im Abstand von 4 mbar.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce distanță sunt reprezentate sau desenate izobarele la nivel internațional?",
+          "answer_ro": "La o distanta de 5 hPa sau la o distanta de 4 mbar.",
+          "text_en": "At what distance are isobars represented or drawn internationally?",
+          "answer_en": "At a distance of 5 hPa or at a distance of 4 mbar."
         },
         {
           "nr": 32,
           "text_de": "Welche Sicht- und Wetterverhältnisse erwarten Sie typischerweise\n1. vor oder nahe der Warmfront,\n2. im Warmsektor,\n3. hinter der Kaltfront?",
           "answer_de": "1. Sichtverschlechterung durch Niederschlag, bedeckt, länger andauernder Regen.\n2. Diesig oder mäßige Sicht, Wolkenauflockerung, zeitweise Regen.\n3. Sichtbesserung, meist gute Sicht. Schauer mit zum Teil kräftigen Böen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce vizibilitate și condiții meteo vă așteptați de obicei\n1. în fața sau în apropierea frontului cald,\n2. în sectorul cald,\n3. în spatele frontului rece?",
+          "answer_ro": "1. Deteriorarea vizibilității din cauza precipitațiilor, înnorat, ploi prelungite.\n2. Vizibilitate încețoșată sau moderată, nori sparți, ploaie ocazională.\n3. Îmbunătățirea vederii, mai ales o vedere bună. Averse cu unele rafale puternice.",
+          "text_en": "What visibility and weather conditions do you typically expect\n1. in front of or near the warm front,\n2. in the warm sector,\n3. behind the cold front?",
+          "answer_en": "1. Deterioration in visibility due to precipitation, overcast, prolonged rain.\n2. Hazy or moderate visibility, breaking clouds, occasional rain.\n3. Improvement in vision, mostly good vision. Showers with some strong gusts."
         },
         {
           "nr": 33,
@@ -2408,622 +2408,622 @@
           "text_images": [
             "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Wetterkunde/Abbildung-33-gif.gif?__blob=normal&v=2"
           ],
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce direcții ale vântului vă așteptați în punctele 1, 2, 3, 4, 5 ale unei zone de joasă presiune din emisfera nordică.",
+          "answer_ro": "1. nord-est.\n2. Sud.\n3. Sud-vest\n4. Nord-vest.\n5. Vânt circulant",
+          "text_en": "What wind directions do you expect at points 1, 2, 3, 4, 5 of a low pressure area in the northern hemisphere.",
+          "answer_en": "1. Northeast.\n2. South.\n3. Southwest\n4. Northwest.\n5. Circulating wind"
         },
         {
           "nr": 34,
           "text_de": "Um welche Arten von Fronten handelt es sich in der Abbildung, die mit 1, 2 und 3 bezeichnet sind?",
           "answer_de": "1. Okklusionsfront (Tiefausläufer)\n2. Warmfront\n3. Kaltfront",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce tipuri de fronturi sunt în figura etichetată cu 1, 2 și 3?",
+          "answer_ro": "1. Front de ocluzie (extensie profundă)\n2. Frontul cald\n3. Frontul rece",
+          "text_en": "What types of fronts are in the figure labeled 1, 2 and 3?",
+          "answer_en": "1. Occlusion front (deep extension)\n2. Warm front\n3. Cold front"
         },
         {
           "nr": 35,
           "text_de": "1. Was sind Luftmassengrenzen?\n2. Welche Luftmassengrenzen kennen Sie? Nennen Sie mindestens 2 Beispiele.",
           "answer_de": "1. Luftmassengrenzen sind Fronten. Sie trennen Luftmassen mit unterschiedlicher Temperatur und Luftfeuchtigkeit.\n2. Kaltfront, Warmfront, Okklusion.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Care sunt limitele masei de aer?\n2. Ce limite de masă de aer cunoașteți? Dați cel puțin 2 exemple.",
+          "answer_ro": "1. Limitele masei de aer sunt fronturi. Ele separă masele de aer cu temperaturi și umiditate diferite.\n2. Front rece, front cald, ocluzie.",
+          "text_en": "1. What are air mass boundaries?\n2. What air mass boundaries do you know? Give at least 2 examples.",
+          "answer_en": "1. Air mass boundaries are fronts. They separate air masses with different temperatures and humidity.\n2. Cold front, warm front, occlusion."
         },
         {
           "nr": 36,
           "text_de": "Mit welchen lokalen Windsystemen müssen Sie insbesondere im Mittelmeer rechnen?",
           "answer_de": "Mit der Land-/Seewind-Zirkulation.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce sisteme eoliene locale ar trebui să vă așteptați, în special în Marea Mediterană?",
+          "answer_ro": "Cu circulatia vantului de uscat/mare.",
+          "text_en": "Which local wind systems should you expect, particularly in the Mediterranean?",
+          "answer_en": "With the land/sea wind circulation."
         },
         {
           "nr": 37,
           "text_de": "Nennen Sie mindestens 3 regionale Windsysteme im Mittelmeer, die beim küstennahen Segeln im Mittelmeer besonders beachtet werden müssen.",
           "answer_de": "- Mistral,\n- Scirocco,\n- Bora und\n- Etesien/Meltemi.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Numiți cel puțin 3 sisteme eoliene regionale din Marea Mediterană care necesită o atenție deosebită atunci când navigați aproape de țărm în Mediterana.",
+          "answer_ro": "- Mistral,\n- Scirocco,\n- Bora și\n- Etesia/Meltemi.",
+          "text_en": "Name at least 3 regional wind systems in the Mediterranean that require particular attention when sailing close to shore in the Mediterranean.",
+          "answer_en": "- Mistral,\n- Scirocco,\n- Bora and\n- Etesia/Meltemi."
         },
         {
           "nr": 38,
           "text_de": "Mit welchem regionalen Windsystem muss in der Adria gerechnet werden?",
           "answer_de": "Mit Bora.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce sistem eolian regional ar trebui să se aștepte în Marea Adriatică?",
+          "answer_ro": "Cu Bora.",
+          "text_en": "Which regional wind system should be expected in the Adriatic?",
+          "answer_en": "With Bora."
         },
         {
           "nr": 39,
           "text_de": "Mit welchem regionalen Windsystem muss in der Ägäis gerechnet werden?",
           "answer_de": "Mit den Etesien/dem Meltemi.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce sistem eolian regional ar trebui să se aștepte în Marea Egee?",
+          "answer_ro": "Cu Etesien/Meltemi.",
+          "text_en": "Which regional wind system should be expected in the Aegean?",
+          "answer_en": "With the Etesien/Meltemi."
         },
         {
           "nr": 40,
           "text_de": "Wo bilden sich Tröge um ein Tiefdruckgebiet?",
           "answer_de": "Auf der Rückseite von Tiefdruckgebieten in hochreichender Kaltluft. Ein Trog folgt typischerweise einer Kaltfront.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Unde se formează jgheaburi în jurul unei zone de joasă presiune?",
+          "answer_ro": "Pe partea din spate a zonelor de joasă presiune în aer rece de înaltă atingere. Un jgheab urmează de obicei un front rece.",
+          "text_en": "Where do troughs form around a low pressure area?",
+          "answer_en": "On the back of low pressure areas in high-reaching cold air. A trough typically follows a cold front."
         },
         {
           "nr": 41,
           "text_de": "Welche Front wird auch als „Ausläufer“ bezeichnet?",
           "answer_de": "Die Okklusion.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care front se mai numește și „dealuri”?",
+          "answer_ro": "Ocluzia.",
+          "text_en": "Which front is also called the “foothills”?",
+          "answer_en": "The occlusion."
         },
         {
           "nr": 42,
           "text_de": "Wodurch und wie entsteht am Tage Seewind?",
           "answer_de": "Das Land erwärmt sich bei Sonneneinstrahlung tagsüber stärker als das Wasser. Über Land steigt die erwärmte Luft auf. Das dabei entstehende Bodentief wird durch Seewind (Wind von See) aufgefüllt.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce cauzează vântul maritim în timpul zilei și cum?",
+          "answer_ro": "Pământul se încălzește mai mult decât apa în timpul zilei când soarele strălucește. Aerul încălzit se ridică deasupra pământului. Pământul joasă rezultat este umplut de vânt maritim (vânt din lac).",
+          "text_en": "What causes sea wind during the day and how?",
+          "answer_en": "The land warms up more than the water during the day when the sun shines. The warmed air rises over land. The resulting low ground is filled by sea wind (wind from the lake)."
         },
         {
           "nr": 43,
           "text_de": "Welche Wolkenform zeigt sich am späten Vormittag über Land am Himmel und kündigt Seewind an?",
           "answer_de": "Haufenwolke (Cumulus).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce formă de nor apare pe cer peste pământ în dimineața târzie și anunță vântul mării?",
+          "answer_ro": "norul cumulus.",
+          "text_en": "What cloud shape appears in the sky over land in the late morning and announces sea wind?",
+          "answer_en": "cumulus cloud."
         },
         {
           "nr": 44,
           "text_de": "Welche Windgeschwindigkeiten in Knoten oder Beaufort erreicht der Seewind etwa\n1. im Mittelmeer,\n2. in Nord- und Ostsee?",
           "answer_de": "1. Bis zu 25 kn oder Bft 6.\n2. Bis 15 kn, in Einzelfällen bis 20 kn oder Bft 4/5, in Einzelfällen Bft 5/6.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce viteze ale vântului în noduri sau Beaufort atinge vântul de mare?\n1. în Marea Mediterană,\n2. în Marea Nordului și Marea Baltică?",
+          "answer_ro": "1. Până la 25 kn sau Bft 6.\n2. Până la 15 kn, în cazuri individuale până la 20 kn sau Bft 4/5, în cazuri individuale Bft 5/6.",
+          "text_en": "What wind speeds in knots or Beaufort does the sea wind reach?\n1. in the Mediterranean,\n2. in the North and Baltic Seas?",
+          "answer_en": "1. Up to 25 kn or Bft 6.\n2. Up to 15 kn, in individual cases up to 20 kn or Bft 4/5, in individual cases Bft 5/6."
         },
         {
           "nr": 45,
           "text_de": "Zu welcher Tageszeit müssen Sie mit Seewind rechnen?",
           "answer_de": "Von Mittag bis zum frühen Abend.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce oră din zi ar trebui să vă așteptați la vânt maritim?",
+          "answer_ro": "De la prânz până seara devreme.",
+          "text_en": "At what time of day should you expect sea winds?",
+          "answer_en": "From midday to early evening."
         },
         {
           "nr": 46,
           "text_de": "Welche Windänderung kann der einsetzende Seewind bewirken?",
           "answer_de": "Er verändert den vorher wehenden Wind zum Teil erheblich in Richtung und Stärke.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce schimbare de vânt poate provoca vântul mării?",
+          "answer_ro": "Schimbă direcția și puterea vântului care sufla anterior, uneori semnificativ.",
+          "text_en": "What wind change can the sea wind cause?",
+          "answer_en": "It changes the direction and strength of the previously blowing wind, sometimes significantly."
         },
         {
           "nr": 47,
           "text_de": "Wodurch und wie entsteht nachts Landwind?",
           "answer_de": "Das Land kühlt sich bei geringer Bewölkung stark ab. Das Wasser ändert seine Temperatur an der Oberfläche dagegen nur geringfügig. Über dem Wasser steigt daher erwärmte Luft auf. Das dabei entstehende Bodentief wird durch Landwind (Wind von Land) aufgefüllt.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce și cum se naște vântul de pe uscat noaptea?",
+          "answer_ro": "Țara se răcește semnificativ atunci când este puțin nori. Apa, în schimb, își schimbă doar puțin temperatura la suprafață. Prin urmare, aerul încălzit se ridică deasupra apei. Depresiunea solului rezultată este umplută de vântul de pe uscat (vânt de pe uscat).",
+          "text_en": "What and how does land wind arise at night?",
+          "answer_en": "The country cools down significantly when there is little cloud cover. The water, on the other hand, only changes its temperature slightly on the surface. Warmed air therefore rises above the water. The resulting ground depression is filled by land wind (wind from land)."
         },
         {
           "nr": 48,
           "text_de": "Welche Windgeschwindigkeiten erreicht nachts der Landwind?",
           "answer_de": "Er weht allgemein schwächer als der Seewind, etwa 1 bis 10 kn oder Bft 1-3.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce viteze ale vântului atinge vântul de pe uscat noaptea?",
+          "answer_ro": "Sufla in general mai slab decat vantul marii, in jur de 1 la 10 kn sau Bft 1-3.",
+          "text_en": "What wind speeds does the land wind reach at night?",
+          "answer_en": "It generally blows weaker than the sea wind, around 1 to 10 kn or Bft 1-3."
         },
         {
           "nr": 49,
           "text_de": "Wann müssen Sie im Laufe eines Tages mit Landwind rechnen?",
           "answer_de": "Von Mitternacht bis zum frühen Morgen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Când ar trebui să vă așteptați la vânt de pe uscat în timpul zilei?",
+          "answer_ro": "De la miezul nopții până dimineața devreme.",
+          "text_en": "When should you expect onshore winds during the day?",
+          "answer_en": "From midnight to early morning."
         },
         {
           "nr": 50,
           "text_de": "Im Internet finden Sie auf einer „Wetterseite“ eine Vorhersagekarte mit Windpfeilen. In welcher Höhe über dem Erdboden/der Wasseroberfläche gelten die vorhergesagten Windgeschwindigkeiten?",
           "answer_de": "Meistens etwa 10 Meter über dem Erdboden/der Wasseroberfläche.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Puteți găsi o hartă de prognoză cu săgeți de vânt pe un „site meteo” pe Internet. La ce înălțime deasupra suprafeței solului/apei sunt prognozate vitezele vântului?",
+          "answer_ro": "În cea mai mare parte, la aproximativ 10 metri deasupra suprafeței solului/apei.",
+          "text_en": "You can find a forecast map with wind arrows on a “weather site” on the Internet. At what height above the ground/water surface are the predicted wind speeds?",
+          "answer_en": "Mostly about 10 meters above the ground/water surface."
         },
         {
           "nr": 51,
           "text_de": "Sie segeln mit Ihrer Yacht „raumschots“. Nach der nächsten Tonne müssen Sie anluven. Wie wird sich die wahre Windgeschwindigkeit auf Ihrem Windmesser/Anemometer entwickeln?",
           "answer_de": "Sie bleibt unverändert.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Îți navighezi cu iahtul „raumschots”. După următoarea geamandură trebuie să poftiți. Cum se va dezvolta adevărata viteză a vântului pe anemometrul/anemometrul dvs.?",
+          "answer_ro": "Rămâne neschimbat.",
+          "text_en": "You are sailing your yacht “raumschots”. After the next buoy you have to luff. How will the true wind speed develop on your anemometer/anemometer?",
+          "answer_en": "It remains unchanged."
         },
         {
           "nr": 52,
           "text_de": "Welche Windsituation ist mit der Formulierung „Nordwest 6“ bezüglich\n1. der Schwankungsbreite in Windrichtung und\n2. der Schwankungsbreite in der Windstärke (Böen) verbunden?",
           "answer_de": "1. Die Schwankung in der Windrichtung kann bis zu 45° um die Hauptwindrichtung betragen, also von Westnordwest (WNW) bis Nordnordwest (NNW).\n2. Es können Böen auftreten, die etwa 1 bis 2 Bft über dem Mittelwind liegen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce situație a vântului este legată de formularea „Nord-vest 6”.\n1. intervalul de fluctuaţie în direcţia vântului şi\n2. intervalul de fluctuații ale forței vântului (rafale)?",
+          "answer_ro": "1. Fluctuația direcției vântului poate fi de până la 45° în jurul direcției principale a vântului, adică de la vest-nord-vest (VNV) la nord-nord-vest (NNW).\n2. Pot apărea rafale de aproximativ 1 până la 2 Bft deasupra vântului mediu.",
+          "text_en": "What wind situation is related to the wording “Northwest 6”.\n1. the range of fluctuation in the wind direction and\n2. the range of fluctuations in wind strength (gusts)?",
+          "answer_en": "1. The fluctuation in wind direction can be up to 45° around the main wind direction, i.e. from west-northwest (WNW) to north-northwest (NNW).\n2. Gusts of around 1 to 2 Bft above the mean wind may occur."
         },
         {
           "nr": 53,
           "text_de": "Was ist mit dem Zusatz „Schauerböen“ bei der Windvorhersage verbunden?",
           "answer_de": "Besonders während der Passage und auf der Rückseite von Kaltfronten treten in der näheren Umgebung von Schauern Böen auf, die den Mittelwind um 2 Bft überschreiten können.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce este asociat cu adăugarea de „rafale de duș” în prognoza vântului?",
+          "answer_ro": "In special in timpul trecerii si pe spatele fronturilor reci, in imediata apropiere a averselor apar rafale care pot depasi vantul mediu cu 2 Bft.",
+          "text_en": "What is associated with the addition of “shower gusts” in the wind forecast?",
+          "answer_en": "Especially during the passage and on the back of cold fronts, gusts that can exceed the mean wind by 2 Bft occur in the immediate vicinity of showers."
         },
         {
           "nr": 54,
           "text_de": "Warum werden Gewitterböen in der Windvorhersage zusätzlich angegeben?",
           "answer_de": "Besonders im Sommer können bei Schwachwindlagen Gewitter mit Böen auftreten, die Sturm- oder Orkanstärke erreichen können.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce sunt incluse și rafale de furtună în prognoza vântului?",
+          "answer_ro": "Mai ales vara, când bate vânt slab, pot apărea furtuni cu rafale care pot atinge forța de furtună sau uragan.",
+          "text_en": "Why are thunderstorm gusts also included in the wind forecast?",
+          "answer_en": "Especially in summer, when there is weak wind, thunderstorms with gusts that can reach storm or hurricane force can occur."
         },
         {
           "nr": 55,
           "text_de": "Wie ist der Aufbau von Seewetterberichten?",
           "answer_de": "Hinweise auf Starkwind oder Sturm, Wetterlage, Vorhersagen, Aussichten und Stationsmeldungen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum sunt structurate rapoartele meteo maritime?",
+          "answer_ro": "Informații despre vânturi puternice sau furtuni, condiții meteo, prognoze, perspective și rapoarte ale stației.",
+          "text_en": "How are sea weather reports structured?",
+          "answer_en": "Information on strong winds or storms, weather conditions, forecasts, prospects and station reports."
         },
         {
           "nr": 56,
           "text_de": "Welche lokalen Effekte, die das vorherrschende Windfeld stark verändern, können in Seewetterberichten nur eingeschränkt berücksichtigt werden?",
           "answer_de": "U.a. Land-/Seewind-Zirkulation, Düsen- und Kapeffekte.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce efecte locale care modifică semnificativ câmpul de vânt predominant pot fi luate în considerare doar într-o măsură limitată în rapoartele meteorologice maritime?",
+          "answer_ro": "U.a. Circulația vântului terestre/mare, efecte de jet și pelerină.",
+          "text_en": "Which local effects that significantly change the prevailing wind field can only be taken into account to a limited extent in maritime weather reports?",
+          "answer_en": "U.a. Land/sea wind circulation, jet and cape effects."
         },
         {
           "nr": 57,
           "text_de": "1. Wann werden Starkwindwarnungen verbreitet?\n2. Welche Bezeichnung hat die Starkwindwarnung im internationalen Sprachgebrauch?",
           "answer_de": "1. Bei erwarteten oder noch andauernden Windstärken zwischen 6 und 7 Bft.\n2. Near-gale warning.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Când sunt emise avertismente de vânt puternic?\n2. Care este denumirea internațională pentru avertizarea de vânt puternic?",
+          "answer_ro": "1. Cu viteze ale vântului așteptate sau în curs între 6 și 7 Bft.\n2. Avertizare de aproape furtună.",
+          "text_en": "1. When are strong wind warnings issued?\n2. What is the international name for the strong wind warning?",
+          "answer_en": "1. With expected or ongoing wind speeds between 6 and 7 Bft.\n2. Near-gale warning."
         },
         {
           "nr": 58,
           "text_de": "1. Wann werden Sturmwarnungen verbreitet?\n2. Welche Bezeichnung hat die Sturmwarnung im internationalen Sprachgebrauch?",
           "answer_de": "1. Bei zu erwartenden oder noch andauernden Windstärken von mindestens 8 Bft.\n2. Gale warning.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Când sunt emise avertismentele de furtună?\n2. Cum se numește avertismentul de furtună în limbaj internațional?",
+          "answer_ro": "1. Dacă sunt de așteptat sau vor continua forțele vântului de cel puțin 8 Bft.\n2. Avertizare de furtună.",
+          "text_en": "1. When are storm warnings issued?\n2. What is the name of the storm warning in international parlance?",
+          "answer_en": "1. If wind strengths of at least 8 Bft are expected or will continue.\n2. Gale warning."
         },
         {
           "nr": 59,
           "text_de": "Welche Wellenhöhe wird bei der Angabe des Seegangs in Seewetterberichten verwendet?",
           "answer_de": "Die kennzeichnende (charakteristische) Wellenhöhe.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce înălțime a valurilor este utilizată atunci când se indică starea mării în rapoartele meteorologice maritime?",
+          "answer_ro": "Înălțimea caracteristică (caracteristică) a valului.",
+          "text_en": "What wave height is used when indicating sea state in marine weather reports?",
+          "answer_en": "The characteristic (characteristic) wave height."
         },
         {
           "nr": 60,
           "text_de": "1. Wie ist die kennzeichnende (charakteristische) Wellenhöhe definiert?\n2. Womit müssen Sie rechnen?",
           "answer_de": "1. Mittlere Höhe der gut ausgeprägten (Mittel des oberen Drittels) - nicht extremen - Wellen.\n2. Einzelne Wellen können das 1,5fache der kennzeichnenden Wellenhöhe erreichen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Cum este definită înălțimea caracteristică a valului?\n2. La ce ar trebui să vă așteptați?",
+          "answer_ro": "1. Înălțimea medie a valurilor bine dezvoltate (mijlocul treimii superioare) - nu extremă.\n2. Valurile individuale pot atinge de 1,5 ori înălțimea caracteristică a valului.",
+          "text_en": "1. How is the characteristic wave height defined?\n2. What should you expect?",
+          "answer_en": "1. Mean height of the well-developed (middle of the upper third) - not extreme - waves.\n2. Individual waves can reach 1.5 times the characteristic wave height."
         },
         {
           "nr": 61,
           "text_de": "Was bedeutet rechtdrehender bzw. rückdrehender Wind?",
           "answer_de": "Rechtdrehend bedeutet Änderung der Windrichtung im Uhrzeigersinn. Rückdrehend bedeutet Änderung der Windrichtung gegen den Uhrzeigersinn um mindestens 45°.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce înseamnă vântul în sensul acelor de ceasornic sau invers?",
+          "answer_ro": "În sensul acelor de ceasornic înseamnă schimbarea direcției vântului în sensul acelor de ceasornic. Invers înseamnă o schimbare a direcției vântului în sens invers acelor de ceasornic cu cel puțin 45°.",
+          "text_en": "What does clockwise or reverse wind mean?",
+          "answer_en": "Clockwise means changing the wind direction clockwise. Reverse means a change in wind direction counterclockwise by at least 45°."
         },
         {
           "nr": 62,
           "text_de": "Sie hören am Ende eines Seewetterberichts die Stationsmeldungen. Was sagen Windrichtung und Windgeschwindigkeit gegenüber den Verhältnissen auf See aus?",
           "answer_de": "Durch die Umgebung der Wetterstation kann die Windrichtung verfälscht werden. Die Windgeschwindigkeit ist meist reduziert, in Einzelfällen auch erhöht.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Auzi rapoartele stației la sfârșitul unui raport meteorologic maritim. Ce spun direcția și viteza vântului în comparație cu condițiile de pe mare?",
+          "answer_ro": "Direcția vântului poate fi distorsionată de împrejurimile stației meteo. Viteza vântului este de obicei redusă, dar în cazuri individuale este și crescută.",
+          "text_en": "You hear the station reports at the end of a marine weather report. What do wind direction and wind speed say compared to the conditions at sea?",
+          "answer_en": "The wind direction can be distorted by the weather station's surroundings. The wind speed is usually reduced, but in individual cases it is also increased."
         },
         {
           "nr": 63,
           "text_de": "Welche Sichtweiten umfasst der Begriff „diesig“?",
           "answer_de": "Sichtweiten über 1 km bis 10 km (bzw. ca. 0,5 bis 6 Seemeilen).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce intervale de vizibilitate cuprinde termenul „cețos”?",
+          "answer_ro": "Vizibilitate peste 1 km până la 10 km (sau aproximativ 0,5 până la 6 mile marine).",
+          "text_en": "What visibility ranges does the term “hazy” encompass?",
+          "answer_en": "Visibility over 1 km to 10 km (or approx. 0.5 to 6 nautical miles)."
         },
         {
           "nr": 64,
           "text_de": "Seegebiete sind international festgelegt. In welchen amtlichen Veröffentlichungen können Sie nachlesen, wo sich das Seegebiet „Fischer“ befindet?",
           "answer_de": "Im „Handbuch Nautischer Funkdienst“, im „Jachtfunkdienst für Nord- und Ostsee“ oder in der „Admiralty List of Radio Signals“.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Zonele maritime sunt definite la nivel internațional. În ce publicații oficiale puteți citi unde se află zona de mare „Fischer”?",
+          "answer_ro": "În „Manualul serviciului radio nautic”, în „Serviciul radio pentru iahturi pentru Marea Nordului și Marea Baltică” sau în „Lista Amiralității de semnale radio”.",
+          "text_en": "Sea areas are internationally defined. In which official publications can you read where the “Fischer” sea area is located?",
+          "answer_en": "In the “Nautical Radio Service Handbook”, in the “Yacht Radio Service for the North and Baltic Seas” or in the “Admiralty List of Radio Signals”."
         },
         {
           "nr": 65,
           "text_de": "Sie wollen einen Törn in einem für Sie fremden Küstenrevier fahren. Wie können Sie sich über mittlere Windverhältnisse für bestimmte Jahreszeiten oder Monate informieren?",
           "answer_de": "In den entsprechenden Hafen-, Revierführern. Außerdem z.B. in Monatskarten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Vrei să faci o excursie într-o zonă de coastă care nu îți este familiară. Cum puteți afla despre condițiile medii ale vântului pentru anumite anotimpuri sau luni?",
+          "answer_ro": "În ghidurile de porturi și raioane relevante. De asemenea, de exemplu, în biletele lunare.",
+          "text_en": "You want to take a trip in a coastal area that is unfamiliar to you. How can you find out about average wind conditions for specific seasons or months?",
+          "answer_en": "In the relevant port and district guides. Also, for example, in monthly tickets."
         },
         {
           "nr": 66,
           "text_de": "1. Was für Wetter muss meistens erwartet werden, wenn der Luftdruck über einen Zeitraum von 3 Stunden um 10 hPa fällt?\n2. Was muss bei einem an Bord beobachteten starken Luftdruckfall beachtet werden?",
           "answer_de": "1. Schwerer Sturm.\n2. Der Kurs und die Fahrt des Schiffes in Bezug auf das Tiefdruckgebiet.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Ce fel de vreme ar trebui să se aștepte cel mai adesea dacă presiunea aerului scade cu 10 hPa într-o perioadă de 3 ore?\n2. Ce trebuie luat în considerare dacă la bord se observă o scădere puternică a presiunii aerului?",
+          "answer_ro": "1. Furtuna severa.\n2. Cursul și direcția navei în raport cu zona de joasă presiune.",
+          "text_en": "1. What kind of weather should most often be expected if the air pressure falls by 10 hPa over a 3-hour period?\n2. What needs to be taken into account if a strong drop in air pressure is observed on board?",
+          "answer_en": "1. Severe storm.\n2. The course and direction of the ship in relation to the low pressure area."
         },
         {
           "nr": 67,
           "text_de": "Wie verändert sich der an Bord beobachtete Luftdruckfall, wenn sich ein Fahrzeug mit Westkurs dem Zentrum eines ostwärts ziehenden Tiefdruckgebiets nähert?",
           "answer_de": "Der Luftdruckfall wird verstärkt.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum se schimbă scăderea de presiune a aerului observată la bord atunci când un vehicul îndreptat spre vest se apropie de centrul unei zone de joasă presiune care se deplasează spre est?",
+          "answer_ro": "Căderea de presiune a aerului este crescută.",
+          "text_en": "How does the air pressure drop observed on board change when a westbound vehicle approaches the center of a low pressure area moving eastward?",
+          "answer_en": "The air pressure drop is increased."
         },
         {
           "nr": 68,
           "text_de": "Mit welchen Windverhältnissen müssen Sie rechnen, wenn Sie im Hafen liegen und der Wind ablandig weht?",
           "answer_de": "Die im Hafen vorherrschenden Windgeschwindigkeiten entsprechen nicht den Verhältnissen auf der freien See.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce condiții de vânt ar trebui să vă așteptați dacă vă aflați în port și vântul bate în larg?",
+          "answer_ro": "Vitezele vântului care predomină în port nu corespund condițiilor de pe mare deschisă.",
+          "text_en": "What wind conditions should you expect if you are in port and the wind is blowing offshore?",
+          "answer_en": "The wind speeds prevailing in the harbor do not correspond to the conditions on the open sea."
         },
         {
           "nr": 69,
           "text_de": "Mit welchen Windverhältnissen müssen Sie rechnen, wenn Sie in einem relativ ungeschützten Hafen liegen und der Wind auflandig weht?",
           "answer_de": "Die im Hafen vorherrschenden Windgeschwindigkeiten entsprechen etwa den Verhältnissen auf der freien See.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce condiții de vânt ar trebui să vă așteptați dacă vă aflați într-un port relativ neprotejat și vântul bate pe țărm?",
+          "answer_ro": "Viteza vântului predominant în port corespunde aproximativ cu condițiile de pe larg.",
+          "text_en": "What wind conditions should you expect if you are in a relatively unprotected harbor and the wind is blowing onshore?",
+          "answer_en": "The wind speeds prevailing in the harbor roughly correspond to the conditions on the open sea."
         },
         {
           "nr": 70,
           "text_de": "Warum verstärkt sich der Wind in engen Durchfahrten?",
           "answer_de": "Durch den Düseneffekt (Trichtereffekt) in Durchfahrten. Dabei wird die Luftströmung „zusammengepresst“ und beschleunigt.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce crește vântul în pasaje înguste?",
+          "answer_ro": "Datorita efectului duzei (efect de pâlnie) în pasaje. Fluxul de aer este „comprimat” și accelerat.",
+          "text_en": "Why does the wind increase in narrow passages?",
+          "answer_en": "Due to the nozzle effect (funnel effect) in passageways. The air flow is “compressed” and accelerated."
         },
         {
           "nr": 71,
           "text_de": "Mit welcher Windentwicklung ist zu rechnen\n1. in Luv und\n2. in Lee von Kaps oder Inseln?",
           "answer_de": "1. Die Windrichtung ändert sich in Luv des Kaps zum Teil stark und verläuft oft parallel zum Kap. Die Windgeschwindigkeit nimmt zu.\n2. Die Windrichtung kann bei besonders hohen Gebirgen auch umlaufend werden. Die Windgeschwindigkeit ist meist schwach, kann dafür örtlich aber sehr böig sein (Fallwinde).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce fel de dezvoltare eoliană se poate aștepta?\n1. spre vânt și\n2. la subsol de pele sau insule?",
+          "answer_ro": "1. Direcția vântului se schimbă uneori în mod semnificativ spre partea de vânt a peleriței și deseori merge paralel cu pelerină. Viteza vântului crește.\n2. Direcția vântului poate deveni și circumferențială în munți deosebit de înalți. Viteza vântului este de obicei slabă, dar poate fi foarte rafală pe alocuri (în jos).",
+          "text_en": "What kind of wind development can be expected?\n1. to windward and\n2. to leeward of capes or islands?",
+          "answer_en": "1. The wind direction sometimes changes significantly towards the windward side of the cape and often runs parallel to the cape. The wind speed increases.\n2. The wind direction can also become circumferential in particularly high mountains. The wind speed is usually weak, but can be very gusty in places (downwinds)."
         },
         {
           "nr": 72,
           "text_de": "Welche Windverhältnisse erwarten Sie in der Nähe von Steilküsten\n1. bei auflandigem und\n2. bei ablandigem Wind?",
           "answer_de": "1. Der Wind wird durch Küstenführung zum Teil beschleunigt, wenn er nahezu auflandig oder parallel zur Küste weht.\n2. Weht der Wind ablandig, muss örtlich mit umlaufenden Winden und erhöhter Böigkeit (Fallwinden) gerechnet werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce condiții de vânt vă puteți aștepta lângă stânci\n1. pe uscat și\n2. în vânt offshore?",
+          "answer_ro": "1. Vântul este parțial accelerat de ghidajul de coastă atunci când sufla aproape pe țărm sau paralel cu coasta.\n2. În cazul în care vântul bate în larg, trebuie să se aștepte vânturi locale și rafale crescute (în jos).",
+          "text_en": "What wind conditions can you expect near cliffs\n1. onshore and\n2. in offshore winds?",
+          "answer_en": "1. The wind is partly accelerated by coastal guidance when it blows almost onshore or parallel to the coast.\n2. If the wind blows offshore, local winds and increased gustiness (downwinds) must be expected."
         },
         {
           "nr": 73,
           "text_de": "Wie wird sich das Wetter wahrscheinlich entwickeln, wenn der Wind am Abend\n1. abflaut oder\n2. zunimmt?",
           "answer_de": "1. Langsames Abflauen des Windes ist oft ein Zeichen für gutes Wetter.\n2. Windzunahme am Abend kündigt häufig Starkwind, Sturm und Regen an.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum se va dezvolta vremea dacă vântul bate seara\n1. diminuează sau\n2. creste?",
+          "answer_ro": "1. O scădere lentă a vântului este adesea un semn de vreme bună.\n2. O creștere a vântului seara anunță adesea vânturi puternice, furtuni și ploi.",
+          "text_en": "How is the weather likely to develop if the wind blows in the evening\n1. subsides or\n2. increases?",
+          "answer_en": "1. A slow decrease in the wind is often a sign of good weather.\n2. An increase in wind in the evening often heralds strong winds, storms and rain."
         },
         {
           "nr": 74,
           "text_de": "1. Womit müssen Sie auf der Nordhalbkugel rechnen, wenn nach Durchzug einer Kaltfront der Wind rückdreht und der Luftdruck wieder fällt?\n2. Wie nennt man die Wetterlage?",
           "answer_de": "1. Meist deutliche Wetterverschlechterung mit erneut auffrischendem Wind bis Sturmstärke.\n2. Troglage.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. La ce să vă așteptați în emisfera nordică dacă, după trecerea unui front rece, vântul se întoarce și presiunea aerului scade din nou?\n2. Cum numiți situația vremii?",
+          "answer_ro": "1. De obicei, o deteriorare semnificativă a vremii cu vânturi reînnoite până la forța de furtună.\n2. Amplasarea jgheabului.",
+          "text_en": "1. What should you expect in the northern hemisphere if, after a cold front passes, the wind turns back and the air pressure falls again?\n2. What do you call the weather situation?",
+          "answer_en": "1. Usually a significant deterioration in the weather with renewed winds up to storm force.\n2. Trough location."
         },
         {
           "nr": 75,
           "text_de": "Welche Windverhältnisse erwarten Sie auf der Nordhalbkugel während der unmittelbaren Passage eines markanten Troges?",
           "answer_de": "Der Wind dreht recht, meist über 60 bis 90°. Winde bis Orkanstärke besonders auf der Rückseite eines Troges.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce condiții de vânt vă așteptați în emisfera nordică în timpul trecerii imediate a unui jgheab proeminent?",
+          "answer_ro": "Vântul bate corect, de obicei peste 60 până la 90°. Vânturile până la forța uraganului, în special pe spatele unui jgheab.",
+          "text_en": "What wind conditions do you expect in the northern hemisphere during the immediate passage of a prominent trough?",
+          "answer_en": "The wind is right, usually over 60 to 90°. Winds up to hurricane force, especially on the back of a trough."
         },
         {
           "nr": 76,
           "text_de": "Wie entsteht Nebel?",
           "answer_de": "Zufuhr von Feuchte, Mischung von Luftmassen mit hoher Feuchtigkeit und verschiedener Temperatur, Abkühlung der Luftmasse.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum se formează ceața?",
+          "answer_ro": "Alimentarea umidității, amestecarea maselor de aer cu umiditate ridicată și temperaturi diferite, răcire a masei de aer.",
+          "text_en": "How does fog form?",
+          "answer_en": "Supply of moisture, mixing of air masses with high humidity and different temperatures, cooling of the air mass."
         },
         {
           "nr": 77,
           "text_de": "Wie ist Nebel definiert?",
           "answer_de": "Sichtweite unter 1000 Meter.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum este definită ceața?",
+          "answer_ro": "Vizibilitate mai mică de 1000 de metri.",
+          "text_en": "How is fog defined?",
+          "answer_en": "Visibility less than 1000 meters."
         },
         {
           "nr": 78,
           "text_de": "1. Wie entsteht Kaltwassernebel?\n2. Zu welcher Jahreszeit tritt diese Nebelart in europäischen Gewässern bevorzugt auf?",
           "answer_de": "1. Warme und feuchte Luftmassen werden durch den kalten Untergrund (Meer) unter den Taupunkt abgekühlt.\n2. Überwiegend im Frühjahr.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Cum se formează ceața de apă rece?\n2. În ce perioadă a anului apare cel mai frecvent acest tip de ceață în apele europene?",
+          "answer_ro": "1. Masele de aer cald și umed sunt răcite sub punctul de rouă de subsolul rece (mare).\n2. În principal primăvara.",
+          "text_en": "1. How does cold water mist form?\n2. At what time of year does this type of fog occur most frequently in European waters?",
+          "answer_en": "1. Warm and moist air masses are cooled below the dew point by the cold subsoil (sea).\n2. Mainly in spring."
         },
         {
           "nr": 79,
           "text_de": "1. Wie entsteht Warmwassernebel?\n2. Zu welcher Jahreszeit tritt diese Nebelart in europäischen Gewässern bevorzugt auf?",
           "answer_de": "1. Kalte Luft strömt über warmes Wasser. Durch Verdunstung an der Wasseroberfläche kommt es bei hoher Differenz zwischen der Luft- und Wassertemperatur zur Feuchtesättigung.\n2. Überwiegend im Herbst.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Cum se formează ceața de apă caldă?\n2. În ce perioadă a anului apare cel mai frecvent acest tip de ceață în apele europene?",
+          "answer_ro": "1. Aerul rece curge peste apa calda. Saturația cu umiditate apare din cauza evaporării la suprafața apei atunci când există o diferență mare între temperatura aerului și cea a apei.\n2. În principal toamna.",
+          "text_en": "1. How does warm water mist form?\n2. At what time of year does this type of fog occur most frequently in European waters?",
+          "answer_en": "1. Cold air flows over warm water. Moisture saturation occurs due to evaporation on the water surface when there is a large difference between the air and water temperatures.\n2. Mainly in autumn."
         },
         {
           "nr": 80,
           "text_de": "1. Wie entsteht Strahlungsnebel?\n2. Wo ist diese Nebelart anzutreffen?",
           "answer_de": "1. Nach Sonnenuntergang kann sich bei klarem Himmel die bodennahe Luftschicht über Land unter den Taupunkt abkühlen.\n2. Besonders auf Flüssen und engen Durchfahrten, außerdem durch seewärtige Windverdriftung in Küstennähe.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Cum se formează ceața de radiații?\n2. Unde se găsește acest tip de ceață?",
+          "answer_ro": "1. După apus, dacă cerul este senin, stratul de aer aproape de pământ deasupra pământului se poate răci sub punctul de rouă.\n2. În special pe râuri și pasaje înguste și, de asemenea, din cauza derivării vântului spre mare în apropiere de coastă.",
+          "text_en": "1. How does radiation fog form?\n2. Where is this type of fog found?",
+          "answer_en": "1. After sunset, if the sky is clear, the layer of air close to the ground over land can cool below the dew point.\n2. Particularly on rivers and narrow passages, and also due to seaward wind drift near the coast."
         },
         {
           "nr": 81,
           "text_de": "Wodurch kann es im Mittelmeerraum in besonderen Fällen zur Sichtreduktion kommen?",
           "answer_de": "Bei bestimmten Wetterlagen kann mit der Luftmasse transportierter Saharastaub die Sicht stark vermindern.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce poate duce la o vizibilitate redusă în cazuri speciale în regiunea mediteraneană?",
+          "answer_ro": "In anumite conditii meteorologice, praful saharian transportat cu masa de aer poate reduce semnificativ vizibilitatea.",
+          "text_en": "What can lead to reduced visibility in special cases in the Mediterranean region?",
+          "answer_en": "In certain weather conditions, Saharan dust transported with the air mass can significantly reduce visibility."
         },
         {
           "nr": 82,
           "text_de": "Woraus besteht Seegang?",
           "answer_de": "Aus Windsee und Dünung.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "În ce constă umflarea?",
+          "answer_ro": "Din vant mari si umflaturi.",
+          "text_en": "What does swell consist of?",
+          "answer_en": "From wind seas and swells."
         },
         {
           "nr": 83,
           "text_de": "Was verstehen Sie unter Windsee?",
           "answer_de": "Seegang, der durch den Wind am Ort oder in der näheren Umgebung angefacht wird.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce vrei să spui prin vânt mare?",
+          "answer_ro": "Umflare cauzată de vânt în locație sau în zona înconjurătoare.",
+          "text_en": "What do you mean by wind sea?",
+          "answer_en": "Swell caused by the wind at the location or in the surrounding area."
         },
         {
           "nr": 84,
           "text_de": "Wovon hängt die Höhe der Windsee ab?",
           "answer_de": "Windgeschwindigkeit, Fetch (Windwirklänge) und Wirkdauer des Windes.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce depinde înălțimea vântului mării?",
+          "answer_ro": "Viteza vântului, fetch (lungimea vântului) și durata vântului.",
+          "text_en": "What does the height of the wind sea depend on?",
+          "answer_en": "Wind speed, fetch (wind length) and duration of the wind."
         },
         {
           "nr": 85,
           "text_de": "1. Was verstehen Sie unter Dünung?\n2. Was kann einsetzende hohe Dünung andeuten?",
           "answer_de": "1. Seegang, der dem erzeugenden Windfeld vorausläuft, sowie abklingender (alter) Seegang.\n2. Einen eventuell aufziehenden Sturm.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Ce înțelegi prin umflătură?\n2. Ce poate indica instalarea umflarilor mari?",
+          "answer_ro": "1. Swell care rulează înaintea câmpului de vânt generator, precum și swell (vechi).\n2. Se apropie o posibilă furtună.",
+          "text_en": "1. What do you mean by swell?\n2. What can the onset of high swells indicate?",
+          "answer_en": "1. Swell that runs ahead of the generating wind field, as well as fading (old) swell.\n2. A possible storm approaching."
         },
         {
           "nr": 86,
           "text_de": "Was verstehen Sie unter der Wellenhöhe?",
           "answer_de": "Der senkrechte Abstand zwischen Wellenberg und Wellental.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce înțelegi prin înălțimea valului?",
+          "answer_ro": "Distanța verticală dintre creasta valului și jgheabul valului.",
+          "text_en": "What do you mean by wave height?",
+          "answer_en": "The vertical distance between the wave crest and wave trough."
         },
         {
           "nr": 87,
           "text_de": "Was verstehen Sie unter der Wellenlänge?",
           "answer_de": "Der horizontale Abstand zwischen zwei Wellenbergen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce vrei să spui prin lungime de undă?",
+          "answer_ro": "Distanța orizontală dintre două creste ale valurilor.",
+          "text_en": "What do you mean by wavelength?",
+          "answer_en": "The horizontal distance between two wave crests."
         },
         {
           "nr": 88,
           "text_de": "Welchen Seegang müssen Sie erwarten, wenn Sie küstennah bei ablandigem Wind fahren?",
           "answer_de": "Der Seegang wird nicht so hoch sein wie auf der freien See, da der Fetch (Windwirklage) nur sehr kurz ist.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce stare de mare ar trebui să vă așteptați când navigați aproape de coastă într-un vânt offshore?",
+          "answer_ro": "Olitura nu va fi la fel de mare ca pe larg, deoarece fetch-ul (efectul vântului) este doar foarte scurt.",
+          "text_en": "What sea state should you expect when sailing close to the coast in an offshore wind?",
+          "answer_en": "The swell will not be as high as on the open sea because the fetch (wind effect) is only very short."
         },
         {
           "nr": 89,
           "text_de": "1. Welchen Seegang müssen Sie erwarten, wenn Sie küstennah bei auflandigem Wind fahren?\n2. Welche Gefahr besteht bezüglich der Entwicklung des Seegangs außerdem?",
           "answer_de": "1. Der Seegang wird ähnlich ausgeprägt sein wie auf der freien See, da genügend Fetch (Windwirklänge) vorhanden ist.\n2. Dort, wo das Wasser flacher wird, oder im Bereich von Untiefen muss mit Brechern und Grundseen gerechnet werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. La ce stare de mare ar trebui să vă așteptați când navigați aproape de coastă într-un vânt de pe uscat?\n2. Ce alte pericole există în ceea ce privește dezvoltarea condițiilor mării?",
+          "answer_ro": "1. Ola va fi asemănătoare cu cea de pe mare deschisă pentru că este suficient fetch (lungimea vântului).\n2. Spărgătoarele și lacurile de fund trebuie așteptate acolo unde apa devine mai puțin adâncă sau în zona bancurilor.",
+          "text_en": "1. What sea state should you expect when sailing close to the coast in an onshore wind?\n2. What other dangers exist regarding the development of sea conditions?",
+          "answer_en": "1. The swell will be similar to that on the open sea because there is enough fetch (wind length).\n2. Breakers and bottom lakes must be expected where the water becomes shallower or in the area of shoals."
         },
         {
           "nr": 90,
           "text_de": "1. Was verstehen Sie unter einer Grundsee?\n2. Welche Höhen kann sie erreichen?",
           "answer_de": "1. Meereswellen mit besonders hohen Brechern, die durch Untiefen oder Küstennähe bzw. durch ansteigenden Meeresboden entstehen.\n2. Etwa das 2,5fache der kennzeichnenden (charakteristischen) Wellenhöhe.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Ce înțelegeți prin un lac de fund?\n2. La ce înălțimi poate atinge?",
+          "answer_ro": "1. Valuri maritime cu rupturi deosebit de înalte care sunt cauzate de puțin adâncime sau în apropierea coastei sau de ridicarea fundului mării.\n2. De aproximativ 2,5 ori înălțimea caracteristică a valului.",
+          "text_en": "1. What do you understand by a bottom lake?\n2. What heights can it reach?",
+          "answer_en": "1. Sea waves with particularly high breakers that are caused by shallows or near the coast or by rising seabeds.\n2. About 2.5 times the characteristic wave height."
         },
         {
           "nr": 91,
           "text_de": "Wie verändert sich Seegang, wenn Wind und Meeresströmungen (z.B. Gezeitenstrom) entgegengesetzte Richtungen haben?",
           "answer_de": "Die Wellen werden kürzer und steiler.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum se schimbă stările mării când vântul și curenții oceanici (de exemplu, curenții de maree) au direcții opuse?",
+          "answer_ro": "Valurile devin mai scurte și mai abrupte.",
+          "text_en": "How do sea states change when wind and ocean currents (e.g. tidal currents) have opposite directions?",
+          "answer_en": "The waves are getting shorter and steeper."
         },
         {
           "nr": 92,
           "text_de": "Wie verändert sich Seegang, wenn Wind und Meeresströmungen (z.B. Gezeitenstrom) die gleiche Richtung haben?",
           "answer_de": "Die Wellen werden länger und flacher.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum se schimbă starea mării când vântul și curenții oceanici (de exemplu, curenții de maree) au aceeași direcție?",
+          "answer_ro": "Valurile devin mai lungi și mai plate.",
+          "text_en": "How does sea state change when wind and ocean currents (e.g. tidal currents) have the same direction?",
+          "answer_en": "The waves are getting longer and flatter."
         },
         {
           "nr": 93,
           "text_de": "1. Was verstehen Sie unter einer Kreuzsee?\n2. Geben Sie 3 Beispiele an, wo mit Kreuzsee zu rechnen ist.",
           "answer_de": "1. Windsee und Dünung laufen aus unterschiedlichen Richtungen heran.\n2. Kurz vor und bei dem Durchzug einer Kaltfront oder eines Troges sowie in der Nähe des Tiefkerns.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Ce înțelegi prin trecerea mării?\n2. Dați 3 exemple în care se poate aștepta Kreuzsee.",
+          "answer_ro": "1. Vântul mării și valurile vin din direcții diferite.\n2. Cu puțin timp înainte și în timpul trecerii unui front rece sau jgheab și lângă miezul adânc.",
+          "text_en": "1. What do you mean by a crossing sea?\n2. Give 3 examples where Kreuzsee can be expected.",
+          "answer_en": "1. Wind seas and swells come from different directions.\n2. Shortly before and during the passage of a cold front or trough and near the deep core."
         },
         {
           "nr": 94,
           "text_de": "Welcher Seegang ist in Lee kleiner Inseln zu erwarten?",
           "answer_de": "Kreuzlaufende See, die meist kurz und kabbelig ist.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce stare a mării se poate aștepta în aba insulelor mici?",
+          "answer_ro": "Marea de croazieră care este de obicei scurtă și agitată.",
+          "text_en": "What sea state can be expected in the lee of small islands?",
+          "answer_en": "Cruising sea that is usually short and choppy."
         },
         {
           "nr": 95,
           "text_de": "Welche Faktoren können die Länge und Höhe des Seegangs erheblich verändern?",
           "answer_de": "Wassertiefe sowie Meeres- und Gezeitenströmungen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce factori pot schimba semnificativ lungimea și înălțimea stării mării?",
+          "answer_ro": "Adâncimea apei, precum și curenții oceanici și de maree.",
+          "text_en": "What factors can significantly change the length and height of the sea state?",
+          "answer_en": "Water depth as well as ocean and tidal currents."
         },
         {
           "nr": 96,
           "text_de": "Im Internet finden Sie auf einer „Wetterseite“ eine Vorhersagekarte für die Dünung. Können Sie daraus ungefähr den vorherrschenden Wind über See ableiten?",
           "answer_de": "Nein. Dünung kann vorhanden sein, auch wenn kein Windfeld unmittelbar vorhanden ist.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Puteți găsi o hartă de prognoză pentru swell pe un „site meteo” de pe Internet. Puteți estima aproximativ vântul dominant asupra mării din asta?",
+          "answer_ro": "Nu. Umflarea poate fi prezentă chiar dacă nu există un câmp de vânt imediat.",
+          "text_en": "You can find a forecast map for the swell on a “weather site” on the Internet. Can you roughly estimate the prevailing wind over the sea from this?",
+          "answer_en": "No. Swell can be present even if there is no immediate wind field."
         },
         {
           "nr": 97,
           "text_de": "Mit welchem Messinstrument wird an Bord die Windgeschwindigkeit gemessen?",
           "answer_de": "Mit einem Anemometer.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce instrument de măsurare este folosit pentru a măsura viteza vântului la bord?",
+          "answer_ro": "Cu un anemometru.",
+          "text_en": "What measuring instrument is used to measure the wind speed on board?",
+          "answer_en": "With an anemometer."
         },
         {
           "nr": 98,
           "text_de": "Welche Windgeschwindigkeit zeigt das Anemometer an, wenn das Fahrzeug Fahrt durchs Wasser macht?",
           "answer_de": "Die scheinbare Windgeschwindigkeit.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce viteză a vântului arată anemometrul când vehiculul circulă prin apă?",
+          "answer_ro": "Viteza aparentă a vântului.",
+          "text_en": "What wind speed does the anemometer show when the vehicle is traveling through the water?",
+          "answer_en": "The apparent wind speed."
         },
         {
           "nr": 99,
           "text_de": "1. Warum sollten Luftdrucktendenzen an Bord beobachtet und aufgezeichnet werden?\n2. In welchem zeitlichen Abstand sollte man den Luftdruck aufzeichnen?",
           "answer_de": "1. Eventuelle Wetterveränderungen (z.B. Trog, Annäherung eines Tiefdruckgebiets) können registriert werden.\n2. Mindestens alle 4 Stunden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. De ce ar trebui să fie observate și înregistrate tendințele presiunii aerului la bord?\n2. La ce interval ar trebui să înregistrați presiunea aerului?",
+          "answer_ro": "1. Orice schimbare a vremii (de exemplu, jgheab, apropierea unei zone de joasă presiune) poate fi înregistrată.\n2. Cel puțin la fiecare 4 ore.",
+          "text_en": "1. Why should air pressure trends be observed and recorded on board?\n2. At what interval should you record the air pressure?",
+          "answer_en": "1. Any weather changes (e.g. trough, approach of a low pressure area) can be registered.\n2. At least every 4 hours."
         },
         {
           "nr": 100,
           "text_de": "Mit welchem Messinstrument wird an Bord der Luftdruck gemessen?",
           "answer_de": "Mit dem Barometer oder Barographen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce instrument de măsurare este folosit pentru a măsura presiunea aerului la bord?",
+          "answer_ro": "Cu barometrul sau barograful.",
+          "text_en": "Which measuring instrument is used to measure the air pressure on board?",
+          "answer_en": "With the barometer or barograph."
         },
         {
           "nr": 101,
           "text_de": "1. Wie bestimmen Sie an Bord die Windstärke, wenn keine Windmessanlage vorhanden ist?\n2. Wie bestimmen Sie an Bord die Windrichtung, wenn keine Windmessanlage vorhanden ist?",
           "answer_de": "1. Die Windstärke wird geschätzt mit Hilfe der Beaufortskala in Anlehnung an das Seegangsbild.\n2. Die Windrichtung wird anhand der Verlagerung der Wellenkämme geschätzt.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Cum determinați puterea vântului la bord dacă nu există un sistem de măsurare a vântului?\n2. Cum determinați direcția vântului la bord dacă nu există un sistem de măsurare a vântului?",
+          "answer_ro": "1. Puterea vântului este estimată folosind scara Beaufort pe baza stării mării.\n2. Direcția vântului este estimată pe baza deplasării crestelor valurilor.",
+          "text_en": "1. How do you determine the wind strength on board if there is no wind measuring system?\n2. How do you determine the wind direction on board if there is no wind measuring system?",
+          "answer_en": "1. The wind strength is estimated using the Beaufort scale based on the sea state.\n2. The wind direction is estimated based on the displacement of the wave crests."
         }
       ]
     },
