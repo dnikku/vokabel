@@ -1095,181 +1095,181 @@
           "nr": 1,
           "text_de": "Was sind „Sicherheitszonen“ im Sinne der Verordnung zu den KVR?",
           "answer_de": "Sicherheitszonen sind Wasserflächen im Umkreis von 500 m um Plattformen, Bohrinseln, Forschungsanlagen u.a., die nicht befahren werden dürfen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce sunt „zonele de securitate” în sensul regulamentului KVR?",
+          "answer_ro": "Zonele de siguranță sunt zone de apă pe o rază de 500 m în jurul platformelor, platformelor de foraj, a unităților de cercetare etc., care nu au voie să fie accesate.",
+          "text_en": "What are “security zones” within the meaning of the KVR regulation?",
+          "answer_en": "Safety zones are water areas within a radius of 500 m around platforms, drilling rigs, research facilities, etc., which are not allowed to be accessed."
         },
         {
           "nr": 2,
           "text_de": "Die Verordnung zu den KVR verbietet die Führung eines Fahrzeugs, wenn man infolge des Genusses alkoholischer Getränke in der sicheren Führung des Fahrzeugs behindert ist. Welchen örtlichen Geltungsbereich hat die vorgenannte Verordnung?",
           "answer_de": "Die Verordnung gilt auf Seeschifffahrtsstraßen und für Schiffe, die die Bundesflagge führen, seewärts der Begrenzung des Küstenmeeres der Bundesrepublik Deutschland (also weltweit), soweit nicht in den Hoheitsgewässern anderer Staaten abweichende Regelungen gelten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Regulamentul KVR interzice conducerea unui vehicul dacă nu puteți conduce vehiculul în siguranță ca urmare a consumului de băuturi alcoolice. Care este domeniul de aplicare local al regulamentului menționat anterior?",
+          "answer_ro": "Regulamentul se aplică pe rutele de transport maritim și pentru navele care arborează pavilion federal, în direcția mării de limitele mării teritoriale a Republicii Federale Germania (adică la nivel mondial), cu excepția cazului în care se aplică reglementări diferite în apele teritoriale ale altor state.",
+          "text_en": "The KVR regulation prohibits driving a vehicle if you are unable to drive the vehicle safely as a result of drinking alcoholic beverages. What is the local scope of the aforementioned regulation?",
+          "answer_en": "The regulation applies on shipping routes and for ships flying the federal flag, seaward of the boundaries of the territorial sea of the Federal Republic of Germany (i.e. worldwide), unless different regulations apply in the territorial waters of other states."
         },
         {
           "nr": 3,
           "text_de": "Wer darf lt. Verordnung zu den KVR ein Fahrzeug nicht führen oder als Mitglied der Crew eine andere Tätigkeit des Brücken- oder Decksdienstes nicht ausüben (allgemein ohne Zahlen zu beantworten)?",
           "answer_de": "Wer infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung eines Fahrzeugs oder in der sicheren Ausübung einer anderen Tätigkeit des Brücken- oder Decksdienstes behindert ist.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Conform regulamentului KVR, cine nu are voie să conducă un vehicul sau, în calitate de membru al echipajului, să nu desfășoare o altă activitate de service pe pod sau punte (în general fără a răspunde la numere)?",
+          "answer_ro": "Orice persoană care, ca urmare a deficiențelor fizice sau psihice sau a consumului de băuturi alcoolice sau alte substanțe intoxicante, este invalidă în funcționarea în siguranță a unui vehicul sau în efectuarea în siguranță a unei alte activități de service pe pod sau punte.",
+          "text_en": "According to the KVR regulation, who is not allowed to drive a vehicle or, as a member of the crew, not carry out another bridge or deck service activity (generally without answering numbers)?",
+          "answer_en": "Anyone who, as a result of physical or mental deficiencies or the consumption of alcoholic beverages or other intoxicating substances, is disabled in the safe operation of a vehicle or in the safe performance of another bridge or deck service activity."
         },
         {
           "nr": 4,
           "text_de": "Welche Atem- bzw. Blutalkoholkonzentration darf lt. Verordnung zu den KVR nicht erreicht werden, damit kein Verbot für ein Führen eines Fahrzeugs oder als Mitglied der Crew für ein Ausüben des Brückendienstes besteht?",
           "answer_de": "0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge, die zu einer solchen Atem- oder Blutalkoholkonzentration führt.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Conform regulamentului KVR, la ce concentrație de alcool în respirație sau în sânge nu trebuie atinsă pentru a nu exista interdicție de a conduce un vehicul sau ca membru al echipajului pentru îndeplinirea serviciului de pod?",
+          "answer_ro": "0,25 mg/l sau mai mult alcool în respirație sau 0,5 pe mil sau mai mult alcool în sânge sau o cantitate de alcool care duce la o astfel de concentrație de alcool în sânge sau în respirație.",
+          "text_en": "According to the KVR regulation, what breath or blood alcohol concentration must not be reached so that there is no ban on driving a vehicle or as a member of the crew for carrying out bridge duty?",
+          "answer_en": "0.25 mg/l or more alcohol in the breath or 0.5 per mille or more alcohol in the blood or an amount of alcohol that leads to such a breath or blood alcohol concentration."
         },
         {
           "nr": 5,
           "text_de": "Die KVR regeln u.a. das Verhalten der Schiffsführungen bei Kollisionsgefahr. Was ist im Rahmen der Verantwortlichkeit bei der Auslegung und Befolgung der KVR zu berücksichtigen?",
           "answer_de": "Bei der Auslegung und Befolgung der KVR sind stets alle Gefahren der Schifffahrt und des Zusammenstoßes sowie alle besonderen Umstände einschließlich Behinderungen der betroffenen Fahrzeuge gebührend zu berücksichtigen, die zum Abwenden unmittelbarer Gefahr ggf. auch ein Abweichen von dieser Regeln erfordern können (z.B. Abweichen von der Kurshaltepflicht, wenn der Ausweichpflichtige nicht angemessen handelt).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "KVR reglementează, printre altele, comportamentul comenzilor navei în cazul unui risc de coliziune. Ce trebuie luat în considerare în contextul responsabilității la interpretarea și respectarea KVR?",
+          "answer_ro": "La interpretarea și conformitatea cu KVR, toate pericolele de transport maritim și de coliziune, precum și toate circumstanțele speciale, inclusiv dizabilitățile navelor afectate, care pot necesita o abatere de la aceste reguli pentru a evita pericolul imediat (de exemplu, abaterea de la obligația de a menţine cursul dacă persoana obligată să se sustragă nu acţionează corespunzător).",
+          "text_en": "The KVR regulate, among other things, the behavior of ship's commands in the event of a risk of collision. What must be taken into account in the context of responsibility when interpreting and complying with the KVR?",
+          "answer_en": "When interpreting and complying with the KVR, all shipping and collision hazards as well as all special circumstances, including disabilities of the affected vessels, which may require a deviation from these rules in order to avert immediate danger (e.g. deviation from the obligation to maintain the course if the person obliged to evade does not act appropriately)."
         },
         {
           "nr": 6,
           "text_de": "Welche Grundregeln für das Verhalten im Verkehr verlangen die KVR, die ein Schiffsführer zu berücksichtigen hat, auch wenn keine konkrete Regel anwendbar ist?",
           "answer_de": "Die KVR befreien nicht von den Folgen, die durch unzureichende Einhaltung der KVR oder unzureichende Vorsichtsmaßnahmen entstehen, d.h., allgemein seemännische Praxis oder besondere Umstände des Falles können über die Mindestanforderungen der KVR hinausgehende Maßnahmen erfordern.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce reguli de bază de comportament în trafic cere KVR-ul pe care un comandant trebuie să țină seama, chiar dacă nu se aplică nicio regulă specifică?",
+          "answer_ro": "KVR nu scutește de consecințele care decurg din respectarea necorespunzătoare a KVR sau măsurile de precauție insuficiente, adică practica maritimă generală sau circumstanțele speciale ale cazului pot impune măsuri care depășesc cerințele minime ale KVR.",
+          "text_en": "What basic rules for behavior in traffic do the KVR require that a skipper must take into account, even if no specific rule is applicable?",
+          "answer_en": "The KVR does not exempt from the consequences that arise from inadequate compliance with the KVR or insufficient precautionary measures, i.e. general maritime practice or special circumstances of the case may require measures that go beyond the minimum requirements of the KVR."
         },
         {
           "nr": 7,
           "text_de": "Was sind Verkehrstrennungsgebiete? Wie sind sie zu befahren?",
           "answer_de": "1. Verkehrstrennungsgebiete sind Schifffahrtswege, die durch Trennlinien oder Trennzonen in Einbahnwege geteilt sind.\n2. Diese dürfen nur in Fahrtrichtung rechts der Trennlinie/Trennzone befahren werden, aber unter Nutzung der vollen Breite des Einbahnweges.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce sunt zonele de separare a traficului? Cum vor fi navigate?",
+          "answer_ro": "1. Zonele de separare a traficului sunt rute de transport maritim care sunt împărțite în rute cu sens unic prin linii de separare sau zone de despărțire.\n2. Acestea pot fi utilizate numai în direcția de mers la dreapta liniei de separare/zonei de despărțire, dar folosind toată lățimea traseului cu sens unic.",
+          "text_en": "What are traffic separation areas? How are they to be navigated?",
+          "answer_en": "1. Traffic separation areas are shipping routes that are divided into one-way routes by dividing lines or dividing zones.\n2. These may only be used in the direction of travel to the right of the dividing line/dividing zone, but using the full width of the one-way path."
         },
         {
           "nr": 8,
           "text_de": "Was ist ein „manövrierunfähiges Fahrzeug“?",
           "answer_de": "Manövrierunfähig ist ein Fahrzeug, das wegen außergewöhnlicher Umstände (z.B. Ruderbruch) nicht regelgerecht manövrieren und daher einem anderen Fahrzeug nicht ausweichen kann.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce este un „vehicul nemanevrabil”?",
+          "answer_ro": "Incapabil să manevreze este un vehicul care nu poate manevra corespunzător din cauza unor circumstanțe excepționale (de exemplu, cârmă spartă) și, prin urmare, nu poate evita un alt vehicul.",
+          "text_en": "What is an “unmaneuverable vehicle”?",
+          "answer_en": "Unable to maneuver is a vehicle that cannot maneuver properly due to exceptional circumstances (e.g. broken rudder) and therefore cannot avoid another vehicle."
         },
         {
           "nr": 9,
           "text_de": "Was ist ein „manövrierbehindertes Fahrzeug“?",
           "answer_de": "Manövrierbehindert ist ein Fahrzeug, das durch die Art seines Einsatzes behindert ist (z.B. Bagger, Kabelleger), regelgerecht zu manövrieren, und daher einem anderen Fahrzeug nicht ausweichen kann.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce este un „vehicul cu deficiențe de manevră”?",
+          "answer_ro": "Deficiența de manevrare este un vehicul care este împiedicat să manevreze corespunzător din cauza naturii utilizării sale (de exemplu, excavator, strat de cablu) și, prin urmare, nu poate evita un alt vehicul.",
+          "text_en": "What is a “maneuver-impaired vehicle”?",
+          "answer_en": "Maneuvering-impaired is a vehicle that is prevented from maneuvering properly due to the nature of its use (e.g. excavator, cable layer) and therefore cannot avoid another vehicle."
         },
         {
           "nr": 10,
           "text_de": "Nennen Sie mindestens 3 Beispiele für „manövrierbehinderte Fahrzeuge“.",
           "answer_de": "1. Tonnenleger, Kabelleger, Rohrleger im Einsatz,\n2. Bagger, Vermessungsfahrzeuge im Einsatz,\n3. Versorger im Einsatz,\n4. Flugzeugträger im Einsatz,\n5. Minenräumfahrzeuge im Einsatz,\n6. Fahrzeuge während eines Schleppvorganges, bei dem das schleppende Fahrzeug und sein Anhang erheblich behindert sind, vom Kurs abzuweichen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Dați cel puțin 3 exemple de „vehicule cu deficiențe de manevră”.",
+          "answer_ro": "1. Straturi de butoi, straturi de cabluri, straturi de țevi în acțiune,\n2. Excavatoare, vehicule de inspecție în uz,\n3. Furnizorul în acțiune,\n4. Portavion în acțiune,\n5. Vehicule de deminare în uz,\n6. Vehicule care să devieze de la curs în timpul unei operațiuni de remorcare în care vehiculul tractor și remorca acestuia sunt îngreunate semnificativ.",
+          "text_en": "Give at least 3 examples of “maneuver-impaired vehicles”.",
+          "answer_en": "1. Barrel layers, cable layers, pipe layers in action,\n2. Excavators, survey vehicles in use,\n3. Provider in action,\n4. Aircraft carrier in action,\n5. Mine clearance vehicles in use,\n6. Vehicles to deviate from course during a towing operation in which the towing vehicle and its trailer are significantly hindered."
         },
         {
           "nr": 11,
           "text_de": "Was ist unter „sicherer Geschwindigkeit“ zu verstehen?",
           "answer_de": "Das Fahrzeug muss jederzeit innerhalb einer solchen Entfernung zum Stehen gebracht werden können, dass ein Zusammenstoß vermieden wird.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce se înțelege prin „viteză sigură”?",
+          "answer_ro": "Vehiculul trebuie să poată fi oprit în orice moment pe o distanță astfel încât să se evite o coliziune.",
+          "text_en": "What is meant by “safe speed”?",
+          "answer_en": "The vehicle must be able to be stopped at any time within a distance such that a collision is avoided."
         },
         {
           "nr": 12,
           "text_de": "Ab welcher Länge müssen Sportfahrzeuge mit den Lichtern/Signalkörpern ausgerüstet sein, die bei Manövrierunfähigkeit zu setzen sind?",
           "answer_de": "Fahrzeuge ab 12 m Länge.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce lungime vehiculele sport trebuie să fie echipate cu luminile/semnalele care trebuie setate atunci când nu pot manevra?",
+          "answer_ro": "Vehicule de la 12 m lungime.",
+          "text_en": "At what length do sports vehicles have to be equipped with the lights/signals that have to be set when they are unable to maneuver?",
+          "answer_en": "Vehicles from 12 m in length."
         },
         {
           "nr": 13,
           "text_de": "Sie sehen in der Dämmerung in der Nordsee in der Zufahrt zur Jade einen großen Tanker mit der üblichen Lichterführung, auf dem kurze Zeit später die Lichter rot-weiß-rot senkrecht übereinander zusätzlich zu den Fahrtlichtern gesetzt werden. Welche rechtliche Bedeutung hat die geänderte Signalgebung für Sie?",
           "answer_de": "Beim Erreichen des Geltungsbereiches der SeeSchStrO kennzeichnet sich der Tanker als Wegerechtsschiff, das als manövrierbehindertes Fahrzeug gilt. Diesem so gekennzeichneten Fahrzeug muss im Falle einer Kollisionsgefahr ausgewichen werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La amurg în Marea Nordului în apropierea Jade vezi o cisternă mare cu sistemul obișnuit de iluminare, pe care la scurt timp mai târziu luminile roșu-alb-roșu sunt așezate vertical unul deasupra celuilalt pe lângă conducere. lumini. Ce semnificație juridică are pentru dvs. semnalizarea schimbată?",
+          "answer_ro": "Când se ajunge în zona de aplicare SeeSchStrO, tancul se identifică ca navă cu drept de trecere, care este considerat un vehicul cu manevrabilitate limitată. Acest vehicul marcat trebuie evitat în cazul unui risc de coliziune.",
+          "text_en": "At dusk in the North Sea in the approach to the Jade you see a large tanker with the usual lighting system, on which a short time later the red-white-red lights are set vertically one above the other in addition to the driving lights. What legal significance does the changed signaling have for you?",
+          "answer_en": "When the SeeSchStrO area of application is reached, the tanker identifies itself as a right-of-way vessel, which is considered a vehicle with restricted maneuverability. This marked vehicle must be avoided in the event of a risk of collision."
         },
         {
           "nr": 14,
           "text_de": "Welche Lichter müssen manövrierbehinderte Fahrzeuge (außer Minenräumfahrzeuge) führen\n1. ohne Fahrt durchs Wasser (FdW),\n2. mit FdW,\n3. vor Anker?",
           "answer_de": "1. Ohne FdW: rot-weiß-rot senkrecht übereinander.\n2. Mit FdW: rot-weiß-rot senkrecht übereinander und Lichter eines Maschinenfahrzeugs (Topplicht[er]), Seitenlichter, Hecklicht).\n3. Vor Anker: rot-weiß-rot senkrecht übereinander und Ankerlicht(er).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce lumini trebuie să afișeze vehiculele cu manevrabilitate redusă (cu excepția vehiculelor de desmină)?\n1. fără a conduce prin apă (FdW),\n2. cu FdW,\n3. la ancora?",
+          "answer_ro": "1. Fără FdW: roșu-alb-roșu vertical unul deasupra celuilalt.\n2. Cu FdW: roșu-alb-roșu vertical unul deasupra celuilalt și lumini ale unui vehicul cu motor (lumini catarg), lumini laterale, lumini de pupa).\n3. La ancora: roșu-alb-roșu vertical unul deasupra celuilalt și lumini de ancorare.",
+          "text_en": "What lights must vehicles with reduced maneuverability (except mine clearing vehicles) display?\n1. without driving through the water (FdW),\n2. with FdW,\n3. at anchor?",
+          "answer_en": "1. Without FdW: red-white-red vertically one above the other.\n2. With FdW: red-white-red vertically one above the other and lights of a powered vehicle (masthead light[s]), side lights, stern light).\n3. At anchor: red-white-red vertically one above the other and anchor light(s)."
         },
         {
           "nr": 15,
           "text_de": "Wie sind manövrierbehinderte und manövrierunfähige Fahrzeuge am Tage bezeichnet?",
           "answer_de": "1. Manövrierbehinderte Fahrzeuge: Ball-Rhombus-Ball senkrecht übereinander.\n2. Manövrierunfähige Fahrzeuge: zwei schwarze Bälle senkrecht übereinander.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care sunt desemnările vehiculelor care sunt invalide sau incapabile să manevreze în timpul zilei?",
+          "answer_ro": "1. Vehicule cu manevrabilitate restrânsă: Bilă-rhomb-bilă vertical unul deasupra celuilalt.\n2. Vehicule care nu pot manevra: două bile negre vertical una peste alta.",
+          "text_en": "What are the designations of vehicles that are disabled or unable to maneuver during the day?",
+          "answer_en": "1. Vehicles with restricted maneuverability: Ball-rhombus-ball vertically one above the other.\n2. Vehicles unable to maneuver: two black balls vertically on top of each other."
         },
         {
           "nr": 16,
           "text_de": "Wie müssen Sie Ihr Fahrzeug unter Segel bei Tage und bei Nacht kennzeichnen, wenn Sie gleichzeitig mit Maschinenkraft fahren?",
           "answer_de": "1. Bei Nacht Lichterführung eines Maschinenfahrzeugs entsprechender Größe,\n2. bei Tage einen Kegel - Spitze unten - im Vorschiff gut sichtbar.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum ar trebui să vă marcați nava sub vele în timpul zilei și pe timp de noapte când funcționează cu puterea motorului în același timp?",
+          "answer_ro": "1. Noaptea, luminile unui vehicul-mașină de dimensiuni adecvate,\n2. În timpul zilei un con - vârf în partea de jos - vizibil clar în puntea din față.",
+          "text_en": "How should you mark your vessel under sail during the day and at night when operating under engine power at the same time?",
+          "answer_en": "1. At night, lights of a machine vehicle of appropriate size,\n2. During the day a cone - tip at the bottom - clearly visible in the foredeck."
         },
         {
           "nr": 17,
           "text_de": "Was müssen Sie hinsichtlich der Zeiten der Lichterführung beachten?",
           "answer_de": "Die Lichter müssen geführt werden\n1. zwischen Sonnenuntergang und Sonnenaufgang,\n2. bei verminderter Sicht auch zwischen Sonnenaufgang und Sonnenuntergang.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce trebuie să fii atent când vine vorba de turneele de iluminat?",
+          "answer_ro": "Luminile trebuie să fie cu led\n1. între apus și răsărit,\n2. dacă vizibilitatea este redusă, tot între răsărit și apus.",
+          "text_en": "What do you have to pay attention to when it comes to lighting tours?",
+          "answer_en": "The lights must be led\n1. between sunset and sunrise,\n2. if visibility is reduced, also between sunrise and sunset."
         },
         {
           "nr": 18,
           "text_de": "Sie sehen am Tage ein Fahrzeug, augenscheinlich kürzer als 50 m, mit dem Sichtzeichen „schwarzer Rhombus“, dahinter in gleichbleibendem Abstand ein weiteres Fahrzeug mit dem gleichen Signalkörper.\n1. Worum handelt es sich?\n2. Wie sind die Fahrzeuge bei Nacht gekennzeichnet?",
           "answer_de": "1. Es handelt sich um einen Schleppverband länger als 200 m (Heck des Schleppers - Heck des Anhangs).\n2. Der Schlepper führt nachts drei weiße Topplichter senkrecht übereinander, Seitenlichter, Hecklicht und das gelbe Schlepplicht über dem Hecklicht. Der Anhang führt Seitenlichter und Hecklicht.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "În timpul zilei vezi un vehicul, aparent mai scurt de 50 m, cu semnul vizual „romb negru”, în spatele lui la distanță constantă un alt vehicul cu același corp de semnalizare.\n1. Ce este?\n2. Cum sunt marcate vehiculele noaptea?",
+          "answer_ro": "1. Acesta este un grup de remorcare mai lung de 200 m (spatele remorcherului - spatele remorcii).\n2. Noaptea, remorcherul are trei lumini albe de catarg vertical una deasupra celeilalte, lumini laterale, lumini de pupa și lumini galbene de remorcare deasupra luminii de pupa. Apendicele conține lumini laterale și lumini spate.",
+          "text_en": "During the day you see a vehicle, apparently shorter than 50 m, with the visual sign “black rhombus”, behind it at a constant distance another vehicle with the same signal body.\n1. What is it?\n2. How are the vehicles marked at night?",
+          "answer_en": "1. This is a towing group longer than 200 m (rear of the tug - rear of the trailer).\n2. At night, the tug has three white masthead lights vertically above each other, side lights, stern light and the yellow tow light above the stern light. The appendix carries side lights and rear light."
         },
         {
           "nr": 19,
           "text_de": "Man hört bei Nebel folgendes Schallsignal mit der Pfeife - . . (lang-kurz-kurz), unmittelbar gefolgt von - . . . (lang-kurz-kurz-kurz) etwa jede Minute. Worum handelt es sich dabei?",
           "answer_de": "Es ist das Schallsignal eines Schleppverbandes in Fahrt (schleppendes Fahrzeug lang-kurz-kurz; Anhang lang-kurz-kurz-kurz).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "În ceață puteți auzi următorul semnal sonor de la fluier - . . (lung-scurt-scurt), urmat imediat de - . . . (lung-scurt-scurt-scurt) cam în fiecare minut. Despre ce e vorba?",
+          "answer_ro": "Este semnalul sonor al unui grup de remorcare în mișcare (vehicul de remorcare lung-scurt-scurt; atașament lung-scurt-scurt-scurt).",
+          "text_en": "In fog you can hear the following sound signal from the whistle - . . (long-short-short), immediately followed by - . . . (long-short-short-short) about every minute. What is it about?",
+          "answer_en": "It is the sound signal of a towing group in motion (towing vehicle long-short-short; attachment long-short-short-short)."
         },
         {
           "nr": 20,
           "text_de": "Bei Nebel im Küstenbereich fahrend, hört man etwa jede Minute folgendes Signal: drei Glockenschläge, dann ca. 5 Sekunden lang rasches Läuten einer Glocke, dann drei Glockenschläge. Wer gibt dieses Signal?",
           "answer_de": "Dieses Signal gibt ein Fahrzeug auf Grund unter 100 m Länge.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Conducând în zona de coastă în ceață, veți auzi următorul semnal aproximativ în fiecare minut: trei clopoțeii, apoi sunetul rapid al unui clopoțel timp de aproximativ 5 secunde, apoi trei clopoței. Cine da acest semnal?",
+          "answer_ro": "Acest semnal este dat de un vehicul aflat la sol cu ​​lungimea mai mică de 100 m.",
+          "text_en": "Driving in the coastal area in fog, you will hear the following signal about every minute: three chimes, then rapid ringing of a bell for about 5 seconds, then three chimes. Who gives this signal?",
+          "answer_en": "This signal is given by a vehicle on the ground less than 100 m long."
         },
         {
           "nr": 21,
@@ -1278,10 +1278,10 @@
           "text_images": [
             "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-21-gif.gif?__blob=normal&v=2"
           ],
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Vedeți un vehicul cu următoarele lumini:\n1. Ce este?\n2. Ce semnal sonor ar trebui să dea acest vehicul pe vreme nevăzută?",
+          "answer_ro": "1. Pescar cu plasă în derivă (navă care nu traulează) în mers sau la ancora cu unelte de pescuit desfășurate care ajung la peste 150 m orizontal în apă. (Lumina albă inferioară poate fi și lumina din spate).\n2. Semnal sonor - . . (lung-scurt-scurt) cel puțin la fiecare 2 minute.",
+          "text_en": "You see a vehicle with the following lights:\n1. What is it?\n2. What sound signal would this vehicle have to give in unseen weather?",
+          "answer_en": "1. Drift net fisherman (vessel that does not trawl) underway or at anchor with fishing gear deployed that reaches more than 150 m horizontally into the water. (The lower white light can also be the tail light).\n2. Sound signal - . . (long-short-short) at least every 2 minutes."
         },
         {
           "nr": 22,
@@ -1290,10 +1290,10 @@
           "text_images": [
             "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-22-gif.gif?__blob=normal&v=2"
           ],
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Vedeți 2 lumini roșii vertical unul deasupra celuilalt pe mare noaptea. Despre ce e vorba?",
+          "answer_ro": "Un vehicul care nu poate manevra se află în mișcare fără a călători prin apă.",
+          "text_en": "You see 2 red lights vertically above each other at sea at night. What is it about?",
+          "answer_en": "A vehicle that is unable to maneuver is in motion without traveling through water."
         },
         {
           "nr": 23,
@@ -1303,235 +1303,235 @@
             "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-22-gif.gif?__blob=normal&v=2",
             "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-23-gif.gif?__blob=normal&v=2"
           ],
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Dispunerea luminii unui vehicul se schimbă brusc de la... la...\nCe concluzi din asta?",
+          "answer_ro": "Un vehicul care nu poate manevra și se află în mișcare fără să călătorească prin apă (FdW) a fost înregistrat de FdW deoarece acum puteți vedea și lumina babord.",
+          "text_en": "A vehicle's light arrangement suddenly changes from... to...\nWhat do you conclude from this?",
+          "answer_en": "A non-maneuverable vehicle in motion without traveling through the water (FdW) has been recorded by FdW, as you can now also see the port side light."
         },
         {
           "nr": 24,
           "text_de": "Was bestimmen die KVR über das Ausguckhalten?",
           "answer_de": "Es muss jederzeit durch Sehen und Hören sowie durch jedes andere verfügbare Mittel gehöriger Ausguck gehalten werden, der einen vollständigen Überblick über die Lage und die Möglichkeit der Gefahr eines Zusammenstoßes gibt.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce determină KVR-ul cu privire la ținerea de pază?",
+          "answer_ro": "Trebuie să se mențină în permanență o supraveghere adecvată prin vedere și auz și prin orice alte mijloace disponibile, oferind o imagine completă a situației și a posibilității riscului de coliziune.",
+          "text_en": "What do the KVR determine about keeping a lookout?",
+          "answer_en": "A proper lookout must be maintained at all times by sight and hearing and by any other means available, giving a complete view of the situation and the possibility of the risk of collision."
         },
         {
           "nr": 25,
           "text_de": "Was bestimmen die KVR für das Verhalten von Fahrzeugen von weniger als 20 m Länge oder von Segelfahrzeugen im Fahrwasser einer Seeschifffahrtsstraße?",
           "answer_de": "Fahrzeuge von weniger als 20 m Länge oder Segelfahrzeuge dürfen nicht die Durchfahrt eines Fahrzeuges behindern, das nur innerhalb eines engen Fahrwassers oder einer Fahrrinne sicher fahren kann.\nSie müssen, wenn es die Umstände erfordern, frühzeitig Maßnahmen ergreifen, um genügend Raum für die sichere Durchfahrt des anderen Fahrzeugs zu lassen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce determină KVR pentru comportamentul navelor cu lungimea mai mică de 20 m sau al navelor cu pânze pe șenalul unei benzi de navigație?",
+          "answer_ro": "Vehiculele cu lungimea mai mică de 20 m sau navele cu pânze nu pot obstrucționa trecerea unei nave care poate naviga în siguranță numai pe un canal sau un canal îngust.\nDacă circumstanțele o impun, trebuie să luați măsuri din timp pentru a lăsa suficient spațiu pentru trecerea în siguranță a celuilalt vehicul.",
+          "text_en": "What do the KVR determine for the behavior of vessels less than 20 m long or of sailing vessels in the fairway of a shipping lane?",
+          "answer_en": "Vehicles less than 20 m long or sailing vessels may not obstruct the passage of a vessel that can only sail safely within a narrow fairway or channel.\nIf circumstances require, you must take early action to leave enough space for the safe passage of the other vehicle."
         },
         {
           "nr": 26,
           "text_de": "Was ist eine „Küstenverkehrszone“?",
           "answer_de": "Das Gebiet zwischen der Küste und der landwärtigen Grenze eines Verkehrstrennungsgebietes.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce este o „zonă de trafic de coastă”?",
+          "answer_ro": "Zona dintre coastă și limita terestră a unei zone de separare a traficului.",
+          "text_en": "What is a “coastal traffic zone”?",
+          "answer_en": "The area between the coast and the landward boundary of a traffic separation area."
         },
         {
           "nr": 27,
           "text_de": "Welche Fahrzeuge dürfen die Küstenverkehrszone benutzen, ohne einen Hafen innerhalb der Küstenverkehrszone anzusteuern?",
           "answer_de": "Fahrzeuge von weniger als 20 m Länge und Segelfahrzeuge.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce vehicule au voie să utilizeze zona de trafic de coastă fără a se îndrepta către un port din zona de trafic de coastă?",
+          "answer_ro": "Vehicule cu lungimea mai mică de 20 m și nave cu vele.",
+          "text_en": "Which vehicles are allowed to use the coastal traffic zone without heading to a port within the coastal traffic zone?",
+          "answer_en": "Vehicles less than 20 m long and sailing vessels."
         },
         {
           "nr": 28,
           "text_de": "Wie müssen Maschinenfahrzeuge ohne Radar bei verminderter Sicht ihre Fahrweise einrichten?",
           "answer_de": "Maschinenfahrzeuge müssen mit sicherer Geschwindigkeit fahren, die den gegebenen Umständen und Bedingungen der verminderten Sicht angepasst ist.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum trebuie să își ajusteze autovehiculele fără radar stilul de condus atunci când vizibilitatea este redusă?",
+          "answer_ro": "Vehiculele cu mașini trebuie să circule cu o viteză sigură, adaptată circumstanțelor date și condițiilor de vizibilitate redusă.",
+          "text_en": "How do motor vehicles without radar have to adjust their driving style when visibility is reduced?",
+          "answer_en": "Machinery vehicles must travel at a safe speed adapted to the given circumstances and conditions of reduced visibility."
         },
         {
           "nr": 29,
           "text_de": "Wie müssen sich Segelfahrzeuge ohne Radar bei verminderter Sicht verhalten? Was gehört dabei zu den Regeln guter Seemannschaft?",
           "answer_de": "1. Segelfahrzeuge müssen mit sicherer Geschwindigkeit fahren, die den gegebenen Umständen und Bedingungen der verminderten Sicht angepasst ist.\n2. Bei Segelfahrzeugen, die eine Maschine an Bord haben, gehört das Bereithalten der Maschine zu den Regeln guter Seemannschaft.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum trebuie să se comporte navele cu pânze fără radar în condiții de vizibilitate redusă? Care sunt regulile bunei navigații?",
+          "answer_ro": "1. Bărcile cu pânze trebuie să călătorească cu o viteză sigură adecvată circumstanțelor și condițiilor de vizibilitate redusă.\n2. Pentru navele cu vele care au un motor la bord, menținerea motorului pregătit face parte din regulile bunei navigații.",
+          "text_en": "How must sailing vessels without radar behave in reduced visibility? What are the rules of good seamanship?",
+          "answer_en": "1. Sailboats must travel at a safe speed appropriate to the circumstances and conditions of reduced visibility.\n2. For sailing vessels that have an engine on board, keeping the engine ready is part of the rules of good seamanship."
         },
         {
           "nr": 30,
           "text_de": "Wie müssen sich Fahrzeuge ohne Radar bei verminderter Sicht verhalten, wenn sie voraus das Schallsignal eines anderen Fahrzeuges hören?",
           "answer_de": "Jedes Fahrzeug, das anscheinend vorlicher als querab das Schallsignal eines anderen Fahrzeuges hört, muss seine Fahrt auf das für die Erhaltung der Steuerfähigkeit geringstmögliche Maß verringern. Erforderlichenfalls muss es jegliche Fahrt wegnehmen und in jedem Fall mit äußerster Vorsicht manövrieren, bis die Gefahr eines Zusammenstoßes vorüber ist.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum ar trebui să se comporte vehiculele fără radar în condiții de vizibilitate redusă dacă aud semnalul sonor al altui vehicul din față?",
+          "answer_ro": "Orice vehicul care aparent aude semnalul sonor al altui vehicul în fața lui, mai degrabă decât în ​​fața lui, trebuie să își reducă viteza la minimum posibil pentru a menține capacitatea de a vira. Dacă este necesar, acesta trebuie să se oprească din mișcare și în orice caz să manevreze cu extremă precauție până la trecerea riscului de coliziune.",
+          "text_en": "How should vehicles without radar behave in reduced visibility if they hear the sound signal of another vehicle ahead?",
+          "answer_en": "Any vehicle that apparently hears the sound signal of another vehicle ahead of it must reduce its speed to the minimum possible to maintain steering ability. If necessary, it must stop moving and in any case maneuver with extreme caution until the risk of collision has passed."
         },
         {
           "nr": 31,
           "text_de": "Sie segeln in der Nordsee bei guter Sicht. Ihnen kommt in stehender Peilung ein Maschinenfahrzeug entgegen, das keine Anstalten macht, seine Ausweichpflicht nachzukommen. Geben Sie in einer sinnvollen Reihenfolge an, was von Ihnen zu unternehmen ist. Welche dieser Maßnahmen sind zwingend vorgeschrieben?",
           "answer_de": "1. Über Funk versuchen, das andere Fahrzeug auf seine Ausweichpflicht aufmerksam zu machen.\n2. Schallsignal: mindestens fünf kurze, rasch aufeinander folgende Pfeifentöne geben.\n3. Ggf. Ergänzung zu 2.: Lichtsignal von mindestens fünf kurzen, rasch aufeinander folgenden Blitzen.\n4. Manöver des sog. „vorletzten Augenblicks“ fahren.\n5. Manöver des sog. „letzten Augenblicks“ fahren.\nZwingend vorgeschrieben sind die Maßnahmen nach 2. und 5.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Navigați în Marea Nordului cu vizibilitate bună. Un vehicul condus de mașini se apropie de tine într-un rulment staționar și nu încearcă să ia măsuri evazive. Spuneți ce trebuie să faceți într-o ordine sensibilă. Care dintre aceste măsuri sunt obligatorii?",
+          "answer_ro": "1. Încercați să utilizați radioul pentru a alerta celălalt vehicul cu privire la obligația sa de a ceda.\n2. Semnal sonor: dați cel puțin cinci sunete scurte și rapide de fluier.\n3. Dacă este necesar, completați la 2.: Semnal luminos de cel puțin cinci clipiri scurte și rapide.\n4. Efectuați manevre ale așa-numitului „penultimul moment”.\n5. Efectuați manevre ale așa-numitului „ultimul moment”.\nMăsurile conform 2 și 5 sunt obligatorii.",
+          "text_en": "You are sailing in the North Sea with good visibility. A machine-driven vehicle is coming towards you in a stationary bearing and is making no attempt to take evasive action. State what you need to do in a sensible order. Which of these measures are mandatory?",
+          "answer_en": "1. Try to use the radio to alert the other vehicle to its obligation to give way.\n2. Sound signal: give at least five short, rapid whistle tones.\n3. If necessary, supplement to 2.: Light signal of at least five short, rapid flashes.\n4. Perform maneuvers of the so-called “penultimate moment”.\n5. Perform maneuvers of the so-called “last moment”.\nThe measures according to 2 and 5 are mandatory."
         },
         {
           "nr": 32,
           "text_de": "Auf einem Segelfahrzeug unter Motor sieht man nachts fast recht voraus ein näher kommendes Fahrzeug mit folgender Lichterführung: oben ein weißes Licht, seitlich darunter ein grünes Licht, zeitweise rechts von dem grünen Licht auf gleicher Höhe auch ein rotes Licht. Um was für ein Fahrzeug handelt es sich, was ist von Ihnen und was ist auf dem anderen Fahrzeug zu unternehmen?",
           "answer_de": "Es handelt sich um ein Maschinenfahrzeug von weniger als 50 m Länge, das im Seegang oder durch schlechtes Steuern giert. Man muss annehmen, dass sich zwei Maschinenfahrzeuge auf entgegengesetzten oder fast entgegengesetzten Kursen nähern und die Möglichkeit der Gefahr eines Zusammenstoßes besteht. Beide Fahrzeuge müssen den Kurs nach Steuerbord ändern und dieses durch einen kurzen Ton anzeigen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Noaptea, pe o navă cu pânze sub putere, puteți vedea o navă care se apropie aproape chiar în față cu următoarele lumini: o lumină albă în partea de sus, o lumină verde în partea de jos și uneori o lumină roșie la dreapta lumina verde la aceeași înălțime. Ce fel de vehicul este, care este al tău și ce trebuie făcut pe celălalt vehicul?",
+          "answer_ro": "Este o navă condusă de mașini cu o lungime mai mică de 50 m care rotește în condiții de mare sau din cauza unei direcție proastă. Trebuie să presupunem că două nave cu motor se apropie pe direcții opuse sau aproape opuse și există posibilitatea unei coliziuni. Ambele nave trebuie să schimbe cursul spre tribord și să indice acest lucru cu un ton scurt.",
+          "text_en": "At night, on a sailing vessel under power, you can see an approaching vessel almost right ahead with the following lights: a white light at the top, a green light to the side below, and sometimes a red light to the right of the green light at the same height. What kind of vehicle is it, what is yours and what needs to be done on the other vehicle?",
+          "answer_en": "It is a machine-driven vessel less than 50 m long that yaws in sea conditions or due to poor steering. It must be assumed that two power vessels are approaching on opposite or almost opposite courses and there is a possibility of a collision. Both vessels must change course to starboard and indicate this with a short tone."
         },
         {
           "nr": 33,
           "text_de": "Wie muss man sich verhalten, wenn man gezwungen ist, ein Verkehrstrennungsgebiet zu queren?",
           "answer_de": "Kielrichtung (rwK) muss möglichst rechtwinklig zur allgemeinen Verkehrsrichtung zeigen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum ar trebui să te comporți dacă ești forțat să traversezi o zonă de separare a traficului?",
+          "answer_ro": "Direcția chiliei (rwK) trebuie să fie cât mai perpendiculară pe direcția generală de circulație.",
+          "text_en": "How should you behave if you are forced to cross a traffic separation area?",
+          "answer_en": "Keel direction (rwK) must point as perpendicular as possible to the general direction of traffic."
         },
         {
           "nr": 34,
           "text_de": "Wie muss man sich verhalten, wenn man einen betonnten Schifffahrtsweg (z.B. in der Ostsee) queren will?",
           "answer_de": "Die Ausweichregeln der KVR beachten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum trebuie să te comporți dacă vrei să traversezi o rută de transport maritim cu tone de apă (de exemplu, în Marea Baltică)?",
+          "answer_ro": "Respectați regulile de evaziune ale KVR.",
+          "text_en": "How do you have to behave if you want to cross a shipping route with tons of water (e.g. in the Baltic Sea)?",
+          "answer_en": "Observe the KVR's evasion rules."
         },
         {
           "nr": 35,
           "text_de": "Wie ist die Gefahr eines Zusammenstoßes sicher erkennbar?",
           "answer_de": "Wenn die Kompasspeilung zu einem anderen Fahrzeug steht und sie sich einander nähern.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum poate fi identificat în mod fiabil riscul unei coliziuni?",
+          "answer_ro": "Când direcția busolei este pe alt vehicul și se apropie unul de celălalt.",
+          "text_en": "How can the risk of a collision be reliably identified?",
+          "answer_en": "When the compass bearing is on another vehicle and they are approaching each other."
         },
         {
           "nr": 36,
           "text_de": "Wie müssen Sie Ausweichmanöver durchführen?",
           "answer_de": "1. Möglichst frühzeitig,\n2. durchgreifend, sodass das andere Fahrzeug rasch Ihre Absicht erkennen kann, und um sich gut klar zu halten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum ar trebui să efectuați manevrele evazive?",
+          "answer_ro": "1. cât mai devreme posibil,\n2. Amănunțit, astfel încât celălalt vehicul să vă poată recunoaște rapid intenția și să vă păstrați clar.",
+          "text_en": "How should you perform evasive maneuvers?",
+          "answer_en": "1. as early as possible,\n2. Thoroughly so that the other vehicle can quickly recognize your intention and to keep yourself clearly clear."
         },
         {
           "nr": 37,
           "text_de": "Wie müssen Sie sich verhalten, nachdem Sie ein vorgeschriebenes Ausweichmanöver eingeleitet haben?",
           "answer_de": "Der Erfolg des Manövers ist laufend zu überprüfen, bis das andere Fahrzeug klar passiert ist.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum ar trebui să te comporți după ce ai inițiat o manevră evazivă prescrisă?",
+          "answer_ro": "Succesul manevrei trebuie verificat continuu până când celălalt vehicul a trecut clar.",
+          "text_en": "How should you behave after you have initiated a prescribed evasive maneuver?",
+          "answer_en": "The success of the maneuver must be continually checked until the other vehicle has clearly passed."
         },
         {
           "nr": 38,
           "text_de": "Sie segeln mit Wind von Steuerbord und sehen nachts in Luv ein einzelnes rotes Licht, das in stehender Peilung näher kommt.\n1. Was ist das für ein Licht?\n2. Wer muss ausweichen? (Begründung!)",
           "answer_de": "1. Das Licht ist das Backbordlicht eines Segelfahrzeugs in Fahrt.\n2. Das Segelfahrzeug in Luv muss ausweichen, entweder weil es den Wind von Backbord hat oder weil es - wenn mit Wind von Stb. segelnd - luvwärts steht.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Navigați cu vânt tribord și noaptea vedeți o singură lumină roșie spre vânt, apropiindu-se într-o direcție staționară.\n1. Ce fel de lumină este aceasta?\n2. Cine trebuie să iasă din drum? (Motiv!)",
+          "answer_ro": "1. Lumina este lumina babord a unei nave cu pânze în mișcare.\n2. Nava cu pânze spre vânt trebuie să cedeze, fie pentru că are vântul din babord, fie pentru că - când navighează cu vântul din tribord - este spre vânt.",
+          "text_en": "You are sailing with a starboard wind and at night you see a single red light to windward, approaching in a stationary bearing.\n1. What kind of light is this?\n2. Who has to get out of the way? (Reason!)",
+          "answer_en": "1. The light is the port light of a sailing vessel in motion.\n2. The sailing vessel to windward must give way, either because it has the wind from port or because - when sailing with the wind from starboard - it is to windward."
         },
         {
           "nr": 39,
           "text_de": "Sie segeln mit Wind von Backbord und sehen nachts in Luv ein einzelnes grünes Licht, das in stehender Peilung näher kommt.\n1. Was ist das für ein Licht?\n2. Wer muss ausweichen? (Begründung!)",
           "answer_de": "1. Das Licht ist das Steuerbordlicht eines Segelfahrzeugs in Fahrt.\n2. Ihr Fahrzeug muss als leewärtiges Fahrzeug ausweichen, weil Sie (mit Wind von Backbord segelnd) nicht erkennen können, von welcher Seite das andere Fahrzeug den Wind hat.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Navigați cu amura babord și noaptea vedeți o singură lumină verde spre vânt, apropiindu-se într-o direcție staționară.\n1. Ce fel de lumină este aceasta?\n2. Cine trebuie să iasă din drum? (Motiv!)",
+          "answer_ro": "1. Lumina este lumina tribord a unei nave cu pânze în mișcare.\n2. Nava dumneavoastră trebuie să cedeze ca navă sub vânt, deoarece dumneavoastră (navigați cu vântul pe babord) nu puteți spune de ce parte are vântul cealaltă navă.",
+          "text_en": "You are sailing with a port tack and at night you see a single green light to windward, approaching in a stationary bearing.\n1. What kind of light is this?\n2. Who has to get out of the way? (Reason!)",
+          "answer_en": "1. The light is the starboard light of a sailing vessel in motion.\n2. Your vessel must give way as a leeward vessel because you (sailing with the wind on the port side) cannot tell which side the other vessel has the wind from."
         },
         {
           "nr": 40,
           "text_de": "Sie segeln nachts mit raumem Wind und machen gute Fahrt. Sie sehen an Steuerbord voraus ein einzelnes weißes Licht in (nahezu) stehender Peilung. Näher kommend verschwindet das weiße Licht gelegentlich und es erscheint stattdessen in etwa gleicher Höhe und links davon ein rotes Licht. Jeweils kurzfristig sind beide Lichter gleichzeitig zu sehen.\n1. Worum handelt es sich bei diesen Lichtern?\n2. Wer muss ausweichen? (Begründung!)",
           "answer_de": "1. Man sieht Hecklicht und/oder Bb.-Seitenlicht eines Segelfahrzeugs in Fahrt, das im Seegang giert.\n2. Ihr Fahrzeug nähert sich aus dem Hecksektor des anderen Fahrzeugs. Es steht eben auf dessen Sektorengrenze und muss als überholendes Fahrzeug ausweichen. Im Zweifel (hier Sektorengrenze!) muss man sich als Überholer betrachten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Navigați noaptea cu un vânt bun și progresați bine. Vedeți o singură lumină albă în față pe partea tribord într-o direcție (aproape) staționară. Pe măsură ce te apropii, lumina albă dispare ocazional și o lumină roșie apare în schimb la aproximativ aceeași înălțime și în stânga acesteia. Ambele lumini pot fi văzute în același timp pentru o perioadă scurtă de timp.\n1. Ce sunt aceste lumini?\n2. Cine trebuie să iasă din drum? (Motiv!)",
+          "answer_ro": "1. Puteți vedea lumina pupa și/sau lumina babord a unei nave cu pânze în mișcare, care se rotește în mare.\n2. Vehiculul dumneavoastră se apropie din spatele celuilalt vehicul. Se află la limita sectorului și trebuie să cedeze ca vehicul de depășire. Dacă aveți îndoieli (limita sectorului aici!), trebuie să vă considerați a fi depășitor.",
+          "text_en": "You sail at night with a fair wind and make good progress. You see a single white light ahead on the starboard side in a (nearly) stationary bearing. As you get closer, the white light occasionally disappears and a red light appears instead at about the same height and to the left of it. Both lights can be seen at the same time for a short period of time.\n1. What are these lights?\n2. Who has to get out of the way? (Reason!)",
+          "answer_en": "1. You can see the stern light and/or port side light of a sailing vessel in motion, yawing in the sea.\n2. Your vehicle is approaching from the rear of the other vehicle. It is standing on the sector boundary and has to give way as an overtaking vehicle. If in doubt (sector boundary here!), you have to consider yourself to be overtaking."
         },
         {
           "nr": 41,
           "text_de": "Sie segeln nachts mit raumem Wind und sehen nahezu achteraus ein Fahrzeug mit der Lichterführung rot-weiß-rot senkrecht übereinander, das näher kommt. Zusätzlich sehen Sie neben zwei weißen Topplichtern links ein grünes und rechts ein rotes Licht auf gleicher Höhe.\n1. Was bedeuten diese Lichter?\n2. Wer muss ausweichen? (Begründung!)",
           "answer_de": "1. Man sieht ein manövrierbehindertes Fahrzeug mit FdW (Topplichter, Seitenlichter).\n2. Dieses Fahrzeug nähert sich im Hecklichtsektor und muss deshalb als Überholer ausweichen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Navigați noaptea cu vânturi puternice și vedeți o navă aproape în spate cu lumini roșu-alb-roșii vertical unul deasupra celuilalt, apropiindu-se. Pe lângă două lumini albe de catarg, veți vedea și o lumină verde în stânga și o lumină roșie în dreapta la aceeași înălțime.\n1. Ce înseamnă aceste lumini?\n2. Cine trebuie să iasă din drum? (Motiv!)",
+          "answer_ro": "1. Puteți vedea un vehicul cu deficiențe de manevră cu FdW (lumini superioare, lumini laterale).\n2. Acest vehicul se apropie în sectorul farurilor spate și, prin urmare, trebuie să cedeze ca vehicul de depășire.",
+          "text_en": "You are sailing at night with strong winds and you see a vessel almost astern with red-white-red lights vertically one above the other, coming closer. In addition to two white masthead lights, you will also see a green light on the left and a red light on the right at the same height.\n1. What do these lights mean?\n2. Who has to get out of the way? (Reason!)",
+          "answer_en": "1. You can see a maneuver-impaired vehicle with FdW (top lights, side lights).\n2. This vehicle is approaching in the taillight sector and therefore has to give way as an overtaking vehicle."
         },
         {
           "nr": 42,
           "text_de": "Welcher Zeitpunkt ist im freien Seeraum entscheidend für die Verantwortlichkeit (hier = Ausweichpflicht!) der Fahrzeuge untereinander?",
           "answer_de": "Der Augenblick des ersten Insichtkommens. Eine spätere Änderung der Lage der Fahrzeuge zueinander verändert nicht die Verantwortlichkeit.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce moment din timp în spațiul maritim este crucial pentru responsabilitatea (aici = datoria de a ceda!) a navelor una față de alta?",
+          "answer_ro": "Momentul primei înțelegeri. O schimbare ulterioară a poziției vehiculelor unul față de celălalt nu schimbă responsabilitatea.",
+          "text_en": "What point in time in open sea space is crucial for the responsibility (here = duty to give way!) of the vessels to one another?",
+          "answer_en": "The moment of first insight. A later change in the position of the vehicles relative to one another does not change responsibility."
         },
         {
           "nr": 43,
           "text_de": "Ein anderes Fahrzeug muss Ihnen ausweichen. Welche Verpflichtung nach KVR haben Sie? Was unternehmen Sie, wenn das andere Fahrzeug nicht ausweicht?",
           "answer_de": "1. Mein Fahrzeug ist „Kurshalter“, d.h., es muss Kurs und Geschwindigkeit beibehalten.\n2. Mein Fahrzeug darf zu Abwendung eines Zusammenstoßes manövrieren, sobald erkennbar wird, dass das andere Fahrzeug nicht angemessen (= regelgerecht) manövriert („Manöver des vorletzten Augenblicks!“).\n3. Mein Fahrzeug muss zweckdienlich manövrieren, wenn ein Manöver des Ausweichpflichtigen allein einen Zusammenstoß nicht mehr vermeiden kann („Manöver des letzten Augenblicks!“).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Un alt vehicul trebuie să-ți cedeze locul. Ce obligații aveți în cadrul KVR? Ce faci dacă celălalt vehicul nu cedează?",
+          "answer_ro": "1. Vehiculul meu este un „păsător de cursă”, ceea ce înseamnă că trebuie să-și mențină cursul și viteza.\n2. Vehiculul meu poate manevra pentru a preveni o coliziune de îndată ce devine evident că celălalt vehicul nu manevrează corespunzător (= conform regulilor („penultimul moment manevră!”).\n3. Vehiculul meu trebuie să manevreze corespunzător dacă o manevră a persoanei obligate să cedeze singură nu mai poate evita o coliziune („manevră de ultim moment!”).",
+          "text_en": "Another vehicle has to give way to you. What obligations do you have under KVR? What do you do if the other vehicle doesn't give way?",
+          "answer_en": "1. My vehicle is a “course keeper”, which means it must maintain its course and speed.\n2. My vehicle may maneuver to avert a collision as soon as it becomes apparent that the other vehicle is not maneuvering appropriately (= according to the rules (“penultimate moment maneuver!”).\n3. My vehicle must maneuver appropriately if a maneuver by the person obliged to give way alone can no longer avoid a collision (“last-minute maneuver!”)."
         },
         {
           "nr": 44,
           "text_de": "Welchen Fahrzeugen muss ein Segelfahrzeug ausweichen?",
           "answer_de": "1. Einem manövrierunfähigen Fahrzeug,\n2. einem manövrierbehinderten Fahrzeug,\n3. einem fischenden Fahrzeug,\n4. ggf. einem anderen Segelfahrzeug, abhängig von der Segelstellung in Bezug auf den Wind.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce vehicule trebuie să evite o navă cu pânze?",
+          "answer_ro": "1. Un vehicul care nu poate manevra\n2. un vehicul cu manevrabilitate limitată,\n3. o navă de pescuit,\n4. eventual o altă navă cu vele, în funcție de poziția velei în raport cu vântul.",
+          "text_en": "Which vehicles does a sailing vessel have to avoid?",
+          "answer_en": "1. A vehicle that is unable to maneuver\n2. a vehicle with restricted maneuverability,\n3. a fishing vessel,\n4. possibly another sailing vessel, depending on the sail position in relation to the wind."
         },
         {
           "nr": 45,
           "text_de": "1. Wie muss sich ein Sportfahrzeug gegenüber einem tiefgangbehinderten Fahrzeug verhalten?\n2. Schlagen Sie entsprechende Maßnahmen/Manöver vor.",
           "answer_de": "1. Das Sportfahrzeug muss vermeiden, die sichere Durchfahrt eines tiefgangbehinderten Fahrzeugs zu behindern.\n2. Dieses kann durch eine frühzeitige Kursänderung, Geschwindigkeitsänderung oder beides geschehen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Cum trebuie să se comporte un vehicul sport în comparație cu un vehicul cu tiraj limitat?\n2. Propune măsuri/manevre adecvate.",
+          "answer_ro": "1. Vehiculul sport trebuie să evite obstrucția trecerii în siguranță a unui vehicul cu tiraj restricționat.\n2. Acest lucru se poate face prin schimbarea cursului devreme, schimbarea vitezei sau ambele.",
+          "text_en": "1. How must a sports vehicle behave compared to a vehicle with restricted draft?\n2. Suggest appropriate measures/maneuvers.",
+          "answer_en": "1. The sports vehicle must avoid obstructing the safe passage of a vehicle with restricted draft.\n2. This can be done by changing course early, changing speed, or both."
         },
         {
           "nr": 46,
           "text_de": "Wo unterliegt Ihr Segelfahrzeug bzw. Ihre Motoryacht unter 20 m Länge einem Behinderungsverbot?",
           "answer_de": "1. In engen Fahrwassern,\n2. auf dem Einbahnweg eines Verkehrstrennungsgebietes (VTG) gegenüber Maschinenfahrzeugen im VTG.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Unde este interzisă interzicerea navei cu pânze sau iahtul cu motor cu o lungime mai mică de 20 m?",
+          "answer_ro": "1. Pe drumurile înguste,\n2. pe traseul cu sens unic al unei zone de separare a traficului (VTG) comparativ cu autovehiculele din VTG.",
+          "text_en": "Where is your sailing vessel or motor yacht less than 20 m long subject to a ban on obstruction?",
+          "answer_en": "1. In narrow fairways,\n2. on the one-way path of a traffic separation area (VTG) compared to motor vehicles in the VTG."
         },
         {
           "nr": 47,
           "text_de": "Welchen Abstand muss man von Minenräumfahrzeugen halten?",
           "answer_de": "Mindestens 1000 m.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce distanță trebuie să păstrați față de vehiculele de deminare?",
+          "answer_ro": "Cel puțin 1000 m.",
+          "text_en": "What distance do you have to keep from demining vehicles?",
+          "answer_en": "At least 1000 m."
         },
         {
           "nr": 48,
           "text_de": "Auf einer Motoryacht A sieht man nachts etwa recht voraus Topplicht und beide Seitenlichter eines Fahrzeugs B. Die Lichter werden rasch heller.\n1. Was ist B?\n2. Wie ist die Situation zu klären?",
           "answer_de": "1. B ist ein Maschinenfahrzeug von weniger als 50 m Länge in Fahrt.\n2. A und B müssen ihren Kurs so nach Stb. ändern, dass sie einander an der Bb.-Seite passieren. Dabei müssen A und B das Signal „ein kurzer Ton“ geben.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Noaptea pe un iaht cu motor A puteți vedea lumina catargului și ambele lumini laterale ale unui vehicul B. Luminile devin rapid mai luminoase.\n1. Ce este B?\n2. Cum trebuie clarificată situația?",
+          "answer_ro": "1. B este un autovehicul cu o lungime mai mică de 50 m în mișcare.\n2. A și B trebuie să schimbe cursa spre tribord, astfel încât să treacă unul pe celălalt pe babord. A și B trebuie să dea semnalul „un ton scurt”.",
+          "text_en": "At night on a motor yacht A you can see the masthead light and both side lights of a vehicle B. The lights quickly become brighter.\n1. What is B?\n2. How should the situation be clarified?",
+          "answer_en": "1. B is a motor vehicle less than 50 m long in motion.\n2. A and B must change course to starboard so that they pass each other on the port side. A and B must give the signal “a short tone”."
         },
         {
           "nr": 49,
@@ -1540,19 +1540,19 @@
           "text_images": [
             "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-49-gif.gif?__blob=normal&v=2"
           ],
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Pe un iaht cu motor A pe timp de noapte puteți vedea aproximativ 2 linii pe Bb. urmând luminile vehiculului B, care se apropie rapid.\nIndicația busolei către vehiculul B se schimbă doar ușor.\n1. Ce este vehiculul B?\n2. Cine trebuie să iasă din drum?\n3. Ce trebuie să facă vehiculul A?",
+          "answer_ro": "1. B este un autovehicul cu o lungime mai mică de 50 m în mișcare, a cărui latură tribord poate fi văzută.\n2. B trebuie să cedeze pentru că are iahtul cu motor A la tribord.\n3. Yacht-ul cu motor A trebuie să mențină cursul și viteza.",
+          "text_en": "On a motor yacht A at night you can see about 2 lines on Bb. following lights of vehicle B, which are quickly approaching.\nThe compass bearing to vehicle B only changes slightly.\n1. What is vehicle B?\n2. Who has to get out of the way?\n3. What does vehicle A have to do?",
+          "answer_en": "1. B is a motor vehicle less than 50 m long in motion, the starboard side of which can be seen.\n2. B has to give way because it has motor yacht A on its starboard side.\n3. Motor yacht A must maintain course and speed."
         },
         {
           "nr": 50,
           "text_de": "Welchen Fahrzeugen muss eine Motoryacht ausweichen?",
           "answer_de": "1. Manövrierunfähigen Fahrzeugen,\n2. manövrierbehinderten Fahrzeugen,\n3. fischenden Fahrzeugen,\n4. Segelfahrzeugen,\n5. ggf. einem anderen Maschinenfahrzeug.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce vehicule trebuie să evite un iaht cu motor?",
+          "answer_ro": "1. Vehicule incapabile de manevra,\n2. vehicule cu manevrabilitate restrânsă,\n3. nave de pescuit,\n4. nave cu vele,\n5. Dacă este necesar, un alt vehicul-mașină.",
+          "text_en": "Which vehicles does a motor yacht have to avoid?",
+          "answer_en": "1. Vehicles unable to maneuver,\n2. vehicles with restricted maneuverability,\n3. fishing vessels,\n4. sailing vessels,\n5. If necessary, another machine vehicle."
         },
         {
           "nr": 51,
@@ -1561,235 +1561,235 @@
           "text_images": [
             "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-51-gif.gif?__blob=normal&v=2"
           ],
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Pe un iaht cu motor A, noaptea, puteți vedea o singură lumină albă, aproximativ în travers, pe tribord, în direcția busolă (aproape) staționară. Apropiindu-vă, puteți vedea o lumină roșie sub lumina albă și ușor în dreapta acesteia (vehiculul B).\n1. Ce este?\n2. Ce trebuie să facă ambele vehicule? (Motiv!)",
+          "answer_ro": "1. Lumina catargului și, ulterior, lumina babord a unui autovehicul B cu o lungime mai mică de 50 m în mișcare.\n2. A trebuie să se eschiveze pentru că îl are pe B la tribord. A trebuie să dea semnalul „un ton scurt”.\n3. B trebuie să mențină cursul și viteza.",
+          "text_en": "On a motor yacht A at night you can see a single white light approximately abeam on the starboard in (almost) stationary compass bearing. Coming closer, you can see a red light below the white light and slightly to the right of it (vehicle B).\n1. What is it?\n2. What do both vehicles have to do? (Reason!)",
+          "answer_en": "1. Masthead light and later port side light of a motor vehicle B of less than 50 m length in motion.\n2. A has to dodge because he has B on his starboard side. A must give the signal “a short tone”.\n3. B must maintain course and speed."
         },
         {
           "nr": 52,
           "text_de": "Eine Motoryacht, Länge 8 m, treibt nachts manövrierunfähig in der Nordsee und sieht ein großes Fahrzeug direkt auf sich zukommen. Welche Maßnahmen hat die Motoryacht zu ergreifen?",
           "answer_de": "Ein Fahrzeug von weniger als 12 m Länge, das die zwei roten Rundumlichter senkrecht übereinander nicht führt, muss folgende Maßnahmen ergreifen:\n1. Durch jedes andere verfügbare Mittel anzeigen, dass es manövrierunfähig ist, z.B. über UKW-Sprechfunk oder durch ein Schallsignal oder das Lichtsignal lang-kurz-kurz.\n2. Bei weiterer Annäherung das andere Fahrzeug mit einer starken Handlampe anleuchten und so auf sich aufmerksam machen.\n3. Führen eines weißen Rundumlichtes, das mit keinem anderen Licht verwechselt werden kann.\n4. Abfeuern eines Signals „weißer Stern“ oder „Blitz-Knall“.\n5. Sofort bei Eintritt der Manövrierunfähigkeit Verkehrszentrale informieren (wenn vorhanden).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Un iaht cu motor, de 8 m lungime, plutește noaptea în Marea Nordului, incapabil să manevreze, și vede o navă mare venind direct spre el. Ce măsuri trebuie să ia iahtul cu motor?",
+          "answer_ro": "Un vehicul cu lungimea mai mică de 12 m care nu afișează cele două lumini roșii universale vertical una deasupra celeilalte trebuie să ia următoarele măsuri:\n1. Indicați că nu poate manevra prin alte mijloace disponibile, de exemplu prin radio VHF sau printr-un semnal sonor sau semnal luminos lung-scurt-scurt.\n2. Pe măsură ce continuați să vă apropiați, iluminați celălalt vehicul cu o lampă de mână puternică pentru a atrage atenția asupra dvs.\n3. Conducerea unei lumini albe care nu poate fi confundată cu nicio altă lumină.\n4. Declanșarea unui semnal de „stea albă” sau „flash bang”.\n5. Informați imediat centrul de trafic (dacă este disponibil) dacă nu puteți manevra.",
+          "text_en": "A motor yacht, 8 m long, is drifting in the North Sea at night, unable to maneuver, and sees a large vessel coming directly towards it. What measures does the motor yacht have to take?",
+          "answer_en": "A vehicle less than 12 m long that does not display the two red all-round lights vertically one above the other must take the following measures:\n1. Indicate that it is unable to maneuver by any other means available, e.g. via VHF radio or by a sound signal or the light signal long-short-short.\n2. As you continue to approach, illuminate the other vehicle with a strong hand lamp to draw attention to yourself.\n3. Leading an all-round white light that cannot be confused with any other light.\n4. Firing a “white star” or “flash bang” signal.\n5. Immediately inform the traffic center (if available) if you become unable to maneuver."
         },
         {
           "nr": 53,
           "text_de": "Wie sind Fahrwasser in der Seeschifffahrtsstraßen-Ordnung im Sinne der KVR eingestuft?",
           "answer_de": "Fahrwasser der Seeschifffahrtsstraßen gelten als enge Fahrwasser im Sinne der KVR.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum sunt clasificate fairway-urile în Regulamentul Autostrăzilor Maritime în sensul KVR?",
+          "answer_ro": "Canalele rutelor de transport maritim sunt considerate căile înguste în sensul KVR.",
+          "text_en": "How are fairways classified in the Maritime Highways Regulations within the meaning of the KVR?",
+          "answer_en": "Fairways of maritime shipping routes are considered narrow fairways within the meaning of the KVR."
         },
         {
           "nr": 54,
           "text_de": "Erläutern Sie den Begriff „durchgehende Schifffahrt“ auf einem Fahrwasser einer Seeschifffahrtsstraße.",
           "answer_de": "Die durchgehende Schifffahrt umfasst alle Fahrzeuge, die deutlich dem Fahrwasserverlauf einer Seeschifffahrtsstraße folgen. Dies erlaubt nach allgemeiner Verkehrsauffassung ein Abweichen von höchstens ±10° von der Richtung des Fahrwassers. Dabei ist es gleichgültig, zu welchem Zweck das Fahrzeug betrieben wird.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Explicați termenul „prin navigație” pe un canal al unei rute de transport maritim.",
+          "answer_ro": "Transportul continuu include toate navele care urmează în mod clar cursul unei benzi de transport maritim. Conform opiniei generale a traficului, acest lucru permite o abatere maximă de ±10° de la direcția de drum. Nu contează în ce scop este utilizat vehiculul.",
+          "text_en": "Explain the term “through navigation” on a fairway of a shipping route.",
+          "answer_en": "Continuous shipping includes all vessels that clearly follow the course of a shipping lane. According to general traffic opinion, this allows a maximum deviation of ±10° from the direction of the fairway. It doesn't matter what purpose the vehicle is operated for."
         },
         {
           "nr": 55,
           "text_de": "Was fordern die Grundregeln für das Verhalten im Verkehr?",
           "answer_de": "Jeder Verkehrsteilnehmer\n1. muss die Sicherheit und Leichtigkeit des Verkehrs gewährleisten,\n2. darf andere (nicht nur Verkehrsteilnehmer!) nicht schädigen, gefährden oder mehr als unvermeidbar behindern oder belästigen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce cer regulile de bază de comportament în trafic?",
+          "answer_ro": "Fiecare utilizator al drumului\n1. trebuie să asigure siguranța și ușurința traficului,\n2. nu trebuie să dăuneze, să pună în pericol sau mai mult decât să împiedice sau să enerveze în mod inevitabil pe alții (nu doar utilizatorii drumului!).",
+          "text_en": "What do the basic rules for behavior in traffic require?",
+          "answer_en": "Every road user\n1. must ensure the safety and ease of traffic,\n2. must not harm, endanger or more than unavoidably hinder or annoy others (not just road users!)."
         },
         {
           "nr": 56,
           "text_de": "Welche verkehrsrechtliche Verantwortung hat der Schiffsführer?",
           "answer_de": "1. Befolgung der Vorschriften im Verkehr, u.a. KVR, SeeSchStrO.\n2. Ausrüstung/Einrichtung seines Fahrzeugs zum Führen und Zeigen von Lichtern und Signalkörpern und Geben von Schallsignalen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce responsabilitate are comandantul conform legii rutiere?",
+          "answer_ro": "1. Respectarea regulilor de circulație, inclusiv KVR, SeeSchStrO.\n2. Echiparea/instalarea autovehiculului său pentru ghidarea și afișarea luminilor și semnalizării și darea de semnale sonore.",
+          "text_en": "What responsibility does the skipper have under traffic law?",
+          "answer_en": "1. Compliance with traffic regulations, including KVR, SeeSchStrO.\n2. Equipment/installation of his vehicle for guiding and displaying lights and signals and giving sound signals."
         },
         {
           "nr": 57,
           "text_de": "Was sind Seeschifffahrtsstraßen im Sinne der SeeSchStrO?",
           "answer_de": "Seeschifffahrtsstraßen im Sinne dieser Verordnung sind:\n1. Wasserflächen zwischen der Küstenlinie bei mittlerem Hochwasser oder der seewärtigen Begrenzung der Binnenwasserstraßen und einer Linie von drei Seemeilen seewärts der Basislinie,\n2. die durchgehend durch laterale Zeichen (Tonnen) begrenzten Wasserflächen der seewärtigen Teile der Fahrwasser im Küstenmeer,\n3. Wasserflächen zwischen den Ufern bestimmter Binnenwasserstraßen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce sunt liniile de transport maritim în sensul SeeSchStrO?",
+          "answer_ro": "Rutele de transport maritim în sensul prezentului regulament sunt:\n1. Zonele de apă dintre linia de coastă la nivelul mediu al apei mari sau limita către mare a căilor navigabile interioare și o linie de trei mile marine spre mare de linia de bază;\n2. zonele de apă ale porțiunilor maritime ale cărului din marea teritorială, care sunt delimitate continuu prin semne laterale (geamanduri),\n3. Zone de apă dintre malurile anumitor căi navigabile interioare.",
+          "text_en": "What are shipping lanes within the meaning of the SeeSchStrO?",
+          "answer_en": "Maritime shipping routes within the meaning of this regulation are:\n1. Water areas between the coastline at mean high water or the seaward limit of inland waterways and a line three nautical miles seaward of the baseline,\n2. the water areas of the seaward parts of the fairway in the territorial sea, which are continuously delimited by lateral signs (buoys),\n3. Water areas between the banks of certain inland waterways."
         },
         {
           "nr": 58,
           "text_de": "Was sind Fahrwasser im Sinne der SeeSchStrO?",
           "answer_de": "Fahrwasser sind die Teile der Wasserflächen, die durch Tonnen (laterale Zeichen) begrenzt oder gekennzeichnet sind oder die, soweit das nicht der Fall ist, auf den Binnenwasserstraßen für die durchgehende Schifffahrt bestimmt sind.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce sunt fairway-urile în sensul SeeSchStrO?",
+          "answer_ro": "Canalele sunt acele părți ale zonelor de apă care sunt delimitate sau marcate prin geamanduri (semnale laterale) sau, dacă nu este cazul, care sunt destinate navigației pe căile navigabile interioare.",
+          "text_en": "What are fairways within the meaning of the SeeSchStrO?",
+          "answer_en": "Fairways are those parts of the water areas that are delimited or marked by buoys (lateral signs) or, if this is not the case, that are intended for through navigation on the inland waterways."
         },
         {
           "nr": 59,
           "text_de": "Welche verkehrsrechtlichen Bestimmungen gelten auf deutschen Seeschifffahrtsstraßen?",
           "answer_de": "Auf deutschen Seeschifffahrtsstraßen gelten:\n1. die KVR,\n2. die Seeschifffahrtsstraßen-Ordnung, ggf. die Bekanntmachungen der Wasser- und Schifffahrtsdirektionen (WSD) Nord und Nordwest,\n3. ggf. die Hafenordnungen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce reglementări de circulație se aplică pe rutele maritime germane?",
+          "answer_ro": "Următoarele se aplică rutelor de transport maritim german:\n1. KVR,\n2. reglementările de transport maritim, dacă este cazul anunţurile direcţiilor de apă şi transport maritim (WSD) Nord şi Nord-Vest,\n3. dacă este cazul, reglementările portuare.",
+          "text_en": "Which traffic regulations apply on German shipping routes?",
+          "answer_en": "The following apply on German shipping routes:\n1. the KVR,\n2. the maritime shipping regulations, if applicable the announcements of the water and shipping directorates (WSD) North and Northwest,\n3. if applicable, the port regulations."
         },
         {
           "nr": 60,
           "text_de": "Wo und unter welcher Bedingung gelten im Geltungsbereich der SeeSchStrO die KVR?",
           "answer_de": "Die KVR gelten im gesamten Geltungsbereich der SeeSchStrO innerhalb und außerhalb der Fahrwasser, soweit die SeeSchStrO nicht ausdrücklich etwas anderes bestimmt (z.B. Vorfahrt, Grundsatz des Vorranges der spezielleren Rechtsvorschrift vor der allgemeineren).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Unde și în ce condiții se aplică KVR în domeniul de aplicare al SeeSchStrO?",
+          "answer_ro": "KVR se aplică pe întreaga zonă de aplicare a SeeSchStrO în interiorul și în afara căii de rulare, cu excepția cazului în care SeeSchStrO prevede în mod expres altfel (de exemplu, drept de trecere, principiul priorității reglementării legale mai specifice față de cea mai generală) .",
+          "text_en": "Where and under what conditions do the KVR apply within the scope of the SeeSchStrO?",
+          "answer_en": "The KVR apply throughout the entire area of application of the SeeSchStrO inside and outside the fairway, unless the SeeSchStrO expressly states otherwise (e.g. right of way, principle of the priority of the more specific legal regulation over the more general one)."
         },
         {
           "nr": 61,
           "text_de": "Wie haben Segelfahrzeuge in einem Fahrwasser der SeeSchStrO untereinander auszuweichen, wenn sie nicht deutlich der Richtung eines Fahrwassers folgen?",
           "answer_de": "Sie haben untereinander nach den Regeln der KVR auszuweichen, wenn sie dadurch vorfahrtsberechtigte Fahrzeuge nicht gefährden oder behindern.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum pot navele cu pânze să se evite între ele într-un fairway SeeSchStrO dacă nu urmează clar direcția unui canal?",
+          "answer_ro": "Trebuie să vă lăsați unul altuia în conformitate cu regulile KVR dacă acest lucru nu pune în pericol sau nu împiedică vehiculele cu drept de trecere.",
+          "text_en": "How are sailing vessels to avoid each other in a SeeSchStrO fairway if they do not clearly follow the direction of a fairway?",
+          "answer_en": "You must give way to one another in accordance with the KVR rules if this does not endanger or hinder vehicles with right of way."
         },
         {
           "nr": 62,
           "text_de": "Auf der Elbe hören Sie nachts vor sich von einem Fahrzeug, das zusätzlich zu seinen Fahrtlichtern ein rotes Rundumlicht führt, fortwährend das Schallsignal kurz-lang. Um welches Schallsignal handelt es sich, wann ist es zu geben und wie verhalten Sie sich?",
           "answer_de": "Es handelt sich um das Bleib-weg-Signal, das von einem Fahrzeug gegeben wird, bei dem bestimmte gefährliche Güter oder radioaktive Stoffe frei werden oder drohen frei zu werden oder es besteht Explosionsgefahr.\nMan hat sich mit seinem Fahrzeug möglichst weit von dem anderen Fahrzeug zu entfernen (sicherer Abstand) und darf keine elektrischen Schalter bedienen. Kein offenes Feuer.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Pe Elba, noaptea, auziți un semnal sonor continuu, scurt-lung, de la un vehicul din fața dvs., care are o lumină roșie generală în plus față de luminile de conducere. Ce semnal sonor este, când trebuie dat și cum te comporți?",
+          "answer_ro": "Este semnalul de staţionare dat de un vehicul în care anumite mărfuri periculoase sau substanţe radioactive sunt eliberate sau ameninţă să fie eliberate sau există risc de explozie.\nTrebuie să vă mutați vehiculul cât mai departe de celălalt vehicul (distanță sigură) și nu trebuie să acționați niciun întrerupător electric. Fără foc deschis.",
+          "text_en": "On the Elbe at night you hear a continuous short-long sound signal from a vehicle in front of you that has a red all-round light in addition to its driving lights. What sound signal is it, when should it be given and how do you behave?",
+          "answer_en": "It is the stay away signal given by a vehicle in which certain dangerous goods or radioactive substances are released or are threatening to be released or there is a risk of explosion.\nYou must move your vehicle as far away from the other vehicle as possible (safe distance) and must not operate any electrical switches. No open fire."
         },
         {
           "nr": 63,
           "text_de": "Wann ist von einem Fahrzeug auf einer Seeschifffahrtsstraße das „allgemeine Gefahr- und Warnsignal“ zu geben und wie lautet es?",
           "answer_de": "Gefährdet ein Fahrzeug ein anderes Fahrzeug oder wird es durch dieses selbst gefährdet, hat es, soweit möglich, rechtzeitig das Schallsignal zu geben: ein langer Ton, vier kurze Töne; ein langer Ton, vier kurze Töne.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Când trebuie dat „semnalul general de pericol și avertizare” de către un vehicul pe o rută de transport maritim și ce este acesta?",
+          "answer_ro": "Dacă un vehicul pune în pericol un alt vehicul sau este el însuși pus în pericol de acesta din urmă, acesta trebuie, pe cât posibil, să dea semnalul sonor în timp util: un ton lung, patru tonuri scurte; un bip lung, patru bipuri scurte.",
+          "text_en": "When is the “general danger and warning signal” to be given by a vehicle on a maritime shipping route and what is it?",
+          "answer_en": "If a vehicle endangers another vehicle or is itself endangered by the latter, it must, as far as possible, give the sound signal in good time: one long tone, four short tones; one long beep, four short beeps."
         },
         {
           "nr": 64,
           "text_de": "Nennen Sie die speziellen Verhaltensregeln für Sportfahrzeuge im Nord-Ostsee-Kanal (NOK).",
           "answer_de": "1. Sportfahrzeuge dürfen in der Regel die Zufahrten und den NOK lediglich zur Durchfahrt und ohne Lotsen nur während der Tagfahrzeugen und nicht bei verminderter Sicht benutzen.\n2. Sportfahrzeuge müssen ihre Kanalfahrt so einrichten, dass sie vor Ablauf der Tagfahrzeit eine für Sportfahrzeuge bestimmte Liegestelle erreichen können.\n3. Bei plötzlich auftretender verminderter Sicht dürfen Sportfahrzeuge in den Weichengebieten hinter den Dalben oder an geeigneten Liegestellen festmachen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Numiți regulile speciale de conduită pentru vehiculele sportive în Canalul Kiel (NOK).",
+          "answer_ro": "1. De regulă, vehiculele de agrement au voie doar să folosească căile de acces și NOK pentru trecere și fără pilot numai în timpul vehiculelor de zi și nu atunci când vizibilitatea este redusă.\n2. Vehiculele de agrement trebuie să își organizeze călătoria pe canal astfel încât să poată ajunge la o dană desemnată pentru vehicule de agrement înainte de sfârșitul timpului de călătorie al zilei.\n3. Dacă vizibilitatea scade brusc, vehiculele de agrement pot acosta în zonele de acces din spatele delfinilor sau în punctele de acostare adecvate.",
+          "text_en": "Name the special rules of conduct for sports vehicles in the Kiel Canal (NOK).",
+          "answer_en": "1. As a rule, recreational vehicles are only allowed to use the access roads and the NOK for passage and without a pilot only during daytime vehicles and not when visibility is reduced.\n2. Recreational vehicles must arrange their canal travel in such a way that they can reach a berth designated for recreational vehicles before the end of the day's travel time.\n3. If visibility suddenly decreases, recreational vehicles may moor in the turnout areas behind the dolphins or at suitable mooring points."
         },
         {
           "nr": 65,
           "text_de": "Welche speziellen Fahrregeln haben Sportfahrzeuge im Nord-Ostsee-Kanal (NOK) einzuhalten?",
           "answer_de": "1. Das Segeln ist auf dem NOK verboten.\n2. Sportfahrzeuge mit Maschinenantrieb dürfen zusätzlich die Segel setzen.\n3. Ein motorbetriebenes Sportfahrzeug darf nur ein Sportfahrzeug schleppen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce reguli speciale de conducere trebuie să respecte vehiculele sportive pe Canalul Kiel (NOK)?",
+          "answer_ro": "1. Navigarea este interzisă pe NOK.\n2. Vehiculele sportive cu propulsie mecanică au voie de asemenea să navigheze.\n3. Un vehicul sport motorizat poate tracta doar un vehicul sport.",
+          "text_en": "What special driving rules must sports vehicles adhere to in the Kiel Canal (NOK)?",
+          "answer_en": "1. Sailing is prohibited on the NOK.\n2. Sports vehicles with mechanical propulsion are also allowed to set sail.\n3. A motorized sports vehicle may only tow one sports vehicle."
         },
         {
           "nr": 66,
           "text_de": "Während der Durchfahrt durch den Nord-Ostsee-Kanal (NOK) wird man auf einem Sportboot von Nebel überrascht. Was ist zu unternehmen?",
           "answer_de": "Schnellstmöglich in einem Weichengebiet hinter den Dalben oder an geeigneten Liegestellen festmachen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "În timp ce navighezi prin Canalul Kiel (NOK), ești surprins de ceață pe o barcă de agrement. Ce ar trebui făcut?",
+          "answer_ro": "Acostați cât mai repede posibil într-o zonă de prelevare din spatele delfinilor sau în punctele de acostare adecvate.",
+          "text_en": "While sailing through the Kiel Canal (NOK), you are surprised by fog on a pleasure boat. What should be done?",
+          "answer_en": "Moor as quickly as possible in a turnout area behind the dolphins or at suitable mooring points."
         },
         {
           "nr": 67,
           "text_de": "Sie sehen vor dem Einlaufen in den NOK in Brunsbüttel folgende Lichtsignale:\n1. ein unterbrochenes rotes Licht,\n2. ein unterbrochenes weißes Licht über einem unterbrochenen roten Licht,\n3. ein unterbrochenes weißes Licht.\nGeben Sie die Bedeutung dieser Signale an.",
           "answer_de": "1. Einfahren verboten\n2. Freigabe wird vorbereitet.\n3. Sportfahrzeuge können einfahren.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Vedeți următoarele semnale luminoase înainte de a intra în NOK în Brunsbüttel:\n1. o lumină roșie întreruptă,\n2. o lumină albă intermitentă peste o lumină roșie intermitentă,\n3. o lumină albă intermitentă.\nPrecizați semnificația acestor semnale.",
+          "answer_ro": "1. Intrarea interzisă\n2. Lansarea este în curs de pregătire.\n3. Pot intra vehicule sport.",
+          "text_en": "You see the following light signals before entering the NOK in Brunsbüttel:\n1. an interrupted red light,\n2. an intermittent white light over an intermittent red light,\n3. an intermittent white light.\nState the meaning of these signals.",
+          "answer_en": "1. Entry prohibited\n2. Release is being prepared.\n3. Sports vehicles can enter."
         },
         {
           "nr": 68,
           "text_de": "Erläutern Sie den Begriff „Vorfahrt beachten“.",
           "answer_de": "„Vorfahrt beachten“ begründet eine Wartepflicht. Wer die Vorfahrt zu beachten hat, muss rechtzeitig durch sein Fahrverhalten erkennen lassen, dass er warten wird. Er darf nur weiterfahren, wenn er übersehen kann, dass die Schifffahrt im Fahrwasser nicht beeinträchtigt wird. Ggf. hat der Wartepflichtige seinen Kurs und/oder seine Geschwindigkeit zu ändern (gilt rechtlich nicht als Ausweichen!).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Explicați termenul „ceda”.",
+          "answer_ro": "„Cedează” creează obligația de a aștepta. Oricine trebuie să cedeze trebuie să demonstreze prin comportamentul de conducere în timp util că va aștepta. El poate continua navigarea doar dacă se poate asigura că transportul pe țeavă nu este afectat. Dacă este necesar, persoana care așteaptă trebuie să-și schimbe cursul și/sau viteza (legal nu este considerată evaziune!).",
+          "text_en": "Explain the term “give way”.",
+          "answer_en": "“Give way” creates an obligation to wait. Anyone who has to give way must show through their driving behavior in good time that they will be waiting. He may only continue sailing if he can ensure that shipping in the fairway is not impaired. If necessary, the person waiting must change his course and/or speed (legally this is not considered evasion!)."
         },
         {
           "nr": 69,
           "text_de": "Erläutern Sie den Begriff „Vorfahrt haben“.",
           "answer_de": "„Vorfahrt haben“ gilt nur für ein im Fahrwasser fahrendes oder dem Fahrwasserverlauf folgendes Fahrzeug. Das bedeutet, dass andere Fahrzeuge, die in das Fahrwasser einlaufen wollen, dort drehen oder an- und ablegen wollen, mit diesem Vorhaben warten müssen, bis das vorfahrtsberechtigte Fahrzeug vorüber ist. „Vorfahrt haben“ bedeutet aber nicht: Vorfahrt erzwingen! Ggf. muss ein vorfahrtberechtigtes Fahrzeug Maßnahmen zur Verhinderung einer drohenden Kollision ergreifen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Explicați termenul „au drept de trecere”.",
+          "answer_ro": "„Aveți dreptul de trecere” se aplică numai unui vehicul care circulă pe râu sau urmărește cursul. Acest lucru înseamnă că alte vehicule care doresc să intre pe fairway, să se întoarcă acolo sau să andoceze și să plece trebuie să aștepte până când vehiculul cu drept de trecere a trecut înainte de a face acest lucru. Dar „a avea dreptul de trecere” nu înseamnă: forțați dreptul de trecere! Dacă este necesar, un vehicul cu drept de trecere trebuie să ia măsuri pentru a preveni o coliziune iminentă.",
+          "text_en": "Explain the term “have the right of way”.",
+          "answer_en": "“Have the right of way” only applies to a vehicle traveling in the fairway or following the course of the fairway. This means that other vehicles that want to enter the fairway, turn there or dock and cast off must wait until the vehicle with the right of way has passed before doing so. But “have the right of way” does not mean: force the right of way! If necessary, a vehicle with right of way must take measures to prevent an impending collision."
         },
         {
           "nr": 70,
           "text_de": "Wie hat sich ein in das Fahrwasser einlaufendes Fahrzeug gegenüber im Fahrwasser fahrenden Fahrzeugen zu verhalten?",
           "answer_de": "Es muss die Vorfahrt der Fahrzeuge im Fahrwasser beachten, d.h., es muss warten, bis das Fahrwasser frei ist. Es muss rechtzeitig durch sein Fahrverhalten erkennen lassen, dass es warten wird.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum ar trebui să se comporte o navă care intră pe canalul de navigație față de navele care călătoresc pe canal?",
+          "answer_ro": "Trebuie să respecte dreptul de trecere al vehiculelor în șoal, adică trebuie să aștepte până când șanul este liber. Trebuie să indice în timp util prin comportamentul său de conducere că va aștepta.",
+          "text_en": "How should a vessel entering the fairway behave towards vessels traveling in the fairway?",
+          "answer_en": "It must respect the right of way of vehicles in the fairway, i.e. it must wait until the fairway is clear. It must indicate in good time through its driving behavior that it will wait."
         },
         {
           "nr": 71,
           "text_de": "Wie hat sich ein den Ankerplatz oder Liegeplatz verlassendes Fahrzeug gegenüber im Fahrwasser fahrenden Fahrzeugen zu verhalten?",
           "answer_de": "Es muss die Vorfahrt der Fahrzeuge im Fahrwasser beachten, d.h. es muss warten, bis das Fahrwasser frei ist. Es muss rechtzeitig durch sein Fahrverhalten erkennen lassen, dass es warten wird.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum ar trebui să se comporte o navă care părăsește ancorajul sau dana față de navele care călătoresc pe canal?",
+          "answer_ro": "Trebuie să respecte dreptul de trecere al vehiculelor în șoal, adică trebuie să aștepte până când șanul este liber. Trebuie să indice în timp util prin comportamentul său de conducere că va aștepta.",
+          "text_en": "How should a vessel leaving the anchorage or berth behave towards vessels traveling in the fairway?",
+          "answer_en": "It must respect the right of way of vehicles in the fairway, i.e. it must wait until the fairway is clear. It must indicate in good time through its driving behavior that it will wait."
         },
         {
           "nr": 72,
           "text_de": "Welche Fahrregeln muss ein Sportfahrzeug beachten, wenn es der Richtung des Fahrwassers folgt?",
           "answer_de": "Beim Fahren im Fahrwasser muss das Sportfahrzeug sich so nahe am äußeren Rand des Fahrwassers an seiner Steuerbordseite halten, wie dieses ohne Gefahr möglich ist.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce reguli de conducere trebuie să urmeze un vehicul sport atunci când urmează direcția de drum?",
+          "answer_ro": "Atunci când conduceți pe șanț, vehiculul de agrement trebuie să stea cât mai aproape de marginea exterioară a șanului pe partea tribord, cât este posibil fără pericol.",
+          "text_en": "What driving rules must a sports vehicle follow when following the direction of the fairway?",
+          "answer_en": "When driving in the fairway, the recreational vehicle must stay as close to the outer edge of the fairway on its starboard side as is possible without danger."
         },
         {
           "nr": 73,
           "text_de": "Was muss ein Sportfahrzeug in Bezug auf das Fahrwasser beachten, wenn es außerhalb des Fahrwassers fährt?",
           "answer_de": "Außerhalb des Fahrwassers ist so zu fahren, dass klar erkennbar ist, dass das Fahrwasser nicht benutzt wird.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce trebuie să ia în considerare un vehicul sport în relație cu fairway atunci când circulă în afara fairway-ului?",
+          "answer_ro": "În afara fairway-ului trebuie să navigați în așa fel încât să fie clar vizibil că fairway-ul nu este utilizat.",
+          "text_en": "What does a sports vehicle have to consider in relation to the fairway when it travels outside the fairway?",
+          "answer_en": "Outside the fairway you must sail in such a way that it is clearly visible that the fairway is not being used."
         },
         {
           "nr": 74,
           "text_de": "Wie müssen sich Segelfahrzeuge verhalten, die, dem Fahrwasserverlauf folgend, sich auf (nahezu) entgegengesetzten Kursen begegnen?",
           "answer_de": "Jedes Fahrzeug muss nach Steuerbord ausweichen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum trebuie să se comporte navele cu pânze atunci când, urmând cursul cănalului, se întâlnesc pe trasee (aproape) opuse?",
+          "answer_ro": "Fiecare navă trebuie să se deplaseze la tribord.",
+          "text_en": "How must sailing vessels behave when, following the course of the fairway, they meet on (almost) opposite courses?",
+          "answer_en": "Every vessel must move to starboard."
         },
         {
           "nr": 75,
           "text_de": "Was bedeutet „Queren eines Fahrwassers“ im Sinne der SeeSchStrO?",
           "answer_de": "Queren bedeutet deutliches Abweichen von Fahrwasserverlauf, nach allgemeiner Verkehrsmeinung mehr als 10° (z.B. Kreuzen eines Segelfahrzeuges über die gesamte oder auch nur teilweise Fahrwasserbreite).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce înseamnă „trecerea unui fairway” în sensul SeeSchStrO?",
+          "answer_ro": "Traversare înseamnă o abatere semnificativă de la cursul cănalului, conform opiniei generale a traficului, mai mare de 10° (de exemplu, traversarea unei nave cu pânze pe toată lățimea sau doar o parte din lățimea căenului).",
+          "text_en": "What does “crossing a fairway” mean in the sense of the SeeSchStrO?",
+          "answer_en": "Crossing means a significant deviation from the course of the fairway, according to general traffic opinion, more than 10° (e.g. crossing a sailing vessel over the entire or only part of the width of the fairway)."
         },
         {
           "nr": 76,
           "text_de": "Wie müssen Sie die Geschwindigkeit Ihres Sportbootes einrichten, wenn Sie außerhalb eines Fahrwassers an Stellen mit erkennbarem Badebetrieb vorbeifahren?",
           "answer_de": "Höchstgeschwindigkeit 8 km/h im Abstand von weniger als 500 m vom Ufer.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum ar trebui să reglați viteza bărcii dvs. de agrement atunci când navigați în afara unui șenal pe lângă locuri cu activitate de scăldat vizibilă?",
+          "answer_ro": "Viteza maxima 8 km/h la o distanta mai mica de 500 m de tarm.",
+          "text_en": "How should you adjust the speed of your pleasure boat when you are sailing outside a fairway past places with noticeable bathing activity?",
+          "answer_en": "Maximum speed 8 km/h at a distance of less than 500 m from the shore."
         },
         {
           "nr": 77,
@@ -1798,10 +1798,10 @@
           "text_images": [
             "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-77-gif.gif?__blob=normal&v=2"
           ],
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Vedeți un vehicul pe Elba noaptea cu următoarele lumini. Ce fel de vehicul este? Ce înseamnă cele două lumini roșii și două verzi vertical unul deasupra celuilalt?",
+          "answer_ro": "Vehicul cu manevrabilitate redusă, lungime probabil de 50 m sau mai mult, din față conducând prin apă, efectuând lucrări subacvatice (de ex. dragare).\nDepășirea laterală pe tribord (două lumini verzi universale una deasupra celeilalte), obstacol de trecere pe babord (două lumini roșii universale una deasupra celeilalte).",
+          "text_en": "You see a vehicle on the Elbe at night with the following lights. What kind of vehicle is it? What do the two red and two green lights mean vertically above each other?",
+          "answer_en": "Vehicle with reduced maneuverability, length probably 50 m or more, from the front driving through the water, carrying out underwater work (e.g. dredging).\nPassing side on starboard (two green all-round lights one above the other), passing obstruction on port side (two red all-round lights one above the other)."
         },
         {
           "nr": 78,
@@ -1810,37 +1810,37 @@
           "text_images": [
             "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Lichterfuehrung-78-gif.gif?__blob=normal&v=2"
           ],
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Vedeți un vas pe Elba în timpul zilei cu următoarele corpuri de semnalizare negre, a căror undă de prova poate fi văzută clar. Ce fel de vehicul este? Ce înseamnă cele două bile negre și cele două romburi negre vertical unul deasupra celuilalt?",
+          "answer_ro": "Vehicul care se apropie cu manevrabilitate limitată din față, se deplasează prin apă, efectuează lucrări subacvatice (de exemplu, dragare). Latura de trecere pe babord a excavatorului (două romburi negre unul deasupra celuilalt), obstacol de trecere pe partea tribord a excavatorului (două bile negre una peste alta).",
+          "text_en": "You see a vessel on the Elbe during the day with the following black signal bodies, whose bow wave can be clearly seen. What kind of vehicle is it? What do the two black balls and the two black rhombuses vertically above each other mean?",
+          "answer_en": "Oncoming vehicle with restricted maneuverability from the front, traveling through the water, carrying out underwater work (e.g. dredging). Passing side on the port side of the excavator (two black rhombuses one above the other), passing obstruction on the starboard side of the excavator (two black balls one on top of the other)."
         },
         {
           "nr": 79,
           "text_de": "Beim Passieren von Cuxhaven sichten Sie, elbabwärts segelnd, an Ihrer Stb.-Seite die Tonne 32a. Um was für eine Tonne handelt es sich, welche Bezeichnung hat die nächste Tonne an der gleichen Seite?",
           "answer_de": "Es handelt sich um eine Backbordfahrwassertonne; die nächste Tonne hat die Aufschrift 32.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Pe lângă Cuxhaven, coborând Elba, vezi geamandura 32a pe partea tribordului. Ce fel de coș este, cum se numește următorul coș de pe aceeași parte?",
+          "answer_ro": "Este o geamandura de fairway port; următorul coș este marcat cu 32.",
+          "text_en": "As you pass Cuxhaven, sailing down the Elbe, you see buoy 32a on your starboard side. What kind of bin is it, what is the name of the next bin on the same side?",
+          "answer_en": "It is a port fairway buoy; the next bin is marked 32."
         },
         {
           "nr": 80,
           "text_de": "Welche besondere Lichterführung/Kennzeichnung ist vorgeschrieben, wenn ein Motorsportfahrzeug ein anderes Sportfahrzeug schleppt?",
           "answer_de": "Motorsportfahrzeuge, die andere Sportfahrzeuge schleppen, gelten nicht als schleppende Maschinenfahrzeuge im Sinne der KVR. Daher keine besondere Lichterführung/Kennzeichnung.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce iluminare/marcaj special este necesar atunci când un vehicul de sport cu motor remorcă un alt vehicul sport?",
+          "answer_ro": "Autovehiculele sport cu motor care remorcă alte vehicule sport nu sunt considerate vehicule mecanice de remorcare în sensul KVR. Prin urmare, nu există iluminare/marcare specială.",
+          "text_en": "What special lighting/marking is required when a motorsport vehicle is towing another sports vehicle?",
+          "answer_en": "Motor sports vehicles that tow other sports vehicles are not considered towing mechanical vehicles within the meaning of the KVR. Therefore no special lighting/marking."
         },
         {
           "nr": 81,
           "text_de": "Welche besonderen Bestimmungen gelten auf dem Nord-Ostsee-Kanal (NOK) für Sportfahrzeuge beim Schleppen?",
           "answer_de": "1. Ein motorbetriebenes Sportfahrzeug darf nur ein Sportfahrzeug schleppen.\n2. Das geschleppte Sportfahrzeug darf nur eine Höchstlänge von weniger als 15 m haben.\n3. Die Mindestgeschwindigkeit beim Schleppen muss 9 km/h betragen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce reglementări speciale se aplică vehiculelor sport la remorcarea pe Canalul Kiel (NOK)?",
+          "answer_ro": "1. Un vehicul sport motorizat poate tracta doar un vehicul sport.\n2. Vehiculul sport remorcat poate avea doar o lungime maximă mai mică de 15 m.\n3. Viteza minimă la remorcare trebuie să fie de 9 km/h.",
+          "text_en": "What special regulations apply to sports vehicles when towing on the Kiel Canal (NOK)?",
+          "answer_en": "1. A motorized sports vehicle may only tow one sports vehicle.\n2. The towed sports vehicle may only have a maximum length of less than 15 m.\n3. The minimum speed when towing must be 9 km/h."
         },
         {
           "nr": 82,
@@ -1849,262 +1849,262 @@
           "text_images": [
             "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Signal-82-gif.gif?__blob=normal&v=2"
           ],
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "În timpul unei patrule vezi un semnal pe uscat, fiecare cu corpuri de semnalizare negre:\n1. Ce înseamnă acest semnal?\n2. Ce semnal este afișat în schimb noaptea?",
+          "answer_ro": "1. Obstrucție excepțională la navigație.\n2. Noaptea: lumini universale roșu-roșu-verde vertical unul deasupra celuilalt.",
+          "text_en": "During a patrol you see a signal on land, each with black signal bodies:\n1. What does this signal mean?\n2. Which signal is shown at night instead?",
+          "answer_en": "1. Exceptional obstruction to navigation.\n2. At night: all-round lights red-red-green vertically one above the other."
         },
         {
           "nr": 83,
           "text_de": "Wer darf lt. SeeSchStrO ein Fahrzeug nicht führen oder als Mitglied der Crew eine andere Tätigkeit des Brücken- oder Decksdienstes nicht ausüben (allgemein ohne Zahlen zu beantworten)?",
           "answer_de": "Wer infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung eines Fahrzeugs oder in der sicheren Ausübung einer anderen Tätigkeit des Brücken- oder Decksdienstes behindert ist.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Conform SeeSchStrO, cine nu are voie să conducă un vehicul sau, în calitate de membru al echipajului, să nu desfășoare o altă activitate de service pe pod sau punte (în general, fără a răspunde la numere)?",
+          "answer_ro": "Orice persoană care, ca urmare a deficiențelor fizice sau psihice sau a consumului de băuturi alcoolice sau alte substanțe intoxicante, este invalidă în funcționarea în siguranță a unui vehicul sau în efectuarea în siguranță a unei alte activități de service pe pod sau punte.",
+          "text_en": "According to the SeeSchStrO, who is not allowed to drive a vehicle or, as a member of the crew, not carry out another bridge or deck service activity (generally without answering numbers)?",
+          "answer_en": "Anyone who, as a result of physical or mental deficiencies or the consumption of alcoholic beverages or other intoxicating substances, is disabled in the safe operation of a vehicle or in the safe performance of another bridge or deck service activity."
         },
         {
           "nr": 84,
           "text_de": "Welche Atem- bzw. Blutalkoholkonzentration darf lt. SeeSchStrO nicht erreicht werden, damit kein Verbot für ein Führen eines Fahrzeugs oder als Mitglied der Crew für das Ausüben des Brückendienstes besteht?",
           "answer_de": "0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge, die zu einer solchen Atem- oder Blutalkoholkonzentration führt.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Potrivit SeeSchStrO, ce concentrație de alcool în respirație sau în sânge nu trebuie atinsă, astfel încât să nu existe interdicție de a conduce un vehicul sau de membru al echipajului pentru îndeplinirea serviciului de pod?",
+          "answer_ro": "0,25 mg/l sau mai mult alcool în respirație sau 0,5 pe mil sau mai mult alcool în sânge sau o cantitate de alcool care duce la o astfel de concentrație de alcool în sânge sau în respirație.",
+          "text_en": "According to the SeeSchStrO, what breath or blood alcohol concentration must not be reached so that there is no ban on driving a vehicle or as a member of the crew for carrying out bridge duty?",
+          "answer_en": "0.25 mg/l or more alcohol in the breath or 0.5 per mille or more alcohol in the blood or an amount of alcohol that leads to such a breath or blood alcohol concentration."
         },
         {
           "nr": 85,
           "text_de": "Was müssen Sie beim ersten Anlaufen eines ausländischen Hafens beachten?",
           "answer_de": "Die Einreise-, Gesundheits- und Zollformalitäten sind zu erledigen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce trebuie să țineți cont atunci când vizitați un port străin pentru prima dată?",
+          "answer_ro": "Formalitatile de intrare, de sanatate si vamale trebuie indeplinite.",
+          "text_en": "What do you need to consider when visiting a foreign port for the first time?",
+          "answer_en": "Entry, health and customs formalities must be completed."
         },
         {
           "nr": 86,
           "text_de": "Was ist ein Flaggenzertifikat? Für welche Fahrzeuge kann es ausgestellt werden?",
           "answer_de": "Vom BSH ausgestellter Ausweis, mit dem das Recht und die Pflicht zum Führen der Bundesflagge nachgewiesen wird. Für Fahrzeuge unter 15 m Lüa = „nicht registerpflichtige Fahrzeuge“.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce este un certificat de steag? Pentru ce vehicule se poate elibera?",
+          "answer_ro": "Carte de identitate eliberată de BSH, care dovedește dreptul și obligația de a arbora steagul federal. Pentru vehicule sub 15 m Lüa = „vehicule care nu sunt supuse înmatriculării”.",
+          "text_en": "What is a Flag Certificate? For which vehicles can it be issued?",
+          "answer_en": "Identification card issued by the BSH, which proves the right and obligation to fly the federal flag. For vehicles under 15 m Lüa = “vehicles not subject to registration”."
         },
         {
           "nr": 87,
           "text_de": "Was ist das Schiffszertifikat, wer stellt es aus, ab welcher Schiffslänge ist es vorgeschrieben?",
           "answer_de": "Das Schiffszertifikat ist der Nachweis, dass ein Schiff im Seeschiffsregister eingetragen ist. Ausgestellt wird es vom Registergericht. Vorgeschrieben ist es ab 15 m Rumpflänge.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este certificatul navei, cine îl emite, de la ce lungime a navei se cere?",
+          "answer_ro": "Certificatul de navă este dovada că o navă este înregistrată în registrul maritim. Se eliberează de instanța de grefă. Este obligatoriu de la o lungime a carenei de 15 m.",
+          "text_en": "What is the ship's certificate, who issues it, from what ship length is it required?",
+          "answer_en": "The ship certificate is proof that a ship is registered in the maritime register. It is issued by the registry court. It is mandatory from a hull length of 15 m."
         },
         {
           "nr": 88,
           "text_de": "Was versteht man unter dem Begriff „Küstenmeer“?",
           "answer_de": "Die seewärts der Küstenlinie bei mittlerem Hochwasser oder der Basislinie gelegenen Meeresgewässer bis zu einer Breite von 12 sm.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce se înțelege prin termenul „mare de coastă”?",
+          "answer_ro": "Apele marine situate în largul mării de coastă, la marea medie sau linia de bază până la o lățime de 12 nm.",
+          "text_en": "What is meant by the term “coastal sea”?",
+          "answer_en": "The marine waters located seaward of the coastline at mean high water or the baseline up to a width of 12 nm."
         },
         {
           "nr": 89,
           "text_de": "Was versteht man unter dem Begriff „innere Gewässer“?",
           "answer_de": "Als „innere Gewässer“ bezeichnet man die Gewässer landwärts der Basislinien.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce se înțelege prin termenul „ape interioare”?",
+          "answer_ro": "„Apele interioare” sunt apele de la uscat ale liniilor de bază.",
+          "text_en": "What is meant by the term “internal waters”?",
+          "answer_en": "“Internal waters” are the waters landward of the baselines."
         },
         {
           "nr": 90,
           "text_de": "Was versteht man unter dem Begriff „Basislinie“ und wo finden Sie diese?",
           "answer_de": "Als Basislinie bezeichnet man die Grenze zwischen den inneren Gewässern (eines Staates) und dem Küstenmeer. Basislinien sind in Seekarten eingezeichnet.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce se înțelege prin termenul „linie de bază” și unde îl puteți găsi?",
+          "answer_ro": "Linia de bază este limita dintre apele interioare (ale unui stat) și marea teritorială. Liniile de bază sunt marcate pe hărțile nautice.",
+          "text_en": "What is meant by the term “baseline” and where can you find it?",
+          "answer_en": "The baseline is the boundary between the internal waters (of a state) and the territorial sea. Baselines are marked on nautical charts."
         },
         {
           "nr": 91,
           "text_de": "Welche Aufgaben hat die Bundesstelle für Seeunfalluntersuchung?",
           "answer_de": "- Amtliche Untersuchung eines schaden- oder gefahrverursachenden Vorkommnisses (Seeunfall) im Zusammenhang mit dem Betrieb eines Schiffes (z.B. Kollision zwischen zwei Fahrzeugen) und Ermittlung der Umstände, durch die es zu dem Seeunfall gekommen ist.\n- Herausgabe von Untersuchungsberichten und insbesondere Sicherheitsempfehlungen zur Verhütung von Seeunfällen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care sunt sarcinile Oficiului Federal pentru Investigarea Accidentelor Maritime?",
+          "answer_ro": "- Investigarea oficială a unui incident care a cauzat avarii sau pericol (accident maritim) în legătură cu exploatarea unei nave (de exemplu, coliziunea între două nave) și determinarea împrejurărilor care au dus la accidentul maritim.\n- Publicarea rapoartelor de investigație și, în special, a recomandărilor de siguranță pentru prevenirea accidentelor maritime.",
+          "text_en": "What are the tasks of the Federal Office for Maritime Casualty Investigation?",
+          "answer_en": "- Official investigation of an incident causing damage or danger (marine accident) in connection with the operation of a ship (e.g. collision between two vessels) and determination of the circumstances that led to the maritime accident.\n- Publication of investigation reports and, in particular, safety recommendations for the prevention of maritime accidents."
         },
         {
           "nr": 92,
           "text_de": "Wann liegt ein schaden- oder gefahrverursachendes Vorkommnis (Seeunfall) im Sinne des Seesicherheits-Untersuchungs-Gesetzes (SUG) vor?\nNennen Sie mindestens 3 Merkmale.",
           "answer_de": "1. Schiffsverlust, Aufgrundlaufen, Kollision eines Schiffes,\n2. Tod oder Verschollenheit oder schwere Verletzung einer Person,\n3. maritimer Umweltschaden oder sonstiger Sachschaden,\n4. Gefahr für einen Menschen oder ein Schiff,\n5. Gefahr eines schweren Schadens an einem Schiff, einem meerestechnischen Bauwerk oder an der Meeresumwelt.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Când are loc un incident care provoacă pagube sau pericol (accident maritim) în sensul Legii de investigare a siguranței maritime (SUG)?\nNumiți cel puțin 3 caracteristici.",
+          "answer_ro": "1. Pierderea navei, eșuarea, ciocnirea unei nave,\n2. Moartea sau dispariția sau rănirea gravă a unei persoane,\n3. daune mediului maritim sau alte daune materiale,\n4. Pericol pentru o persoană sau o navă,\n5. Risc de deteriorare gravă a unei nave, a unei structuri de inginerie marină sau a mediului marin.",
+          "text_en": "When does an incident causing damage or danger (marine accident) occur within the meaning of the Maritime Safety Investigation Act (SUG)?\nName at least 3 characteristics.",
+          "answer_en": "1. Loss of ship, running aground, collision of a ship,\n2. Death or disappearance or serious injury to a person,\n3. maritime environmental damage or other property damage,\n4. Danger to a person or a ship,\n5. Risk of serious damage to a ship, a marine engineering structure or to the marine environment."
         },
         {
           "nr": 93,
           "text_de": "Was müssen Sie nach einem Seeunfall veranlassen? Wie kann es umgesetzt werden?",
           "answer_de": "Den Seeunfall unverzüglich der Bundesstelle für Seeunfalluntersuchung melden. Das kann in einem deutschen Einlaufhafen auch über die Wasserschutzpolizei bzw. im Ausland über die zuständigen Hafenbehörden veranlasst werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce ar trebui să faci după un accident maritim? Cum poate fi implementat?",
+          "answer_ro": "Raportați imediat accidentul maritim la Oficiul Federal pentru Investigarea Accidentelor Maritime. Acest lucru poate fi aranjat și într-un port de intrare din Germania prin intermediul poliției apelor sau în străinătate prin intermediul autorităților portuare responsabile.",
+          "text_en": "What should you do after a marine accident? How can it be implemented?",
+          "answer_en": "Report the marine casualty immediately to the Federal Office for Marine Casualty Investigation. This can also be arranged in a German port of entry via the water police or abroad via the responsible port authorities."
         },
         {
           "nr": 94,
           "text_de": "Welche Angaben müssen der Bundesstelle für Seeunfalluntersuchung gemeldet werden?\nNennen Sie mindestens 5 dieser Angaben.",
           "answer_de": "Es sind folgende Angaben zu melden:\n- Name und derzeitiger Aufenthalt des Meldenden,\n- Ort (geographische Position) und Zeit des Unfalles,\n- Name, Rufzeichen und Flagge des Schiffes sowie Rufnummer des zu diesem Schiff gehörenden mobilen Seefunkdienstes (MMSI),\n- Typ, Verwendungszweck,\n- Name des Betreibers des Schiffes,\n- Name des verantwortlichen Schiffsführers,\n- Herkunfts- und Zielhafen des Schiffes,\n- Anzahl der Besatzungsmitglieder und weiterer Personen an Bord,\n- Umfang des Personen- und Sachschadens,\n- Darstellung des Verlaufs des Vorkommnisses,\n- Angaben über andere Schiffe, die am Unfall beteiligt sind,\n- Wetterbedingungen,\n- Darstellung der Gefahr einer Meeresverschmutzung.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce informații trebuie raportate Oficiului Federal pentru Investigarea Accidentelor Maritime?\nEnumerați cel puțin 5 dintre aceste detalii.",
+          "answer_ro": "Trebuie raportate următoarele informații:\n- Numele și reședința actuală a persoanei care raportează,\n- Locația (poziția geografică) și ora accidentului,\n- numele, indicativul de apel și pavilionul navei, precum și numărul de telefon al serviciului radio maritim mobil (MMSI) aparținând acestei nave;\n- tip, utilizare prevăzută,\n- numele operatorului navei,\n- Numele comandantului responsabil,\n- portul de origine și destinația navei,\n- Numărul de membri ai echipajului și alte persoane de la bord,\n- gradul de vătămare corporală și daune materiale;\n- prezentarea cursului incidentului,\n- informații despre alte nave implicate în accident,\n- conditiile meteo,\n- Prezentarea pericolului de poluare marine.",
+          "text_en": "What information must be reported to the Federal Office for Maritime Casualty Investigation?\nList at least 5 of these details.",
+          "answer_en": "The following information must be reported:\n- Name and current residence of the reporting person,\n- Location (geographical position) and time of the accident,\n- the name, call sign and flag of the ship as well as the telephone number of the mobile maritime radio service (MMSI) belonging to this ship,\n- type, intended use,\n- name of the operator of the vessel,\n- Name of the responsible skipper,\n- port of origin and destination of the ship,\n- Number of crew members and other people on board,\n- extent of personal injury and property damage,\n- presentation of the course of the incident,\n- information about other ships involved in the accident,\n- weather conditions,\n- Presentation of the danger of marine pollution."
         },
         {
           "nr": 95,
           "text_de": "In welcher Vorschrift ist geregelt, welche Angaben der Bundesstelle für Seeunfalluntersuchung bei einem schaden- oder gefahrverursachenden Vorkommnis (Seeunfall) gemeldet werden müssen?\nWer ist verantwortlich für die Meldung?",
           "answer_de": "Geregelt in der „Verordnung über die Sicherung der Seefahrt“.\nVerantwortlich für die Meldung sind der Schiffsführer oder bei dessen Verhinderung ein anderes Besatzungsmitglied bzw. ggf. auch der Betreiber des Schiffes, falls keine der vorgenannten Personen dazu in der Lage ist.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce reglementare reglementează ce informații trebuie raportate Oficiului Federal pentru Investigarea Accidentelor Maritime în cazul unui incident care cauzează pagube sau pericol (accident maritim)?\nCine este responsabil de raportare?",
+          "answer_ro": "Reglementat în „Ordonanța privind siguranța navigației maritime”.\nComandantul navei sau, în cazul în care nu este în măsură să facă acest lucru, un alt membru al echipajului sau, dacă este cazul, operatorul navei sunt responsabil pentru raport dacă niciuna dintre persoanele menționate mai sus nu este în măsură să facă acest lucru.",
+          "text_en": "Which regulation regulates which information must be reported to the Federal Office for Maritime Accident Investigation in the event of an incident that causes damage or danger (marine accident)?\nWho is responsible for reporting?",
+          "answer_en": "Regulated in the “Ordinance on the Safety of Maritime Navigation”.\nThe ship's master or, if he is unable to do so, another crew member or, if applicable, the operator of the ship are responsible for the report if none of the above-mentioned persons are able to do so."
         },
         {
           "nr": 96,
           "text_de": "Was sind Seeämter und was sind ihre Aufgaben?",
           "answer_de": "Seeämter sind bei den Wasser- und Schifffahrtsdirektionen Nord und Nordwest gebildete Untersuchungsausschüsse zur Untersuchung der Frage, ob gegenüber einem Verfahrensbeteiligten ein Fahrverbot ausgesprochen oder ein Befähigungszeugnis bzw. ein amtlicher Führerschein der Sportschifffahrt entzogen werden muss.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce sunt birourile maritime și care sunt sarcinile lor?",
+          "answer_ro": "Birourile maritime sunt comitete de investigație formate din direcțiile de căi navigabile de nord și de nord-vest și de transport maritim pentru a investiga dacă unei persoane implicate în proceduri ar trebui interzisă să conducă sau dacă un certificat de competență sau un permis oficial de navigație de agrement ar trebui revocat.",
+          "text_en": "What are maritime offices and what are their tasks?",
+          "answer_en": "Maritime offices are investigative committees formed by the North and Northwest Waterways and Shipping Directorates to investigate the question of whether a person involved in the proceedings should be banned from driving or whether a certificate of competency or an official recreational boating license should be revoked."
         },
         {
           "nr": 97,
           "text_de": "Welche behördlichen Veröffentlichungen für Wassersportler geben Ihnen rechtliche Informationen und Hinweise über das Verhalten auf Seeschifffahrtsstraßen?",
           "answer_de": "„Sicherheit auf dem Wasser, Leitfaden für Wassersportler“.\n„Sicherheit im See- und Küstenbereich, Sorgfaltsregeln für Wassersportler“.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce publicații oficiale pentru pasionații de sporturi nautice vă oferă informații legale și sfaturi despre comportamentul pe căile de navigație?",
+          "answer_ro": "„Siguranța pe apă, ghid pentru pasionații de sporturi nautice”.\n„Securitate în zonele maritime și de coastă, reguli de îngrijire pentru pasionații de sporturi nautice”.",
+          "text_en": "Which official publications for water sports enthusiasts provide you with legal information and advice about behavior on shipping lanes?",
+          "answer_en": "“Safety on the water, guide for water sports enthusiasts”.\n“Security in the sea and coastal areas, rules of care for water sports enthusiasts”."
         },
         {
           "nr": 98,
           "text_de": "Sie sehen von Ihrem Sportfahrzeug aus in der Nordsee nördlich von Helgoland eine noch unbekannte Gefahr, z.B. einen treibenden Container.\nWas haben Sie zu unternehmen?",
           "answer_de": "Man muss dies auf dem schnellsten Weg direkt oder über eine Verkehrszentrale bzw. Küstenfunkstelle dem Maritimen Lagezentrum (MLZ) in Cuxhaven als Meldestelle für Unfälle auf See mitteilen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Din vehiculul tău sport vezi un pericol necunoscut în Marea Nordului, la nord de Helgoland, de exemplu un container plutitor.\nCe ai de facut?",
+          "answer_ro": "Trebuie să raportați acest lucru la Centrul de Situație Maritimă (MLZ) din Cuxhaven ca punct de raportare pentru accidentele pe mare cât mai repede posibil, direct sau printr-un centru de trafic sau stație radio de coastă.",
+          "text_en": "From your sports vehicle you see an unknown danger in the North Sea north of Heligoland, for example a floating container.\nWhat do you have to do?",
+          "answer_en": "You must report this to the Maritime Situation Center (MLZ) in Cuxhaven as the reporting point for accidents at sea as quickly as possible, directly or via a traffic center or coastal radio station."
         },
         {
           "nr": 99,
           "text_de": "Wann und wo wird die Flagge des Gastlandes gehisst?",
           "answer_de": "Beim Einlaufen in die Küstengewässer des Gastlandes unter der Steuerbordsaling.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Când și unde va fi arborat steagul țării gazdă?",
+          "answer_ro": "La intrarea în apele de coastă ale țării gazdă sub distribuitorul de la tribord.",
+          "text_en": "When and where will the host country's flag be flown?",
+          "answer_en": "When entering the coastal waters of the host country under the starboard spreader."
         },
         {
           "nr": 100,
           "text_de": "Wann und wo wird die Bundesflagge geführt?",
           "answer_de": "Auf in Betrieb befindlichen Yachten während der Flaggzeit in den Küstengewässern, auf See und im Hafen am Flaggenstock am Heck, auf segelnden mehrmastigen Yachten auch im Topp des hintersten Mastes (nicht am Achterstag).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Când și unde va fi arborat steagul federal?",
+          "answer_ro": "Pe iahturile aflate în funcțiune în timpul pavilionului în apele de coastă, pe mare și în port pe steag de la pupa, pe iahtturi cu mai multe catarge, de asemenea, în vârful catargului cel mai din spate (nu pe spate).",
+          "text_en": "When and where will the federal flag be flown?",
+          "answer_en": "On yachts in operation during flagging in coastal waters, at sea and in harbor on the flagstaff at the stern, on sailing multi-masted yachts also in the top of the rearmost mast (not on the backstay)."
         },
         {
           "nr": 101,
           "text_de": "Welche Befahrensregelungen gelten für die Schutzzonen I in den Nationalparks im Deutschen Wattenmeer außerhalb der speziellen Schutzgebiete?",
           "answer_de": "Das Verlassen der Fahrwasser zwischen 3 h nach Hochwasser und 3 h vor dem folgenden Hochwasser ist untersagt. In der übrigen Zeit beträgt für Sportfahrzeuge die Höchstgeschwindigkeit außerhalb des Fahrwassers 8 kn und generell im Fahrwasser 12 kn.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce reguli de circulație se aplică zonelor de protecție I din parcurile naționale din Marea Wadden din Germania în afara zonelor de protecție specială?",
+          "answer_ro": "Este interzisă părăsirea fairway-ului între 3 ore după apă mare și 3 ore înainte de următoarea apă mare. In restul timpului, viteza maxima pentru vehiculele sport in afara fairway-ului este de 8 kn si in general in fairway de 12 kn.",
+          "text_en": "What traffic regulations apply to protection zones I in the national parks in the German Wadden Sea outside the special protection areas?",
+          "answer_en": "Leaving the fairway between 3 hours after high water and 3 hours before the following high water is prohibited. At the rest of the time, the maximum speed for sports vehicles outside the fairway is 8 kn and generally in the fairway 12 kn."
         },
         {
           "nr": 102,
           "text_de": "Wo sind die Grenzen der Schutzzonen I und der speziellen Schutzgebiete in den Nationalparks aufgeführt?",
           "answer_de": "In den Seekarten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Unde sunt enumerate limitele zonelor de protecție I și zonelor de protecție specială din parcurile naționale?",
+          "answer_ro": "În hărțile nautice.",
+          "text_en": "Where are the boundaries of the protection zones I and the special protection areas in the national parks listed?",
+          "answer_en": "In the nautical charts."
         },
         {
           "nr": 103,
           "text_de": "Welchen Zweck soll das MARPOL-Übereinkommen erfüllen?",
           "answer_de": "Das MARPOL-Übereinkommen soll die Verschmutzung der Meere verhindern.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este scopul Convenției MARPOL?",
+          "answer_ro": "Convenția MARPOL are ca scop prevenirea poluării marine.",
+          "text_en": "What is the purpose of the MARPOL Convention?",
+          "answer_en": "The MARPOL Convention is intended to prevent marine pollution."
         },
         {
           "nr": 104,
           "text_de": "Was sind Sondergebiete im Sinne des MARPOL-Übereinkommens in Europa?",
           "answer_de": "Ostsee, Nordsee und Mittelmeer.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care sunt zonele speciale în sensul Convenției MARPOL în Europa?",
+          "answer_ro": "Marea Baltică, Marea Nordului și Marea Mediterană.",
+          "text_en": "What are special areas within the meaning of the MARPOL Convention in Europe?",
+          "answer_en": "Baltic Sea, North Sea and Mediterranean."
         },
         {
           "nr": 105,
           "text_de": "Was ist nach dem MARPOL-Übereinkommen für die Sportschifffahrt in Sondergebieten grundsätzlich verboten?",
           "answer_de": "Das Einleiten von Öl, Schiffsabwässern, Schiffsmüll und anderen Schadstoffen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce este interzis în mod fundamental pentru transportul de agrement în zone speciale conform Convenției MARPOL?",
+          "answer_ro": "Deversarea de petrol, ape uzate de nave, deșeuri de nave și alți poluanți.",
+          "text_en": "What is fundamentally prohibited for recreational shipping in special areas according to the MARPOL Convention?",
+          "answer_en": "The discharge of oil, ship wastewater, ship waste and other pollutants."
         },
         {
           "nr": 106,
           "text_de": "Gilt das MARPOL-Übereinkommen grundsätzlich auch für Sportfahrzeuge?",
           "answer_de": "Das MARPOL-Übereinkommen gilt grundsätzlich für alle Schiffe, somit auch für Sportfahrzeuge.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Convenția MARPOL se aplică în general și vehiculelor sportive?",
+          "answer_ro": "Convenția MARPOL se aplică în principiu tuturor navelor, inclusiv vehiculelor de agrement.",
+          "text_en": "Does the MARPOL Convention generally also apply to sports vehicles?",
+          "answer_en": "The MARPOL Convention basically applies to all ships, including recreational vehicles."
         },
         {
           "nr": 107,
           "text_de": "Woraus können Sie Informationen über Entsorgungsmöglichkeiten in deutschen Sportboothäfen entnehmen?",
           "answer_de": "Aus der Broschüre „Entsorgungsmöglichkeiten für Öl, Schiffsmüll und Schiffsabwässer - eine Übersicht für Sport- und Kleinschifffahrt“ des BSH.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Unde puteți găsi informații despre opțiunile de eliminare în porturile germane pentru bărci de agrement?",
+          "answer_ro": "Din broșura BSH „Opțiuni de eliminare a petrolului, a deșeurilor de nave și a apelor uzate ale navelor - o privire de ansamblu pentru transportul de recreere și de mici dimensiuni.”",
+          "text_en": "Where can you find information about disposal options in German recreational boat harbors?",
+          "answer_en": "From the BSH brochure “Disposal options for oil, ship waste and ship wastewater - an overview for recreational and small shipping.”"
         },
         {
           "nr": 108,
           "text_de": "Wie ist auf Sportfahrzeugen mit ölhaltigem Bilgenwasser zu verfahren, wenn die Bedingungen, unter denen nach MARPOL das Lenzen zulässig ist, nicht eingehalten werden können?",
           "answer_de": "Es muss im Hafen entsorgt werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce ar trebui făcut la vehiculele de agrement cu apă de santină uleioasă dacă nu pot fi îndeplinite condițiile în care MARPOL permite apa de santină?",
+          "answer_ro": "Trebuie aruncat in port.",
+          "text_en": "What should be done on recreational vehicles with oily bilge water if the conditions under which MARPOL permits bilge water cannot be met?",
+          "answer_en": "It must be disposed of at the port."
         },
         {
           "nr": 109,
           "text_de": "Was ist hinsichtlich der Entsorgung von Müll in Nord- und Ostsee und im Mittelmeer zu beachten? (Begründung!)",
           "answer_de": "Da Nord-, Ostsee und Mittelmeer Sondergebiete nach MARPOL sind, darf dort kein Müll in die See entsorgt werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce trebuie luat în considerare la eliminarea deșeurilor în Marea Nordului și Marea Baltică și în Marea Mediterană? (Motiv!)",
+          "answer_ro": "Întrucât Marea Nordului, Marea Baltică și Marea Mediterană sunt zone speciale conform MARPOL, acolo nu pot fi aruncate deșeuri în mare.",
+          "text_en": "What needs to be taken into account when disposing of waste in the North and Baltic Seas and the Mediterranean? (Reason!)",
+          "answer_en": "Since the North Sea, the Baltic Sea and the Mediterranean are special areas according to MARPOL, no waste may be disposed of into the sea there."
         },
         {
           "nr": 110,
           "text_de": "Welche Müllanteile dürfen in Sondergebieten nicht auf See entsorgt werden?",
           "answer_de": "Synthetische Seile, Netze, Segel, Kunststofftüten u.Ä., Papiererzeugnisse, Lumpen, Glas, Metall, Steingut, Schalungs- oder Verpackungsmaterial.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce parte din deșeuri nu poate fi aruncată pe mare în zone speciale?",
+          "answer_ro": "Frânghii sintetice, plase, pânze, pungi de plastic etc., produse din hârtie, cârpe, sticlă, metal, faianță, materiale de cofraj sau de ambalare.",
+          "text_en": "What portion of waste may not be disposed of at sea in special areas?",
+          "answer_en": "Synthetic ropes, nets, sails, plastic bags, etc., paper products, rags, glass, metal, earthenware, formwork or packaging materials."
         }
       ]
     },
