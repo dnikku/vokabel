@@ -116,973 +116,973 @@
           "nr": 11,
           "text_de": "Welche Angaben enthalten deutsche und britische Leuchtfeuerverzeichnisse?",
           "answer_de": "Beschreibung der Leuchtfeuer, Feuerschiffe und Großtonnen sowie deren geographische Lage.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce informații conțin directoarele farurilor germane și britanice?",
+          "answer_ro": "Descrierea balizelor, a navelor far și a geamandurilor mari, precum și a locației lor geografice.",
+          "text_en": "What information do German and British lighthouse directories contain?",
+          "answer_en": "Description of the beacons, lightships and large buoys as well as their geographical location."
         },
         {
           "nr": 12,
           "text_de": "Welche schwimmenden Schifffahrtszeichen werden in der britischen List of Lights und in deutschen Leuchtfeuerverzeichnissen nicht angegeben?",
           "answer_de": "Tonnen kleiner als 8 m Höhe.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce semne de navigație plutitoare nu sunt afișate în lista britanică a luminilor și în listele de faruri germane?",
+          "answer_ro": "tone mai mici de 8 m înălțime.",
+          "text_en": "Which floating navigation signs are not shown in the British List of Lights and German beacon lists?",
+          "answer_en": "tons smaller than 8 m high."
         },
         {
           "nr": 13,
           "text_de": "Wo finden Sie Angaben über die Merkmale der Schifffahrtszeichen?",
           "answer_de": "1. In den Leuchtfeuerverzeichnissen bzw. in der List of Lights sowie auszugsweise in den Seekarten.\n2. In der Karte 1/INT 1 des BSH.\n3. Schwimmende Schifffahrtszeichen zusätzlich in der Anlage I zur SeeSchStrO (z.B. Tonnen des Lateral- bzw. Kardinalsystems).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Unde puteți găsi informații despre caracteristicile semnelor de transport maritim?",
+          "answer_ro": "1. În directoarele balize sau în Lista luminilor precum și extrase din hărțile nautice.\n2. În harta 1/INT 1 a BSH.\n3. Semnele de transport plutitoare în plus în anexa I la SeeSchStrO (de exemplu, tone de sistem lateral sau cardinal).",
+          "text_en": "Where can you find information about the characteristics of shipping signs?",
+          "answer_en": "1. In the beacon directories or in the List of Lights as well as excerpts in the nautical charts.\n2. In map 1/INT 1 of the BSH.\n3. Floating shipping signs additionally in Annex I to the SeeSchStrO (e.g. tons of the lateral or cardinal system)."
         },
         {
           "nr": 14,
           "text_de": "Worauf beziehen sich die Höhenangaben der Leuchtfeuer in Leuchtfeuerverzeichnissen in der Nord- und Ostsee?",
           "answer_de": "In Gewässern mit Gezeiten (z.B. Nordsee) auf mittleres Hochwasser, in gezeitenlosen Gewässern (z.B. Ostsee) auf mittleren Wasserstand.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce se referă informațiile despre înălțime ale balizelor din directoarele de balize din Marea Nordului și Marea Baltică?",
+          "answer_ro": "În apele cu maree (de exemplu, Marea Nordului) până la ape medii mari, în apele de maree (de exemplu, Marea Baltică) până la nivel mediu al apei.",
+          "text_en": "What do the height information of the beacons in beacon directories in the North and Baltic Seas refer to?",
+          "answer_en": "In waters with tides (e.g. North Sea) to medium high water, in tidal waters (e.g. Baltic Sea) to medium water level."
         },
         {
           "nr": 15,
           "text_de": "Wo finden Sie Angaben über Brückensignale?",
           "answer_de": "In den See- und Hafenhandbüchern und in den Seekarten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Unde puteți găsi informații despre semnalele podului?",
+          "answer_ro": "În manualele maritime și portuare și în hărțile nautice.",
+          "text_en": "Where can you find information about bridge signals?",
+          "answer_en": "In the sea and harbor manuals and in the nautical charts."
         },
         {
           "nr": 16,
           "text_de": "Welche Themen (Grobgliederung) enthalten die Seehandbücher des BSH?",
           "answer_de": "1. Schifffahrtsangelegenheiten,\n2. Naturverhältnisse,\n3. Küstenkunde und Segelanweisungen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce subiecte (structură brută) conțin manualele maritime BSH?",
+          "answer_ro": "1. chestiuni de transport maritim,\n2. conditii naturale,\n3. Cunoștințe de coastă și instrucțiuni de navigare.",
+          "text_en": "What topics (rough structure) do the BSH maritime manuals contain?",
+          "answer_en": "1. shipping matters,\n2. natural conditions,\n3. Coastal knowledge and sailing instructions."
         },
         {
           "nr": 17,
           "text_de": "Wie werden Richtungsangaben in nautischen Veröffentlichungen gemacht?",
           "answer_de": "1. Rechtweisend in Grad,\n2. im Uhrzeigersinn (rechtsherum) zählend.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum se dau indicațiile în publicațiile nautice?",
+          "answer_ro": "1. Arătând corect în grade,\n2. numărând în sensul acelor de ceasornic (dreapta).",
+          "text_en": "How are directions given in nautical publications?",
+          "answer_en": "1. Rightly pointing in degrees,\n2. counting clockwise (right)."
         },
         {
           "nr": 18,
           "text_de": "In welchem Quadranten liegt der rote Warnsektor eines Leitfeuers mit der Angabe rot 030°-042°? (Begründung!)",
           "answer_de": "Im Südwest-Quadranten. Angegeben sind die Peilungen zum Leuchtfeuer.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "În ce cadran este sectorul roșu de avertizare al unei lămpi de ghidare marcat cu roșu 030°-042°? (Motiv!)",
+          "answer_ro": "În cadranul sud-vest. Lagărele pentru far sunt date.",
+          "text_en": "In which quadrant is the red warning sector of a guide light marked red 030°-042°? (Reason!)",
+          "answer_en": "In the southwest quadrant. The bearings to the beacon are given."
         },
         {
           "nr": 19,
           "text_de": "Was sind Leitfeuer (direction lights)?",
           "answer_de": "Leitfeuer sind Einzelfeuer, die durch Sektoren verschiedener Farbe oder Kennung (Leit- oder Warnsektoren) im Allgemeinen ein Fahrwasser, eine Hafeneinfahrt oder einen freien Seeraum zwischen Untiefen bezeichnen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce sunt luminile de direcție?",
+          "answer_ro": "Balizele sunt lumini individuale care identifică, în general, un fairway, o intrare în port sau un spațiu liber pe mare între bancuri folosind sectoare de culori diferite sau de identificare (sectoare de ghidare sau de avertizare).",
+          "text_en": "What are direction lights?",
+          "answer_en": "Beacon lights are individual lights that generally identify a fairway, a harbor entrance or a free sea space between shoals using sectors of different colors or identification (guiding or warning sectors)."
         },
         {
           "nr": 20,
           "text_de": "1. Was sind Richtfeuer (leading lights)?\n2. Wann befindet man sich in einer Richtlinie eines Richtfeuers?",
           "answer_de": "1. Richtfeuer sind Feuer, die als Unter- und Oberfeuer in Deckpeilung als Richtlinie beispielsweise einen Kurs im Fahrwasser, durch eine Hafeneinfahrt oder im freien Seeraum zwischen Untiefen bezeichnen.\n2. Ein Schiff befindet sich in der Richtlinie, wenn Unter- und Oberfeuer senkrecht unter-/übereinander erscheinen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Ce sunt luminile conducătoare?\n2. Când sunteți într-un ghid?",
+          "answer_ro": "1. Luminile de ghidare sunt lumini care, ca lumini inferioare și superioare în rulmentul punții, indică un curs în șenal, printr-o intrare în port sau în larg, între bancuri, de exemplu.\n2. O navă se află în liniile directoare atunci când luminile inferioare și superioare apar vertical unul sub/mai sus.",
+          "text_en": "1. What are leading lights?\n2. When are you in a guideline guideline?",
+          "answer_en": "1. Guide lights are lights that, as lower and upper lights in the deck bearing, indicate a course in the fairway, through a harbor entrance or in the open sea between shoals, for example.\n2. A ship is in the guideline when the lower and upper lights appear vertically below/above each other."
         },
         {
           "nr": 21,
           "text_de": "Was ist ein Torfeuer?",
           "answer_de": "Ein Torfeuer besteht aus zwei Feuern gleicher Höhe, gleicher Lichtstärke und gleicher Kennung, die zu beiden Seiten der Fahrwasserachse einander genau gegenüber (rechtwinklig zur Fahrwasserachse) und von der Fahrwasserachse gleich weit entfernt angeordnet sind.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce este un foc de poartă?",
+          "answer_ro": "O lumina de poarta este formata din doua lumini de aceeasi inaltime, aceeasi intensitate luminoasa si aceeasi identificare, care sunt dispuse pe ambele laturi ale axei fairway-ului exact opus unul altuia (in unghi drept fata de axa fairway-ului) si la acelasi distanta fata de axa fairway-ului.",
+          "text_en": "What is a gate fire?",
+          "answer_en": "A gate light consists of two lights of the same height, the same light intensity and the same identification, which are arranged on both sides of the fairway axis exactly opposite each other (at right angles to the fairway axis) and at the same distance from the fairway axis."
         },
         {
           "nr": 22,
           "text_de": "Was ist die „Tragweite“ eines Feuers?",
           "answer_de": "Unter Tragweite versteht man denjenigen Abstand, in dem ein Feuer einen eben noch deutlichen Lichteindruck im Auge des Beobachters hervorruft.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este „raza” unui incendiu?",
+          "answer_ro": "Scopul este distanța la care un foc creează o impresie clară de lumină în ochiul observatorului.",
+          "text_en": "What is the “range” of a fire?",
+          "answer_en": "The scope is the distance at which a fire creates a clear impression of light in the eye of the observer."
         },
         {
           "nr": 23,
           "text_de": "Was ist die „Nenntragweite“ eines Feuers?",
           "answer_de": "Nenntragweite ist die Tragweite eines Feuers für einen definierten Wert bei einer meteorologischen Sichtweite am Tage von 10 sm.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este „întinderea nominală” a unui incendiu?",
+          "answer_ro": "Intervalul nominal este intervalul unui incendiu pentru o valoare definită cu o vizibilitate meteorologică în timpul zilei de 10 nm.",
+          "text_en": "What is the “rated extent” of a fire?",
+          "answer_en": "Nominal range is the range of a fire for a defined value with a meteorological daytime visibility of 10 nm."
         },
         {
           "nr": 24,
           "text_de": "Wovon hängt die „Tragweite“ eines Feuers ab?",
           "answer_de": "Sie hängt u.a. ab\n1. von der Lichtstärke (Helligkeit) des Feuers und\n2. vom Sichtwert (Lichtdurchlässigkeit der Atmosphäre).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce depinde „gravitatea” unui incendiu?",
+          "answer_ro": "Depinde, printre altele\n1. din intensitatea luminoasă (luminozitatea) focului și\n2. valoarea vizibilității (transluciditatea atmosferei).",
+          "text_en": "What does the “severity” of a fire depend on?",
+          "answer_en": "She depends, among other things\n1. from the luminous intensity (brightness) of the fire and\n2. the visibility value (translucency of the atmosphere)."
         },
         {
           "nr": 25,
           "text_de": "In der Seekarte finden Sie bei einem Leuchtfeuer die Eintragung: 18 M.\nWas bedeutet diese Angabe?",
           "answer_de": "Es ist die Nenntragweite, hier 18 Seemeilen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Pe harta nautică veți găsi intrarea lângă un far: 18 M.\nCe înseamnă această informație?",
+          "answer_ro": "Este intervalul nominal, aici 18 mile marine.",
+          "text_en": "On the nautical chart you will find the entry next to a beacon: 18 M.\nWhat does this information mean?",
+          "answer_en": "It is the nominal range, here 18 nautical miles."
         },
         {
           "nr": 26,
           "text_de": "Was ist die „Sichtweite“ eines Feuers?\nWovon hängt sie ab?",
           "answer_de": "Sichtweite ist die Entfernung, auf die ein Leuchtfeuer über die Erdkrümmung (Kimm) hinweg vom Beobachter gesehen werden kann.\nSie hängt ab\n1. von der Feuerhöhe und\n2. von der Augeshöhe des Betrachters.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este „distanța de vedere” a unui incendiu?\nDe ce depinde?",
+          "answer_ro": "Vizibilitatea este distanța la care un far poate fi văzut de observator pe curbura Pământului.\nEa depinde\n1. de la înălţimea focului şi\n2. de la nivelul ochilor privitorului.",
+          "text_en": "What is the “sight distance” of a fire?\nWhat does it depend on?",
+          "answer_en": "Visibility is the distance at which a beacon can be seen by the observer across the curvature of the Earth.\nShe depends\n1. from the fire height and\n2. from the viewer's eye level."
         },
         {
           "nr": 27,
           "text_de": "Wie müssen sich Tragweite und Sichtweite zueinander verhalten, damit das Verfahren zur Ortsbestimmung „Feuer in der Kimm“ angewandt werden kann?",
           "answer_de": "Die Tragweite muss mindestens gleich der Sichtweite sein.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum trebuie să se relaționeze sfera și vizibilitatea, astfel încât procedura de determinare a locației „foc în orizont” să poată fi utilizată?",
+          "answer_ro": "Raza de acțiune trebuie să fie cel puțin egală cu vizibilitatea.",
+          "text_en": "How must range and visibility relate to each other so that the “fire in the horizon” location determination procedure can be used?",
+          "answer_en": "The range must be at least equal to the visibility."
         },
         {
           "nr": 28,
           "text_de": "Wo findet man Tabellen zur Ermittlung des Abstandes eines Feuers in der Kimm?",
           "answer_de": "In deutschen und britischen Leuchtfeuerverzeichnissen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Unde puteți găsi tabele pentru determinarea distanței unui incendiu la orizont?",
+          "answer_ro": "În directoarele de semnalizare germană și britanică.",
+          "text_en": "Where can you find tables for determining the distance of a fire in the horizon?",
+          "answer_en": "In German and British beacon directories."
         },
         {
           "nr": 29,
           "text_de": "Wo sind die in Seekarten verwendeten Symbole und Abkürzungen erklärt?",
           "answer_de": "In der Karte 1/INT 1 des BSH.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Unde sunt explicate simbolurile și abrevierile folosite în hărțile nautice?",
+          "answer_ro": "În harta 1/INT 1 a BSH.",
+          "text_en": "Where are the symbols and abbreviations used in nautical charts explained?",
+          "answer_en": "In map 1/INT 1 of the BSH."
         },
         {
           "nr": 30,
           "text_de": "Wer veröffentlicht die Bekanntmachungen für Seefahrer (BfS) und was umfassen diese Veröffentlichungen?",
           "answer_de": "1. Die BfS werden von den jeweils zuständigen Behörden der Wasser- und Schifffahrtsverwaltung des Bundes bzw. der Länder veröffentlicht.\n2. Sie enthalten alle wichtigen Maßnahmen und Ereignisse auf den Seeschifffahrtsstraßen und der ausschließlichen Wirtschaftszone Deutschlands.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cine publică avizele pentru navigatori (BfS) și ce acoperă aceste publicații?",
+          "answer_ro": "1. BfS sunt publicate de autoritățile federale și de stat relevante pentru apă și transport maritim.\n2. Acestea conțin toate măsurile și evenimentele importante de pe căile maritime și zona economică exclusivă a Germaniei.",
+          "text_en": "Who publishes the notices for seafarers (BfS) and what do these publications cover?",
+          "answer_en": "1. The BfS are published by the relevant federal and state water and shipping authorities.\n2. They contain all important measures and events on the shipping lanes and the exclusive economic zone of Germany."
         },
         {
           "nr": 31,
           "text_de": "Wie werden die Bekanntmachungen für Seefahrer (BfS) der Sportschifffahrt zur Kenntnis gebracht?",
           "answer_de": "Die BfS werden an den amtlichen Aushangstellen (z.B. bei Wasser- und Schifffahrtsämtern, Hafenverwaltungen, WSP-Dienststellen, Schleusen, Yachthäfen) für das betreffende Seegebiet, in dem die Aushangstelle liegt, und für die angrenzenden Reviere und Gebiete sowie im Internet unter www.elwis.de zur Kenntnis gebracht.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum sunt aduse în atenția transportului de agrement avizele pentru navigatori (BfS)?",
+          "answer_ro": "BfS va fi afișat la avizierele oficiale (de exemplu, la autoritățile de apă și transport maritim, administrațiile portuare, birourile WSP, ecluze, porturile de agrement) pentru zona maritimă relevantă în care se află avizierul și pentru zonele și zonele adiacente, ca precum și pe Internet la www .elwis.de ne-a adus în atenție.",
+          "text_en": "How are the Notices for Seafarers (BfS) brought to the attention of recreational shipping?",
+          "answer_en": "The BfS will be posted at the official notice boards (e.g. at water and shipping authorities, port administrations, WSP offices, locks, marinas) for the relevant sea area in which the notice board is located and for the adjacent areas and areas as well as on the Internet at www .elwis.de brought to our attention."
         },
         {
           "nr": 32,
           "text_de": "Zählen Sie die am häufigsten vorkommenden Ereignisse und Maßnahmen auf, über die die Bekanntmachungen für Seefahrer (BfS) unterrichten.",
           "answer_de": "1. Änderungen an Befeuerung, Betonnung und Landmarken,\n2. veränderte Wassertiefen,\n3. Wracke, Schifffahrtshindernisse, Rohrleitungen usw.,\n4. Bauarbeiten, Baggerarbeiten, militärische Übungen und damit zusammenhängende Sperrungen oder Behinderungen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Enumerați cele mai frecvente evenimente și măsuri raportate în Avizele pentru navigatori (BfS).",
+          "answer_ro": "1. Modificări la iluminare, flotabilitate și repere,\n2. modificarea adâncimii apei,\n3. Epave, obstacole de transport, conducte etc.,\n4. Lucrări de construcții, dragare, exerciții militare și închideri sau obstacole aferente.",
+          "text_en": "List the most common events and measures reported in the Notices for Seafarers (BfS).",
+          "answer_en": "1. Changes to lighting, buoyancy and landmarks,\n2. changed water depths,\n3. Wrecks, shipping obstacles, pipelines, etc.,\n4. Construction work, dredging, military exercises and related closures or obstructions."
         },
         {
           "nr": 33,
           "text_de": "Wer gibt die nautischen Warnnachrichten (NWN) heraus und von wem werden sie verbreitet?",
           "answer_de": "Nautische Warnnachrichten (NWN) werden von den Verkehrszentralen für deren Zuständigkeitsbereich und von dem ständig besetzten Seewarndienst Emden für das gesamte deutsche Warngebiet zur Verbreitung über Funk herausgegeben. Der Rundfunksender Deutschlandfunk verbreitet alle über Funk abgegebenen NWN.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cine emite mesajele de avertizare nautice (NWN) și cine le distribuie?",
+          "answer_ro": "Mesajele de avertizare nautică (NWN) sunt emise de centrele de trafic pentru zona lor de responsabilitate și de către serviciul de avertizare maritimă Emden cu echipaj permanent pentru întreaga zonă de avertizare germană pentru distribuție prin radio. Postul de radio Deutschlandfunk transmite toate emisiunile NWN prin radio.",
+          "text_en": "Who issues the Nautical Warning Messages (NWN) and who distributes them?",
+          "answer_en": "Nautical warning messages (NWN) are issued by the traffic centers for their area of responsibility and by the permanently manned Emden maritime warning service for the entire German warning area for distribution via radio. The radio station Deutschlandfunk broadcasts all NWN broadcast over the radio."
         },
         {
           "nr": 34,
           "text_de": "Was bedeutet der Zusatz „vital“ bei einer nautischen Warnnachricht (NWN)?",
           "answer_de": "Die NWN erhält den Zusatz „vital“, wenn die Warnung auf eine lebensbedrohende Gefahr hinweist.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce înseamnă adăugarea „vital” într-un mesaj de avertizare nautică (NWN)?",
+          "answer_ro": "NWN primește adăugarea „vital” dacă avertismentul indică un pericol care pune viața în pericol.",
+          "text_en": "What does the addition “vital” mean in a nautical warning message (NWN)?",
+          "answer_en": "The NWN receives the addition “vital” if the warning indicates a life-threatening danger."
         },
         {
           "nr": 35,
           "text_de": "Welche Besonderheit bezüglich des Zusatzes „vital“ bei einer nautischen Warnnachricht (NWN) gibt es für die Sportschifffahrt?",
           "answer_de": "Vitale nautische Warnnachrichten für die Sportschifffahrt werden während der Zeit vom 1. April bis zum 31. Oktober zur Verbreitung über ausgewählte private und öffentlich-rechtliche Rundfunkanstalten weitergeleitet.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce este special la adăugarea lui „vital” într-un mesaj de avertizare nautică (NWN) pentru barca de agrement?",
+          "answer_ro": "Mesajele de avertizare nautice vitale pentru barca de agrement vor fi transmise pentru distribuție prin intermediul unor radiodifuzori privați și publici selectați în perioada 1 aprilie - 31 octombrie.",
+          "text_en": "What is special about the addition of “vital” in a nautical warning message (NWN) for recreational boating?",
+          "answer_en": "Vital nautical warning messages for recreational boating will be forwarded for distribution via selected private and public broadcasters during the period from April 1st to October 31st."
         },
         {
           "nr": 36,
           "text_de": "Wer gibt die Nachrichten für Seefahrer (NfS) heraus und wie und wie oft erfolgt die Herausgabe?",
           "answer_de": "Die NfS werden vom BSH in Heftform und im Internet herausgegeben und erscheinen einmal wöchentlich.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cine publică Știrile pentru navigatori (NfS) și cât și cât de des este publicată?",
+          "answer_ro": "NfS sunt publicate de BSH sub formă de revistă și pe Internet și apar o dată pe săptămână.",
+          "text_en": "Who publishes the News for Seafarers (NfS) and how and how often is it published?",
+          "answer_en": "The NfS are published by the BSH in magazine form and on the Internet and appear once a week."
         },
         {
           "nr": 37,
           "text_de": "Welche Unterlage steht Ihnen zur Verfügung zur Berichtigung von britischen Seekarten, die nicht von den NfS erfasst werden?",
           "answer_de": "Die britischen Notices to Mariners.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce documente aveți la dispoziție pentru a corecta hărțile nautice britanice care nu sunt acoperite de NfS?",
+          "answer_ro": "Notificările britanice pentru marinari.",
+          "text_en": "What documents do you have available to correct British nautical charts that are not covered by the NfS?",
+          "answer_en": "The British Notices to Mariners."
         },
         {
           "nr": 38,
           "text_de": "1. Was sind P-Nachrichten?\n2. Wie verfährt man mit diesen Nachrichten im Berichtigungsverfahren? (Begründung!)",
           "answer_de": "1. P-Nachrichten sind solche, die eine bevorstehende (preliminary) Maßnahme ankündigen.\n2. Wegen der begrenzten Geltungsdauer werden keine Berichtigungen auf der Grundlage von P-Nachrichten vom BSH bzw. von amtlichen Seekartenberichtigungsstellen durchgeführt. Deshalb müssen vor Gebrauch jeder Seekarte die noch gültigen P-Nachrichten erfasst und in der Karte vermerkt werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Ce sunt mesajele P?\n2. Cum gestionați aceste mesaje în procesul de rectificare? (Motiv!)",
+          "answer_ro": "1. Mesajele P sunt cele care anunță o acțiune (preliminară) viitoare.\n2. Datorită perioadei limitate de valabilitate, nu se vor efectua corecții pe baza mesajelor P de la BSH sau organismele oficiale de corectare a hărților nautice. Prin urmare, înainte de a utiliza orice hartă nautică, mesajele P care sunt încă valabile trebuie înregistrate și notate pe hartă.",
+          "text_en": "1. What are P-messages?\n2. How do you handle these messages in the rectification process? (Reason!)",
+          "answer_en": "1. P-messages are those that announce an upcoming (preliminary) action.\n2. Due to the limited period of validity, no corrections will be carried out based on P messages from the BSH or official nautical chart correction bodies. Therefore, before using any nautical chart, the P messages that are still valid must be recorded and noted on the chart."
         },
         {
           "nr": 39,
           "text_de": "1. Was sind T-Nachrichten?\n2. Wie verfährt man mit diesen Nachrichten im Berichtigungsverfahren? (Begründung!)",
           "answer_de": "1. T-Nachrichten sind solche, die über einen zeitweiligen (temporary) Zustand unterrichten.\n2. Wegen der begrenzten Geltungsdauer werden keine Berichtigungen auf der Grundlage von T-Nachrichten vom BSH bzw. amtlichen Seekartenberichtigungsstellen durchgeführt. Deshalb müssen vor Gebrauch jeder Seekarte die noch gültigen T-Nachrichten erfasst und in der Karte vermerkt werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "1. Ce sunt mesajele T?\n2. Cum gestionați aceste mesaje în procesul de rectificare? (Motiv!)",
+          "answer_ro": "1. Mesajele T sunt cele care informează despre o stare temporară.\n2. Datorită perioadei limitate de valabilitate, nu vor fi efectuate corecții bazate pe mesajele T de către BSH sau organismele oficiale de corectare a hărților nautice. Prin urmare, înainte de a utiliza orice hartă nautică, mesajele T care sunt încă valabile trebuie înregistrate și notate pe hartă.",
+          "text_en": "1. What are T-messages?\n2. How do you handle these messages in the rectification process? (Reason!)",
+          "answer_en": "1. T-messages are those that inform about a temporary state.\n2. Due to the limited period of validity, no corrections based on T-messages will be carried out by the BSH or official nautical chart correction bodies. Therefore, before using any nautical chart, the T-messages that are still valid must be recorded and noted on the chart."
         },
         {
           "nr": 40,
           "text_de": "Worauf muss beim Ansteuern einer Küste bei der Auswahl von Seekarten geachtet werden? Begründen Sie Ihre Antwort.",
           "answer_de": "Seekarten mit größtmöglichem Maßstab verwenden. Nur in diesen Karten sind alle Schifffahrtszeichen und weitere für die Navigation wichtigen Informationen eingetragen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce ar trebui să fiți atenți atunci când alegeți hărțile nautice când vă îndreptați către o coastă? Justificati raspunsul.",
+          "answer_ro": "Utilizați hărțile nautice la cea mai mare scară posibilă. Numai aceste hărți conțin toate indicatoarele de navigație și alte informații importante pentru navigare.",
+          "text_en": "What should you pay attention to when choosing nautical charts when heading to a coast? Justify your answer.",
+          "answer_en": "Use nautical charts at the largest possible scale. Only these maps contain all navigation signs and other information important for navigation."
         },
         {
           "nr": 41,
           "text_de": "Was müssen Sie bei Kursberechnungen hinsichtlich der in der Seekarte angegebenen Ortsmissweisungen beachten?",
           "answer_de": "Die für ein bestimmtes Jahr angegebene Missweisung muss mittels der in der Seekarte angegebenen jährlichen Änderung für das aktuelle Jahr berichtigt werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce trebuie să țineți cont la calcularea cursului în ceea ce privește abaterile de locație indicate pe harta nautică?",
+          "answer_ro": "Declinarea declarată pentru un anumit an trebuie corectată pentru anul curent folosind modificarea anuală indicată pe harta nautică.",
+          "text_en": "What do you have to take into account when calculating course with regard to the location deviations indicated on the nautical chart?",
+          "answer_en": "The deflection specified for a specific year must be corrected for the current year using the annual change specified in the nautical chart."
         },
         {
           "nr": 42,
           "text_de": "Was müssen Sie bei der Benutzung von deutschen „Sportbootkarten“ beachten?",
           "answer_de": "Sie werden nach dem Druck weder vom BSH noch von den Seekartenvertriebsstellen berichtigt. Sie müssen also vom Nutzer nach dem Kauf vor Benutzung über die NfS auf den aktuellen Stand berichtigt werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce trebuie să luați în considerare atunci când utilizați „cartele de barcă sportivă” germană?",
+          "answer_ro": "Nu vor fi corectate de către BSH sau birourile de vânzări hărți nautice după tipărire. Prin urmare, acestea trebuie corectate la starea curentă de către utilizator prin intermediul NfS după cumpărare înainte de utilizare.",
+          "text_en": "What do you have to consider when using German “sports boat cards”?",
+          "answer_en": "They will not be corrected by the BSH or the nautical chart sales offices after printing. They must therefore be corrected to the current status by the user via the NfS after purchase before use."
         },
         {
           "nr": 43,
           "text_de": "Nach welcher Faustregel können Sie m/s in Knoten umrechnen?",
           "answer_de": "„Doppelt so viele Knoten (kn) wie m/s“ oder „m/s multipliziert mit 2 = kn“.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce regulă generală puteți folosi pentru a converti m/s în noduri?",
+          "answer_ro": "„De două ori mai multe noduri (kn) decât m/s” sau „m/s înmulțit cu 2 = kn”.",
+          "text_en": "What rule of thumb can you use to convert m/s to knots?",
+          "answer_en": "“Twice as many knots (kn) as m/s” or “m/s multiplied by 2 = kn”."
         },
         {
           "nr": 44,
           "text_de": "Was müssen Sie beachten, wenn Sie die mit Loggen ermittelte Fahrt z.B. für das Arbeiten in Seekarten berücksichtigen wollen?",
           "answer_de": "Die üblichen Logmethoden liefern ausschließlich die „Fahrt durchs Wasser (FdW)“. Um die „Fahrt über Grund (FüG)“ zu ermitteln, müssen Stromrichtung und Stromgeschwindigkeit berücksichtigt werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce trebuie să luați în considerare dacă doriți să luați în considerare călătoria determinată folosind logare, de exemplu atunci când lucrați în hărți nautice?",
+          "answer_ro": "Metodele obișnuite de înregistrare furnizează doar „călătoria prin apă (FdW)”. Pentru a determina „deplasarea pe sol (FüG)”, trebuie luate în considerare direcția și viteza curentului.",
+          "text_en": "What do you have to consider if you want to take the trip determined using logging into account, for example when working in nautical charts?",
+          "answer_en": "The usual logging methods only provide the “travel through water (FdW)”. In order to determine the “travel over ground (FüG)”, the direction and speed of the current must be taken into account."
         },
         {
           "nr": 45,
           "text_de": "Welche Fahrt zeigen GPS-Geräte an?",
           "answer_de": "Die Fahrt über Grund (FüG).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce călătorie arată dispozitivele GPS?",
+          "answer_ro": "Călătoria pe pământ (FüG).",
+          "text_en": "What trip do GPS devices show?",
+          "answer_en": "The journey over ground (FüG)."
         },
         {
           "nr": 46,
           "text_de": "Welchen Kurs zeigen GPS-Geräte an?",
           "answer_de": "Den Kurs über Grund (KüG).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce curs arată dispozitivele GPS?",
+          "answer_ro": "Cursul deasupra solului (KüG).",
+          "text_en": "What course do GPS devices show?",
+          "answer_en": "The course above ground (KüG)."
         },
         {
           "nr": 47,
           "text_de": "Warum müssen Sie Ihre Position regelmäßig in die Seekarte eintragen?",
           "answer_de": "Um Abweichungen von der Kurslinie frühzeitig und sicher zu erkennen und um ggf. den Kurs zu berichtigen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce trebuie să vă înregistrați regulat poziția pe harta nautică?",
+          "answer_ro": "Pentru a detecta abaterile de la linia de curs din timp și în siguranță și pentru a corecta cursul dacă este necesar.",
+          "text_en": "Why do you have to regularly record your position on the nautical chart?",
+          "answer_en": "To detect deviations from the course line early and safely and to correct the course if necessary."
         },
         {
           "nr": 48,
           "text_de": "Was ist die Besteckversetzung (BV)?",
           "answer_de": "Richtung (rw) und Entfernung (in sm) vom Koppelort (Ok) zum beobachteten Ort (Ob), bezogen auf den gleichen Zeitpunkt.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce este compensarea tacâmurilor (BV)?",
+          "answer_ro": "Direcția (rw) și distanța (în sm) de la locul de cuplare (Ok) la locul observat (Ob), pe baza aceluiași timp.",
+          "text_en": "What is cutlery offset (BV)?",
+          "answer_en": "Direction (rw) and distance (in sm) from the coupling location (Ok) to the observed location (Ob), based on the same time."
         },
         {
           "nr": 49,
           "text_de": "Welche Ursachen kann die Besteckversetzung (BV) haben?",
           "answer_de": "Die BV kann folgende Ursachen haben:\n1. ungenaues Steuern und Koppeln,\n2. Kursfehler (z.B. ungenaue Steuertafel) und\n3. fehlende oder unvollständige Berücksichtigung von Strom und Wind.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care sunt cauzele luxației tacâmurilor (BV)?",
+          "answer_ro": "BV poate avea următoarele cauze:\n1. control și cuplare inexacte,\n2. Erori de curs (de exemplu, panou de control inexact) și\n3. luarea în considerare lipsă sau incompletă a energiei electrice și eoliene.",
+          "text_en": "What are the causes of cutlery dislocation (BV)?",
+          "answer_en": "BV can have the following causes:\n1. inaccurate control and coupling,\n2. Course errors (e.g. inaccurate control panel) and\n3. missing or incomplete consideration of electricity and wind."
         },
         {
           "nr": 50,
           "text_de": "Warum sollte der Winkel zwischen zwei Peilungen nicht kleiner als 30° und nicht größer als 150° sein?",
           "answer_de": "Damit der gefundene Standort eine ausreichend sichere Positionsbestimmung ergibt.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce unghiul dintre doi lagăre nu ar trebui să fie mai mic de 30° și nu mai mare de 150°?",
+          "answer_ro": "Pentru ca locația găsită să rezulte într-o determinare a poziției suficient de sigură.",
+          "text_en": "Why should the angle between two bearings not be less than 30° and not greater than 150°?",
+          "answer_en": "So that the location found results in a sufficiently reliable position determination."
         },
         {
           "nr": 51,
           "text_de": "Warum sind regelmäßige Kompasskontrollen erforderlich?",
           "answer_de": "Zur Überprüfung der Funktionsfähigkeit des Kompasses und der Werte in der Ablenkungstabelle.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce sunt necesare verificări regulate ale busolei?",
+          "answer_ro": "Pentru a verifica funcționalitatea busolei și valorile din tabelul de deviere.",
+          "text_en": "Why are regular compass checks necessary?",
+          "answer_en": "To check the functionality of the compass and the values in the deflection table."
         },
         {
           "nr": 52,
           "text_de": "Wodurch können auch in gezeitenlosen Revieren erhebliche Wasserstandsschwankungen und Strömungen (z.B. Triftstrom) hervorgerufen werden?",
           "answer_de": "Durch Stärke, Dauer und Richtung des Windes oder „Zurückschwappen“ aufgestauter Wassermassen (z.B. Ostsee).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce poate cauza fluctuații semnificative ale nivelului apei și curenți (de exemplu, curent de derivă) chiar și în zonele de maree?",
+          "answer_ro": "Datorită puterii, duratei și direcției vântului sau „apăsării” maselor de apă îndiguite (de exemplu, Marea Baltică).",
+          "text_en": "What can cause significant water level fluctuations and currents (e.g. drift current) even in tidal areas?",
+          "answer_en": "Due to the strength, duration and direction of the wind or the “sloshing back” of dammed water masses (e.g. Baltic Sea)."
         },
         {
           "nr": 53,
           "text_de": "Welche navigatorischen Vorbereitungen treffen Sie vor einer Fahrt in Dunkelheit?",
           "answer_de": "1. Kurse und Kursänderungspunkte möglichst vorausbestimmen,\n2. Untiefen und Hindernisse in der Karte besonders kennzeichnen,\n3. in der Seekarte markieren, welche Leuchtfeuer wann und wo in der Kimm erscheinen und\n4. Wegstrecke nach unbefeuerten Tonnen absuchen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce pregătiri de navigație faci înainte de a conduce pe întuneric?",
+          "answer_ro": "1. Predeterminați cursurile și punctele de schimbare a cursului pe cât posibil,\n2. Marcați bancurile și obstacolele în mod specific pe hartă,\n3. Marcați pe harta nautică ce balize apar când și unde în orizont și\n4. Căutați pe traseu butoaiele nearse.",
+          "text_en": "What navigational preparations do you make before driving in the dark?",
+          "answer_en": "1. Predetermine courses and course change points as far as possible,\n2. Mark shoals and obstacles specifically on the map,\n3. Mark on the nautical chart which beacons appear when and where in the horizon and\n4. Search the route for unfired barrels."
         },
         {
           "nr": 54,
           "text_de": "Welche Möglichkeiten der terrestrischen Ortsbestimmung muss man kennen?",
           "answer_de": "1. Kreuzpeilung\n2. Peilung und Abstand (Feuer in der Kimm, Radarabstand),\n3. Peilung und Lotung.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce opțiuni pentru poziționarea terestră trebuie să știți?",
+          "answer_ro": "1. Rulment în cruce\n2. Orientare și distanță (foc la orizont, distanță radar),\n3. Rulment și sondare.",
+          "text_en": "What options for terrestrial positioning do you need to know?",
+          "answer_en": "1. Cross bearing\n2. Bearing and distance (fire in the horizon, radar distance),\n3. Bearing and sounding."
         },
         {
           "nr": 55,
           "text_de": "Nennen Sie zwei Möglichkeiten der Ortsbestimmung, wenn Sie nur ein Objekt mit bekannten Merkmalen (z.B. Leuchtturm) in Sicht haben.",
           "answer_de": "1. Peilung und Abstand (Feuer in der Kimm, Radarabstand),\n2. Peilung und Lotung.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Numiți două moduri de a determina locația dacă aveți la vedere doar un obiect cu caracteristici cunoscute (de exemplu, un far).",
+          "answer_ro": "1. Orientare și distanță (foc la orizont, distanță radar),\n2. Rulment și sondare.",
+          "text_en": "Name two ways to determine location if you only have an object with known features (e.g. lighthouse) in sight.",
+          "answer_en": "1. Bearing and distance (fire in the horizon, radar distance),\n2. Bearing and sounding."
         },
         {
           "nr": 56,
           "text_de": "Welche Nordrichtungen werden in der Navigation unterschieden?\nErläutern Sie diese kurz.",
           "answer_de": "1. rwN: rechtweisend Nord ist die Richtung eines Meridians zum geographischen Nordpol.\n2. mwN: missweisend Nord ist die Richtung des erdmagnetischen Feldes zum magnetischen Nordpol, abhängig von Schiffsort und Datum (Jahr). In diese Richtung stellt sich eine ungestörte Magnet-(Kompass-)nadel ein.\n3. MgN: ist die Richtung zu Magnetkompass-Nord. In diese Richtung zeigt die durch das schiffsmagnetische Feld beeinflusste Kompassnadel an Bord.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce direcții de nord se disting în navigație?\nExplicați-le pe scurt.",
+          "answer_ro": "1. rwN: nordul adevărat este direcția unui meridian către polul nord geografic.\n2. mwN: nordul măsurat este direcția câmpului magnetic al pământului către polul nord magnetic, în funcție de locația navei și data (anul). Un ac magnetic (busolă) netulburat este poziționat în această direcție.\n3. MgN: este direcția către nordul busolei magnetice. Acul busolei de la bord, influențat de câmpul magnetic al navei, îndreaptă în această direcție.",
+          "text_en": "Which north directions are distinguished in navigation?\nExplain these briefly.",
+          "answer_en": "1. rwN: true north is the direction of a meridian to the geographical north pole.\n2. mwN: measured north is the direction of the earth's magnetic field to the magnetic north pole, depending on the ship's location and date (year). An undisturbed magnetic (compass) needle is positioned in this direction.\n3. MgN: is the direction to magnetic compass north. The compass needle on board, influenced by the ship's magnetic field, points in this direction."
         },
         {
           "nr": 57,
           "text_de": "Nennen Sie die Winkel zwischen den Nordrichtungen rechtweisend Nord (rwN), missweisend Nord (mwN) und Magnetkompass-Nord (MgN).",
           "answer_de": "1. Mw: Missweisung ist der Winkel von rwN nach mwN.\n2. Abl: Ablenkung (Abl) oder Deviation (Dev) ist der Winkel von mwN nach MgN.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Numiți unghiurile dintre direcțiile nord nordul adevărat (rwN), nordul adevărat (mwN) și nordul busolei magnetice (MgN).",
+          "answer_ro": "1. Mw: Declinația este unghiul de la rwN la mwN.\n2. Abl: Deviația (Abl) sau Deviația (Dev) este unghiul de la mwN la MgN.",
+          "text_en": "Name the angles between the north directions true north (rwN), true north (mwN) and magnetic compass north (MgN).",
+          "answer_en": "1. Mw: Declination is the angle from rwN to mwN.\n2. Abl: Deflection (Abl) or Deviation (Dev) is the angle from mwN to MgN."
         },
         {
           "nr": 58,
           "text_de": "Nennen Sie den Winkel zwischen den Nordrichtungen rwN und MgN.",
           "answer_de": "Der Winkel von rwN nach MgN ist die Fehlweisung (Fw; Abl + Mw = Fw).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Precizați unghiul dintre direcțiile nord rwN și MgN.",
+          "answer_ro": "Unghiul de la rwN la MgN este direcția greșită (Fw; Abl + Mw = Fw).",
+          "text_en": "State the angle between the north directions rwN and MgN.",
+          "answer_en": "The angle from rwN to MgN is the misdirection (Fw; Abl + Mw = Fw)."
         },
         {
           "nr": 59,
           "text_de": "Wo finden Sie die erforderlichen Werte der Missweisung? Worauf ist dabei zu achten?",
           "answer_de": "1. Die Missweisung findet sich in der Seekarte eingedruckt für ein bestimmtes Jahr.\n2. Dieser Wert muss mit der ebenfalls in der Seekarte angegebenen jährlichen Änderung auf das Jahr der Benutzung berichtigt werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Unde puteți găsi valorile declinației necesare? La ce ar trebui să fii atent?",
+          "answer_ro": "1. Declinația poate fi găsită tipărită pe harta nautică pentru un anumit an.\n2. Această valoare trebuie corectată la anul de utilizare cu modificarea anuală indicată și pe harta nautică.",
+          "text_en": "Where can you find the required declination values? What should you pay attention to?",
+          "answer_en": "1. The declination can be found printed on the nautical chart for a specific year.\n2. This value must be corrected to the year of use with the annual change also indicated on the nautical chart."
         },
         {
           "nr": 60,
           "text_de": "Wo finden Sie die erforderlichen Werte der Ablenkung (Abl)? Worauf ist dabei zu achten?",
           "answer_de": "1. Die Abl wird einer Ablenkungstabelle entnommen.\n2. Die Abl ist abhängig vom anliegenden Kurs.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Unde puteți găsi valorile de deformare (Abl) necesare? La ce ar trebui să fii atent?",
+          "answer_ro": "1. Abl este luat de pe o masă de deviere.\n2. ABL depinde de cursul curent.",
+          "text_en": "Where can you find the required deflection (Abl) values? What should you pay attention to?",
+          "answer_en": "1. The Abl is taken from a deflection table.\n2. The ABL depends on the current course."
         },
         {
           "nr": 61,
           "text_de": "Warum muss für jedes Fahrzeug eine eigene Ablenkungstabelle (Steuertafel) erstellt werden?",
           "answer_de": "Die Ablenkungstabelle kann auf jedem Schiff andere Werte haben.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce trebuie creat un tabel separat de distragere a atenției (panoul de control) pentru fiecare vehicul?",
+          "answer_ro": "Tabelul de deviere poate avea valori diferite pe fiecare navă.",
+          "text_en": "Why does a separate distraction table (control panel) have to be created for each vehicle?",
+          "answer_en": "The deflection table can have different values on each ship."
         },
         {
           "nr": 62,
           "text_de": "Worauf müssen Sie achten, wenn eine Magnetkompasspeilung (MgP) auf eine rechtweisende Peilung (rwP) beschickt werden soll?",
           "answer_de": "Abl für den anliegenden MgK (Magnetkompasskurs) aus der Steuertafel (Ablenkungstabelle) entnehmen; an den so erhaltenen mwK (missweisenden Kurs) die für das laufende Jahr der Seekarte entnommene Mw anbringen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce trebuie să acordați atenție atunci când o bușolă magnetică (MgP) urmează să fie setată la o direcție adevărată (rwP)?",
+          "answer_ro": "Luați Abl pentru MgK aplicat (direcția busolei magnetice) din panoul de control (masa de deviere); Atașați Mw preluat din harta nautică pentru anul în curs la mwK (curs măsurat) obținut în acest fel.",
+          "text_en": "What do you have to pay attention to when a magnetic compass bearing (MgP) is to be set to a true bearing (rwP)?",
+          "answer_en": "Take Abl for the applied MgK (magnetic compass heading) from the control panel (deflection table); Attach the Mw taken from the nautical chart for the current year to the mwK (measured course) obtained in this way."
         },
         {
           "nr": 63,
           "text_de": "Unter welchen Voraussetzungen ergibt sich eine brauchbare Standlinie aus einer Lotung?",
           "answer_de": "Der Meeresgrund muss ausreichend regelmäßig und ausreichend steil ansteigen/abfallen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "În ce condiții rezultă o linie de poziție utilă dintr-o sondare?",
+          "answer_ro": "Fondul mării trebuie să se ridice/să coboare suficient de regulat și abrupt.",
+          "text_en": "Under what conditions does a useful position line result from a sounding?",
+          "answer_en": "The seabed must rise/fall sufficiently regularly and steeply."
         },
         {
           "nr": 64,
           "text_de": "Neben den Fahrwassertonnen liegen auf den Seeschifffahrtsstraßen weitere Tonnen aus, die für die Sportschifffahrt besonders wichtig sind. Welche Schifffahrtszeichen sind das?",
           "answer_de": "Sonderzeichen zur Bezeichnung von Sperrgebieten und Kardinalzeichen für allgemeine Gefahrenstellen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "În plus față de geamanduri de cale ferată, există și alte geamanduri pe rutele de transport maritim care sunt deosebit de importante pentru transportul de agrement. Ce semne de transport sunt acestea?",
+          "answer_ro": "Simboluri speciale pentru a desemna zone restricționate și simboluri cardinale pentru zonele de pericol general.",
+          "text_en": "In addition to the fairway buoys, there are other buoys on the shipping routes that are particularly important for recreational shipping. What shipping signs are these?",
+          "answer_en": "Special symbols to designate restricted areas and cardinal symbols for general danger areas."
         },
         {
           "nr": 65,
           "text_de": "Aus welchen nautischen Publikationen können Sie Sperr- und Verbotsgebiete mit ihren Grenzen ersehen?",
           "answer_de": "Aus den Seekarten, Bekanntmachungen für Seefahrer (BfS) und Nautischen Warnnachrichten (NWN).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Din ce publicații nautice puteți vedea zone restricționate și interzise și limitele acestora?",
+          "answer_ro": "Din hărțile nautice, avizele pentru navigatori (BfS) și mesajele de avertizare nautică (NWN).",
+          "text_en": "From which nautical publications can you see restricted and prohibited areas and their boundaries?",
+          "answer_en": "From the nautical charts, notices for seafarers (BfS) and nautical warning messages (NWN)."
         },
         {
           "nr": 66,
           "text_de": "Welche Sonderzeichen kennzeichnen Reeden, besondere Gebiete oder Stellen, z.B. Warngebiete?",
           "answer_de": "Gelbe Fasstonnen, Leuchttonnen, Spierentonnen oder Stangen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce caractere speciale identifică raze, zone sau locuri speciale, de exemplu, zone de avertizare?",
+          "answer_ro": "Butoaie galbene, butoaie ușoare, butoaie sau stâlpi.",
+          "text_en": "Which special characters identify roadsteads, special areas or places, e.g. warning areas?",
+          "answer_en": "Yellow barrels, light barrels, spar barrels or poles."
         },
         {
           "nr": 67,
           "text_de": "Welche Sonderzeichen kennzeichnen Sperrgebiete?",
           "answer_de": "Gelbe Fasstonnen, Leuchttonnen, Spierentonnen oder Stangen mit einem breiten roten Band. Beschriftung auf Fasstonne oder Leuchttonne mit schwarzen Buchstaben: „Sperrgebiet“ oder „Sperr-G.“",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce caractere speciale indică zone restricționate?",
+          "answer_ro": "Butoaie galbene, butoaie ușoare, butoaie spate sau stâlpi cu o bandă roșie largă. Etichetare pe butoaie sau butoaie ușoare cu litere negre: „Sperrgebiet” sau „Sperr-G”.",
+          "text_en": "Which special characters indicate restricted areas?",
+          "answer_en": "Yellow barrels, light barrels, spar barrels or poles with a wide red band. Labeling on barrel barrels or light barrels with black letters: “Sperrgebiet” or “Sperr-G.”"
         },
         {
           "nr": 68,
           "text_de": "Welche Farbe haben Feuer auf Sonderzeichen, wenn vorhanden?",
           "answer_de": "Farbe gelb.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce culoare sunt incendiile pe personaje speciale, dacă există?",
+          "answer_ro": "Culoare galben.",
+          "text_en": "What color are fires on special characters, if any?",
+          "answer_en": "Color yellow."
         },
         {
           "nr": 69,
           "text_de": "Was bedeutet das Ausliegen der folgenden Schifffahrtszeichen: weiße Fasstonne, Kugeltonne oder Stange mit einem - von oben gesehen - rechtwinkligen gelben Kreuz bzw. bei Stangen mit einem breiten gelben Band?",
           "answer_de": "Fahrverbot für Maschinenfahrzeuge und Wassermotorräder auf wegen Badebetrieb gesperrten Wasserflächen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce inseamna afisarea urmatoarelor simboluri de transport: geamandura butoi alba, geamandura cu bile sau stalp cu o - vazuta de sus - o cruce galbena dreptunghiulara sau, in cazul stalpilor, cu banda lata galbena?",
+          "answer_ro": "Interdicția de conducere a autovehiculelor și a ambarcațiunilor personale pe zonele de apă închise pentru scăldat.",
+          "text_en": "What does it mean to display the following shipping symbols: white barrel buoy, ball buoy or pole with a - seen from above - a rectangular yellow cross or, in the case of poles, with a wide yellow band?",
+          "answer_en": "Driving ban for motor vehicles and personal watercraft on water areas closed for bathing purposes."
         },
         {
           "nr": 70,
           "text_de": "Wie stehen Sonne und Mond winkelmäßig zur Erde bei Springzeit und bei Nippzeit (die Springverspätung soll hier unberücksichtigt bleiben)?",
           "answer_de": "Bei Springzeit befinden sich Mond und Sonne in einer Ebene mit der Erde, bei Nippzeit stehen die Verbindungslinien Erde/Sonne und Erde/Mond im rechten Winkel zueinander.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este unghiul soarelui și al lunii față de pământ în timpul săriturii și al timpului neap (întârzierea săriturii nu trebuie luată în considerare aici)?",
+          "answer_ro": "În timpul săriturii, luna și soarele sunt în același plan cu pământul; în timpul perioadei de strângere, liniile de legătură pământ/soare și pământ/lună sunt în unghi drept unul față de celălalt.",
+          "text_en": "What is the angle of the sun and moon to the earth during jumping time and neap time (the jumping delay should not be taken into account here)?",
+          "answer_en": "During jumping time, the moon and sun are in the same plane as the earth; during nipping time, the earth/sun and earth/moon connecting lines are at right angles to one another."
         },
         {
           "nr": 71,
           "text_de": "Erklären Sie den Begriff „Alter der Gezeit“.",
           "answer_de": "Das Alter der Gezeit gibt an, in welcher Phase (Nippzeit, Mittzeit, Springzeit) sich das aktuelle Tidengeschehen befindet.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Explicați termenul „vârsta mareei”.",
+          "answer_ro": "Vârsta mareei indică în ce fază (timp de neap, timp de mijloc, primăvară) se află evenimentul curent de maree.",
+          "text_en": "Explain the term “age of the tide”.",
+          "answer_en": "The age of the tide indicates which phase (neap time, middle time, spring time) the current tidal event is in."
         },
         {
           "nr": 72,
           "text_de": "Warum findet man z.B. bei Bezugsorten in der Nordsee bzw. im englischen Kanal zeitweise nur ein Hoch- bzw. Niedrigwasser pro Tag?",
           "answer_de": "Die Umlaufzeit des Mondes um die Erde dauert im Mittel 24 h 50 min (Mondtag) gegenüber dem Sonnentag (= 24 h). Deshalb „rutscht“ das letzte HW oder NW zeitweise in den nächsten Tag.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce, de exemplu, există uneori doar o apă mare sau joasă pe zi la punctele de referință din Marea Nordului sau în Canalul Mânecii?",
+          "answer_ro": "Perioada orbitală a Lunii în jurul Pământului durează în medie 24 de ore și 50 de minute (ziua lunară) comparativ cu ziua solară (= 24 de ore). Acesta este motivul pentru care ultimul HW sau NW „alunecă” temporar în ziua următoare.",
+          "text_en": "Why, for example, is there sometimes only one high or low water per day at reference points in the North Sea or in the English Channel?",
+          "answer_en": "The moon's orbital period around the Earth lasts on average 24 hours 50 minutes (lunar day) compared to the solar day (= 24 hours). This is why the last HW or NW temporarily “slips” into the next day."
         },
         {
           "nr": 73,
           "text_de": "Weshalb und wie können die tatsächlichen Wasserstände von den Angaben in den Gezeitentafeln teilweise erheblich abweichen?",
           "answer_de": "Durch Wind und/oder durch sehr hohen bzw. sehr niedrigen Luftdruck können erhebliche Wasserstandsänderungen entstehen. HWH bzw. NWH können höher oder niedriger sein als angegeben, die Hoch- und Niedrigwasserzeit kann früher oder später eintreten als angegeben.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce și cum pot fi uneori nivelurile reale ale apei să difere semnificativ de informațiile din tabelele de maree?",
+          "answer_ro": "Pot apărea modificări semnificative ale nivelului apei din cauza vântului și/sau a presiunii atmosferice foarte ridicate sau foarte scăzute. HWH sau NWH pot fi mai mari sau mai mici decât cele specificate, iar orele de maree înaltă și joasă pot apărea mai devreme sau mai târziu decât cele specificate.",
+          "text_en": "Why and how can the actual water levels sometimes differ significantly from the information in the tide tables?",
+          "answer_en": "Significant water level changes can occur due to wind and/or very high or very low air pressure. HWH or NWH may be higher or lower than specified, and the high and low tide times may occur earlier or later than specified."
         },
         {
           "nr": 74,
           "text_de": "Worauf beziehen sich die Tiefenangaben in Seekarten in den deutschen Gewässern der Ost- und Nordsee?",
           "answer_de": "Auf Kartennull (KN).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce se referă informațiile de adâncime de pe hărțile nautice din apele germane ale Mării Baltice și ale Mării Nordului?",
+          "answer_ro": "Pe harta zero (KN).",
+          "text_en": "What do the depth information on nautical charts in the German waters of the Baltic and North Seas refer to?",
+          "answer_en": "On map zero (KN)."
         },
         {
           "nr": 75,
           "text_de": "Was ist Kartennull?",
           "answer_de": "Kartennull (KN) ist die Bezugsfläche für die Tiefenangaben in einer Seekarte.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce este cardul zero?",
+          "answer_ro": "Harta zero (KN) este suprafața de referință pentru informațiile de adâncime pe o hartă nautică.",
+          "text_en": "What is card zero?",
+          "answer_en": "Map zero (KN) is the reference surface for the depth information on a nautical chart."
         },
         {
           "nr": 76,
           "text_de": "Wie ist Kartennull (KN) in der Ost- und Nordsee und im Englischen Kanal definiert?\nWo finden Sie die entsprechenden Angaben zur Kartennullebene?",
           "answer_de": "In der Ostsee entspricht KN dem mittleren Wasserstand.\nIn der Nordsee und im Englischen Kanal entspricht KN dem niedrigstmöglichen Gezeitenwasserstand (LAT = Lowest Astronomical Tide).\nIn der jeweiligen Seekarte ist die Kartennullebene beschrieben.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum este definită graficul zero (KN) în Marea Baltică și Marea Nordului și Canalul Mânecii?\nUnde puteți găsi informații relevante despre nivelul zero al hărții?",
+          "answer_ro": "În Marea Baltică, KN corespunde nivelului mediu al apei.\nÎn Marea Nordului și Canalul Mânecii, KN corespunde celui mai scăzut nivel posibil al apei de maree (LAT = Lowest Astronomical Tide).\nNivelul zero al hărții este descris în harta nautică respectivă.",
+          "text_en": "How is chart zero (KN) defined in the Baltic and North Seas and the English Channel?\nWhere can you find the relevant information about the map zero level?",
+          "answer_en": "In the Baltic Sea, KN corresponds to the mean water level.\nIn the North Sea and the English Channel, KN corresponds to the lowest possible tidal water level (LAT = Lowest Astronomical Tide).\nThe map zero level is described in the respective nautical chart."
         },
         {
           "nr": 77,
           "text_de": "Was müssen Sie bedenken, wenn Sie die Wassertiefe außerhalb der Niedrigwasserzeit loten?",
           "answer_de": "Beim folgenden Niedrigwasser wird die Wassertiefe geringer sein als zum Zeitpunkt der Lotung.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce trebuie să țineți cont atunci când sondați adâncimea apei în afara orelor de maree joasă?",
+          "answer_ro": "La următoarea val de joasă, adâncimea apei va fi mai mică decât la momentul sondajului.",
+          "text_en": "What do you need to consider when sounding the water depth outside of low tide times?",
+          "answer_en": "At the following low tide, the water depth will be less than at the time of sounding."
         },
         {
           "nr": 78,
           "text_de": "Was ist die Kartentiefe?",
           "answer_de": "Die Kartentiefe (KT) ist die auf Kartennull bezogene Wassertiefe. Kartentiefe ist Wassertiefe abzüglich Höhe der Gezeit.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este adâncimea hărții?",
+          "answer_ro": "Adâncimea hărții (KT) este adâncimea apei raportată la graficul zero. Adâncimea hărții este adâncimea apei minus înălțimea mareelor.",
+          "text_en": "What is the map depth?",
+          "answer_en": "The chart depth (KT) is the water depth referred to chart zero. Map depth is water depth minus tide height."
         },
         {
           "nr": 79,
           "text_de": "Mit welcher Wassertiefe können Sie bei einer Lotung normalerweise mindestens rechnen?",
           "answer_de": "Mit der Kartentiefe.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este adâncimea minimă a apei la care vă puteți aștepta în mod normal când sunați?",
+          "answer_ro": "Cu adâncimea hărții.",
+          "text_en": "What is the minimum water depth you can normally expect when sounding?",
+          "answer_en": "With the map depth."
         },
         {
           "nr": 80,
           "text_de": "Welche Bedeutung hat die Angabe „Springzeit“ für die Wasserstände in Gezeitengebieten?",
           "answer_de": "Zur Springzeit sind besonders hohe Hochwasser und besonders niedrige Niedrigwasser zur erwarten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce semnificație are informația „ora de primăvară” pentru nivelul apei în zonele de maree?",
+          "answer_ro": "În sezonul de primăvară sunt de așteptat inundații deosebit de mari și în special maree joase.",
+          "text_en": "What significance does the information “spring time” have for water levels in tidal areas?",
+          "answer_en": "Particularly high floods and particularly low low tides are to be expected during the spring season."
         },
         {
           "nr": 81,
           "text_de": "Welche Bedeutung hat die Angabe \"Nippzeit\" für die Wasserstände in Gezeitengebieten?",
           "answer_de": "Zur Nippzeit sind besonders niedrige Hochwasser und besonders hohe Niedrigwasser zur erwarten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce semnificație are termenul „timp de somn” pentru nivelul apei din zonele de maree?",
+          "answer_ro": "Sunt de așteptat, în special, maree joase și, în special, maree joase în timpul sezonului.",
+          "text_en": "What significance does the term “neap time” have for water levels in tidal areas?",
+          "answer_en": "Particularly low tides and particularly high low tides are to be expected during neap season."
         },
         {
           "nr": 82,
           "text_de": "Welche Bedeutung haben die Angaben „Nippzeit“ bzw. „Springzeit“ für die Gezeitenströme?",
           "answer_de": "Zur Springzeit setzen die Gezeitenströme z.T. deutlich stärker als zur Nippzeit.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce semnificație au informațiile „timp de așternut” sau „timp de salt” pentru curenții de maree?",
+          "answer_ro": "În timpul sezonului de primăvară, curenții de maree sunt uneori semnificativ mai puternici decât în ​​timpul sezonului neap.",
+          "text_en": "What significance do the information “neap time” or “jump time” have for tidal currents?",
+          "answer_en": "During the spring season the tidal currents are sometimes significantly stronger than during the neap season."
         },
         {
           "nr": 83,
           "text_de": "Wo können Sie Informationen über Gezeitenströme in Küstengewässern finden?",
           "answer_de": "1. In Gezeitenstromatlanten, Seehandbüchern,\n2. in Seekarten aus Gezeitenstromtabellen, die bezogen sind auf die Hochwasserzeiten des dort genannten Bezugsortes.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Unde puteți găsi informații despre curenții de maree din apele de coastă?",
+          "answer_ro": "1. În atlasele fluxurilor de maree, manualele nautice,\n2. în hărțile nautice din tabele curenților de maree, care se bazează pe timpii de inundație ai locației de referință menționate acolo.",
+          "text_en": "Where can you find information about tidal currents in coastal waters?",
+          "answer_en": "1. In tidal stream atlases, nautical manuals,\n2. in nautical charts from tidal current tables, which are based on the flood times of the reference location mentioned there."
         },
         {
           "nr": 84,
           "text_de": "Auf einer Seekarte finden Sie in Küstennähe die Tiefenangabe _2_3 (unterstrichene Zahl 2, tiefergestellte Zahl 3). Was bedeutet das?",
           "answer_de": "Der Ort der Zahl liegt 2,3 m über Kartennull und kann trockenfallen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Pe o hartă nautică veți găsi adâncimea _2_3 lângă coastă (subliniat numărul 2, indicele numărul 3). Ce înseamnă asta?",
+          "answer_ro": "Locația numărului este la 2,3 m deasupra zero al hărții și poate fi uscată.",
+          "text_en": "On a nautical chart you will find the depth _2_3 near the coast (underlined number 2, subscript number 3). What does that mean?",
+          "answer_en": "The location of the number is 2.3 m above map zero and can be dry."
         },
         {
           "nr": 85,
           "text_de": "In welchem Zusammenhang stehen Kartentiefe (KT), Wassertiefe (WT) und Höhe der Gezeit (H)?",
           "answer_de": "WT - H = KT oder KT + H = WT (Lösung auch als Skizze möglich).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum sunt legate adâncimea hărții (KT), adâncimea apei (WT) și înălțimea mareei (H)?",
+          "answer_ro": "WT - H = KT sau KT + H = WT (soluție posibilă și ca schiță).",
+          "text_en": "How are map depth (KT), water depth (WT) and tidal height (H) related?",
+          "answer_en": "WT - H = KT or KT + H = WT (solution also possible as a sketch)."
         },
         {
           "nr": 86,
           "text_de": "Warum ist es in Tidengewässern wichtig, die Uhrzeit einer Lotung festzuhalten?",
           "answer_de": "Um anhand der Gezeitentafel feststellen zu können, ob das Wasser steigt oder fällt.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "De ce este important să înregistrăm timpul unei sonderi în apele de maree?",
+          "answer_ro": "Pentru a putea folosi tabelul mareelor ​​pentru a determina dacă apa urcă sau scade.",
+          "text_en": "Why is it important to record the time of a sounding in tidal waters?",
+          "answer_en": "To be able to use the tide table to determine whether the water is rising or falling."
         },
         {
           "nr": 87,
           "text_de": "Was ist ein Pegel?",
           "answer_de": "Eine Skala zur Anzeige des Wasserstandes.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce este un nivel?",
+          "answer_ro": "O scară pentru afișarea nivelului apei.",
+          "text_en": "What is a level?",
+          "answer_en": "A scale to display the water level."
         },
         {
           "nr": 88,
           "text_de": "Welchen Einfluss kann der Wind auf die Gezeiten haben?",
           "answer_de": "Der Wind kann Strömungen und Wasserstandsänderungen hervorrufen, die zu den Gezeitenströmen und den Gezeiten hinzutreten.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce influență poate avea vântul asupra mareelor?",
+          "answer_ro": "Vântul poate provoca curenți și modificări ale nivelului apei care se adaugă la curenții de maree și maree.",
+          "text_en": "What influence can the wind have on the tides?",
+          "answer_en": "The wind can cause currents and water level changes that add to the tidal currents and tides."
         },
         {
           "nr": 89,
           "text_de": "Nennen Sie drei wichtige Vorzüge von GPS.",
           "answer_de": "1. GPS arbeitet weltweit.\n2. Die Positionsanzeige ist jederzeit verfügbar.\n3. Der Positionsfehler ist gering.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Enumerați trei avantaje importante ale GPS.",
+          "answer_ro": "1. GPS-ul funcționează în întreaga lume.\n2. Afișajul poziției este disponibil în orice moment.\n3. Eroarea de poziție este mică.",
+          "text_en": "List three important advantages of GPS.",
+          "answer_en": "1. GPS works worldwide.\n2. The position display is available at any time.\n3. The position error is small."
         },
         {
           "nr": 90,
           "text_de": "Wie groß ist die typische und realistische Genauigkeit von Positionen, die mit GPS und DGPS ermittelt werden?",
           "answer_de": "1. GPS: 10-20 m bei einer Wahrscheinlichkeit von etwa 95%.\n2. DGPS: 1-10 m bei einer Wahrscheinlichkeit von etwa 95%.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este precizia tipică și realistă a pozițiilor determinate cu GPS și DGPS?",
+          "answer_ro": "1. GPS: 10-20 m cu o probabilitate de aproximativ 95%.\n2. DGPS: 1-10 m cu o probabilitate de aproximativ 95%.",
+          "text_en": "What is the typical and realistic accuracy of positions determined with GPS and DGPS?",
+          "answer_en": "1. GPS: 10-20 m with a probability of about 95%.\n2. DGPS: 1-10 m with a probability of about 95%."
         },
         {
           "nr": 91,
           "text_de": "Wo muss man mit ungenauen Anzeigen des GPS rechnen?",
           "answer_de": "1. Bei Abschattung der GPS-Antenne.\n2. In der Nähe von Flughäfen und in der Nähe von Fernsehsendern.\n3. In der Nähe von Marineeinrichtungen.\n4. Bei Nutzung von UKW-Geräten und anderen elektronischen/elektrischen Geräten an Bord.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Unde trebuie să vă așteptați la afișaje GPS inexacte?",
+          "answer_ro": "1. Dacă antena GPS este umbrită.\n2. Aproape de aeroporturi și de posturi TV.\n3. In apropierea facilitatilor navale.\n4. Când utilizați dispozitive VHF și alte dispozitive electronice/electrice de la bord.",
+          "text_en": "Where do you have to expect inaccurate GPS displays?",
+          "answer_en": "1. If the GPS antenna is shaded.\n2. Near airports and near TV stations.\n3. Near naval facilities.\n4. When using VHF devices and other electronic/electrical devices on board."
         },
         {
           "nr": 92,
           "text_de": "Was bedeutet die Abkürzung GPS?",
           "answer_de": "Global Positioning System.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce înseamnă abrevierea GPS?",
+          "answer_ro": "Sistem de poziționare globală.",
+          "text_en": "What does the abbreviation GPS mean?",
+          "answer_en": "Global Positioning System."
         },
         {
           "nr": 93,
           "text_de": "Was ist das Grundprinzip von GPS?",
           "answer_de": "Durch Laufzeitmessungen von GPS-Signalen vom Satelliten zum Empfänger und damit durch Abstandsmessungen zu den Satelliten wird die Ortsbestimmung ermöglicht.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este principiul de bază al GPS-ului?",
+          "answer_ro": "Locația poate fi determinată prin măsurarea timpului de tranzit al semnalelor GPS de la satelit la receptor și astfel prin măsurarea distanței până la sateliți.",
+          "text_en": "What is the basic principle of GPS?",
+          "answer_en": "The location can be determined by measuring the transit time of GPS signals from the satellite to the receiver and thus by measuring the distance to the satellites."
         },
         {
           "nr": 94,
           "text_de": "Was bedeutet die Abkürzung DGPS und nach welchem Prinzip arbeitet DGPS?",
           "answer_de": "DGPS = Differential Global Positioning System.\nHierbei handelt es sich um eine regionale Verbesserung der Ortsbestimmung. Dabei werden von Referenzstationen über Funk Korrekturwerte für die GPS-Messwerte an die Schiffe übertragen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce înseamnă abrevierea DGPS și pe ce principiu funcționează DGPS?",
+          "answer_ro": "DGPS = Sistem de poziționare globală diferențială.\nAceasta este o îmbunătățire regională în determinarea locației. Valorile de corecție pentru măsurătorile GPS sunt transmise navelor prin radio de la stațiile de referință.",
+          "text_en": "What does the abbreviation DGPS mean and what principle does DGPS work on?",
+          "answer_en": "DGPS = Differential Global Positioning System.\nThis is a regional improvement in location determination. Correction values for the GPS measurements are transmitted to the ships via radio from reference stations."
         },
         {
           "nr": 95,
           "text_de": "Was ist bei Anbringung einer GPS-Antenne zu beachten?",
           "answer_de": "1. Sie muss ringsum freie Sicht (ohne Abschattungen) haben.\n2. Einwandfreie Erdung.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce ar trebui să luați în considerare atunci când atașați o antenă GPS?",
+          "answer_ro": "1. Trebuie să aibă o vedere clară de jur împrejur (fără umbre).\n2. Împământare adecvată.",
+          "text_en": "What should you consider when attaching a GPS antenna?",
+          "answer_en": "1. It must have a clear view all around (without shadows).\n2. Proper grounding."
         },
         {
           "nr": 96,
           "text_de": "Was bewirkt die Bedienung der MOB-Taste bei GPS-Geräten?",
           "answer_de": "1. Die Position und Zeit des Tastendrucks wird gespeichert.\n2. Rechtweisende Peilung (rwP) und Distanz zu diesem Punkt werden angezeigt.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce face operarea butonului MOB pe dispozitivele GPS?",
+          "answer_ro": "1. Poziția și ora apăsării butonului sunt salvate.\n2. Sunt afișate direcția reală (rwP) și distanța până la acel punct.",
+          "text_en": "What does operating the MOB button do on GPS devices?",
+          "answer_en": "1. The position and time of the button press is saved.\n2. True bearing (rwP) and distance to that point are displayed."
         },
         {
           "nr": 97,
           "text_de": "Was bedeutet die Aussage: „Die Ortsgenauigkeit beträgt 100 m mit einer Wahrscheinlichkeit von 95%“?",
           "answer_de": "Das Schiff befindet sich mit einer Wahrscheinlichkeit von 95% in einem Fehlerkreis von 100 m Radius um den beobachteten Ort. Also: jede 20. Ortsbestimmung (5%) ist ungenauer als ca. 100 m.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce înseamnă afirmația: „Precizia locației este de 100 m cu o probabilitate de 95%”?",
+          "answer_ro": "Nava se află pe o rază de 100 m de locația observată cu o probabilitate de 95%. Deci: fiecare a 20-a determinare a locației (5%) este mai puțin precisă decât aproximativ 100 m.",
+          "text_en": "What does the statement mean: “The location accuracy is 100 m with a probability of 95%”?",
+          "answer_en": "The ship is within a 100 m radius of the observed location with a probability of 95%. So: every 20th location determination (5%) is less accurate than approx. 100 m."
         },
         {
           "nr": 98,
           "text_de": "Wie kann man feststellen, ob die GPS-Position genau bzw. zuverlässig ist?",
           "answer_de": "1. Durch den vom Empfänger angezeigten HDOP (horizontal dilution of precision = Satellitenverteilung).\n2. Durch die vom Empfänger angezeigte Anzahl der getrackten Satelliten.\n3. Durch Vergleich mit anderen Navigationssystemen und der Koppelposition.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum să determinați dacă locația GPS este exactă sau de încredere?",
+          "answer_ro": "1. Prin HDOP (diluția orizontală a preciziei = distribuția satelitului) afișată de receptor.\n2. După numărul de sateliți urmăriți afișat de receptor.\n3. Prin compararea cu alte sisteme de navigație și poziția de cuplare.",
+          "text_en": "How to determine if GPS location is accurate or reliable?",
+          "answer_en": "1. By the HDOP (horizontal dilution of precision = satellite distribution) displayed by the receiver.\n2. By the number of tracked satellites displayed by the receiver.\n3. By comparing with other navigation systems and the coupling position."
         },
         {
           "nr": 99,
           "text_de": "Was ist bei Eintragung eines GPS-Ortes in eine Seekarte zu beachten?",
           "answer_de": "Das Bezugssystem muss übereinstimmen. Dieses kann geschehen durch:\n1. Auswahl und Einstellung des Kartenbezugssystems im Empfänger.\n2. Manuelle Verschiebung des GPS-Ortes um die in der Seekarte angegebenen N/S- und E/W-Korrektur.\n3. Verwendung von Seekarten, die auf dem System WGS 84 beruhen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "La ce ar trebui să fiți atenți când introduceți o locație GPS pe o hartă nautică?",
+          "answer_ro": "Sistemul de referință trebuie să se potrivească. Acest lucru se poate face prin:\n1. Selectarea și setarea sistemului de referință al hărții în receptor.\n2. Schimbarea manuală a locației GPS prin corecția N/S și E/V indicată în harta nautică.\n3. Utilizarea hărților nautice bazate pe sistemul WGS 84.",
+          "text_en": "What should you pay attention to when entering a GPS location on a nautical chart?",
+          "answer_en": "The reference system must match. This can be done by:\n1. Selection and setting of the map reference system in the receiver.\n2. Manual shift of the GPS location by the N/S and E/W correction indicated in the nautical chart.\n3. Use of nautical charts based on the WGS 84 system."
         },
         {
           "nr": 100,
           "text_de": "Was ist ein Wegpunkt?",
           "answer_de": "Geographische Koordination eines anzusteuernden Punktes.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce este un punct de referință?",
+          "answer_ro": "Coordonarea geografică a unui punct de vizat.",
+          "text_en": "What is a waypoint?",
+          "answer_en": "Geographical coordination of a point to be targeted."
         },
         {
           "nr": 101,
           "text_de": "Was bedeutet WGS 84 und was wird damit erreicht?",
           "answer_de": "1. Globales Bezugssystem „World Geodetic System 1984“.\n2. Mit diesem System (= Referenzellipsoid bei GPS) wird weltweit eine optimale Anpassung an die reale Form des gesamten Erdkörpers erreicht.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce înseamnă WGS 84 și ce realizează?",
+          "answer_ro": "1. Sistem global de referință „World Geodetic System 1984”.\n2. Cu acest sistem (= elipsoid de referință pentru GPS) se realizează la nivel mondial o adaptare optimă la forma reală a întregului corp al pământului.",
+          "text_en": "What does WGS 84 mean and what does it achieve?",
+          "answer_en": "1. Global reference system “World Geodetic System 1984”.\n2. With this system (= reference ellipsoid for GPS) an optimal adaptation to the real shape of the entire earth's body is achieved worldwide."
         },
         {
           "nr": 102,
           "text_de": "Wodurch können Radarechos von kleinen Fahrzeugen und Tonnen auf den Sichtschirmen von Radargeräten „verschwinden“?",
           "answer_de": "1. Durch Seegang und/oder Niederschlag\n2. durch falsche Bedienung,\n3. durch zu große Entfernung,\n4. durch Gieren des eigenen Fahrzeugs bei relativ vorausorientierter Radarstellung (head up).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum pot „dispară” ecourile radar de la vehiculele mici și geamanduri de pe ecranele radar?",
+          "answer_ro": "1. Din cauza umflaturii si/sau precipitatiilor\n2. din cauza funcționării incorecte,\n3. din cauza unei distanțe prea mari,\n4. rotind propriul vehicul cu poziția radarului relativ înainte (capul sus).",
+          "text_en": "How can radar echoes from small vehicles and buoys “disappear” on radar screens?",
+          "answer_en": "1. Due to swell and/or precipitation\n2. due to incorrect operation,\n3. due to too great a distance,\n4. by yawing your own vehicle with the radar position relatively ahead (head up)."
         },
         {
           "nr": 103,
           "text_de": "Wie kann man mit Radar den eigenen Schiffsort bestimmen?",
           "answer_de": "1. Peilung eines Objektes gibt einen Peilstrahl als Standlinie.\n2. Abstandsmessung mit dem VRM (Variable Range Marker) gibt einen Abstandskreis als Standlinie.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum poți folosi radarul pentru a determina locația navei tale?",
+          "answer_ro": "1. Rezistența unui obiect dă un fascicul de rezemare ca o linie staționară.\n2. Măsurarea distanței cu VRM (Variable Range Marker) oferă un cerc de distanță ca o linie verticală.",
+          "text_en": "How can you use radar to determine your ship's location?",
+          "answer_en": "1. Bearing of an object gives a bearing beam as a stationary line.\n2. Distance measurement with the VRM (Variable Range Marker) gives a distance circle as a standing line."
         },
         {
           "nr": 104,
           "text_de": "Wie kann man gegebenenfalls verhindern, dass sich Echoanzeigen von Zielen (z.B. 2 Tonnen, 2 Molenköpfe) überlappen?",
           "answer_de": "1. Kurze Impulslänge wählen.\n2. Messbereich verkleinern.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum puteți preveni suprapunerea afișărilor eco ale țintelor (de exemplu, 2 tone, 2 capete de dig)?",
+          "answer_ro": "1. Alegeți o lungime scurtă a pulsului.\n2. Reduceți domeniul de măsurare.",
+          "text_en": "How can you possibly prevent echo displays of targets (e.g. 2 tons, 2 pier heads) from overlapping?",
+          "answer_en": "1. Choose a short pulse length.\n2. Reduce measuring range."
         },
         {
           "nr": 105,
           "text_de": "Was bedeutet der Begriff AIS auf See?",
           "answer_de": "AIS bezeichnet das automatische Identifizierungssystem (Automatic Identification System).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce înseamnă termenul AIS pe mare?",
+          "answer_ro": "AIS înseamnă Sistemul de Identificare Automată.",
+          "text_en": "What does the term AIS mean at sea?",
+          "answer_en": "AIS means the Automatic Identification System."
         },
         {
           "nr": 106,
           "text_de": "Welche Aufgaben hat AIS?",
           "answer_de": "Alle ausgerüsteten Schiffe senden automatisch (also ohne Aufforderung und menschliches Eingreifen) in regelmäßigen kurzen Abständen ihre Identität und einen schiffsbezogenen Datensatz. Außerdem können bei Bedarf sicherheitsrelevante Nachrichten („safety related messages“) von Bord oder von Landstationen gesendet werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care sunt sarcinile AIS?",
+          "answer_ro": "Toate navele echipate automat (adică fără cerere sau intervenție umană) își trimit identitatea și o înregistrare de date referitoare la navă la intervale scurte regulate. În plus, mesajele legate de siguranță pot fi trimise de la bord sau de la stațiile de la mal, dacă este necesar.",
+          "text_en": "What are the tasks of AIS?",
+          "answer_en": "All equipped ships automatically (i.e. without request or human intervention) send their identity and a ship-related data record at regular short intervals. In addition, safety-related messages can be sent from on board or from shore stations if necessary."
         },
         {
           "nr": 107,
           "text_de": "Welche Reichweite hat ein AIS-Bordgerät und wovon ist sie abhängig?",
           "answer_de": "Die Reichweite und Ausbreitungsbedingungen entsprechen denen von UKW. Bei Handelsschiffen kann man von 20 bis 30 sm ausgehen. Die Reichweite ist abhängig von der Antennenhöhe.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce rază are un dispozitiv AIS la bord și de ce depinde acesta?",
+          "answer_ro": "Intervalul și condițiile de propagare corespund cu cele ale VHF. Pentru navele comerciale puteți presupune 20 până la 30 nm. Raza de acțiune depinde de înălțimea antenei.",
+          "text_en": "What range does an AIS on-board device have and what does it depend on?",
+          "answer_en": "The range and propagation conditions correspond to those of VHF. For merchant ships you can assume 20 to 30 nm. The range depends on the antenna height."
         },
         {
           "nr": 108,
           "text_de": "Wie kann die Reichweite eines AIS-Bordgerätes landseitig erhöht werden und wie wirken sich dabei Hindernisse (z.B. Berge) aus?",
           "answer_de": "Unter bestimmten Umständen kann die Reichweite heraufgesetzt werden (z.B. mit Hilfe von „Relaisstationen“), wobei ggf. auch abschattende Hindernisse umgangen werden können.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum poate fi mărită raza de acțiune a unui dispozitiv AIS de bord pe uscat și ce efect au obstacolele (de exemplu, munții)?",
+          "answer_ro": "În anumite circumstanțe, raza de acțiune poate fi mărită (de exemplu, cu ajutorul „stațiilor de releu”), prin care obstacolele de umbră pot fi, de asemenea, evitate dacă este necesar.",
+          "text_en": "How can the range of an AIS on-board device be increased on land and what effect do obstacles (e.g. mountains) have?",
+          "answer_en": "Under certain circumstances, the range can be increased (e.g. with the help of “relay stations”), whereby shadowing obstacles can also be avoided if necessary."
         },
         {
           "nr": 109,
           "text_de": "Welche AIS-Daten werden von Schiffen aus der Berufsschifffahrt gesendet?",
           "answer_de": "- Statische Daten: ID, Rufzeichen, Länge und Breite des Schiffes u.a.\n- Dynamische Daten (i.w. Sensordaten): UTC, Position, Heading, Kurs und Fahrt über Grund, ggf. Rate-of-turn, Fahrtstatus (z.B. Maschinenfahrzeug mit Fahrt durchs Wasser, Ankerlieger, manövrierbehindertes Fahrzeug).\n- Reisebezogene Daten: Tiefgang, Zielort (Destination), ETA u.a.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce date AIS sunt trimise de navele comerciale?",
+          "answer_ro": "- Date statice: ID, indicativ de apel, lungimea și lățimea navei etc.\n- Date dinamice (în principal date ale senzorului): UTC, poziția, direcția, cursul și deplasarea pe sol, dacă este necesar rata de viraj, starea călătoriei (de exemplu, vehicul-mașină care călătorește prin apă, barcă ancorată, vehicul cu manevrare restricționată).\n- Date legate de călătorie: proiect, destinație, ETA etc.",
+          "text_en": "What AIS data is sent by commercial shipping vessels?",
+          "answer_en": "- Static data: ID, call sign, length and width of the ship, etc.\n- Dynamic data (mainly sensor data): UTC, position, heading, course and travel over ground, if applicable rate-of-turn, travel status (e.g. machine vehicle traveling through the water, anchored boat, vehicle with restricted maneuvering).\n- Travel-related data: draft, destination, ETA, etc."
         },
         {
           "nr": 110,
           "text_de": "Wann kann man sich auf die Verfügbarkeit und Anzeige von AIS-Signalen anderer Fahrzeuge verlassen?\nNennen Sie die wesentlichen Voraussetzungen!",
           "answer_de": "Andere Fahrzeuge werden nur angezeigt, wenn das Fahrzeug auch sendet, d.h., wenn\n1. das Fahrzeug mit AIS ausgerüstet ist,\n2. das sendende Fahrzeug AIS nicht abgeschaltet hat (darf der Kapitän allerdings nur bei bestimmten zwingenden Gründen),\n3. GPS aktiv ist und\n4. aus Kapazitätsgründen (z.B. durch zu viele Schiffe in einem Seegebiet = „target overflow“) keine Fahrzeuge ausgeschlossen werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Când se poate baza pe disponibilitatea și afișarea semnalelor AIS de la alte nave?\nNumiți cerințele esențiale!",
+          "answer_ro": "Alte vehicule sunt afișate numai dacă vehiculul transmite și el, adică dacă\n1. vehiculul este echipat cu AIS,\n2. nava care transmite nu a dezactivat AIS (deși căpitanul poate face acest lucru numai din anumite motive imperioase),\n3. GPS-ul este activ și\n4. niciun vehicul nu este exclus din motive de capacitate (de exemplu, din cauza prea multor nave într-o zonă de mare = „debordare țintă”).",
+          "text_en": "When can the availability and display of AIS signals from other vessels be relied upon?\nName the essential requirements!",
+          "answer_en": "Other vehicles are only displayed if the vehicle is also transmitting, i.e. if\n1. the vehicle is equipped with AIS,\n2. the transmitting vessel has not switched off AIS (although the captain may only do so for certain compelling reasons),\n3. GPS is active and\n4. no vehicles are excluded for capacity reasons (e.g. due to too many ships in a sea area = “target overflow”)."
         },
         {
           "nr": 111,
           "text_de": "Wie ist die Genauigkeit von AIS-Daten zu beurteilen (Position und manuell eingegebene Daten)?",
           "answer_de": "- Position:\nMit AIS wird zusätzlich zur GPS-Position eines Schiffes die Information übertragen, ob es sich um einen GPS- oder DGPS-Ort handelt. Ist die GPS-Position eines Schiffes falsch, wird diese falsche Position auf allen anderen Schiffen angezeigt.\n- Manuell eingegebene Daten:\nEs muss damit gerechnet werden, dass Zielort, Tiefgang, Fahrtstatus u.a. falsch sind, wenn sie - z.B. aus Nachlässigkeit - nicht von der Schiffsführung aufdatiert werden.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Cum se evaluează acuratețea datelor AIS (poziție și date introduse manual)?",
+          "answer_ro": "- Poziție:\nCu AIS, pe lângă poziția GPS a unei nave, sunt transmise informații dacă este o locație GPS sau DGPS. Dacă poziția GPS a unei nave este incorectă, această poziție incorectă va fi afișată pe toate celelalte nave.\n- Date introduse manual:\nTrebuie de așteptat ca destinația, pescajul, starea călătoriei etc. să fie incorecte dacă nu sunt actualizate de comanda navei - de exemplu din cauza neglijenței.",
+          "text_en": "How to assess the accuracy of AIS data (position and manually entered data)?",
+          "answer_en": "- Position:\nWith AIS, in addition to the GPS position of a ship, information is transmitted as to whether it is a GPS or DGPS location. If the GPS position of a ship is incorrect, this incorrect position will be displayed on all other ships.\n- Manually entered data:\nIt must be expected that the destination, draft, voyage status, etc. will be incorrect if they are not updated by the ship's command - for example due to negligence."
         },
         {
           "nr": 112,
           "text_de": "Welche besondere Bedeutung hat AIS für die Sportschifffahrt im Vergleich mit der Radaranzeige auf anderen Schiffen?",
           "answer_de": "Sportfahrzeuge werden häufig auf den Radargeräten anderer Schiffe nicht sicher angezeigt bzw. die Anzeigen gehen im Seegangsclutter oder in der Informationsfülle unter. Da jetzt auf vielen Schiffen die AIS-Daten zusätzlich im Radar dargestellt werden, besteht die Gefahr, dass Sportfahrzeuge noch weniger auffällig sind, wenn sie nicht selbst mit AIS ausgerüstet sind.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce semnificație specială are AIS pentru transportul de agrement în comparație cu afișajul radar de pe alte nave?",
+          "answer_ro": "Vehiculele sport nu sunt adesea afișate în mod fiabil pe dispozitivele radar ale altor nave sau afișajele se pierd în dezordinea mării sau în abundența de informații. Deoarece datele AIS sunt acum afișate și pe radar pe multe nave, există riscul ca vehiculele de agrement să fie și mai puțin vizibile dacă nu sunt echipate cu AIS în sine.",
+          "text_en": "What special significance does AIS have for recreational shipping compared to the radar display on other ships?",
+          "answer_en": "Sports vehicles are often not reliably displayed on the radar devices of other ships or the displays are lost in the clutter of the sea or in the abundance of information. Since the AIS data is now also displayed on the radar on many ships, there is a risk that recreational vehicles will be even less conspicuous if they are not equipped with AIS themselves."
         },
         {
           "nr": 113,
           "text_de": "Welche Navigationsgeräte sollten Sie auf einer Yacht auch bei Kurzfahrten nahe der Küste mindestens an Bord haben?",
           "answer_de": "Steuerkompass, Peilkompass, Lot, Log, Uhr.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce dispozitive de navigație ar trebui să aveți măcar la bord pe un iaht, chiar și pentru călătorii scurte în apropiere de coastă?",
+          "answer_ro": "busolă de direcție, busolă de direcție, plumb, buștean, ceas.",
+          "text_en": "Which navigation devices should you at least have on board on a yacht, even for short trips near the coast?",
+          "answer_en": "Steering compass, bearing compass, plumb line, log, clock."
         },
         {
           "nr": 114,
           "text_de": "Was gehört zur navigatorischen Mindestausrüstung einer Yacht in Küstengewässern? Nennen Sie mindestens 6 Beispiele.",
           "answer_de": "1. Steuerkompass,\n2. Peileinrichtung,\n3. terrestrisches oder satellitengestütztes Funknavigationsgerät,\n4. Log,\n5. Lot,\n6. Fernglas,\n7. Barometer,\n8. Weltempfänger für Rundfunk,\n9. Seebücher und auf den neuesten Stand berichtigte Seekarten für das zu befahrende Seegebiet,\n10. Logbuch,\n11. Uhr/Zeitmesser.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Care este echipamentul minim de navigație pentru un iaht în apele de coastă? Dați cel puțin 6 exemple.",
+          "answer_ro": "1. busolă de direcție,\n2. dispozitiv de găsire a direcției,\n3. dispozitiv de radionavigație terestru sau prin satelit,\n4. Jurnal,\n5. Lot,\n6. Binoclu,\n7. Barometru,\n8. Receptor radio mondial,\n9. cărți nautice și hărți nautice actualizate pentru zona de mare care urmează să fie navigată,\n10. jurnal de bord,\n11. Ceas/ceas.",
+          "text_en": "What is the minimum navigational equipment for a yacht in coastal waters? Give at least 6 examples.",
+          "answer_en": "1. steering compass,\n2. direction finding device,\n3. terrestrial or satellite-based radio navigation device,\n4.Log,\n5. Lot,\n6. Binoculars,\n7. Barometer,\n8. World radio receiver,\n9. nautical books and updated nautical charts for the sea area to be sailed,\n10. logbook,\n11. Clock/Timepiece."
         },
         {
           "nr": 115,
           "text_de": "Welchen Vorteil hat ein Kugelkompass gegenüber einem Flachglaskompass?",
           "answer_de": "1. Der Kugelkompass kann auch bei größerer Krängung noch als Messinstrument benutzt werden.\n2. Die Kugelform verbessert die Ablesbarkeit der Kompassrose (Vergrößerungseffekt).",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce avantaj are o busolă cu bile față de o busolă din sticlă plată?",
+          "answer_ro": "1. Busola cu bile poate fi folosită în continuare ca instrument de măsurare chiar și atunci când se înclină într-o măsură mai mare.\n2. Forma sferică îmbunătățește lizibilitatea trandafirului busolei (efect de mărire).",
+          "text_en": "What advantage does a ball compass have over a flat glass compass?",
+          "answer_en": "1. The ball compass can still be used as a measuring instrument even when heeling to a greater extent.\n2. The spherical shape improves the readability of the compass rose (magnification effect)."
         },
         {
           "nr": 116,
           "text_de": "Was beeinflusst die Ablenkung eines Kompasses dauerhaft?",
           "answer_de": "Veränderung des magnetischen Zustandes an Bord, z.B. Einbauten und Lageänderung von Ausrüstungsgegenständen.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce afectează permanent devierea unei busole?",
+          "answer_ro": "Schimbarea stării magnetice la bord, de exemplu, instalații și modificări ale poziției echipamentelor.",
+          "text_en": "What permanently affects the deflection of a compass?",
+          "answer_en": "Change in the magnetic state on board, e.g. installations and changes in the position of equipment."
         },
         {
           "nr": 117,
           "text_de": "Was beeinflusst die Ablenkung eines Kompasses vorübergehend?",
           "answer_de": "Elektronische Geräte (z.B. Radio, Handy), magnetisierte Gegenstände (z.B. Werkzeug, Peilkompass) und Gleichstromleitungen in der Nähe des Kompasses.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce afectează temporar devierea unei busole?",
+          "answer_ro": "Dispozitive electronice (de exemplu, radio, telefon mobil), obiecte magnetizate (de exemplu, unelte, busolă) și linii de curent continuu lângă busolă.",
+          "text_en": "What temporarily affects the deflection of a compass?",
+          "answer_en": "Electronic devices (e.g. radio, cell phone), magnetized objects (e.g. tools, bearing compass) and direct current lines near the compass."
         },
         {
           "nr": 118,
           "text_de": "Welchen Abstand muss magnetisierbares Material vom Magnetkompass haben?",
           "answer_de": "Mindestens 1 Meter.",
-          "text_ro": "",
-          "answer_ro": "",
-          "text_en": "",
-          "answer_en": ""
+          "text_ro": "Ce distanță trebuie să fie materialul magnetizabil față de busola magnetică?",
+          "answer_ro": "Cel puțin 1 metru.",
+          "text_en": "What distance must magnetizable material be from the magnetic compass?",
+          "answer_en": "At least 1 meter."
         }
       ]
     },
