@@ -19,6 +19,11 @@ export type Question = {
     answer_en?: string
 }
 
+export type WrappedQuestion = {
+    question: Question
+    showAnswer: boolean
+}
+
 export type Topic = {
     id: number
     name: string

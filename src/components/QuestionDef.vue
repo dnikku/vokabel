@@ -1,31 +1,32 @@
 <template>
-  <div class="question">{{ value.nr }}:
-    <multiline :text="value.text_de"/>
-    <multi-image :images="value.text_images"/>
+  <div class="question">{{ question.nr }}:
+    <multiline :text="question.text_de"/>
+    <multi-image :images="question.text_images"/>
   </div>
   <div class="question-actions">
-    <checkbox label="Show Answer" v-model="showAnswer"/>
-    <checkbox class="en" v-show="value.text_en" label="Hint EN" v-model="hintEN"/>
-    <checkbox class="ro" v-show="value.text_ro" label="Hint RO" v-model="hintRO"/>
+    <checkbox label="Show Answer" v-model="value.showAnswer"/>
+
+    <checkbox class="en" v-show="question.text_en" label="Hint EN" v-model="hintEN"/>
+    <checkbox class="ro" v-show="question.text_ro" label="Hint RO" v-model="hintRO"/>
   </div>
   <div class="question en" v-show="hintEN">
-    <multiline :text="value.text_en"/>
+    <multiline :text="question.text_en"/>
   </div>
   <div class="question ro" v-show="hintRO">
-    <multiline :text="value.text_ro"/>
+    <multiline :text="question.text_ro"/>
   </div>
 
-  <div class="answer" v-show="showAnswer">
-    <multiline :text="value.answer_de"/>
-    <multi-image :images="value.answer_images"/>
+  <div class="answer" v-show="value.showAnswer">
+    <multiline :text="question.answer_de"/>
+    <multi-image :images="question.answer_images"/>
   </div>
-  <div class="answer en" v-show="showAnswer && hintEN">
-    <multiline :text="value.answer_en"/>
+  <div class="answer en" v-show="value.showAnswer && hintEN">
+    <multiline :text="question.answer_en"/>
   </div>
-  <div class="answer ro" v-show="showAnswer && hintRO">
-    <multiline :text="value.answer_ro"/>
+  <div class="answer ro" v-show="value.showAnswer && hintRO">
+    <multiline :text="question.answer_ro"/>
   </div>
-  <div class="answer-actions" v-show="showAnswer">
+  <div class="answer-actions" v-show="value.showAnswer">
     <button>Learn it</button>
     <button>Re-learn</button>
   </div>
@@ -69,24 +70,24 @@
   padding-top: 4px;
 }
 
-
 </style>
 
 <script setup lang="ts">
-import {ref} from "vue";
-import Checkbox from "@/components/Checkbox.vue";
-import type {Question} from "@/stores/questionnaire";
-import Multiline from "@/components/Multiline.vue";
-import MultiImage from "@/components/MultiImage.vue";
+import {computed, ref} from "vue"
+import type {WrappedQuestion} from "@/stores/questionnaire"
+
+import Checkbox from "@/components/Checkbox.vue"
+import Multiline from "@/components/Multiline.vue"
+import MultiImage from "@/components/MultiImage.vue"
 
 const props = defineProps<{
-  value: Question
+  value: WrappedQuestion,
 }>()
 
-
-const showAnswer = ref(false)
 const hintRO = ref(false)
 const hintEN = ref(false)
+
+const question = computed(() => props.value.question)
 
 
 </script>
