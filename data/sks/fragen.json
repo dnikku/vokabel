@@ -6576,8 +6576,8 @@
           "nr": 10,
           "text_de": "Peilungen",
           "answer_de": "",
-          "text_ro": "Rulmenți",
-          "text_en": "Bearings",
+          "text_ro": "",
+          "text_en": "Targets",
           "answer_en": ""
         },
         {
@@ -6610,6 +6610,62 @@
           "answer_de": "",
           "text_ro": "Marea, timpul săriturii, timpul neapului",
           "text_en": "Tide, jumping time, neap time",
+          "answer_en": ""
+        },
+        {
+          "nr": 100,
+          "text_de": "die Entfernung, aus der ein Turm von einer Person gesehen werden kann",
+          "answer_de": "",
+          "text_ro": "distanta de la care un turn un om poate vedea",
+          "text_en": "",
+          "answer_en": ""
+        },
+        {
+          "nr": 101,
+          "text_de": "auszugweise",
+          "answer_de": "",
+          "text_ro": "fragmente",
+          "text_en": "excerpts",
+          "answer_en": ""
+        },
+        {
+          "nr": 102,
+          "text_de": "senkrecht",
+          "answer_de": "",
+          "text_ro": "perpendicular",
+          "text_en": "",
+          "answer_en": ""
+        },
+        {
+          "nr": 103,
+          "text_de": "berücksichtigen",
+          "answer_de": "",
+          "text_ro": "lua în considerare",
+          "text_en": "",
+          "answer_en": ""
+        },
+        {
+          "nr": 104,
+          "text_de": "hervorruft",
+          "answer_de": "",
+          "text_ro": "lua în considerare",
+          "text_en": "",
+          "answer_en": ""
+        },
+        {
+          "nr": 105,
+          "text_de": "Nenntragweite, Tragweite, Sichtweite",
+          "answer_de": "",
+          "text_ro": "rază nominală de acțiune, rază de acțiune, vizibilitate",
+          "text_en": "",
+          "answer_en": ""
+        },
+        {
+          "nr": 106,
+          "text_de": "streben",
+          "answer_de": "",
+          "text_ro": "a se străduii",
+          "text_en": "strive, aspire, tend",
           "answer_en": ""
         }
       ]
