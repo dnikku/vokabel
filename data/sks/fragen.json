@@ -3362,6 +3362,7 @@
       "questions": [
         {
           "nr": 1,
+          "page": [112],
           "text_de": "Was versteht man im Bootsbau unter Gelcoat?",
           "answer_de": "Die äußere Schutzschicht eines Bauteils aus glasfaserverstärktem Kunststoff.",
           "text_ro": "Ce se înțelege prin gelcoat în construcția de bărci?",
@@ -3371,6 +3372,7 @@
         },
         {
           "nr": 2,
+          "page": [112],
           "text_de": "Was versteht man beim GFK-Bootsbau unter Sandwichverfahren (GFK = glasfaserverstärkter Kunststoff)?",
           "answer_de": "Zwischen zwei GFK-Schichten wird eine Zwischenlage zur Versteifung einlaminiert, z.B. aus Balsaholz.",
           "text_ro": "Ce se înțelege prin procesul sandwich în construcția de bărci GRP (GRP = plastic armat cu fibră de sticlă)?",
@@ -3380,6 +3382,7 @@
         },
         {
           "nr": 3,
+          "page": [112],
           "text_de": "Welchen Vorteil hat die Sandwichbauweise gegenüber der Massivbauweise bei GFK-Yachten (GFK = glasfaserverstärkter Kunststoff)?",
           "answer_de": "Große Steifheit, Verwindungsfestigkeit, geringes Gewicht, gute Isolierung.",
           "text_ro": "Ce avantaj are construcția tip sandwich față de construcția solidă a iahturilor GRP (GRP = plastic armat cu fibră de sticlă)?",
@@ -3389,6 +3392,7 @@
         },
         {
           "nr": 4,
+          "page": [112],
           "text_de": "Beschreiben Sie die Vor- und Nachteile von Stahl als Baumaterial für Yachten.",
           "answer_de": "Vorteile: zuverlässiges, problemloses Baumaterial mit sehr hoher Festigkeit und langer Lebensdauer.\nNachteile: hohes Gewicht, Rostanfälligkeit.",
           "text_ro": "Descrieți avantajele și dezavantajele oțelului ca material de construcție pentru iahturi.",
@@ -3398,6 +3402,7 @@
         },
         {
           "nr": 5,
+          "page": [127],
           "text_de": "Was bedeutet der Begriff „Kategorie“ im Zusammenhang mit dem CE-Zeichen für Wassersportfahrzeuge?",
           "answer_de": "Mit der Kategorie legt der Hersteller fest, in welchem Fahrgebiet, bis zu welcher Windstärke und bis zu welcher charakteristischen Wellenhöhe das Fahrzeug sicher betrieben werden kann.",
           "text_ro": "Ce înseamnă termenul „categorie” în legătură cu marcajul CE pentru vehiculele pentru sporturi nautice?",
@@ -3407,6 +3412,7 @@
         },
         {
           "nr": 6,
+          "page": [127],
           "text_de": "Welche Kategorien können im Zusammenhang mit dem CE-Zeichen für Wassersportfahrzeuge vergeben werden?",
           "answer_de": "1. A Hochsee,\n2. B Außerhalb von Küstengewässern,\n3. C Küstennahe Gewässer,\n4. D Geschützte Gewässer.",
           "text_ro": "Ce categorii pot fi acordate în legătură cu marcajul CE pentru vehiculele pentru sporturi nautice?",
@@ -3416,6 +3422,7 @@
         },
         {
           "nr": 7,
+          "page": [127],
           "text_de": "Was bedeutet die im Zusammenhang mit dem CE-Zeichen für Wassersportfahrzeuge angegebene Kategorie „B Außerhalb von Küstengewässern“?",
           "answer_de": "Das Fahrzeug ist ausgelegt für Fahrten außerhalb von Küstengewässern, in denen Windstärken bis einschließlich 8 Bft und signifikante Wellenhöhen bis einschließlich 4 m auftreten können.",
           "text_ro": "Ce înseamnă categoria „B În afara apelor de coastă” în legătură cu marcajul CE pentru vehiculele pentru sporturi nautice?",
@@ -3425,6 +3432,7 @@
         },
         {
           "nr": 8,
+          "page": [123],
           "text_de": "Beschreiben Sie den Aufbau einer Radsteuerung mit Seilzügen.",
           "answer_de": "Das Rad dreht ein Zahnrad, über das eine Kette in der Steuersäule nach unten verläuft. Die Kette ist mit den Steuerseilen verbunden, welche über Umlenkrollen zum Ruderquadranten führen.",
           "text_ro": "Descrieți structura unui sistem de control al roților cu tragere de cablu.",
@@ -3434,6 +3442,7 @@
         },
         {
           "nr": 9,
+          "page": [117],
           "text_de": "Wie nennt man die Teile des „stehenden Gutes“, die den Mast nach vorn, achtern und seitlich verankern?",
           "answer_de": "Stagen und Wanten.",
           "text_ro": "Cum numiți părțile „tacheliului în picioare” care ancorează catargul înainte, în spate și în lateral?",
@@ -3443,6 +3452,7 @@
         },
         {
           "nr": 10,
+          "page": [117],
           "text_de": "1. Wozu dienen Backstagen?\n2. Bei welchen Takelungen werden sie vor allem gefahren?",
           "answer_de": "1. Zum zusätzlichen Abstagen des Mastes nach achtern.\n2. Bei 7/8-Takelung und anderen nicht toppgetakelten Yachten.",
           "text_ro": "1. Pentru ce sunt folosite culisele?\n2. Pentru ce tachelaj sunt folosite în principal?",
@@ -3452,6 +3462,7 @@
         },
         {
           "nr": 11,
+          "page": [117],
           "text_de": "Was ist das „laufende Gut“?",
           "answer_de": "Tauwerk, das zum Setzen, Bergen oder Bedienen der Segel oder anderer Teile der Takelage dient.",
           "text_ro": "Ce este „activul curent”?",
@@ -3461,6 +3472,7 @@
         },
         {
           "nr": 12,
+          "page": [115, 132],
           "text_de": "Was gehört zur regelmäßigen Pflege der Segel?",
           "answer_de": "1. Nasse Segel trocknen,\n2. Segel vor Sonnenlicht schützen,\n3. Salzwasserreste abspülen und\n4. Beschädigungen umgehend beseitigen.",
           "text_ro": "Ce implică îngrijirea obișnuită a velei?",
@@ -3470,6 +3482,7 @@
         },
         {
           "nr": 13,
+          "page": [116],
           "text_de": "Warum sollten Vorsegel für schweres Wetter im Unterliek hoch geschnitten sein?",
           "answer_de": "Damit überkommende Seen nicht ins Segel schlagen und so Rigg und Segel belasten.",
           "text_ro": "De ce ar trebui tăiate pânzele de cap în picioare pentru vreme grea?",
@@ -3479,6 +3492,7 @@
         },
         {
           "nr": 14,
+          "page": [116],
           "text_de": "Was ist ein Trysegel und wie wird es gefahren?",
           "answer_de": "Ein Schwerwettersegel, das anstelle des Großsegels mit losem Unterliek gefahren wird.",
           "text_ro": "Ce este o vela de încercare și cum se navighează?",
@@ -3488,6 +3502,7 @@
         },
         {
           "nr": 15,
+          "page": [115],
           "text_de": "Warum soll man das Schlagen eines Segels vermeiden, vor allem bei stärkerem Wind?",
           "answer_de": "Um Beschädigungen zu vermeiden.",
           "text_ro": "De ce ar trebui să evitați să bateți o pânză, mai ales pe vânturi puternice?",
@@ -3497,6 +3512,7 @@
         },
         {
           "nr": 16,
+          "page": [114],
           "text_de": "Wozu dienen Segellatten?",
           "answer_de": "Zur Profilierung des Segels, damit das Achterliek nicht einklappt.",
           "text_ro": "Pentru ce sunt folosite sipcile de pânze?",
@@ -3506,6 +3522,7 @@
         },
         {
           "nr": 17,
+          "page": [114],
           "text_de": "Wozu dient ein „Cunningham-Stropp“?",
           "answer_de": "Zur Regulierung der Vorliekspannung des Großsegels, um es so zu trimmen.",
           "text_ro": "La ce se folosește „Cunningham strop”?",
@@ -3515,6 +3532,7 @@
         },
         {
           "nr": 18,
+          "page": [169],
           "text_de": "Welche Segel sollte eine Segelyacht in der Küstenfahrt mindestens an Bord haben?",
           "answer_de": "1. Reffbare Großsegel,\n2. reffbare Rollfock oder Vorsegel verschiedener Größen,\n3. Sturmfock.",
           "text_ro": "Ce pânze ar trebui să aibă cel puțin la bord un iaht cu vele pentru navigarea pe coastă?",
@@ -3524,6 +3542,7 @@
         },
         {
           "nr": 19,
+          "page": [168],
           "text_de": "Wozu dient eine Vorsegel-Rollreffeinrichtung?",
           "answer_de": "Mit ihr wird das Vorsegel um das Vorstag gerollt und kann so stufenlos verkleinert werden.",
           "text_ro": "Care este scopul unui înfășurător de pânze de cap?",
@@ -3533,6 +3552,7 @@
         },
         {
           "nr": 20,
+          "page": [167],
           "text_de": "Wozu dient eine Großsegel-Rollreffeinrichtung?",
           "answer_de": "Mit ihr wird das Großsegel entweder im Mast oder im Baum aufgerollt und kann stufenlos verkleinert werden.",
           "text_ro": "Care este scopul unui înfășurător de pânză mare?",
@@ -3542,6 +3562,7 @@
         },
         {
           "nr": 21,
+          "page": [122],
           "text_de": "Wozu dient der Lenzkorb am Ansaugstutzen einer Lenzpumpe und wie erhalten Sie damit ihre Funktionsfähigkeit?",
           "answer_de": "Der Lenzkorb verhindert Verunreinigungen und Verstopfungen der Lenzpumpe. Er muss regelmäßig überprüft und gereinigt werden.",
           "text_ro": "Care este scopul coșului de santină de pe orificiul de admisie al unei pompe de santină și cum îi mențineți funcționalitatea?",
@@ -3551,6 +3572,7 @@
         },
         {
           "nr": 22,
+          "page": [122],
           "text_de": "Welche Lenzvorrichtungen und -möglichkeiten sollten auf jeder seegehenden Yacht vorhanden sein?",
           "answer_de": "Zwei voneinander unabhängige Bilgenpumpen, von denen eine über Deck und eine unter Deck bedienbar ist, sowie 2 Pützen mit Leinen.",
           "text_ro": "Ce dispozitive și facilități de santină ar trebui să fie disponibile pe fiecare iaht maritim?",
@@ -3560,6 +3582,7 @@
         },
         {
           "nr": 23,
+          "page": [160],
           "text_de": "Warum sollten Sie mehr als einen Anker an Bord haben, möglichst unterschiedlicher Art?",
           "answer_de": "1. Als Ersatz bei Verlust,\n2. zum Verwarpen oder Verkatten,\n3. um unterschiedliche Ankergründe berücksichtigen zu können,\n4. um bei schwerem Wetter oder in Tidengewässern vor 2 Ankern liegen zu können.",
           "text_ro": "De ce ar trebui să aveți mai multe ancore la bord, de preferință de diferite tipuri?",
@@ -3569,6 +3592,7 @@
         },
         {
           "nr": 24,
+          "page": [126],
           "text_de": "Wie viele Fender und Festmacherleinen sollten Sie mindestens an Bord haben?",
           "answer_de": "4 Festmacherleinen und 4 Fender.",
           "text_ro": "Care este numărul minim de apărătoare și linii de acostare pe care ar trebui să le aveți la bord?",
@@ -3578,6 +3602,7 @@
         },
         {
           "nr": 25,
+          "page": [126],
           "text_de": "Was sollte auf jeder Yacht außer Festmacherleinen, Fallen und Schoten an Tauwerk vorhanden sein?",
           "answer_de": "Reservetauwerk, Wurfleine, Schlepptrosse und Ankerleine.",
           "text_ro": "Ce fel de frânghie ar trebui să fie pe fiecare iaht, în afară de linii de acostare, drize și cearșafuri?",
@@ -3587,6 +3612,7 @@
         },
         {
           "nr": 26,
+          "page": [126],
           "text_de": "Für welche unterschiedlichen Reparaturbereiche sollten Sie Ersatzteile und Werkzeug an Bord haben?",
           "answer_de": "1. Segelreparaturen,\n2. Reparaturen an Rumpf und Rigg,\n3. Motorreparaturen,\n4. Elektroreparaturen und\n5. Reparaturen an Schlauchleitungen.",
           "text_ro": "Pentru ce zone diferite de reparații ar trebui să aveți la bord piese de schimb și unelte?",
@@ -3596,6 +3622,7 @@
         },
         {
           "nr": 27,
+          "page": [126],
           "text_de": "Welches Werkzeug sollten Sie zur Segelreparatur an Bord haben?",
           "answer_de": "Segelhandschuh, Segelnadeln, Segelgarn, Wachs, Zange und selbstklebendes Segeltuch.",
           "text_ro": "Ce unelte ar trebui să aveți la bord pentru repararea pânzei?",
@@ -3605,6 +3632,7 @@
         },
         {
           "nr": 28,
+          "page": [126],
           "text_de": "Ihr Mast ist gebrochen, eine Bergung ist nicht möglich. Welche Werkzeuge benötigen Sie, um die Takelage zu kappen?",
           "answer_de": "Bolzenschneider, Metallsäge mit Ersatzblättern, Schraubenschlüssel und verschiedene Zangen.",
           "text_ro": "Catargul ei este rupt și salvarea nu este posibilă. De ce unelte aveți nevoie pentru a tăia tacheria?",
@@ -3614,6 +3642,7 @@
         },
         {
           "nr": 29,
+          "page": [127],
           "text_de": "Welches Kleinmaterial und Kleinwerkzeug muss an Bord jederzeit greifbar sein?",
           "answer_de": "Zeisinge, Bändselwerk, Tape, Reserveschäkel, Schäkelöffner, Bordmesser und Kombizange.",
           "text_ro": "Ce materiale și unelte mici trebuie să fie disponibile la bord în orice moment?",
@@ -3623,6 +3652,7 @@
         },
         {
           "nr": 30,
+          "page": [123, 126],
           "text_de": "Womit muss insbesondere eine Yacht mit Radsteuerung zusätzlich ausgerüstet sein, und warum sollten alle Mitsegler mit dieser Einrichtung vertraut sein?",
           "answer_de": "Mit einer Notpinne. Sie muss ggf. in kürzester Zeit einsatzbereit sein.",
           "text_ro": "Cu ce ​​echipament suplimentar trebuie să fie echipat un iaht cu direcție pe roți și de ce ar trebui să fie familiarizați toți colegii navigatori cu această facilitate?",
@@ -3632,6 +3662,7 @@
         },
         {
           "nr": 31,
+          "page": [126],
           "text_de": "Wo finden Sie amtliche Informationen über die Ausrüstung und Sicherheit von Sportbooten, die auch bei der Beurteilung von Sportbootunfällen herangezogen werden?",
           "answer_de": "1. „Sicherheit im See- und Küstenbereich, Sorgfaltsregeln für Wassersportler“, herausgegeben vom BSH,\n2. „Sicherheit auf dem Wasser, Leitfaden für Wassersportler“, herausgegeben vom Bundesministerium für Verkehr, Bau und Stadtentwicklung.",
           "text_ro": "Unde puteți găsi informații oficiale despre echipamentul și siguranța ambarcațiunilor de agrement care sunt, de asemenea, utilizate la evaluarea accidentelor de ambarcațiuni de agrement?",
@@ -3641,6 +3672,7 @@
         },
         {
           "nr": 32,
+          "page": [122],
           "text_de": "Warum müssen auf Yachten zusätzlich zu elektrisch oder motorgetriebenen Lenzpumpen auch Handlenzpumpen vorhanden sein?",
           "answer_de": "Weil sie auch bei Strom- oder Motorausfall betätigt werden können.",
           "text_ro": "De ce iahturile trebuie să aibă pompe de santină manuale în plus față de pompele de santină electrice sau cu motor?",
@@ -3650,6 +3682,7 @@
         },
         {
           "nr": 33,
+          "page": [122],
           "text_de": "Warum ist Flüssiggas (Propan, Butan) an Bord einer Yacht besonders gefährlich?",
           "answer_de": "Es ist schwerer als Luft, sinkt nach unten und bildet mit Luft ein explosives Gemisch; es kann sich im Schiffsinneren (z.B. in der Bilge) sammeln.",
           "text_ro": "De ce este gazul lichid (propan, butan) deosebit de periculos la bordul unui iaht?",
@@ -3659,6 +3692,7 @@
         },
         {
           "nr": 34,
+          "page": [123],
           "text_de": "Welche 4 Bedienelemente besitzt ein mit Handpumpe betriebenes Bord-WC auf einer Yacht?",
           "answer_de": "1. Seeventil und Spülwasserschlauch (Seewasser),\n2. Handpumpe für Toilettenspülung,\n3. Hebel zur Unterbrechung der Seewasserzufuhr (Handpumpe dient dann nur noch zum Abpumpen),\n4. Abwasserschlauch (via Fäkalientank) zum Seeventil.",
           "text_ro": "Ce 4 comenzi are o toaletă de bord acționată cu pompă manuală pe un iaht?",
@@ -3668,6 +3702,7 @@
         },
         {
           "nr": 35,
+          "page": [123],
           "text_de": "Beschreiben Sie in 5 Schritten die Bedienung eines Bord-WC auf einer Yacht.",
           "answer_de": "1. Seeventil für Seewasserspülung öffnen,\n2. Handpumpe betätigen, sodass das Becken gespült wird und gleichzeitig die Fäkalien abfließen - ausgiebig spülen,\n3. Seewasserzufuhr unterbrechen (Hebel umlegen),\n4. Becken mit Handpumpe leer pumpen,\n5. Seeventile für Zu- und Abfluss schließen.",
           "text_ro": "Descrieți funcționarea unei toalete de la bord pe un iaht în 5 pași.",
@@ -3677,6 +3712,7 @@
         },
         {
           "nr": 36,
+          "page": [144],
           "text_de": "Was versteht man unter der „Stabilität“ eines Schiffes?",
           "answer_de": "Unter Stabilität eines Schiffes versteht man seine Eigenschaft, in aufrechter Lage zu schwimmen und sich aus einer Krängung wieder aufzurichten.",
           "text_ro": "Ce se înțelege prin „stabilitatea” unei nave?",
@@ -3686,6 +3722,7 @@
         },
         {
           "nr": 37,
+          "page": [144],
           "text_de": "Wovon hängt die Stabilität eines Schiffes in ruhigem Wasser ab? Nennen Sie Beispiele für äußere Momente, welche die Stabilität beanspruchen.",
           "answer_de": "Die Stabilität eines Schiffes hängt ab von:\n1. seiner Geometrie (Form),\n2. der Gewichtsverteilung im Schiff (Ausrüstung, Crew, Ballast).\nBeispiele für eine Beanspruchung der Stabilität sind krängende Momente durch Seitenwind, Trossenzug oder Drehkreisfahrt bei schnellen Motoryachten.",
           "text_ro": "De ce depinde stabilitatea unei nave în ape calme? Dați exemple de momente externe care pun o presiune asupra stabilității.",
@@ -3695,6 +3732,7 @@
         },
         {
           "nr": 38,
+          "page": [144],
           "text_de": "Wovon hängt eine in ruhigem Wasser vorhandene Stabilität zusätzlich in schwerem Wetter ab?",
           "answer_de": "Die Stabilität in schwerem Wetter hängt zusätzlich von Wind und Seegang, besonders von brechenden Wellen ab.",
           "text_ro": "De ce depinde și stabilitatea în apă calmă pe vreme grea?",
@@ -3704,6 +3742,7 @@
         },
         {
           "nr": 39,
+          "page": [144],
           "text_de": "Was versteht man unter\n1. Formschwerpunkt (F)?\n2. Massenschwerpunkt (Gewichtsschwerpunkt, G)?\nWelche Kräfte wirken in den beiden Punkten?",
           "answer_de": "1. Im Formschwerpunkt F kann man sich die Masse des vom Schiff verdrängten Wassers vereinigt denken. In F wirkt die Auftriebskraft senkrecht zur Wasseroberfläche nach oben.\n2. Im Massenschwerpunkt G kann man sich die Masse des Schiffes einschließlich Ausrüstung und Besatzung vereinigt denken. In G wirkt die Gewichtskraft senkrecht zur Wasseroberfläche nach unten.",
           "text_ro": "Ce vrei să spui prin\n1. Centrul de greutate (F)?\n2. Centrul de masă (centrul de greutate, G)?\nCe forțe lucrează în cele două puncte?",
@@ -3713,6 +3752,7 @@
         },
         {
           "nr": 40,
+          "page": [144],
           "text_de": "Was geschieht bei einer Neigung des Schiffes, z.B. durch seitlichen Winddruck, solange sich die Lage des Massenschwerpunktes (Gewichtsschwerpunkt) nicht verändert? (Begründung!)",
           "answer_de": "Der Formschwerpunkt F wandert zur geneigten Seite aus, weil dort ein größerer Teil des Bootskörpers unter Wasser gelangt. Die Wirklinie der Auftriebskraft bekommt dadurch einen seitlichen Abstand zur Wirklinie der Gewichtskraft. Es entsteht ein Kräftepaar, der seitliche Abstand zwischen den Wirklinien ist der Hebelarm. Es entsteht ein aufrichtendes Moment, welches gleich dem Produkt aus Gewichtskraft und Hebelarm ist.",
           "text_ro": "Ce se întâmplă dacă nava se înclină, de exemplu din cauza presiunii laterale a vântului, atâta timp cât poziția centrului de masă (centrul de greutate) nu se schimbă? (Motiv!)",
@@ -3722,6 +3762,7 @@
         },
         {
           "nr": 41,
+          "page": [139],
           "text_de": "Erklären Sie mit Hilfe eines Vektorparallelogramms aus „wahrem Wind (wW)“, „Fahrtwind (Fw)“ und „scheinbarem Wind (sW)“, warum beim Einfallen einer Bö (Windzunahme) der „scheinbare Wind“ raumt. Welcher Vorteil ergibt sich dadurch beim Kreuzen?\n(Zeichnung!)",
           "answer_de": "(oben) Verhältnisse vor Einfall der Bö\n(unten) Verhältnisse bei Einfall der Bö: Der „scheinbare Wind“ fällt etwas achterlichter ein, er „raumt“, und das Segelboot kann etwas höher an den „wahren Wind“ gehen.",
           "answer_images": [
@@ -3735,6 +3776,7 @@
         },
         {
           "nr": 42,
+          "page": [138],
           "text_de": "Auf Amwindkurs mussten Sie reffen. Ein entgegenkommendes Boot gleicher Größe segelt ungerefft. Wie erklären Sie das?",
           "answer_de": "Der „scheinbare Wind“ ist unterschiedlich stark. Er ist auf Amwindkursen stärker und auf Raumschot- oder Vorwindkursen schwächer als der „wahre Wind“.",
           "text_ro": "A trebuit să faci recif pe un curs apropiat. O barcă de aceeași dimensiune care se apropie din sens opus navighează nereefed. Cum explici asta?",
@@ -3744,6 +3786,7 @@
         },
         {
           "nr": 43,
+          "page": [143],
           "text_de": "Warum wird die Versetzung einer Yacht durch den Wind mit zunehmender Krängung größer?",
           "answer_de": "Der Lateralplan wird kleiner, dadurch verringert sich der seitliche Widerstand des Schiffes im Wasser.",
           "text_ro": "De ce crește deplasarea unui iaht cauzată de vânt pe măsură ce crește înclinarea?",
@@ -3753,6 +3796,7 @@
         },
         {
           "nr": 44,
+          "page": [146],
           "text_de": "Welchen Einfluss hat zunehmende Krängung auf den Trimm eines Segelbootes? (Begründung!)",
           "answer_de": "Die Luvgierigkeit nimmt zu, weil der Segeldruckpunkt nach Lee auswandert.",
           "text_ro": "Ce efect are creșterea călcâiului asupra ornamentului unei bărci cu pânze? (Motiv!)",
@@ -3762,6 +3806,7 @@
         },
         {
           "nr": 45,
+          "page": [146],
           "text_de": "Sie segeln am Wind, Krängung und Ruderdruck nehmen stark zu.\n1. Wie bezeichnet man das Verhalten des Bootes?\n2. Mit welchen Mitteln können Sie die Krängung und den Ruderdruck vermindern?",
           "answer_de": "1. Luvgierigkeit.\n2. Traveller nach Lee setzen und/oder Großschot (etwas) fieren, Großsegel reffen.",
           "text_ro": "Navigați aproape de vânt, înclinarea și presiunea cârmei cresc semnificativ.\n1. Cum descrii comportamentul bărcii?\n2. Ce mijloace puteți folosi pentru a reduce tălcâiul și presiunea cârmei?",
@@ -3771,6 +3816,7 @@
         },
         {
           "nr": 46,
+          "page": [149],
           "text_de": "Welche Funktion hat ein Unterliekstrecker und wie kann mit dem Unterliekstrecker der Trimm des Großsegels beeinflusst werden?",
           "answer_de": "Er reguliert die Spannung des Unterlieks. Je nach Zugkraft wird der untere Teil des Großsegels flacher oder bauchiger.",
           "text_ro": "Ce funcție are un downhaul și cum poate fi influențat trim-ul vela mare cu downhaul?",
@@ -3780,6 +3826,7 @@
         },
         {
           "nr": 47,
+          "page": [149],
           "text_de": "Das Vorliek der Fock wirft Falten. Welches ist die häufigste Ursache?",
           "answer_de": "Das Fall ist nicht genügend durchgesetzt.",
           "text_ro": "Gluful brațului se încrețește. Care este cea mai frecventă cauză?",
@@ -3789,6 +3836,7 @@
         },
         {
           "nr": 48,
+          "page": [149],
           "text_de": "Das Unterliek Ihres Vorsegels killt. Was ist die Ursache?",
           "answer_de": "Der Holepunkt der Schot liegt zu weit vorne.",
           "text_ro": "Piciorul velei tale de cap ucide. Care este motivul?",
@@ -3798,6 +3846,7 @@
         },
         {
           "nr": 49,
+          "page": [149],
           "text_de": "Das Achterliek Ihres Vorsegels killt. Was ist die Ursache?",
           "answer_de": "Der Holepunkt der Schot liegt zu weit achtern.",
           "text_ro": "Lipitoarea velei tale ucide. Care este motivul?",
@@ -3807,6 +3856,7 @@
         },
         {
           "nr": 50,
+          "page": [148],
           "text_de": "Wozu dienen Windfäden am Segel?",
           "answer_de": "Sie machen den Strömungsverlauf am Segel sichtbar, um das Segel optimal trimmen zu können.",
           "text_ro": "La ce sunt folosite firele de vânt pe o pânză?",
@@ -3816,6 +3866,7 @@
         },
         {
           "nr": 51,
+          "page": [148],
           "text_de": "1. Wann sollte ein Großsegel flach getrimmt sein?\n2. Wie kann ein Großsegel flach getrimmt werden?",
           "answer_de": "1. Bei Starkwind.\n2. Dichtholen von Unterliek- und Vorliekstrecker, Dichtholen der Großschot, Durchsetzen des Großfalls, Spannung des Achterstags erhöhen, Traveller nach Lee.",
           "text_ro": "1. Când ar trebui să fie tăiată o vela mare?\n2. Cum poate fi tăiată o vela mare?",
@@ -3825,6 +3876,7 @@
         },
         {
           "nr": 52,
+          "page": [148],
           "text_de": "Mit welchen 6 Teilen des laufenden und stehenden Guts können Sie ein Großsegel trimmen?",
           "answer_de": "Großschot, Traveller, Unterliekstrecker, Cunninghamstrecker, Großfall, Achterliek.",
           "text_ro": "Ce 6 bucăți de tachelaj de rulare și în picioare puteți folosi pentru a tăia o vela mare?",
@@ -3834,6 +3886,7 @@
         },
         {
           "nr": 53,
+          "page": [124],
           "text_de": "Wozu dienen „Opferanoden“ und wann sollten sie ausgewechselt werden?",
           "answer_de": "Sie dienen dem Schutz gegen Schäden durch Elektrolyse. Verbrauchte Anoden müssen nach einer Saison ersetzt werden, nicht erst wenn sie verbraucht sind.",
           "text_ro": "Pentru ce sunt folosiți „anozii de sacrificiu” și când ar trebui să fie înlocuiți?",
@@ -3843,6 +3896,7 @@
         },
         {
           "nr": 54,
+          "page": [124],
           "text_de": "Wie schützt man auf Kunststoffyachten den Propeller gegen Elektrolyse?",
           "answer_de": "Durch eine Zinkanode auf der Propellerwelle.",
           "text_ro": "Cum protejați elicea împotriva electrolizei pe iahturile din plastic?",
@@ -3852,6 +3906,7 @@
         },
         {
           "nr": 55,
+          "page": [136],
           "text_de": "Welche Sicherheitsmaßnahmen sind vor und beim Tanken von Diesel zu treffen?",
           "answer_de": "1. Maschine abstellen,\n2. offenes Feuer löschen (Rauchen einstellen),\n3. Maßnahmen gegen Überlaufen treffen.",
           "text_ro": "Ce măsuri de siguranță ar trebui luate înainte și la alimentarea cu motorină?",
@@ -3861,6 +3916,7 @@
         },
         {
           "nr": 56,
+          "page": [136],
           "text_de": "Wie können Sie beim Tanken Umweltverschmutzungen vermeiden?",
           "answer_de": "1. Tanköffnung mit Ölbindetüchern umlegen,\n2. möglichst an Zapfsäulen mit Zapfhahn tanken,\n3. beim Tanken aus Kanistern großen Trichter mit Schlauch benutzen,\n4. Nachfüllen aus Kanistern bei Wind und bewegter See möglichst vermeiden.",
           "text_ro": "Cum poți evita poluarea la realimentare?",
@@ -3870,6 +3926,7 @@
         },
         {
           "nr": 57,
+          "page": [134],
           "text_de": "Wozu dient das Wendegetriebe eines Motors?",
           "answer_de": "1. Zum Ein- und Auskuppeln des Propellers,\n2. zum Umsteuern des Propellers auf Rückwärtsfahrt,\n3. zur Drehzahluntersetzung.",
           "text_ro": "Care este scopul treptei de marșarier a unui motor?",
@@ -3879,6 +3936,7 @@
         },
         {
           "nr": 58,
+          "page": [136],
           "text_de": "Welche Maßnahmen sind vor dem Anlassen eines eingebauten Motors zu treffen?",
           "answer_de": "1. Hauptstromschalter einschalten,\n2. Kraftstoff- und Kühlwasserventile öffnen,\n3. Getriebe auf „neutral“ stellen.",
           "text_ro": "Ce măsuri ar trebui luate înainte de a porni un motor instalat?",
@@ -3888,6 +3946,7 @@
         },
         {
           "nr": 59,
+          "page": [136],
           "text_de": "Was sollte nach dem Anlassen der Maschine kontrolliert werden?",
           "answer_de": "1. Kühlwasserdurchlauf,\n2. Öldruck und Ladung,\n3. Motorengeräusche und\n4. Auspuffgase.",
           "text_ro": "Ce ar trebui verificat după pornirea mașinii?",
@@ -3897,6 +3956,7 @@
         },
         {
           "nr": 60,
+          "page": [137],
           "text_de": "Was können erste Störungsanzeichen im Motorbetrieb sein?",
           "answer_de": "Ungewöhnliche und fremde Motorengeräusche, Vibrationen, Verfärbung der Abgase, Aufleuchten der Ladekontrolle bzw. Öldruckkontrolle und die entsprechenden akustischen Warnungen.",
           "text_ro": "Care ar putea fi primele semne de probleme în funcționarea motorului?",
@@ -3906,6 +3966,7 @@
         },
         {
           "nr": 61,
+          "page": [137],
           "text_de": "Wie können Sie einen Dieselmotor abstellen, wenn die vorgesehene Abstellvorrichtung defekt ist?",
           "answer_de": "1. Kraftstoffzufuhr unterbrechen.\n2. Verschließen des Luftansaugrohres/der Luftansaugrohre.",
           "text_ro": "Cum puteți opri un motor diesel dacă dispozitivul de oprire prevăzut este defect?",
@@ -3915,6 +3976,7 @@
         },
         {
           "nr": 62,
+          "page": [137],
           "text_de": "Der Dieselmotor Ihres Bootes startet nicht. Welche Fehler, die Sie selber überprüfen können, könnten die Ursache sein?",
           "answer_de": "1. Anlasserdrehzahl zu gering (Batterie zu schwach),\n2. kein Kraftstoff im Tank,\n3. Luft in der Kraftstoffleitung,\n4. falsche Bedienung der Kaltstarthilfe (eventuell Vorglühen zu kurz),\n5. Anlasser defekt.",
           "text_ro": "Motorul diesel al bărcii dumneavoastră nu pornește. Ce erori pe care le puteți verifica singur ar putea fi cauza?",
@@ -3924,6 +3986,7 @@
         },
         {
           "nr": 63,
+          "page": [137],
           "text_de": "Der Motor Ihres Bootes bleibt beim Einkuppeln stehen. Nennen Sie mögliche Ursachen.",
           "answer_de": "1. Propellerwelle durch Tauwerk o.Ä. blockiert,\n2. Schwerlauf des Getriebes wegen defekter Zahnräder, Lagerschaden, dicken Öls oder\n3. verbogene Propellerwelle.",
           "text_ro": "Motorul bărcii dumneavoastră se oprește când cuplați ambreiajul. Enumerați cauzele posibile.",
@@ -3933,6 +3996,7 @@
         },
         {
           "nr": 64,
+          "page": [137],
           "text_de": "Während Sie unter Maschine laufen, steigt plötzlich die Kühlwassertemperatur stark an. Ihre Yacht ist mit einem Saildrive-Antrieb ausgestattet.\n1. Welche typische Ursache hat der Temperaturanstieg, wenn eine technische Störung unwahrscheinlich ist?\n2. Wie können Sie die Störung einfach beheben?",
           "answer_de": "1. Fremdkörper (Folienstücke, Plastiktüten, Pflanzenteile o.Ä.) haben den Kühlwassereinlass verstopft.\n2. Mehrmals abwechselnd vor- und zurückfahren, sodass sich die Fremdkörper vom Kühlwassereinlass lösen.",
           "text_ro": "În timpul rulării sub motor, temperatura apei de răcire crește brusc brusc. Iahtul dumneavoastră este echipat cu un drive drive.\n1. Care este cauza tipică a creșterii temperaturii dacă o defecțiune tehnică este puțin probabilă?\n2. Cum puteți rezolva cu ușurință problema?",
@@ -3942,6 +4006,7 @@
         },
         {
           "nr": 65,
+          "page": [135],
           "text_de": "Welche Propeller werden auf Yachten mit Einbaumotor eingesetzt?",
           "answer_de": "Festflügelpropeller, Faltpropeller, Drehflügelpropeller und Verstellpropeller.",
           "text_ro": "Ce elice sunt folosite pe iahturile cu motoare încorporate?",
@@ -3951,6 +4016,7 @@
         },
         {
           "nr": 66,
+          "page": [135],
           "text_de": "Was müssen Sie beim Aufstoppen unter Maschine mit einem Faltpropeller beachten?",
           "answer_de": "Der Propeller entfaltet sich eventuell erst bei relativ hoher Drehzahl und der Wirkungsgrad ist geringer als beim Festflügelpropeller.",
           "text_ro": "La ce trebuie să fii atent când te oprești sub o mașină cu o elice pliabilă?",
@@ -3960,6 +4026,7 @@
         },
         {
           "nr": 67,
+          "page": [135],
           "text_de": "Mit welchen 4 Angaben werden Propeller auf Yachten beschrieben?",
           "answer_de": "Anzahl der Flügel, Große ihrer Fläche, Durchmesser und Steigung.",
           "text_ro": "Ce 4 detalii sunt folosite pentru a descrie elicele de pe iahturi?",
@@ -3969,6 +4036,7 @@
         },
         {
           "nr": 68,
+          "page": [133],
           "text_de": "Was sollten Sie beachten, wenn Sie den kleinen Außenborder mit eingebautem Tank Ihres Beibootes an Bord verstauen? (Begründung!)",
           "answer_de": "1. Tank und Vergaser müssen leer sein.\n2. Lagerung an Deck oder in einer Backskiste mit Außenentlüftung, niemals unter Deck.\n3. Restbenzin und entweichende Benzingase bilden mit Luft ein leicht entzündliches Gemisch.",
           "text_ro": "Ce ar trebui să luați în considerare atunci când depozitați motorul mic exterioară al barca dvs. cu rezervor încorporat la bord? (Motiv!)",
@@ -3978,6 +4046,7 @@
         },
         {
           "nr": 69,
+          "page": [134],
           "text_de": "Wozu dient ein Wasserabscheider in der Kraftstoffleitung?",
           "answer_de": "In ihm sammelt sich das Kondenswasser aus dem Tank; dadurch werden Startschwierigkeiten vermieden.",
           "text_ro": "Care este scopul unui separator de apă în conducta de combustibil?",
@@ -3987,6 +4056,7 @@
         },
         {
           "nr": 70,
+          "page": [134],
           "text_de": "Warum sollten Sie bei seltener Motorbenutzung den eingebauten Tank eines Dieselmotors möglichst voll getankt halten?",
           "answer_de": "Um Kondenswasserbildung zu verringern, was zu Startschwierigkeiten führen kann.",
           "text_ro": "De ce ar trebui să ții rezervorul încorporat al unui motor diesel cât mai plin dacă folosești motorul rar?",
@@ -3996,6 +4066,7 @@
         },
         {
           "nr": 71,
+          "page": [137],
           "text_de": "Welche Motor-Ersatzteile bzw. Schmierstoffe sollten Sie mindestens an Bord haben?",
           "answer_de": "1. Impeller für die Wasserpumpe,\n2. Reservekeilriemen,\n3. Motorenöl,\n4. Dichtungsmaterial.",
           "text_ro": "Ce piese de schimb sau lubrifianți pentru motor ar trebui să aveți cel puțin la bord?",
@@ -4005,6 +4076,7 @@
         },
         {
           "nr": 72,
+          "page": [124],
           "text_de": "1. Was bedeutet die Angabe einer Batteriekapazität „2 x 60 Ah“? (Begründung!)\n2. Welche Nettokapazität steht in dem Fall zur Verfügung? (Begründung!)",
           "answer_de": "1. Es handelt sich um 2 Batterien (Akkus) mit jeweils 60 Amperestunden, insgesamt also 120 Ah Nennkapazität.\n2. Dem entspricht eine Nettokapazität von etwa 72 Ah, da ein Akku kaum über 80 % seiner Nennkapazität geladen werden kann.",
           "text_ro": "1. Ce înseamnă specificația capacității bateriei „2 x 60 Ah”? (Motiv!)\n2. Ce capacitate netă este disponibilă în acest caz? (Motiv!)",
@@ -4014,6 +4086,7 @@
         },
         {
           "nr": 73,
+          "page": [124],
           "text_de": "Geben Sie die benötigte Strommenge (in Amperestunden) an, um bei einer 12-Volt-Anlage zwei Verbraucher mit je 24 Watt 10 Stunden betreiben zu können (mit Angabe der Berechnung)!",
           "answer_de": "Benötigte Strommenge je Verbraucher: 24 : 12 = 2 Ampere mal Anzahl der Verbraucher mal Stunden ergibt: 2 x 2 A x 10 h = 40 Ah.",
           "text_ro": "Introduceți cantitatea de energie electrică necesară (în amperi-oră) pentru a putea funcționa doi consumatori cu 24 de wați fiecare timp de 10 ore într-un sistem de 12 volți (inclusiv calculul)!",
@@ -4023,6 +4096,7 @@
         },
         {
           "nr": 74,
+          "page": [118],
           "text_de": "Wie muss Tauwerk beschaffen sein, das für Festmacherleinen, Anker- und Schlepptrossen verwendet wird?",
           "answer_de": "Es muss bruchfest und elastisch sein.",
           "text_ro": "Ce trebuie să fie proiectate frânghiile utilizate pentru liniile de acostare, frânghiile de ancorare și de remorcare?",
@@ -4032,6 +4106,7 @@
         },
         {
           "nr": 75,
+          "page": [132],
           "text_de": "Wodurch können Sie verhindern, dass Festmacherleinen durch Schamfilen in Klüsen oder an Kanten an der Pier beschädigt werden?",
           "answer_de": "Durch einen gegen Verrutschen gesicherten Pastikschlauch, der über den Festmacher an der Scheuerstelle gezogen wird, hilfsweise mit Tuchstreifen.",
           "text_ro": "Cum puteți preveni deteriorarea liniilor de acostare de agățați în găuri sau pe marginile digului?",
@@ -4041,6 +4116,7 @@
         },
         {
           "nr": 76,
+          "page": [120],
           "text_de": "Was müssen Sie hinsichtlich der Festigkeit bedenken, wenn Sie Leinen zusammenknoten?",
           "answer_de": "Beim Knoten können Festigkeitsverluste bis zu 50 % auftreten.",
           "text_ro": "Ce trebuie să luați în considerare în ceea ce privește rezistența atunci când înnodați liniile?",
@@ -4050,6 +4126,7 @@
         },
         {
           "nr": 77,
+          "page": [119],
           "text_de": "Wodurch können Sie verhindern, dass bei Tauwerk aus unterschiedlichem Innen- und Außenmaterial die Seele in den Mantel rutscht?",
           "answer_de": "Durch einen genähten Takling.",
           "text_ro": "Cum puteți împiedica miezul frânghiilor din diferite materiale interioare și exterioare să alunece în manta?",
@@ -4059,6 +4136,7 @@
         },
         {
           "nr": 78,
+          "page": [154],
           "text_de": "Wie sind längsseits liegende Fahrzeuge festzumachen? Ergänzen Sie die Skizze und benennen Sie die Leinen.",
           "answer_de": "1. Achterleine,\n2. Achterspring,\n3. Vorspring,\n4. Vorleine.",
           "text_images": [
@@ -4074,6 +4152,7 @@
         },
         {
           "nr": 79,
+          "page": [154],
           "text_de": "Wie können Sie mit Hilfe von zwei Fendern und einem Fenderbrett Ihr Boot festmachen, wenn die Pier mit vorspringenden Pfählen versehen ist? Ergänzen Sie die Skizze mit Leinen.",
           "answer_de": "(siehe Build)",
           "text_images": [
@@ -4089,6 +4168,7 @@
         },
         {
           "nr": 80,
+          "page": [132],
           "text_de": "Was ist an Land beim Reinigen eines mit Antifouling behandelten Unterwasserschiffes zu beachten?",
           "answer_de": "Umweltschutzbestimmungen beachten, d.h., das Schiff nur auf einem entsprechend ausgerüsteten Reinigungsplatz abspritzen und Wasser und Schmutz auffangen, also nicht in die Kanalisation leiten.",
           "text_ro": "Ce trebuie luat în considerare pe uscat la curățarea unui vas subacvatic care a fost tratat cu antifouling?",
@@ -4098,6 +4178,7 @@
         },
         {
           "nr": 81,
+          "page": [132],
           "text_de": "Ein funktionsfähiges elektrisches Gerät arbeitet an Bord nicht. Nennen Sie häufige Ursachen und was kann zur Behebung getan werden?",
           "answer_de": "1. Schlechte Kontakte und Korrosion.\n2. Kontakte fest anziehen, korrodierte Stellen mit feinstem Schleifpapier säubern, Kontaktspray verwenden.",
           "text_ro": "Un dispozitiv electric funcțional nu funcționează la bord. Enumerați cauzele comune și ce se poate face pentru a le rezolva?",
@@ -4107,6 +4188,7 @@
         },
         {
           "nr": 82,
+          "page": [132],
           "text_de": "Warum müssen Schäden im Gelcoat unverzüglich beseitigt werden?",
           "answer_de": "Das Laminat unter der Gelcoatschicht nimmt sonst Wasser auf und wird dadurch geschädigt.",
           "text_ro": "De ce trebuie reparată imediat deteriorarea gelcoat-ului?",
@@ -4116,6 +4198,7 @@
         },
         {
           "nr": 83,
+          "page": [249],
           "text_de": "Welche Daten sollten mindestens an Bord im Logbuch dokumentiert werden?",
           "answer_de": "1. Namen und Funktionen der Crewmitglieder,\n2. Beginn und Ende einer Fahrt und\n3. in angemessenen Zeitabständen: Position, Kurs, Geschwindigkeit, Strömung, Wetter, Luftdruck.",
           "text_ro": "Ce date ar trebui cel puțin să fie documentate la bord în jurnalul de bord?",
@@ -4125,6 +4208,7 @@
         },
         {
           "nr": 84,
+          "page": [132],
           "text_de": "Worauf müssen Sie vor dem Setzen des Großsegels achten? Welche Gefahr besteht nach dem Setzen des Großsegels, solange der Wind von vorne kommt?",
           "answer_de": "1. Großschot und Baumniederholer müssen ausreichend Lose haben.\n2. Das Großfall muss frei laufen und darf nicht vertörnt sein.\n3. Verletzungsgefahr durch schlagenden Großbaum.",
           "text_ro": "La ce trebuie să fii atent înainte de a ridica vela mare? Ce pericol există după așezarea vela mare atâta timp cât vântul vine din față?",
@@ -4134,6 +4218,7 @@
         },
         {
           "nr": 85,
+          "page": [132],
           "text_de": "Was tun Sie, wenn Ihr Großsegel unter der untersten Lattentasche einreißt?",
           "answer_de": "1. Untere Latte entfernen.\n2. Segel bis über den Riss reffen.",
           "text_ro": "Ce faci dacă vela mare se rupe sub cel mai de jos buzunar de șipcă?",
@@ -4143,6 +4228,7 @@
         },
         {
           "nr": 86,
+          "page": [169],
           "text_de": "Beschreiben Sie die Schritte für den Reffvorgang mit dem Bindereff.",
           "answer_de": "1. Sicherstellen, dass Dirk angeschlagen oder Baum durch stützenden Baumniederholer in der Höhe gehalten wird,\n2. Fall fieren und Segel etwas herunterholen,\n3. Segelhals in Reffhaken am Lümmelbeschlag einhaken und festsetzen,\n4. Fall wieder dichtholen,\n5. Segelschothorn (hintere Reffkausch) mit Schmeerreep oder Reffleine nach achtern auf den Baum holen und\n6. eventuell loses Segeltuch auftuchen und mit Reffbändseln/Reffleine einbinden.",
           "text_ro": "Descrieți pașii procesului de legare.",
@@ -4152,6 +4238,7 @@
         },
         {
           "nr": 87,
+          "page": [153],
           "text_de": "1. Wozu dient ein „Bullenstander“?\n2. Wie wird er gefahren?",
           "answer_de": "1. Er soll das ungewollte Überkommen des Großbaums bei achterlichen Winden verhindern.\n2. Von der Baumnock zum Vorschiff.",
           "text_ro": "1. Care este scopul unui „taurin”?\n2. Cum este condus?",
@@ -4161,6 +4248,7 @@
         },
         {
           "nr": 88,
+          "page": [148],
           "text_de": "Warum muss beim Segeln vor dem Wind oder mit raumem Wind der Baumniederholer entsprechend der Windstärke durchgesetzt werden?",
           "answer_de": "Um das Steigen des Baumes zu verhindern.",
           "text_ro": "Când navigați în aval sau cu vânt limpede, de ce trebuie să fie reglat vang-ul în funcție de puterea vântului?",
@@ -4170,6 +4258,7 @@
         },
         {
           "nr": 89,
+          "page": [154],
           "text_de": "Wenn gleich große Boote im Päckchen oder in der Box zusammenliegen, kann es zu Berührungen und Schäden in der Takelage kommen. Wie ist das zu verhindern?",
           "answer_de": "Boote versetzt legen, damit Masten nicht auf gleicher Höhe sind oder im Wechsel Heck-Bug zur Pier legen.",
           "text_ro": "Dacă bărci de aceeași dimensiune sunt întinse împreună într-un pachet sau într-o cutie, poate apărea contactul și deteriorarea tachetului. Cum poate fi prevenit acest lucru?",
@@ -4179,6 +4268,7 @@
         },
         {
           "nr": 90,
+          "page": [154],
           "text_de": "Worauf ist beim Liegen in einer Box in Bezug auf benachbarte Boote zu achten, wenn Schwell in den Hafen läuft?",
           "answer_de": "Dass benachbarte Boote mit ihren Masten versetzt liegen und nicht gegeneinander schlagen.",
           "text_ro": "La ce ar trebui să fii atent când stai întins într-o cutie în raport cu bărcile învecinate atunci când umflarea intră în port?",
@@ -4188,6 +4278,7 @@
         },
         {
           "nr": 91,
+          "page": [172],
           "text_de": "Sie sind mit ihrer Segelyacht auf See. Was veranlassen Sie bei einem Gewitteraufzug?",
           "answer_de": "1. Vorsegel rechtzeitig verkleinern,\n2. Großsegel klar zum Reffen oder Bergen,\n3. Schlechtwetterkleidung, Sicherheitsgurte und Rettungswesten anlegen,\n4. Position in Karte eintragen.",
           "text_ro": "Sunt pe mare cu iahtul lor cu vele. Ce faci când apare o furtună?",
@@ -4197,6 +4288,7 @@
         },
         {
           "nr": 92,
+          "page": [182],
           "text_de": "Sie übernehmen in einem Hafen eine Ihnen unbekannte Yacht. Wie machen Sie sich zu Reisebeginn mit den Segeleigenschaften vertraut?",
           "answer_de": "Ich fahre diverse Manöver - Wende, Halse, Q-Wende, verschiedene Rettungsmanöver - mit unterschiedlicher Geschwindigkeit und Besegelung.",
           "text_ro": "Preiei un iaht necunoscut într-un port. Cum vă familiarizați cu caracteristicile navigației la începutul călătoriei?",
@@ -4206,6 +4298,7 @@
         },
         {
           "nr": 93,
+          "page": [180],
           "text_de": "Wie verhalten Sie sich nach einem Mastbruch, was müssen Sie veranlassen?",
           "answer_de": "1. Nach Möglichkeit den Mast an Bord nehmen und sichern.\n2. Falls nicht möglich, Mast und Wanten kappen, um Rumpfschäden zu vermeiden.",
           "text_ro": "Cum te comporți după ce se rupe un catarg, ce trebuie să faci?",
@@ -4215,6 +4308,7 @@
         },
         {
           "nr": 94,
+          "page": [177],
           "text_de": "Von welchen Faktoren ist die Länge eines Nahezu-Aufschießers zu einer im Wasser treibenden Person abhängig?",
           "answer_de": "Geschwindigkeit, Wind, Seegang, Strömung und Form und Gewicht des Bootes.",
           "text_ro": "De ce factori depinde lungimea unei împușcări aproape la o persoană care plutește în apă?",
@@ -4224,6 +4318,7 @@
         },
         {
           "nr": 95,
+          "page": [159],
           "text_de": "Sie wollen in eine Box einlaufen. Wie bereiten Sie die Achterleinen vor und machen sie fest?",
           "answer_de": "Achterleinen mit Auge versehen (z.B. Palstek), möglichst früh über die Pfähle legen, bei seitlichem Wind zuerst über den Luvpfahl.",
           "text_ro": "Doriți să introduceți o casetă. Cum pregătiți și atașați liniile de la pupa?",
@@ -4233,6 +4328,7 @@
         },
         {
           "nr": 96,
+          "page": [154],
           "text_de": "Welche Vorbereitung haben Sie für ein Anlegemanöver zu treffen?",
           "answer_de": "1. Crew für Manöver einteilen.\n2. Leinen und Fender bereitlegen.",
           "text_ro": "Ce pregătire trebuie să faci pentru o manevră de acostare?",
@@ -4242,6 +4338,7 @@
         },
         {
           "nr": 97,
+          "page": [156],
           "text_de": "Welchen Nachteil hat ein „Saildrive-Antrieb“ insbesondere bei Hafenmanövern?",
           "answer_de": "Durch den großen Abstand zwischen Propeller und Ruder wird dieses nicht direkt angeströmt. Das kann die Manövrierfähigkeit beim Anfahren etwas verschlechtern.",
           "text_ro": "Ce dezavantaj are un „saildrive drive”, mai ales în timpul manevrelor în port?",
@@ -4251,6 +4348,7 @@
         },
         {
           "nr": 98,
+          "page": [157],
           "text_de": "Was ist ein Bugstrahlruder und wozu dient es?",
           "answer_de": "Eine im Bug einer Yacht befindliche Röhre mit einem Propeller, mit dem ein Querschub und damit ein Drehen des Buges bei geringen Vorausgeschwindigkeiten erreicht werden kann.",
           "text_ro": "Ce este un propulsor de prova și pentru ce este folosit?",
@@ -4260,6 +4358,7 @@
         },
         {
           "nr": 99,
+          "page": [157],
           "text_de": "Bei welchen Manövern können Sie ein Bugstrahlruder sinnvoll einsetzen?",
           "answer_de": "1. Beim An- und Ablegen.\n2. Beim Drehen auf engem Raum.",
           "text_ro": "În ce manevre poți folosi util un propulsor de prova?",
@@ -4269,6 +4368,7 @@
         },
         {
           "nr": 100,
+          "page": [157],
           "text_de": "Sie liegen längsseits mit der Steuerbordseite an einer Pier. Beschreiben Sie ein Ablegemanöver unter gleichzeitigem Einsatz von Bugstrahlruder und Maschine.",
           "answer_de": "1. Hebel für Bugstrahlruder nach Backbord legen, sodass der Bug von der Pier weggedrückt wird (nach Backbord schwenkt) und gleichzeitig\n2. Ruderlage deutlich nach Steuerbord und langsame Fahrt voraus, sodass das Heck nach Backbord ausschwenkt.\nSo wird das Schiff fast parallel von der Pier abgedrückt.",
           "text_ro": "Sunteți întins alături de partea tribord a unui dig. Descrieți o manevră de aruncare folosind propulsorul de prova și motorul în același timp.",
@@ -4278,6 +4378,7 @@
         },
         {
           "nr": 101,
+          "page": [172, 174, 175],
           "text_de": "Wie können Sie im freien Seeraum auf einer Segelyacht einen Sturm abwettern?",
           "answer_de": "1. Durch Beiliegen; Lenzen vor Topp und Takel, dabei Leinen achteraus schleppen; Liegen vor Treibanker oder\n2. unter Sturmbesegelung aktiv segelnd und nach Möglichkeit brechende Seen aussteuernd.",
           "text_ro": "Cum poți face față unei furtuni pe un iaht cu vele în larg?",
@@ -4287,6 +4388,7 @@
         },
         {
           "nr": 102,
+          "page": [173],
           "text_de": "Warum kann das Anlaufen eines Hafens bei auflandigem Starkwind bzw. schwerem Wetter gefährlich werden?",
           "answer_de": "Gefahr durch Grundseen bzw. Kreuzseen. Möglichkeit von Querstrom.",
           "text_ro": "De ce poate fi periculoasă apelarea într-un port când există vânt puternic pe uscat sau vreme grea?",
@@ -4296,6 +4398,7 @@
         },
         {
           "nr": 103,
+          "page": [173],
           "text_de": "Warum kann eine Leeküste bei schwerem Wetter einer Segelyacht gefährlich werden?",
           "answer_de": "Wenn die Yacht sich nicht freikreuzen kann, droht Strandung.",
           "text_ro": "De ce poate o coastă sub vânt să fie periculoasă pentru un iaht cu vele pe vreme grea?",
@@ -4305,6 +4408,7 @@
         },
         {
           "nr": 104,
+          "page": [153],
           "text_de": "Mit welchem Manöver können Sie bei Starkwind das Halsen vermeiden (Name)?\nVervollständigen Sie die Skizze durch Einzeichnen der Kurslinie und geben Sie die erforderlichen Manöver an.",
           "answer_de": "(siehe Bild)c",
           "text_images": [
@@ -4317,6 +4421,7 @@
         },
         {
           "nr": 105,
+          "page": [174],
           "text_de": "Was erreicht man mit dem Ausbringen eines Treibankers bei schwerer See?",
           "answer_de": "Man hält bei richtiger Leinenlänge den Bug im Wind und verringert die Driftgeschwindigkeit.",
           "text_ro": "Ce puteți obține prin desfășurarea unei ancore maritime în marea grea?",
@@ -4326,6 +4431,7 @@
         },
         {
           "nr": 106,
+          "page": [154],
           "text_de": "Worauf müssen Sie achten, wenn Sie in Tidengewässern längsseits einer Pier festgemacht haben?",
           "answer_de": "1. Die Wassertiefe muss auch bei Niedrigwasser ausreichen oder sicheres Aufsetzen muss gewährleistet sein.\n2. Die Leinen müssen für den Tidenstieg oder -fall ausreichend lang sein. Bei größerem Tidenhub darf das Fahrzeug keinesfalls unbeaufsichtigt bleiben.",
           "text_ro": "La ce ar trebui să acordați atenție când sunteți ancorat lângă un dig în apele de maree?",
@@ -4335,6 +4441,7 @@
         },
         {
           "nr": 107,
+          "page": [110, 207],
           "text_de": "Sie kreuzen bei frischem Wind und mitlaufendem Strom (Wind gegen Strom) nach Luv auf. Welche Auswirkungen hat ein gegen den Wind setzender Strom auf den Seegang?",
           "answer_de": "Durch den Strom entsteht eine kurze, steile und kabbelige See.",
           "text_ro": "Vă îndreptați spre vânt cu un vânt proaspăt și curentul care curge de-a lungul (vânt împotriva curentului). Ce efecte are asupra stării mării un curent care se mișcă împotriva vântului?",
@@ -4344,6 +4451,7 @@
         },
         {
           "nr": 108,
+          "page": [49],
           "text_de": "Wie wirkt sich mitlaufender Strom auf die Fahrt eines Fahrzeugs und die Loganzeige aus?",
           "answer_de": "1. Der Strom erhöht die Fahrt über Grund.\n2. Das Log zeigt dies nicht an.",
           "text_ro": "Cum afectează curentul de rulare mișcarea unui vehicul și afișajul jurnalului?",
@@ -4353,6 +4461,7 @@
         },
         {
           "nr": 109,
+          "page": [178],
           "text_de": "Welche Hilfsmittel können Sie einsetzen, um einen Überbordgefallenen an Deck zu bekommen?",
           "answer_de": "Bewegliche (und gesicherte) Badeleiter, eventuell Großschot, beschwerte Trittschlinge, Rettungstalje, Unterfangen mit kleinem Segel, Bergegurt, Dingi.",
           "text_ro": "Ce instrumente poți folosi pentru a aduce pe cineva care a căzut peste bord pe punte?",
@@ -4362,6 +4471,7 @@
         },
         {
           "nr": 110,
+          "page": [176],
           "text_de": "Welche Sofortmaßnahmen sind einzuleiten, wenn jemand über Bord gefallen ist?",
           "answer_de": "1. Ruf: „Mensch über Bord!“\n2. Rettungsmittel zuwerfen,\n3. Ausguck halten, Mensch im Auge behalten,\n4. Maschine starten,\n5. „Mensch-über-Bord-Manöver“ einleiten,\n6. Notmeldung abgeben,\n7. ggf. Markierungsblitzboje werfen,\n8. ggf. MOB-Taste eines satellitengestützten Navigationsgerätes drücken,\n9. Bergung durchführen.",
           "text_ro": "Ce măsuri imediate ar trebui luate dacă cineva a căzut peste bord?",
@@ -4371,6 +4481,7 @@
         },
         {
           "nr": 111,
+          "page": [176],
           "text_de": "Welche Maßnahmen können gegen das Überbordfallen getroffen werden?",
           "answer_de": "1. Sicherheitsgurte anlegen und einpicken.\n2. Anbringen von „Streck“- oder Laufleinen vom Bug zum Heck.\n3. Crew auf Befestigungspunkte (Einpickpunkte für Karabinerhaken) hinweisen.",
           "text_ro": "Ce măsuri pot fi luate pentru a preveni căderea peste bord?",
@@ -4380,6 +4491,7 @@
         },
         {
           "nr": 112,
+          "page": [176],
           "text_de": "Nennen Sie die grundsätzlichen Schritte und ihre Ziele zur Rettung einer über Bord gegangenen Person.",
           "answer_de": "1. Maschine starten,\n2. Suche, Herstellung eines Sichtkontaktes zur über Bord gegangenen Person,\n3. „Mensch-über-Bord-Manöver“, Annäherung an die im Wasser treibende Person und Herstellung einer ersten Leinenverbindung,\n4. Bergung, sicheres und schnelles Anbordnehmen der Person,\n5. Erste Hilfe, Betreuung,\n6. ggf. Notalarm abgeben.",
           "text_ro": "Enumerați pașii de bază și obiectivele acestora pentru salvarea unei persoane care a căzut peste bord.",
@@ -4389,6 +4501,7 @@
         },
         {
           "nr": 113,
+          "page": [177],
           "text_de": "Mit welchen Hilfsmitteln können Sie den Bezugspunkt (internationaler Begriff: Datum) für die Suche nach einem Überbordgefallenen sichern?",
           "answer_de": "1. Markierungsblitzboje,\n2. MOB-Taste eines satellitengestützten Navigationsgerätes (z.B. GPS).",
           "text_ro": "Ce instrumente puteți folosi pentru a asigura punctul de referință (termen internațional: data) atunci când căutați pe cineva care a căzut peste bord?",
@@ -4398,6 +4511,7 @@
         },
         {
           "nr": 114,
+          "page": [126],
           "text_de": "Was gehört u.a. zur Sicherheitsausrüstung z.B. einer 10-m-Yacht?\nNennen Sie mindestens 6 Ausrüstungsgegenstände.",
           "answer_de": "1. Lenzpumpen und Pützen,\n2. Lecksicherungsmaterial,\n3. Feuerlöscher,\n4. Werkzeug und Ersatzteile,\n5. Seenotsignalmittel,\n6. Handlampen,\n7. Funkeinrichtung,\n8. Anker,\n9. Erste-Hilfe-Ausrüstung,\n10. Radarreflektor und\n11. Rettungsmittel.",
           "text_ro": "Ce este inclus în echipamentul de siguranță al unui iaht de 10 m, de exemplu?\nNumiți cel puțin 6 echipamente.",
@@ -4407,6 +4521,7 @@
         },
         {
           "nr": 115,
+          "page": [128],
           "text_de": "Was gehört zur Sicherheitsausrüstung der Besatzung in der Küstenfahrt?",
           "answer_de": "1. Rettungsweste und Sicherheitsgurt (Lifebelt) für jedes Besatzungsmitglied,\n2. Rettungsfloß (Rettungsinsel),\n3. Rettungskragen mit Tag- und Nachtsignal und\n4. Erste-Hilfe-Ausrüstung mit Anleitung.",
           "text_ro": "Care este echipamentul de siguranță al echipajului pentru navigația de coastă?",
@@ -4416,6 +4531,7 @@
         },
         {
           "nr": 116,
+          "page": [128],
           "text_de": "Wie erhalten Sie Kenntnis über das nächste Wartungsdatum eines Rettungsfloßes?",
           "answer_de": "Die runde, auf der Insel klebende farbige Serviceplakette oder das bei der letzten Wartung mitgelieferte Zertifikat geben Auskunft über den nächsten Wartungstermin.",
           "text_ro": "De unde știi următoarea dată de întreținere a unei plute de salvare?",
@@ -4425,6 +4541,7 @@
         },
         {
           "nr": 117,
+          "page": [128],
           "text_de": "Worauf müssen Sie bei Ihren Automatikrettungswesten hinsichtlich der Funktionssicherheit achten?",
           "answer_de": "Auf regelmäßige Wartung. Wartungsfälligkeit erkennbar an der farbigen Serviceplakette.",
           "text_ro": "La ce trebuie să fii atent în ceea ce privește siguranța funcțională a vestelor de salvare automate?",
@@ -4434,6 +4551,7 @@
         },
         {
           "nr": 118,
+          "page": [129],
           "text_de": "Was ist auf Deck einer Yacht ein Strecktau (auch Laufleine genannt) und wozu dient es?",
           "answer_de": "Ein neben der Fußreling verlaufender Draht, Gurt oder eine starke Leine zwischen Cockpit und Vorschiff straff gespannt zum Einpicken der Sicherheitsleine (Lifebelt).",
           "text_ro": "Ce este o frânghie întinsă (numită și linie de alergare) pe puntea unui iaht și pentru ce este folosită?",
@@ -4443,6 +4561,7 @@
         },
         {
           "nr": 119,
+          "page": [129],
           "text_de": "Welche Seenotsignalmittel sollten Sie an Bord haben? Nennen Sie mindestens 6 Beispiele.",
           "answer_de": "1. Handfackeln, rot,\n2. Handraketen, rot,\n3. Rauchfackeln oder Rauchtopf, orange,\n4. Signalpistole mit Munition,\n5. Seewasserfärber,\n6. Signalflaggen N und C,\n7. Signallampe,\n8. Seenotfunkboje.",
           "text_ro": "Ce semnale de primejdie ar trebui să aveți la bord? Dați cel puțin 6 exemple.",
@@ -4452,6 +4571,7 @@
         },
         {
           "nr": 120,
+          "page": [126, 180],
           "text_de": "Welche Feuerlöscheinrichtungen sollten an Bord vorhanden sein?",
           "answer_de": "1. Feuerlöscher (ABC-Pulverlöscher und eventuell CO2-Löscher),\n2. Pütz zum Löschen von Bränden fester Stoffe,\n3. Feuerlöschdecke,\n4. Löschdurchlass für geschlossene Motorräume, der das Löschen von Bränden mit CO2-Löschern ohne Sauerstoffzutritt ermöglicht.",
           "text_ro": "Ce echipament de stingere a incendiilor ar trebui să fie disponibil la bord?",
@@ -4461,6 +4581,7 @@
         },
         {
           "nr": 121,
+          "page": [126],
           "text_de": "Welche Feuerlöscharten sind für Sportboote geeignet?\nWie und wo sind sie an Bord unterzubringen?",
           "answer_de": "1. Der ABC-Pulverlöscher, für geschlossene Motorräume der CO2-Löscher.\n2. Der Feuerlöscher muss gebrauchsfertig und leicht erreichbar sein, CO2-Löscher nicht im Schiffsinneren unterbringen (Erstickungsgefahr bei Leckage).\n3. Er soll in der Nähe der Maschinenräume, der Kombüse bzw. der Koch- oder Heizstelle montiert sein.",
           "text_ro": "Ce tipuri de stingere a incendiilor sunt potrivite pentru ambarcațiunile de agrement?\nCum și unde ar trebui să fie cazați la bord?",
@@ -4470,6 +4591,7 @@
         },
         {
           "nr": 122,
+          "page": [126],
           "text_de": "Wie wird die ständige Funktionssicherheit eines Feuerlöschers sichergestellt?",
           "answer_de": "1. Durch Einhaltung des vorgeschriebenen Prüftermins, ersichtlich aus der Prüfplakette.\n2. Der Feuerlöscher muss vor Feuchtigkeit und Korrosion geschützt werden.",
           "text_ro": "Cum este asigurată fiabilitatea funcțională constantă a unui stingător de incendiu?",
@@ -4479,6 +4601,7 @@
         },
         {
           "nr": 123,
+          "page": [180],
           "text_de": "Wie wird ein Brand an Bord wirksam bekämpft?",
           "answer_de": "1. Alle Öffnungen schließen,\n2. Brennstoffzufuhr (Hauptschalter) unterbrechen,\n3. Feuerlöscher erst am Brandherd betätigen,\n4. Feuer von unten und von vorn bekämpfen,\n5. Löschdecke einsetzen,\n6. Flüssigkeitsbrände nicht mit Wasser bekämpfen.",
           "text_ro": "Cum se stinge eficient un incendiu de la bord?",
@@ -4488,6 +4611,7 @@
         },
         {
           "nr": 124,
+          "page": [182],
           "text_de": "Was ist vor Reisebeginn beim Seeklarmachen zu überprüfen und zu beachten? Nennen Sie mindestens 6 Beispiele.",
           "answer_de": "1. Seetüchtigkeit der Yacht,\n2. Zahl und Zustand der Segel,\n3. Treibstoffvorrat,\n4. Navigationsunterlagen,\n5. Sicherheitseinweisung der Besatzung,\n6. Rettungsmittel,\n7. Seenotsignale,\n8. Trinkwasser- und Proviantvorräte,\n9. Funktionsfähigkeit des Motors,\n10. Funktionsfähigkeit der elektronischen Navigationsgeräte,\n11. Lenzeinrichtungen,\n12. Feuerlöscher,\n13. Boots- und Personalpapiere,\n14. Betriebsfähigkeit der UKW-Seefunkanlage.",
           "text_ro": "Ce ar trebui verificat și luat în considerare atunci când vă pregătiți pentru mare înainte de începerea călătoriei? Dați cel puțin 6 exemple.",
@@ -4497,6 +4621,7 @@
         },
         {
           "nr": 125,
+          "page": [182],
           "text_de": "Was gehört zur Sicherheitseinweisung der gesamten Besatzung vor Reisebeginn?\nNennen Sie mindestens 6 Beispiele.",
           "answer_de": "Einweisung in Gebrauch und Bedienung\n1. der Rettungswesten und Sicherheitsgurte,\n2. des Rettungsfloßes,\n3. der Signalmittel,\n4. der Lenzpumpen,\n5. der Seeventile und das Bord-WC,\n6. der Kocheinrichtung,\n7. der Feuerlöscher,\n8. der Motoranlage,\n9. der Elektroanlage,\n10. des Rundfunkgerätes und der UKW-Seefunkanlage,\n11. Verhalten bei „Mensch-über-Bord“,\n12. Erkennen und Verhalten bei Seekrankheit.",
           "text_ro": "Ce este inclus în briefing-ul de siguranță pentru întregul echipaj înainte de începerea călătoriei?\nDați cel puțin 6 exemple.",
@@ -4506,6 +4631,7 @@
         },
         {
           "nr": 126,
+          "page": [182],
           "text_de": "In welche technischen Einrichtungen/Ausrüstungen muss der Schiffsführer die Besatzung vor Reiseantritt unbedingt einweisen?\nNennen Sie mindestens 6 Beispiele.",
           "answer_de": "1. Ankergeschirr,\n2. Lenzeinrichtung,\n3. Feuerlöscheinrichtungen,\n4. Motoranlage,\n5. Seeventile,\n6. UKW-Seefunkanlage,\n7. MOB-Taste vom satellitengestützten Navigationsgerät (z.B. GPS),\n8. Seenotsignalmittel,\n9. Notrudereinrichtung.",
           "text_ro": "Cu ce ​​facilități/echipamente tehnice trebuie să instruiască comandantul navei echipajul înainte de a începe călătoria?\nDați cel puțin 6 exemple.",
@@ -4515,6 +4641,7 @@
         },
         {
           "nr": 127,
+          "page": [182],
           "text_de": "Welche Sicherheitsmaßnahmen sind vor jedem Auslaufen durchzuführen?\nNennen Sie mindestens 6 Beispiele.",
           "answer_de": "1. Wetterbericht einholen,\n2. Kontrolle der Sicherheitsausrüstung,\n3. Kontrolle von Motor und Schaltung,\n4. Kontrolle der nautischen Geräte,\n5. Kontrolle der Bilge,\n6. Überprüfen des Wasser- und Kraftstoffvorrats,\n7. Kontrolle der Schall- und Lichtsignaleinrichtung,\n8. Kontrolle der Navigationslichter,\n9. Bereitlegen der aktuellen Seekarten und nautischen Veröffentlichungen.",
           "text_ro": "Ce măsuri de siguranță trebuie luate înainte de fiecare plecare?\nDați cel puțin 6 exemple.",
@@ -4524,6 +4651,7 @@
         },
         {
           "nr": 128,
+          "page": [123],
           "text_de": "Warum sollten alle Crewmitglieder Lage und Funktion sämtlicher Pumpen und Ventile kennen?",
           "answer_de": "Damit im Bedarfsfall sie jeder bedienen kann.",
           "text_ro": "De ce ar trebui să cunoască toți membrii echipajului locația și funcția tuturor pompelor și supapelor?",
@@ -4533,6 +4661,7 @@
         },
         {
           "nr": 129,
+          "page": [123],
           "text_de": "Warum sollte die Crew in die Funktion des Bord-WC eingewiesen werden?",
           "answer_de": "Weil durch unsachgemäße Bedienung Wasser ins Bootsinnere gelangen kann.",
           "text_ro": "De ce ar trebui instruit echipajul cu privire la funcția toaletei de la bord?",
@@ -4542,6 +4671,7 @@
         },
         {
           "nr": 130,
+          "page": [182],
           "text_de": "Warum sollte die Crew vor Reisebeginn in die Funktion des Ankergeschirrs und die Durchführung eines Ankermanövers eingewiesen werden?",
           "answer_de": "Damit jeder den Anker sicher ausbringen und einholen kann.",
           "text_ro": "De ce ar trebui instruit echipajul cu privire la funcția dispozitivului de ancorare și cum să efectueze o manevră de ancorare înainte de începerea călătoriei?",
@@ -4551,6 +4681,7 @@
         },
         {
           "nr": 131,
+          "page": [180],
           "text_de": "Wie verhalten Sie sich, wenn Ihr Schiff leckgeschlagen ist?",
           "answer_de": "1. Meldung abgeben.\n2. Je nach Erfordernissen Fahrt aus dem Schiff nehmen.\n3. Lenzpumpen betätigen, Lecksuche, Leck mit Bordmitteln abdichten.\n4. Küste bzw. flaches Wasser ansteuern.\n5. Fahrzeug so trimmen, dass Leckstelle aus dem Wasser kommt bzw. möglichst wenig unter Wasser ist.",
           "text_ro": "Cum te comporți dacă nava ta are o scurgere?",
@@ -4560,6 +4691,7 @@
         },
         {
           "nr": 132,
+          "page": [180],
           "text_de": "Was tun Sie, wenn Ihr Schiff leckgeschlagen ist und das Wasser im Schiff trotz aller Maßnahmen weiter steigt?",
           "answer_de": "1. Notzeichen geben, Funkmeldung abgeben, ggf. Radartransponder einschalten.\n2. Verlassen des Bootes vorbereiten, Rettungswesten anlegen, Rettungsfloß klarmachen.\n3. Wenn möglich, ruhiges Flachwasser anlaufen und Schiff auf Grund setzen.",
           "text_ro": "Ce faci dacă nava ta are o scurgere și apa din navă continuă să crească în ciuda tuturor măsurilor?",
@@ -4569,6 +4701,7 @@
         },
         {
           "nr": 133,
+          "page": [181],
           "text_de": "Welche Folgen können Grundberührungen und harte Stöße, z.B. bei Anlegemanövern oder Kollisionen mit treibenden Gegenständen, haben?",
           "answer_de": "1. Eine Beschädigung der Bordwand kann eintreten.\n2. Es kann Sinkgefahr entstehen.",
           "text_ro": "Ce consecințe pot avea impamântarea și impacturile puternice, de exemplu în timpul manevrelor de acostare sau al ciocnirilor cu obiecte plutitoare?",
@@ -4578,6 +4711,7 @@
         },
         {
           "nr": 134,
+          "page": [184],
           "text_de": "Welche grundsätzliche Verhaltensweise sollte beachtet und welche Maßnahmen sollten ergriffen werden, wenn Ihr Schiff in Seenot kommt?",
           "answer_de": "1. Ruhe bewahren und überlegt handeln.\n2. Notalarm abgeben, ggf. Radartransponder einschalten.\n3. Rettungsfloß klarmachen.\n4. Rettungsweste und Sicherheitsgurt anlegen.\n5. So lange wie möglich an Bord bleiben.\n6. Wärmende Kleidung anziehen.",
           "text_ro": "Ce comportament de bază ar trebui respectat și ce măsuri ar trebui luate dacă nava dumneavoastră intră în primejdie?",
@@ -4587,6 +4721,7 @@
         },
         {
           "nr": 135,
+          "page": [184],
           "text_de": "Welche Maßnahmen treffen Sie, bevor Sie von Ihrem Fahrzeug in ein Rettungsfloß übersteigen?",
           "answer_de": "1. Rettungsweste und Sicherheitsgurt anlegen.\n2. Wärmende Kleidung anziehen.\n3. Nach Möglichkeit vorher reichlich warme Flüssigkeit trinken.\n4. Soweit noch nicht geschehen, Proviant, Wasser, Seenotsignalmittel und ggf. Seenotfunkbake, Radartransponder und UKW-Handsprechfunkgeräte in das Rettungsfloß bringen.",
           "text_ro": "Ce pași luați înainte de a vă transfera din vehicul într-o plută de salvare?",
@@ -4596,6 +4731,7 @@
         },
         {
           "nr": 136,
+          "page": [184],
           "text_de": "Warum sollte ein sinkendes Schiff im Notfall so spät wie möglich verlassen werden?",
           "answer_de": "1. Die Überlebensmöglichkeiten sind auf dem Schiff größer.\n2. Ein Schiff ist besser zu orten.\n3. Einstieg in das Rettungsfloß und Aufenthalt können sehr schwierig sein.",
           "text_ro": "De ce ar trebui abandonată o navă care se scufundă cât mai târziu posibil în caz de urgență?",
@@ -4605,6 +4741,7 @@
         },
         {
           "nr": 137,
+          "page": [185],
           "text_de": "Erklären Sie die Handhabung der Hubschrauberrettungsschlinge im Einsatz!",
           "answer_de": "1. Bei offener Rettungsschlinge: zuerst den Karabinerhaken einpicken.\n2. Mit dem Kopf und beiden Armen in die Rettungsschlinge einsteigen.\n3. Die Arme müssen nach unten gedrückt werden und die Hände sind zu schließen.\n4. Das Windenseil muss frei hängen, es darf nicht an Bord befestigt werden.",
           "text_ro": "Explicați cum să utilizați praștia de salvare a elicopterului în acțiune!",
@@ -4614,6 +4751,7 @@
         },
         {
           "nr": 138,
+          "page": [184],
           "text_de": "Wann dürfen Notzeichen gegeben werden?",
           "answer_de": "Nach Feststellung des Notfalles auf Anordnung des Schiffsführers; bei unmittelbarer Gefahr für das Schiff oder die Besatzung, die ohne fremde Hilfe nicht überwunden werden kann.",
           "text_ro": "Când pot fi date semnale de primejdie?",
@@ -4623,6 +4761,7 @@
         },
         {
           "nr": 139,
+          "page": [185],
           "text_de": "Wann darf ein UKW-Sprechfunkgerät auch ohne entsprechenden Befähigungsnachweis benutzt werden?",
           "answer_de": "In Notfällen.",
           "text_ro": "Când poate fi utilizat un dispozitiv radio VHF chiar și fără dovada corespunzătoare de calificare?",
@@ -4632,6 +4771,7 @@
         },
         {
           "nr": 140,
+          "page": [183],
           "text_de": "Worauf ist zu achten, wenn Crewmitglieder seekrank sind?",
           "answer_de": "1. Aufenthalt im Cockpit beaufsichtigen und Crewmitglieder gegen Überbordfallen sichern,\n2. Flüssigkeitsverlust ausgleichen (Wasser),\n3. Crewmitglied anhalten, zur Küste oder zum Horizont zu schauen,\n4. mit Arbeiten beschäftigen.",
           "text_ro": "La ce ar trebui să fiți atenți dacă membrii echipajului au rău de mare?",
@@ -4641,6 +4781,7 @@
         },
         {
           "nr": 141,
+          "page": [164],
           "text_de": "Wozu dient ein Reitgewicht (Gleitgewicht, Ankergewicht) beim Ankern?",
           "answer_de": "Es soll die Ankertrosse auf den Grund ziehen, damit der Anker nicht durch einen zu steilen Winkel aus dem Grund gebrochen wird. Es wirkt ruckdämpfend.",
           "text_ro": "Care este scopul unei greutăți de călărie (greutate de alunecare, greutate de ancorare) la ancorare?",
@@ -4650,6 +4791,7 @@
         },
         {
           "nr": 142,
+          "page": [160],
           "text_de": "Warum sollte beim Verwenden einer Ankertrosse ein Kettenvorlauf benutzt werden?",
           "answer_de": "Damit der Zug auf den Anker nicht zu steil wird.",
           "text_ro": "De ce ar trebui folosit un conducător de lanț când se folosește un cablu de ancorare?",
@@ -4659,6 +4801,7 @@
         },
         {
           "nr": 143,
+          "page": [162],
           "text_de": "Welcher Ankergrund ist für die üblichen Leichtgewichtsanker\n1. gut geeignet?\n2. mäßig geeignet?\n3. ungeeignet?",
           "answer_de": "1. Sand, Schlick, weicher Ton und Lehm,\n2. harter Ton und Lehm,\n3. steinige, verkrautete und stark schlammige Böden.",
           "text_ro": "Care bază de ancorare este pentru ancorele ușoare obișnuite?\n1. bine potrivit?\n2. moderat potrivit?\n3. nepotrivit?",
@@ -4668,6 +4811,7 @@
         },
         {
           "nr": 144,
+          "page": [162],
           "text_de": "Was müssen Sie bei der Auswahl eines Ankerplatzes beachten?",
           "answer_de": "1. Der Ankerplatz sollte Schutz vor Wind und Wellen bieten.\n2. Auf ausreichenden Platz zum Schwojen achten.\n3. Mögliche Winddrehungen einplanen.",
           "text_ro": "Ce trebuie să țineți cont atunci când alegeți un ancoraj?",
@@ -4677,6 +4821,7 @@
         },
         {
           "nr": 145,
+          "page": [162],
           "text_de": "Welchen Ankergrund sollten Sie nach Möglichkeit meiden?",
           "answer_de": "Steinige, verkrautete und stark schlammige Böden.",
           "text_ro": "Ce teren de ancorare ar trebui să evitați dacă este posibil?",
@@ -4686,6 +4831,7 @@
         },
         {
           "nr": 146,
+          "page": [164],
           "text_de": "Wie können Sie die Haltekraft eines Ankers erhöhen, wenn Sie auf engem Raum (z.B. zwischen zwei Stegen) nicht die erforderliche Kettenlänge stecken können?",
           "answer_de": "Mit einem Reitgewicht, um so den Anker besser am Boden zu halten.",
           "text_ro": "Cum puteți crește puterea de prindere a unei ancore dacă nu puteți încadra lungimea necesară a lanțului într-un spațiu strâns (de exemplu, între două brațe)?",
@@ -4695,6 +4841,7 @@
         },
         {
           "nr": 147,
+          "page": [160, 164],
           "text_de": "Sie ankern in einer Bucht. Wie können Sie bei zunehmendem Wind die Haltekraft Ihres Ankers verbessern?",
           "answer_de": "1. Mehr Trosse oder Kette stecken,\n2. Reitgewicht verwenden.",
           "text_ro": "Ancorezi într-un golf. Cum poți îmbunătăți puterea de reținere a ancorei pe măsură ce vântul crește?",
@@ -4704,6 +4851,7 @@
         },
         {
           "nr": 148,
+          "page": [163],
           "text_de": "Sie wollen auf verkrautetem Grund ankern. Ihnen steht ein Leichtgewichtsanker und ein Stockanker zur Verfügung. Welchen benutzen Sie und warum?",
           "answer_de": "Den Stockanker, weil er sich insbesondere auch aufgrund seines höheren Gewichtes besser eingräbt.",
           "text_ro": "Vrei să ancorezi pe pământ plin de buruieni. O ancoră ușoară și o ancoră stoc sunt disponibile pentru dvs. Pe care o folosești și de ce?",
@@ -4713,6 +4861,7 @@
         },
         {
           "nr": 149,
+          "page": [160],
           "text_de": "Wozu dient eine Ankerboje?",
           "answer_de": "1. Sie zeigt die Lage des Ankers an.\n2. Mit der Trippleine kann das Bergen eines unklaren Ankers unterstützt werden.",
           "text_ro": "La ce se folosește o geamandura de ancora?",
@@ -4722,6 +4871,7 @@
         },
         {
           "nr": 150,
+          "page": [163],
           "text_de": "Wie erkennen Sie, ob der Anker hält?",
           "answer_de": "1. Vibration von Kette oder Trosse prüfen,\n2. Einrucken des Ankers prüfen,\n3. durch wiederholte Peilungen und ggf. Schätzungen des Abstands zu anderen Schiffen oder zu Landmarken,\n4. falls GPS vorhanden ist, die Ankeralarmfunktion einschalten.",
           "text_ro": "De unde știi dacă ancora ține?",
@@ -4731,6 +4881,7 @@
         },
         {
           "nr": 151,
+          "page": [160],
           "text_de": "Welche Ankerarten finden überwiegend auf Sportbooten Verwendung? Nennen Sie 3.",
           "answer_de": "1. Patentanker,\n2. Stockanker (einklappbarer Stock),\n3. Draggen (klappbare Flunken),\n4. Pflugscharanker.",
           "text_ro": "Ce tipuri de ancoră sunt utilizate în principal pe bărci de agrement? Nume 3.",
@@ -4740,6 +4891,7 @@
         },
         {
           "nr": 152,
+          "page": [160],
           "text_de": "Nennen Sie 3 Ankertypen, die vom Germanischen Lloyd als Anker mit hoher Haltekraft anerkannt sind.",
           "answer_de": "Bruce-Anker, CQR-Anker, Danforth-Anker, D'Hone-Anker.",
           "text_ro": "Numiți 3 tipuri de ancore care sunt recunoscute de Germanischer Lloyd ca ancore cu putere mare de prindere.",
@@ -4749,6 +4901,7 @@
         },
         {
           "nr": 153,
+          "page": [160],
           "text_de": "1. Welches sind die Vorteile einer Ankerkette gegenüber einer Ankerleine?\n2. Wie kombiniert man auf Yachten häufig die Systeme?",
           "answer_de": "1. Die Kette unterstützt das Eingraben, verkleinert den Schwojeraum, wirkt ruckdämpfend, kann nicht an Steinen durchscheuern und erhöht die Haltekraft des Ankers.\n2. Es wird zwischen Anker und Leine ein Kettenvorlauf von 3 bis 5 m gefahren.",
           "text_ro": "1. Care sunt avantajele unui lanț de ancoră față de o linie de ancorare?\n2. Cum combinați adesea sistemele pe iahturi?",
@@ -4758,6 +4911,7 @@
         },
         {
           "nr": 154,
+          "page": [161],
           "text_de": "1. Warum soll eine Ankerleine nicht an den Anker geknotet werden?\n2. Warum muss die Ankerkette mit einem Taustropp am Schiff bzw. im Kettenkasten befestigt werden?",
           "answer_de": "1. Knoten reduzieren die Bruchlast einer Leine um bis zu 50%.\n2. Damit die Kette im Notfall schnell gekappt werden kann.",
           "text_ro": "1. De ce nu ar trebui legată o linie de ancoră de ancoră?\n2. De ce trebuie atașat lanțul ancorei de navă sau în dulapul de lanț cu o frânghie de rouă?",
@@ -4767,6 +4921,7 @@
         },
         {
           "nr": 155,
+          "page": [162],
           "text_de": "Sie wollen in einer Bucht ankern, in der das (ausreichend tiefe) Wasser unterschiedliche Färbungen zeigt. Wo wählen Sie den Ankerplatz? (Begründung!)",
           "answer_de": "Ich ankere auf hellem Wasser. Begründung: Der Grund ist hier sandig, der Anker hält gut. Dunkler Grund weist auf Bewuchs hin, wo der Anker schlecht hält.",
           "text_ro": "Vrei să ancorați într-un golf în care apa (suficient de adâncă) prezintă culori diferite. Unde alegi ancorajul? (Motiv!)",
@@ -4776,6 +4931,7 @@
         },
         {
           "nr": 156,
+          "page": [163],
           "text_de": "Warum darf der Anker nicht zusammen mit seiner Leine am Ankerplatz über Bord geworfen werden?",
           "answer_de": "Die Leine könnte mit dem Anker vertörnen und dadurch das Eingraben des Ankers verhindern. Der Anker würde dann nicht halten.",
           "text_ro": "De ce nu se permite ancora și linia ei să fie aruncate peste bord la ancoraj?",
@@ -4785,6 +4941,7 @@
         },
         {
           "nr": 157,
+          "page": [186],
           "text_de": "Was müssen Sie bedenken, wenn ein großes Schiff auf Ihr Sportboot zukommt?",
           "answer_de": "1. Andere Manövrierfähigkeit (größere Drehkreise, längere Stoppstrecken),\n2. u.U. eingeschränkte Sicht des anderen Fahrzeugs, insbesondere nach voraus,\n3. Möglichkeit des Übersehenwerdens, weil man sich im Radarschatten befindet,\n4. Beeinträchtigung durch Bugwellen des großen Schiffes,\n5. mögliche Beeinträchtigung der Manövrierfähigkeit des eigenen Bootes durch Windabdeckung.",
           "text_ro": "Ce trebuie să iei în considerare când o navă mare se apropie de barca ta de agrement?",
@@ -4794,6 +4951,7 @@
         },
         {
           "nr": 158,
+          "page": [186],
           "text_de": "Warum sollten Sie nicht zu dicht hinter dem Heck eines vorbeifahrenden Schiffes durchfahren?",
           "answer_de": "Sog und Hecksee können das eigene Boot erheblich gefährden.",
           "text_ro": "De ce să nu treci prea aproape de pupa unei nave care trece?",
@@ -4803,6 +4961,7 @@
         },
         {
           "nr": 159,
+          "page": [186],
           "text_de": "Was müssen Sie beim Passieren eines großen Schiffes bei dessen Kursänderungen, z.B. in einem kurvenreichen Fahrwasser, beachten?",
           "answer_de": "Bei einer Kursänderung schwenkt das Heck deutlich in eine entgegengesetzte Richtung aus, also nach Backbord bei einer Kursänderung nach Steuerbord und umgekehrt.",
           "text_ro": "La ce trebuie să fiți atenți când treceți pe lângă o navă mare când schimbați cursul, de exemplu, într-un fairway sinuos?",
@@ -4812,6 +4971,7 @@
         },
         {
           "nr": 160,
+          "page": [186],
           "text_de": "Mit welchen Stoppstrecken und Stoppzeiten müssen Sie bei großen Schiffen in voller Fahrt rechnen und wovon hängen sie ab?",
           "answer_de": "Abhängig vom Schiffstyp und -größe, Beladungszustand und Ausgangsgeschwindigkeit ist mit der 8- bis 12fachen Schiffslänge und bis zu 8 bis 12 Minuten Dauer (z.B. ein 300 m langes Containerschiff voll abgeladen mit 24 kn: Stoppstrecke ca. 2 sm, Stoppzeit ca. 12 Minuten) zu rechnen.",
           "text_ro": "La ce distanțe de oprire și timpi de oprire trebuie să vă așteptați pentru navele mari la viteză maximă și de ce depind acestea?",
@@ -4821,6 +4981,7 @@
         },
         {
           "nr": 161,
+          "page": [186],
           "text_de": "Wie reagiert ein großes Schiff, wenn bei ca. 20 kn Fahrt ein Ausweichmanöver durch Hartruderlage eingeleitet wird?\nNach welcher Distanz verlässt es in etwa die alte Kurslinie?",
           "answer_de": "Der Steven bewegt sich in Richtung der Hartruderlage, das Heck schlägt relativ weit zur entgegengesetzten Richtung aus. Das Schiff verlässt mit seinem Heck erst nach mehreren Schiffslängen seine bisherige Kurslinie, bewegt sich also zunächst in der alten Kursrichtung fort.\nDiese Strecke kann bei 300 m langen Containerschiffen 1,5 bis 2,5 Schiffslängen, d.h. ca. 500 bis 600 m betragen.",
           "text_ro": "Cum reacționează o navă mare dacă o manevră evazivă este inițiată de cârma dură la o viteză de aproximativ 20 kn?\nDupă ce distanță părăsește aproximativ vechea linie de curs?",
@@ -4830,6 +4991,7 @@
         },
         {
           "nr": 162,
+          "page": [186],
           "text_de": "Auf vielen großen Schiffen ist die Sicht nach vorne eingeschränkt. Welchen Abstand vor einem Schiff müssen Sie als nicht einsehbar mindestens berücksichtigen?",
           "answer_de": "Sichtbeschränkung nach voraus maximal 2 Schiffslängen oder 500 m.",
           "text_ro": "Pe multe nave mari, vizibilitatea înainte este limitată. Care este distanța minimă în fața unei nave de care trebuie să ții cont pentru a evita vizibilitatea?",
@@ -4839,6 +5001,7 @@
         },
         {
           "nr": 163,
+          "page": [95],
           "text_de": "Wie können Sie die Wahrscheinlichkeit erhöhen, im Radar von anderen Fahrzeugen gesehen zu werden?",
           "answer_de": "Durch einen möglichst hoch und fest angebrachten passiven Radarrefektor bzw. besser noch durch einen „aktiven“ Radarreflektor.",
           "text_ro": "Cum puteți crește șansele de a fi văzut pe radar de alte vehicule?",
