@@ -6,6 +6,7 @@ import {computed} from "vue";
 export const useSettingsStore = defineStore('settings', () => {
     const showResolution = useLocalStorage("settings:show-resolution", false)
     const pageSize = useLocalStorage("settings:page-size", 10)
+    const sortByBookPageRef = useLocalStorage("settings:sort-by-book-page-ref", true)
 
     const resolution = computed(() => {
         console.info(`show-resolution: ${showResolution.value}`)
@@ -16,6 +17,7 @@ export const useSettingsStore = defineStore('settings', () => {
 
     return {
         pageSize,
+        sortByBookPageRef,
         showResolution,
         resolution,
         showCopyPaste,

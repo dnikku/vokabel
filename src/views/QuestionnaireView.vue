@@ -82,15 +82,18 @@ const selectedPage = ref(1)
 const selectedTopic = toRef(thema.topics[0])
 
 
-let unique = 0;
 const viewQuestions = computed(() => {
-  unique += 1
-  // console.log(`${unique} <${selectedTopic.value.name}> changePage(${selectedPage.value}, ${pageSize.value}).`)
-  const arr = selectedTopic.value.questions.slice(
+  const all = [...selectedTopic.value.questions];
+  if (settings.sortByBookPageRef) {
+    all.sort((a: any, b: any) => (a.page?.[0] || 0) - (b.page?.[0] || 0))
+  }
+  console.info(`Sorting by book page ref: ${settings.sortByBookPageRef}`)
+
+  const selected = all.slice(
       (selectedPage.value - 1) * settings.pageSize,
       selectedPage.value * settings.pageSize)
 
-  return arr.map(p => (reactive({question: {...p}, showAnswer: false})))
+  return selected.map(p => (reactive({question: {...p}, showAnswer: false})))
 })
 
 const showAllAnswers = computed({

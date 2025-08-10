@@ -10,16 +10,19 @@
       </div>
 
       <div>
-        <checkbox v-model="settings.showResolution" label="Show Resolution"/>
+        <checkbox v-model="settings.sortByBookPageRef" label="Sort by Book Page" />
       </div>
 
       <div>
         <checkbox v-model="settings.showCopyPaste" label="Show Copy/Paste"/>
       </div>
 
-      <span v-show="settings.showResolution">
-        {{ settings.resolution }}
-      </span>
+      <div>
+        <checkbox v-model="settings.showResolution" label="Show Resolution" />
+        <span v-show="settings.showResolution">
+          {{ settings.resolution }}
+        </span>
+      </div>
 
     </div>
   </div>
