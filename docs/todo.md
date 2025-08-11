@@ -20,3 +20,4 @@
 1. ~~VOK-18~~: add paste translate
 1. ~~VOK-19~~: render questions with image, \n
 1. VOK-20: simple trainer view
+2. ~~VOK-21~~: sort questions by book reference
