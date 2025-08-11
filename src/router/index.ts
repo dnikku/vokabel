@@ -6,8 +6,8 @@ import WordsView from "@/views/WordsView.vue";
 import QuestionnaireView from "@/views/QuestionnaireView.vue";
 import QuestionnaireTrainerView from "@/views/QuestionnaireTrainerView.vue";
 
-import SettingsView from "../views/SettingsView.vue"
-import VueDocsView from "../views/other/VueDocsView.vue"
+import SettingsView from "@/views/SettingsView.vue"
+import VueDocsView from "@/views/other/VueDocsView.vue"
 
 const router = createRouter({
     history: createWebHashHistory(import.meta.env.BASE_URL),

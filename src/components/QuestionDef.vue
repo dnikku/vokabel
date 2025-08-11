@@ -26,10 +26,6 @@
   <div class="answer ro" v-show="value.showAnswer && hintRO">
     <multiline :text="question.answer_ro"/>
   </div>
-  <div class="answer-actions" v-show="value.showAnswer">
-    <button>Learn it</button>
-    <button>Re-learn</button>
-  </div>
 </template>
 
 <style scoped>
@@ -55,15 +51,6 @@
 .question-actions {
   display: flex;
   flex-direction: row-reverse;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 16px;
-  padding-top: 4px;
-}
-
-.answer-actions {
-  display: flex;
-  justify-content: center;
   flex-wrap: wrap;
   align-items: center;
   gap: 16px;
