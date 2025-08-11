@@ -2678,6 +2678,9 @@
           "page": [199],
           "text_de": "Um welche Arten von Fronten handelt es sich in der Abbildung, die mit 1, 2 und 3 bezeichnet sind?",
           "answer_de": "1. Okklusionsfront (Tiefausläufer)\n2. Warmfront\n3. Kaltfront",
+          "text_images": [
+            "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Wetterkunde/Abbildung-34-gif.gif?__blob=normal&v=1"
+          ],
           "text_ro": "Ce tipuri de fronturi sunt în figura etichetată cu 1, 2 și 3?",
           "answer_ro": "1. Front de ocluzie (extensie profundă)\n2. Frontul cald\n3. Frontul rece",
           "text_en": "What types of fronts are in the figure labeled 1, 2 and 3?",
@@ -3356,7 +3359,7 @@
       ]
     },
     {
-      "name": "Seemannschaft I",
+      "name": "Seemannschaft I (Antriebsmaschine und unter Segel)",
       "id": 13,
       "elwis_url": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Seemannschaft-I-node.html",
       "questions": [
@@ -5012,7 +5015,7 @@
       ]
     },
     {
-      "name": "Seemannschaft II",
+      "name": "Seemannschaft II (Antriebsmachine)",
       "id": 14,
       "elwis_url": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-II/Seemannschaft-II-node.html",
       "questions": [

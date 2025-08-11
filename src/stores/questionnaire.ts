@@ -5,6 +5,7 @@ import {useFetchStore} from "./fetch"
 
 export type Question = {
     nr: number
+    page: number[]
     text_de: string
     answer_de: string
     text_images?: Array<string>
@@ -107,9 +108,9 @@ export const useQuestionnaireStore = defineStore('questionaire', () => {
             id: p.id,
             elwis_url: p.elwis_url || null,
             questions: p.questions
-              .sort((a: any, b: any) => (a.page?.[0] || 0) - (b.page?.[0] || 0))
               .map((p1: any) => ({
                 nr: p1.nr,
+                page: p1.page || [],
 
                 text_de: p1.text_de,
                 answer_de: `${p1.answer_de} (Seite ${p1.page || 0}).`,
