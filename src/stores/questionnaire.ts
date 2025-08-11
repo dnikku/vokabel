@@ -106,11 +106,13 @@ export const useQuestionnaireStore = defineStore('questionaire', () => {
             name: `${p.name}`,
             id: p.id,
             elwis_url: p.elwis_url || null,
-            questions: p.questions.map((p1: any) => ({
+            questions: p.questions
+              .sort((a: any, b: any) => (a.page?.[0] || 0) - (b.page?.[0] || 0))
+              .map((p1: any) => ({
                 nr: p1.nr,
 
                 text_de: p1.text_de,
-                answer_de: p1.answer_de,
+                answer_de: `${p1.answer_de} (Seite ${p1.page || 0}).`,
 
                 text_images: p1.text_images,
                 answer_images: p1.answer_images,

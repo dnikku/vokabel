@@ -27,6 +27,10 @@
         <font-icon icon="fa-solid fa-cannabis"/>
         goto json
       </a>
+      <a :href="selectedTopic.elwis_url" target="_blank" rel="noopener noreferrer">
+        <font-icon icon="fa-solid fa-school"/>
+        elwis url
+      </a>
 
       <template v-if="settings.showCopyPaste">
         <button @click="copyToClipboard()">Copy</button>
